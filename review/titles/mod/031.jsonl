@@ -1,14 +1,14 @@
-{"id":"ywhNMGsL","en":"Hard Disk Drive","zh":"","status":"pending"}
-{"id":"cI5Bg9vN","en":"Health Warning","zh":"","status":"pending"}
-{"id":"Ha3K7kdc","en":"CustomChatTextKeybind","zh":"","status":"pending"}
-{"id":"441iDzrt","en":"Nyabsolutely Random","zh":"","status":"pending"}
-{"id":"YRcfjo67","en":"All Items (Re)Craftable","zh":"","status":"pending"}
-{"id":"nI0Pcy9r","en":"P_Terrenos","zh":"","status":"pending"}
-{"id":"HRnp32h9","en":"Portal-Link-Helper","zh":"","status":"pending"}
-{"id":"VjBSD9lJ","en":"Illager Only Mansions","zh":"","status":"pending"}
-{"id":"WRXKINm9","en":"Laputan","zh":"","status":"pending"}
-{"id":"cMtBW8Mj","en":"Create addon: Horizontal Chute","zh":"","status":"pending"}
-{"id":"UuJR24YD","en":"Hardcore mod","zh":"","status":"pending"}
+{"id":"ywhNMGsL","en":"Hard Disk Drive","zh":"硬盘驱动器","status":"machine"}
+{"id":"cI5Bg9vN","en":"Health Warning","zh":"健康警告","status":"machine"}
+{"id":"Ha3K7kdc","en":"CustomChatTextKeybind","zh":"CustomChatTextKeybind","status":"machine"}
+{"id":"441iDzrt","en":"Nyabsolutely Random","zh":"绝对随机","status":"machine"}
+{"id":"YRcfjo67","en":"All Items (Re)Craftable","zh":"所有物品（可重新）制作","status":"machine"}
+{"id":"nI0Pcy9r","en":"P_Terrenos","zh":"P_Terrenos","status":"machine"}
+{"id":"HRnp32h9","en":"Portal-Link-Helper","zh":"门户链接辅助器","status":"machine"}
+{"id":"VjBSD9lJ","en":"Illager Only Mansions","zh":"仅限掠夺者豪宅","status":"machine"}
+{"id":"WRXKINm9","en":"Laputan","zh":"拉普坦","status":"machine"}
+{"id":"cMtBW8Mj","en":"Create addon: Horizontal Chute","zh":"创建附加内容：水平滑槽","status":"machine"}
+{"id":"UuJR24YD","en":"Hardcore mod","zh":"硬核模组","status":"machine"}
 {"id":"T5UFTehU","en":"CopperAndCrystalForFabric","zh":"","status":"pending"}
 {"id":"dMU1Dshm","en":"Rotten Flesh To Leather","zh":"","status":"pending"}
 {"id":"AisKBMBe","en":"FOV and POV commands","zh":"","status":"pending"}

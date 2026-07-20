@@ -2969,32 +2969,32 @@
 {"id":"qlDkBPij","en":"Jasione","zh":"贾西奥内","status":"machine"}
 {"id":"fO0SEK04","en":"HerrShulker","zh":"赫尔·舒尔克","status":"machine"}
 {"id":"TQE7Hnxs","en":"Maintenance Countdown","zh":"维护倒计时","status":"machine"}
-{"id":"HEg1s8E0","en":"No Totem Animation","zh":"","status":"pending"}
-{"id":"4nzvWPK5","en":"Scroll-Wheel-Command","zh":"","status":"pending"}
-{"id":"6QyuEw0P","en":"Easy Phantom Membrane","zh":"","status":"pending"}
-{"id":"y6pyiDJi","en":"NoCPVP","zh":"","status":"pending"}
-{"id":"a2TIbRUs","en":"Pixel MK Menu","zh":"","status":"pending"}
-{"id":"OH5O2Rv8","en":"RemoveEnchant","zh":"","status":"pending"}
-{"id":"pP4xCEEO","en":"ClientCapes","zh":"","status":"pending"}
-{"id":"dcFXyQYK","en":"FoAuction","zh":"","status":"pending"}
-{"id":"aXGE5LuA","en":"Arcane Artistry","zh":"","status":"pending"}
-{"id":"P1fnQYc9","en":"Announcer","zh":"","status":"pending"}
-{"id":"xQAOAPJY","en":"KF Paintings","zh":"","status":"pending"}
-{"id":"lhGECGjc","en":"Pleasant Death","zh":"","status":"pending"}
-{"id":"E504Vcot","en":"Keep Moving","zh":"","status":"pending"}
-{"id":"oLS8HdJ1","en":"Streams Reflowing","zh":"","status":"pending"}
-{"id":"OBoTimD3","en":"Too many apple's","zh":"","status":"pending"}
-{"id":"qAUyA9iv","en":"Newerite Mod","zh":"","status":"pending"}
-{"id":"3PZtc1oR","en":"THEDEAD","zh":"","status":"pending"}
-{"id":"lHXTh9hH","en":"Uranium","zh":"","status":"pending"}
-{"id":"S6VolToQ","en":"Cowcoal","zh":"","status":"pending"}
-{"id":"Mh2I4Xoe","en":"SMP Essentials plugin","zh":"","status":"pending"}
-{"id":"ytTzpFRI","en":"Helmet Bomb","zh":"","status":"pending"}
-{"id":"xH7IV8fp","en":"Relics of the Past","zh":"","status":"pending"}
-{"id":"RY908CNs","en":"Spectre","zh":"","status":"pending"}
-{"id":"hnsBFTbn","en":"SBW Configure","zh":"","status":"pending"}
-{"id":"2LNuIqxJ","en":"Mending Begone","zh":"","status":"pending"}
-{"id":"ukZ900vz","en":"ObsidianAuctions","zh":"","status":"pending"}
-{"id":"UYUJKDQ1","en":"Linked Copycats","zh":"","status":"pending"}
-{"id":"AwA4mJY3","en":"G1axNameHistory","zh":"","status":"pending"}
-{"id":"x1iMkKp1","en":"CoolGateway","zh":"","status":"pending"}
+{"id":"HEg1s8E0","en":"No Totem Animation","zh":"无图腾动画","status":"machine"}
+{"id":"4nzvWPK5","en":"Scroll-Wheel-Command","zh":"滚轮指令","status":"machine"}
+{"id":"6QyuEw0P","en":"Easy Phantom Membrane","zh":"简易幻影膜","status":"machine"}
+{"id":"y6pyiDJi","en":"NoCPVP","zh":"NoCPVP","status":"machine"}
+{"id":"a2TIbRUs","en":"Pixel MK Menu","zh":"Pixel MK 菜单","status":"machine"}
+{"id":"OH5O2Rv8","en":"RemoveEnchant","zh":"移除附魔","status":"machine"}
+{"id":"pP4xCEEO","en":"ClientCapes","zh":"客户披风","status":"machine"}
+{"id":"dcFXyQYK","en":"FoAuction","zh":"FoAuction","status":"machine"}
+{"id":"aXGE5LuA","en":"Arcane Artistry","zh":"奥术艺术","status":"machine"}
+{"id":"P1fnQYc9","en":"Announcer","zh":"播音员","status":"machine"}
+{"id":"xQAOAPJY","en":"KF Paintings","zh":"KF画作","status":"machine"}
+{"id":"lhGECGjc","en":"Pleasant Death","zh":"愉快的死亡","status":"machine"}
+{"id":"E504Vcot","en":"Keep Moving","zh":"继续前进","status":"machine"}
+{"id":"oLS8HdJ1","en":"Streams Reflowing","zh":"水流回流","status":"machine"}
+{"id":"OBoTimD3","en":"Too many apple's","zh":"苹果吃得太多了","status":"machine"}
+{"id":"qAUyA9iv","en":"Newerite Mod","zh":"Newerite 模组","status":"machine"}
+{"id":"3PZtc1oR","en":"THEDEAD","zh":"死者","status":"machine"}
+{"id":"lHXTh9hH","en":"Uranium","zh":"铀","status":"machine"}
+{"id":"S6VolToQ","en":"Cowcoal","zh":"牛煤","status":"machine"}
+{"id":"Mh2I4Xoe","en":"SMP Essentials plugin","zh":"SMP Essentials 插件","status":"machine"}
+{"id":"ytTzpFRI","en":"Helmet Bomb","zh":"头盔炸弹","status":"machine"}
+{"id":"xH7IV8fp","en":"Relics of the Past","zh":"过去的遗迹","status":"machine"}
+{"id":"RY908CNs","en":"Spectre","zh":"幽灵党","status":"machine"}
+{"id":"hnsBFTbn","en":"SBW Configure","zh":"SBW 配置","status":"machine"}
+{"id":"2LNuIqxJ","en":"Mending Begone","zh":"修复，消失","status":"machine"}
+{"id":"ukZ900vz","en":"ObsidianAuctions","zh":"黑曜拍卖","status":"machine"}
+{"id":"UYUJKDQ1","en":"Linked Copycats","zh":"关联模仿者","status":"machine"}
+{"id":"AwA4mJY3","en":"G1axNameHistory","zh":"G1axName历史","status":"machine"}
+{"id":"x1iMkKp1","en":"CoolGateway","zh":"酷门","status":"machine"}
