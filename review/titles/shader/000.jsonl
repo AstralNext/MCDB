@@ -1,0 +1,630 @@
+{"id":"HVnmMxH1","en":"Complementary Shaders - Reimagined","zh":"互补着色器——重新构想","status":"machine"}
+{"id":"R6NEzAwj","en":"Complementary Shaders - Unbound","zh":"互补着色器 - Unbound","status":"machine"}
+{"id":"Q1vvjJYV","en":"BSL Shaders","zh":"BSL 着色器","status":"machine"}
+{"id":"lLqFfGNs","en":"Photon Shaders","zh":"光子着色器","status":"machine"}
+{"id":"EpQFjzrQ","en":"Solas Shader","zh":"索拉斯·夏德","status":"machine"}
+{"id":"ZvMtQlho","en":"Bliss Shaders","zh":"幸福着色器","status":"machine"}
+{"id":"kmwfVOoi","en":"Rethinking Voxels","zh":"重新思考体素","status":"machine"}
+{"id":"izsIPI7a","en":"MakeUp - Ultra Fast","zh":"化妆 - 超快","status":"machine"}
+{"id":"LMIZZNxZ","en":"Super Duper Vanilla","zh":"超级无敌香草","status":"machine"}
+{"id":"EQWX2WiO","en":"Insanity Shader","zh":"疯狂着色器","status":"machine"}
+{"id":"BUxf36AP","en":"Mellow","zh":"温和","status":"machine"}
+{"id":"BkTdFBUU","en":"Pastel Shaders","zh":"粉彩着色器","status":"machine"}
+{"id":"RphJSnEs","en":"AstraLex Shaders","zh":"AstraLex 着色器","status":"machine"}
+{"id":"xEItlMn3","en":"Nostalgia Shader","zh":"怀旧着色器","status":"machine"}
+{"id":"UaS8ROxa","en":"Miniature Shader","zh":"微型着色器","status":"machine"}
+{"id":"W3QK7DQz","en":"VanillAA","zh":"VanillAA","status":"machine"}
+{"id":"iHC8BZn4","en":"Hysteria Shaders","zh":"歇斯底里着色器","status":"machine"}
+{"id":"Y8161YLz","en":"Kappa Shader","zh":"卡帕色泽器","status":"machine"}
+{"id":"6uJCfiCH","en":"Spooklementary","zh":"幽灵","status":"machine"}
+{"id":"WX4iF5Cj","en":"Potato Shaders","zh":"土豆着色器","status":"machine"}
+{"id":"BS9T99lD","en":"Shrimple","zh":"虾","status":"machine"}
+{"id":"sclYVqbt","en":"Noble Shaders","zh":"贵族着色者","status":"machine"}
+{"id":"pgzM6RBY","en":"BSL Shaders - Classic","zh":"BSL 着色器 - 经典版","status":"machine"}
+{"id":"l6Uqs2fS","en":"Visual Vibrance","zh":"视觉活力","status":"machine"}
+{"id":"ygChbn8J","en":"FastPBR","zh":"FastPBR","status":"machine"}
+{"id":"EPsIYDj1","en":"Vanilla Plus Shader","zh":"Vanilla Plus 着色器","status":"machine"}
+{"id":"Q6RQF9Oa","en":"Bloop Shaders","zh":"Bloop 着色器","status":"machine"}
+{"id":"DoODk4HD","en":"I Like Vanilla","zh":"我喜欢香草","status":"machine"}
+{"id":"BrRak9pu","en":"RenderPearl","zh":"渲染珍珠","status":"machine"}
+{"id":"by2i3tnt","en":"Body Camera","zh":"随身摄像头","status":"machine"}
+{"id":"DiGQENDV","en":"Lux V1","zh":"Lux V1","status":"machine"}
+{"id":"LTvf5Tji","en":"E-LITE shaders (MakeUp edit)","zh":"E-LITE 着色器（化妆编辑）","status":"machine"}
+{"id":"hgAKxFQg","en":"Aurora's Shaders","zh":"极光的着色器","status":"machine"}
+{"id":"l6di6hYz","en":"Fantasy Shaders Reimagined","zh":"幻想着色器再构想","status":"machine"}
+{"id":"ZvitaqQh","en":"RedHat Shaders","zh":"RedHat 着色器","status":"machine"}
+{"id":"yY9oI7oz","en":"Arc","zh":"故事弧","status":"machine"}
+{"id":"D5k8BTVz","en":"Pixel Perfect","zh":"像素完美","status":"machine"}
+{"id":"rinvvngy","en":"Clarity","zh":"清晰度","status":"machine"}
+{"id":"1BZ68dI8","en":"Pegasus Shaders","zh":"飞马着色器","status":"machine"}
+{"id":"71EyVfCn","en":"Voyager shader 2.0","zh":"航海家号着色器 2.0","status":"machine"}
+{"id":"Q1ICdkzj","en":"Fantasy Shaders Unbound","zh":"奇幻着色器解放","status":"machine"}
+{"id":"6NnvPzWJ","en":"Builder's QOL Shaders","zh":"建造者生活质量着色器","status":"machine"}
+{"id":"UDDa70lE","en":"UShader","zh":"UShader","status":"machine"}
+{"id":"chKtnjkM","en":"BVS - Best Vanilla Shader","zh":"BVS - 最佳原版着色器","status":"machine"}
+{"id":"VP9picRm","en":"Ebin Resurrected","zh":"埃宾复活","status":"machine"}
+{"id":"Xl42lc6c","en":"Soft Voxels Lite","zh":"软体素轻量版","status":"machine"}
+{"id":"sAZ9WsJP","en":"Cursed Fog","zh":"诅咒之雾","status":"machine"}
+{"id":"XaonJnsc","en":"CTR VCR","zh":"CTR 录像机","status":"machine"}
+{"id":"yhXP52S3","en":"MC VHS","zh":"MC VHS","status":"machine"}
+{"id":"McUqXQ0J","en":"Just Colored Lighting","zh":"只有彩色灯光","status":"machine"}
+{"id":"PYhc7nNa","en":"Exposa Shaders","zh":"Exposa 着色器","status":"machine"}
+{"id":"PgdT4v4a","en":"Glimmer","zh":"微光","status":"machine"}
+{"id":"yhuqxlbn","en":"Simply Upscaled","zh":"仅进行了 upscaling","status":"machine"}
+{"id":"UuwCHIS3","en":"LIGHT Shaders","zh":"LIGHT 着色器","status":"machine"}
+{"id":"OT1P0oHO","en":"Stereo's Default+","zh":"Stereo 的 Default+","status":"machine"}
+{"id":"xJNabPID","en":"Flashlight Shader","zh":"手电筒着色器","status":"machine"}
+{"id":"w8N6pbsN","en":"OPAL Shaders","zh":"OPAL 着色器","status":"machine"}
+{"id":"CiFGzRV9","en":"Vanilletix Shaders","zh":"Vanilletix 着色器","status":"machine"}
+{"id":"s8ZCVd1a","en":"Eclipse","zh":"日食","status":"machine"}
+{"id":"HpOC6pyc","en":"Musk Rose Shaders","zh":"麝香玫瑰色调","status":"machine"}
+{"id":"4kHmJd4i","en":"DrDestens Minecraft Shaders","zh":"DrDestens 的《我的世界》着色器","status":"machine"}
+{"id":"EQs4Ewl7","en":"Allium Shaders","zh":"Allium 着色器","status":"machine"}
+{"id":"frac8sks","en":"Reverie","zh":"遐想","status":"machine"}
+{"id":"a8nz2nHG","en":"VECTOR","zh":"VECTOR","status":"machine"}
+{"id":"68DAChCV","en":"Spring Shaders (Chun)","zh":"春之着色器（Chun）","status":"machine"}
+{"id":"hNGQT69K","en":"Pyvtron Shaders","zh":"Pyvtron 着色器","status":"machine"}
+{"id":"dEAKT8y9","en":"Simplicissimus Shader","zh":"Simplicissimus 着色器","status":"machine"}
+{"id":"5FTpbyBl","en":"PSX Shader","zh":"PSX 着色器","status":"machine"}
+{"id":"z8EjLYqN","en":"Sildur's Vibrant Shaders","zh":"Sildur 的鲜活着色器","status":"machine"}
+{"id":"IsJZJfNT","en":"Epoch","zh":"纪元","status":"machine"}
+{"id":"XuGx9Ezb","en":"Night Vision Shaders","zh":"夜视着色器","status":"machine"}
+{"id":"bvDpxd8c","en":"Alpha Piscium","zh":"双鱼座α星","status":"machine"}
+{"id":"EJ1dyMxD","en":"Mello","zh":"梅洛","status":"machine"}
+{"id":"xM96NJmk","en":"YoFPS","zh":"YoFPS","status":"machine"}
+{"id":"kih5VmNo","en":"Lethal Shaders","zh":"致命着色器","status":"machine"}
+{"id":"YU49BElv","en":"Daybreak Shader","zh":"黎明着色器","status":"machine"}
+{"id":"m9mH4vjB","en":"Phoxel PT","zh":"Phoxel PT","status":"machine"}
+{"id":"jiOSfcba","en":"[BTB] Back To Basics","zh":"[BTB] 回归基础","status":"machine"}
+{"id":"7FjF4us6","en":"Stracciatella Shaders","zh":"斯特拉恰泰拉着色器","status":"machine"}
+{"id":"BWnGghPW","en":"RetroVision","zh":"RetroVision","status":"machine"}
+{"id":"zf7q9mVY","en":"Dirt RT","zh":"Dirt RT","status":"machine"}
+{"id":"3cdrsl5X","en":"PixelCraft Shaders","zh":"PixelCraft 着色器","status":"machine"}
+{"id":"gGrRQIse","en":"Trailer Shaders","zh":"预告片着色器","status":"machine"}
+{"id":"5aFJgbak","en":"Motion Blur FX","zh":"运动模糊特效","status":"machine"}
+{"id":"RC7Z2EaZ","en":"Snowimagined","zh":"Snowimagined","status":"machine"}
+{"id":"ZUcNZHzL","en":"Simple Saturation Shader","zh":"简单的饱和度着色器","status":"machine"}
+{"id":"iCrp3Ew5","en":"Escheridia","zh":"埃舍里迪亚","status":"machine"}
+{"id":"dzx2zisP","en":"Cyanide Shaders","zh":"氰化物着色器","status":"machine"}
+{"id":"7eXucZxq","en":"Tea Shaders","zh":"Tea Shaders","status":"machine"}
+{"id":"MEwabHnq","en":"Simple Saturation","zh":"简单饱和","status":"machine"}
+{"id":"bNFqrJXS","en":"CH Motion","zh":"CH Motion","status":"machine"}
+{"id":"rYFfh55l","en":"BVSF","zh":"BVSF","status":"machine"}
+{"id":"6sOj95GW","en":"Bad Apple Shaders","zh":"Bad Apple 着色器","status":"machine"}
+{"id":"OvPFpJjO","en":"OpenShad","zh":"OpenShad","status":"machine"}
+{"id":"reghUXdy","en":"AstralCore","zh":"AstralCore","status":"machine"}
+{"id":"sC1oZTSS","en":"Monophonic Shaderpack","zh":"单声道着色器包","status":"machine"}
+{"id":"d84ohPxl","en":"Lymbo Shader","zh":"《Lymbo》着色器","status":"machine"}
+{"id":"ZuJPfLHp","en":"Aurora Fantasy","zh":"《极光幻想》","status":"machine"}
+{"id":"oVImi9BV","en":"Vanilla Enhanced","zh":"香草增强版","status":"machine"}
+{"id":"WUot79rk","en":"Pyvtron VX","zh":"Pyvtron VX","status":"machine"}
+{"id":"wWS77kEk","en":"Open4ES Renewed","zh":"Open4ES 焕新升级","status":"machine"}
+{"id":"Kqx96bgP","en":"Energy Shaders Java","zh":"能量着色器 Java","status":"machine"}
+{"id":"iwEbAN22","en":"SillyWankerShader","zh":"SillyWankerShader","status":"machine"}
+{"id":"aE6ouBYi","en":"TAA Project","zh":"TAA 项目","status":"machine"}
+{"id":"CqoL8Aty","en":"BDS - Better Default Shaders","zh":"BDS——更优秀的默认着色器","status":"machine"}
+{"id":"2vBMeaEW","en":"DERCODE","zh":"DERCODE","status":"machine"}
+{"id":"Z8vHOw6N","en":"Acid Shaders 1.5","zh":"Acid Shaders 1.5","status":"machine"}
+{"id":"IGWHPfOD","en":"Somber","zh":"沉重","status":"machine"}
+{"id":"2jvH1Rcl","en":"Sildur's Enhanced Default Shaders","zh":"Sildur 的增强型默认着色器","status":"machine"}
+{"id":"wXgazpCy","en":"Flashlight Shader","zh":"手电筒着色器","status":"machine"}
+{"id":"KqTtpEHg","en":"BrighterAccessibility","zh":"更明亮的无障碍功能","status":"machine"}
+{"id":"FFaD08BY","en":"Zayko Shaders","zh":"Zayko 着色器","status":"machine"}
+{"id":"dE3Syxsf","en":"Genesis","zh":"创世记","status":"machine"}
+{"id":"li7SBqe6","en":"NoShader","zh":"NoShader","status":"machine"}
+{"id":"MVFwE4xD","en":"Blocky Shader","zh":"方块着色器","status":"machine"}
+{"id":"8yXmfSY9","en":"Forget-Me-Not Shaders","zh":"勿忘我着色器","status":"machine"}
+{"id":"AZs0ahDh","en":"Prismarine Shader","zh":"棱晶海蓝石着色器","status":"machine"}
+{"id":"ZhCRyz0a","en":"Tricked Shaders","zh":"“欺骗式着色器”","status":"machine"}
+{"id":"DIAdpUOD","en":"VTXS Screen Space Demo","zh":"VTXS 屏幕空间演示","status":"machine"}
+{"id":"K8XDv70D","en":"Nwoof's Wynn Shader","zh":"Nwoof 的 Wynn 着色器","status":"machine"}
+{"id":"4A1AZFli","en":"DreamLight Shaders","zh":"DreamLight 着色器","status":"machine"}
+{"id":"38Eu6M9x","en":"EclipseLite","zh":"EclipseLite","status":"machine"}
+{"id":"9gxVXUDr","en":"Lumina Shader - Event Horizon","zh":"Lumina Shader - 事件视界","status":"machine"}
+{"id":"YIhUcKoq","en":"Beyond Vanilla","zh":"超越香草","status":"machine"}
+{"id":"Hrr4MlDP","en":"Reflective Vanilla Shaders","zh":"反射型香草着色器","status":"machine"}
+{"id":"2euhaJq5","en":"TrueLight FX Lite","zh":"TrueLight FX Lite","status":"machine"}
+{"id":"q7ZJZM9e","en":"Retrus","zh":"Retrus","status":"machine"}
+{"id":"wPjAoRh5","en":"Vanilla Advanced","zh":"Vanilla Advanced","status":"machine"}
+{"id":"CjjJQ9zg","en":"DMS - Depth Map Shaders","zh":"DMS - 深度图着色器","status":"machine"}
+{"id":"2bgnTPPG","en":"DepthField","zh":"景深","status":"machine"}
+{"id":"CEiEFjlO","en":"Shaderific (Vanilla Shader)","zh":"Shaderific（原版着色器）","status":"machine"}
+{"id":"EbZaG9u8","en":"Butter Shaders","zh":"Butter Shaders","status":"machine"}
+{"id":"HPkbgOtW","en":"Anti Aliasing (TAA, FXAA)","zh":"抗锯齿（TAA、FXAA）","status":"machine"}
+{"id":"vNYopNcO","en":"B&W Shader","zh":"B&W 着色器","status":"machine"}
+{"id":"g2fXmOBp","en":"VanillaPuddingTart","zh":"香草布丁挞","status":"machine"}
+{"id":"t0C0BbIo","en":"Super Ugly Shaders","zh":"超级丑陋的着色器","status":"machine"}
+{"id":"AGUnjUjy","en":"Kute","zh":"Kute","status":"machine"}
+{"id":"4j2IMXWX","en":"Smoother Glowing","zh":"更光滑、更透亮","status":"machine"}
+{"id":"HNfaqCHC","en":"Cursed Shader (Metamorphopsia)","zh":"诅咒着色器（变形视症）","status":"machine"}
+{"id":"NV4Fv1Zc","en":"HyShaders - Horror Edition","zh":"HyShaders - 恐怖版","status":"machine"}
+{"id":"55swHbGZ","en":"KUDA Shaders","zh":"KUDA 着色器","status":"machine"}
+{"id":"ur3m7B1i","en":"Crusher","zh":"破碎机","status":"machine"}
+{"id":"fElkGrVd","en":"Hex's Default Shaders Rewrite","zh":"Hex 的默认着色器重写","status":"machine"}
+{"id":"TgFPh5Pe","en":"Sinus Shader - Sine Wave","zh":"正弦着色器 - 正弦波","status":"machine"}
+{"id":"m7MuMYfZ","en":"Cinematic Color Correction","zh":"电影级调色","status":"machine"}
+{"id":"EjUbGcrd","en":"Lyrae Shaders","zh":"Lyrae 着色器","status":"machine"}
+{"id":"vBksb4DB","en":"Relumination","zh":"重焕光彩","status":"machine"}
+{"id":"CjpZFrHx","en":"PVP ZeroX","zh":"PVP ZeroX","status":"machine"}
+{"id":"ehjwBvuM","en":"The Better Default","zh":"更优的默认选项","status":"machine"}
+{"id":"70O0661F","en":"Lumina Shader - Lite","zh":"Lumina Shader - 精简版","status":"machine"}
+{"id":"424Wbdmo","en":"PSX-Core Shader","zh":"PSX-Core 着色器","status":"machine"}
+{"id":"tFhYnvyA","en":"Glacier Shaders","zh":"冰川着色器","status":"machine"}
+{"id":"OlFHJKqo","en":"NMS - Normal Map Shaders","zh":"NMS - 法线贴图着色器","status":"machine"}
+{"id":"70gOBuNk","en":"WEM - White Entities Mask","zh":"WEM - 白色实体遮罩","status":"machine"}
+{"id":"N1BIOvQX","en":"Sildur's Basic Shaders","zh":"Sildur 的基础着色器","status":"machine"}
+{"id":"iZBu2k8u","en":"ARTShade","zh":"ARTShade","status":"machine"}
+{"id":"8OuMHhPr","en":"2KS","zh":"2KS","status":"machine"}
+{"id":"s55p5822","en":"MINIMAL","zh":"MINIMAL","status":"machine"}
+{"id":"HGUpShAA","en":"Optimism-shader","zh":"Optimism-shader","status":"machine"}
+{"id":"GLbKOZGA","en":"Miasma","zh":"瘴气","status":"machine"}
+{"id":"4swcjcwr","en":"i hate shadows","zh":"我讨厌阴影","status":"machine"}
+{"id":"M8LIx21K","en":"PSX Shader NB","zh":"PSX 着色器 备注","status":"machine"}
+{"id":"hlFrL4hV","en":"Soft Memory","zh":"柔和的记忆","status":"machine"}
+{"id":"CGMMa4Ji","en":"Yamashita Shimejize 🍄","zh":"山下鲍鱼菇 🍄","status":"machine"}
+{"id":"acY2UwwP","en":"Lantern-shader","zh":"灯笼着色器","status":"machine"}
+{"id":"kxwHM1hj","en":"MCPT","zh":"MCPT","status":"machine"}
+{"id":"pHIvXw9J","en":"Ancient Dream","zh":"《远古之梦》","status":"machine"}
+{"id":"1KNMo6Id","en":"TrueLightFX","zh":"TrueLightFX","status":"machine"}
+{"id":"fVElstMy","en":"Outline Shader","zh":"轮廓着色器","status":"machine"}
+{"id":"Xng19eSP","en":"Muuf A.G.I Shaders","zh":"Muuf A.G.I 着色器","status":"machine"}
+{"id":"WCbcn7ba","en":"Motion Blur For PvP","zh":"PvP中的运动模糊","status":"machine"}
+{"id":"OD8EMbgs","en":"Warped Memory","zh":"扭曲的记忆","status":"machine"}
+{"id":"fUIGNJzN","en":"Vanilish Shaders","zh":"Vanilish 着色器","status":"machine"}
+{"id":"XT3cdKr8","en":"VHS Overlay","zh":"VHS 叠加层","status":"machine"}
+{"id":"3isTNWVr","en":"Cursed View","zh":"诅咒之景","status":"machine"}
+{"id":"C1LhPps6","en":"Voxel Vibes","zh":"Voxel Vibes","status":"machine"}
+{"id":"tLyAc6iV","en":"CRT Shader","zh":"CRT 着色器","status":"machine"}
+{"id":"UEIkxUHB","en":"Liquorice Shaders","zh":"甘草着色器","status":"machine"}
+{"id":"lGNT3tgC","en":"Vulkanite Demo Pack","zh":"Vulkanite 演示包","status":"machine"}
+{"id":"Ah4Q0Hhi","en":"ASCII Shader","zh":"ASCII 着色器","status":"machine"}
+{"id":"qjbB6Qp6","en":"cel shader","zh":"细胞着色器","status":"machine"}
+{"id":"kZV79rYi","en":"Crucify","zh":"钉在十字架上","status":"machine"}
+{"id":"WBR7XASi","en":"LBR-Enhanced","zh":"LBR增强版","status":"machine"}
+{"id":"AZUZhdiB","en":"CMS - Cloud Mask Shaders","zh":"CMS - 云面具着色器","status":"machine"}
+{"id":"9ItvIfRa","en":"Reflectify RT","zh":"Reflectify RT","status":"machine"}
+{"id":"7v7VBLD0","en":"For the real potatoes","zh":"给真正的土豆","status":"machine"}
+{"id":"TNwnxPWE","en":"john","zh":"约翰","status":"machine"}
+{"id":"KOQHPy4R","en":"Oct-Path","zh":"Oct-Path","status":"machine"}
+{"id":"K5CUBBea","en":"Ascii like shader","zh":"类似 ASCII 的着色器","status":"machine"}
+{"id":"F6cjDyQ2","en":"FOOTAGE","zh":"视频片段","status":"machine"}
+{"id":"xDKPDlxH","en":"white sharp shader","zh":"白色锐利着色器","status":"machine"}
+{"id":"pB0H8J2Y","en":"Verlixia","zh":"Verlixia","status":"machine"}
+{"id":"secFqfgB","en":"HyShaders - Fantasy Edition","zh":"HyShaders - 奇幻版","status":"machine"}
+{"id":"8co1yEDN","en":"SCAN","zh":"SCAN","status":"machine"}
+{"id":"eiZKiQ2v","en":"Cartoony","zh":"卡通风格的","status":"machine"}
+{"id":"6LmrkwMi","en":"Emoji like shader","zh":"类似表情符号的着色器","status":"machine"}
+{"id":"iSgQYQ4J","en":"Cozy & Light","zh":"温馨而明亮","status":"machine"}
+{"id":"SvynK6FG","en":"Snow Default","zh":"Snow 默认","status":"machine"}
+{"id":"YmRYaclX","en":"FreeVibrant Shaders","zh":"FreeVibrant 着色器","status":"machine"}
+{"id":"TZ7II0UR","en":"✏️SketchBound","zh":"✏️SketchBound","status":"machine"}
+{"id":"UE3ewgSx","en":"LiDAR-S","zh":"LiDAR-S","status":"machine"}
+{"id":"EQ0xrqNb","en":"Ink Shader","zh":"墨水着色器","status":"machine"}
+{"id":"WtQb0tmO","en":"MotionBlur+","zh":"MotionBlur+","status":"machine"}
+{"id":"99fE9cOJ","en":"tuvefe aura warp liminal","zh":"tuvefe 光环 扭曲 临界","status":"machine"}
+{"id":"2cbOUuF5","en":"Sundial Lite","zh":"日晷精简版","status":"machine"}
+{"id":"7wfGkCoM","en":"Wither Rose","zh":"凋零的玫瑰","status":"machine"}
+{"id":"GEuwLKq2","en":"Raincore","zh":"Raincore","status":"machine"}
+{"id":"hibU7u6J","en":"Bloody Shaders","zh":"血腥着色器","status":"machine"}
+{"id":"iIUAlvLk","en":"Low Water","zh":"低水位","status":"machine"}
+{"id":"gvVxbJat","en":"VerdantLight","zh":"VerdantLight","status":"machine"}
+{"id":"cFPyBbB1","en":"TerraFirmaGreg-Shaders","zh":"TerraFirmaGreg-Shaders","status":"machine"}
+{"id":"6OQgclAX","en":"Pollution 2035 Shaders","zh":"《污染2035》着色器","status":"machine"}
+{"id":"r1TElRR8","en":"Lightingless","zh":"无照明","status":"machine"}
+{"id":"g90sV5x4","en":"Extremely Simple Camera Effects","zh":"极其简单的相机特效","status":"machine"}
+{"id":"7D3l5SH1","en":"Blind","zh":"盲人","status":"machine"}
+{"id":"AoWEEFBh","en":"Make Your Own Shaders","zh":"制作自己的着色器","status":"machine"}
+{"id":"mMOmm2Zk","en":"Zephyr Starlight","zh":"泽菲尔·星光","status":"machine"}
+{"id":"DbCgw2md","en":"Nostalgia Ultra Shader","zh":"怀旧增强着色器","status":"machine"}
+{"id":"Pt8n1A1B","en":"Quarter","zh":"季度","status":"machine"}
+{"id":"NuMAacDC","en":"Comic Shaders","zh":"漫画着色器","status":"machine"}
+{"id":"LsKv1oX8","en":"Wright","zh":"赖特","status":"machine"}
+{"id":"4QYtoGWR","en":"Fabulous VHS","zh":"绝妙的VHS","status":"machine"}
+{"id":"ueSyHBpg","en":"Pumpkin","zh":"南瓜","status":"machine"}
+{"id":"2PnKv7fI","en":"Aeon","zh":"永恒","status":"machine"}
+{"id":"XcwivM4z","en":"Phial","zh":"小瓶","status":"machine"}
+{"id":"dPBtZ5Ry","en":"Water Shader Alpha","zh":"水着色器 Alpha","status":"machine"}
+{"id":"NPKlYU6I","en":"Krpmon Lite","zh":"Krpmon Lite","status":"machine"}
+{"id":"KiDl1F9o","en":"Rose's New Shades","zh":"罗斯的新色号","status":"machine"}
+{"id":"fkGPS2gb","en":"Wispy Shader","zh":"Wispy 着色器","status":"machine"}
+{"id":"zrVlkYvk","en":"Screen Mirror Shader","zh":"屏幕镜像着色器","status":"machine"}
+{"id":"sdBzRG7h","en":"TAA-Distant Horizons port","zh":"TAA-Distant Horizons 端口","status":"machine"}
+{"id":"wwfPGOds","en":"Kefir's Flashlight","zh":"凯菲尔的手电筒","status":"machine"}
+{"id":"8zBs9Cbz","en":"Mist Shaders","zh":"雾效果着色器","status":"machine"}
+{"id":"vWdu7BRL","en":"Chippa256 shader","zh":"Chippa256 着色器","status":"machine"}
+{"id":"fw4J9UkQ","en":"Dynamic Light Shader","zh":"动态光照着色器","status":"machine"}
+{"id":"STXlqnTM","en":"Mathematically Unplayable","zh":"从数学角度来看无法进行","status":"machine"}
+{"id":"oZF2GiVu","en":"Color Splash Shaders","zh":"色彩飞溅着色器","status":"machine"}
+{"id":"BUz1aSAh","en":"NightBloom","zh":"夜之花","status":"machine"}
+{"id":"ch1yZBko","en":"Steadfast","zh":"坚定不移","status":"machine"}
+{"id":"8FCAAlLy","en":"Haste","zh":"急速","status":"machine"}
+{"id":"k6owQqbu","en":"Legacy Console Edition Shaders","zh":"经典主机版着色器","status":"machine"}
+{"id":"Rosc1kAc","en":"Lumeau","zh":"卢莫","status":"machine"}
+{"id":"Uzkg6HgX","en":"Nova Reimagined","zh":"《Nova》新诠释","status":"machine"}
+{"id":"4ETindzX","en":"Breeze Flow Shaders","zh":"Breeze Flow 着色器","status":"machine"}
+{"id":"lOvsuZF0","en":"silly shaders","zh":"傻乎乎的着色器","status":"machine"}
+{"id":"in4K1Xj9","en":"Lux V1: BrickCraft Edition","zh":"Lux V1：BrickCraft 版","status":"machine"}
+{"id":"RS0cg7Op","en":"Aerie Shaders","zh":"Aerie 着色器","status":"machine"}
+{"id":"wz6Mcdq6","en":"Dithering3D","zh":"Dithering3D","status":"machine"}
+{"id":"HFpynP04","en":"CoffeeShaders","zh":"CoffeeShaders","status":"machine"}
+{"id":"BuUSGd4X","en":"Loé's Night Vision","zh":"洛埃的夜视","status":"machine"}
+{"id":"408flTHR","en":"Ditherpunk","zh":"Ditherpunk","status":"machine"}
+{"id":"C8Sy7Xye","en":"🖌️PaintBound","zh":"🖌️PaintBound","status":"machine"}
+{"id":"FyekMbZu","en":"Grey Wobbly World","zh":"灰色的摇摇晃晃的世界","status":"machine"}
+{"id":"nIIpn55X","en":"Dither","zh":"抖动","status":"machine"}
+{"id":"Ub8oXxM5","en":"missing textures","zh":"缺失的纹理","status":"machine"}
+{"id":"nQxAiEqd","en":"Found Footage","zh":"“发现的影像”","status":"machine"}
+{"id":"mzJo5Nx3","en":"Oak Shaders","zh":"橡木着色器","status":"machine"}
+{"id":"KBmTU8ja","en":"CRT Monochrome Shaderpack","zh":"CRT 单色着色器包","status":"machine"}
+{"id":"r80tWUPL","en":"Neon Skylines Shader","zh":"霓虹天际线着色器","status":"machine"}
+{"id":"ZeqDZZRS","en":"minecraft CRT","zh":"《我的世界》CRT","status":"machine"}
+{"id":"SLX3kDJq","en":"Lightmap Fixer","zh":"光照贴图修复器","status":"machine"}
+{"id":"BAmyLKqy","en":"Dusk","zh":"黄昏","status":"machine"}
+{"id":"KiFpblnH","en":"Dithered Shader","zh":"抖动着色器","status":"machine"}
+{"id":"ZsT2QmUU","en":"MakeUp - Breezy","zh":"彩妆 - 清风","status":"machine"}
+{"id":"WI2oOxsx","en":"Better End Portal Shader","zh":"更优的端点门户着色器","status":"machine"}
+{"id":"kRybDuJT","en":"Negative Colors","zh":"负色","status":"machine"}
+{"id":"bdrFWuuh","en":"Simple Shader One","zh":"简单着色器一","status":"machine"}
+{"id":"MY37GebJ","en":"Black & White","zh":"黑白","status":"machine"}
+{"id":"okSXLiG4","en":"RITEG-VHS","zh":"RITEG-VHS","status":"machine"}
+{"id":"3z5iC0bj","en":"Tilde","zh":"波浪号","status":"machine"}
+{"id":"fn1Eae1N","en":"Wisp Shaders","zh":"Wisp 着色器","status":"machine"}
+{"id":"ERzpKqiQ","en":"UltraVanilla+","zh":"UltraVanilla+","status":"machine"}
+{"id":"55ENkzUx","en":"Round World","zh":"环游世界","status":"machine"}
+{"id":"cAxNke99","en":"Fisheye Shaders","zh":"鱼眼镜头着色器","status":"machine"}
+{"id":"ccttKkIm","en":"HyShaders - Vanilla Edition","zh":"HyShaders - 原版","status":"machine"}
+{"id":"KbqQa0aB","en":"InvertColors-Shader","zh":"InvertColors-着色器","status":"machine"}
+{"id":"k8XPkDEi","en":"VHS Shader","zh":"VHS 着色器","status":"machine"}
+{"id":"EpUUYS1f","en":"Fullbright+ Shaders","zh":"Fullbright+ 着色器","status":"machine"}
+{"id":"JJENX1BH","en":"Atmospheric Shaders - NEW LOGO","zh":"氛围着色器 - 新标志","status":"machine"}
+{"id":"4VA1WCa7","en":"LBD Shaders","zh":"LBD 着色器","status":"machine"}
+{"id":"JX18zgB7","en":"Valentine Shader","zh":"Valentine 着色器","status":"machine"}
+{"id":"qMyruXtk","en":"Event Horizon","zh":"《事件视界》","status":"machine"}
+{"id":"u2TfdM5B","en":"Vividness","zh":"鲜活度","status":"machine"}
+{"id":"buyR2SoV","en":"Gray&Black Shader","zh":"灰黑渐变色","status":"machine"}
+{"id":"uYBHIcV9","en":"Image Shader","zh":"图像着色器","status":"machine"}
+{"id":"VTcl1Wzb","en":"shAIder","zh":"shAIder","status":"machine"}
+{"id":"8X1QYHMa","en":"vfx-simple","zh":"vfx-simple","status":"machine"}
+{"id":"OB25CM3Z","en":"Visual Shaders","zh":"视觉着色器","status":"machine"}
+{"id":"Qan66rZO","en":"Retrofy","zh":"Retrofy","status":"machine"}
+{"id":"r6gSVPWY","en":"only shadows","zh":"只有影子","status":"machine"}
+{"id":"z0NF17Hp","en":"AuraLite Shaders","zh":"AuraLite 着色器","status":"machine"}
+{"id":"WD4lLjK2","en":"Luxora Shaders","zh":"Luxora 着色器","status":"machine"}
+{"id":"5pOVLwOB","en":"Shader_vanilla","zh":"Shader_vanilla","status":"machine"}
+{"id":"THdWNh20","en":"Paranoia Shader","zh":"“偏执”着色器","status":"machine"}
+{"id":"Jrz1tFDi","en":"Mini Shaders","zh":"迷你着色器","status":"machine"}
+{"id":"EjgAf5f3","en":"AstralCore v2","zh":"AstralCore v2","status":"machine"}
+{"id":"j8vzmojd","en":"Terder's Potato Shader","zh":"Terder 的土豆着色器","status":"machine"}
+{"id":"HWoNhM9S","en":"VerdantLight Pro","zh":"VerdantLight Pro","status":"machine"}
+{"id":"cOY8vlyQ","en":"Simple Shadows","zh":"简单的阴影","status":"machine"}
+{"id":"pFfnJU82","en":"Nostalgic Crisp","zh":"怀旧脆片","status":"machine"}
+{"id":"Qxdz7rmW","en":"Spirity Motion Blur","zh":"灵动运动模糊","status":"machine"}
+{"id":"TUoQmbZR","en":"Better Voxels","zh":"更优质的体素","status":"machine"}
+{"id":"Rm89Kgei","en":"Pagoda Shaders","zh":"Pagoda 着色器","status":"machine"}
+{"id":"ZPlXpCUX","en":"Am I Drunk?","zh":"我喝醉了吗？","status":"machine"}
+{"id":"6CdvxWhV","en":"Earth Shaders","zh":"地球着色器","status":"machine"}
+{"id":"dw4XHa8r","en":"LSD Sshader","zh":"LSD Sshader","status":"machine"}
+{"id":"jgYsD3FV","en":"Unbound Visual +","zh":"Unbound Visual +","status":"machine"}
+{"id":"68C3Q6ro","en":"Fullsight","zh":"Fullsight","status":"machine"}
+{"id":"SCQuqnvO","en":"AxolotlShaders","zh":"AxolotlShaders","status":"machine"}
+{"id":"xckXt4M4","en":"Eclipse Lite Cinematic","zh":"Eclipse Lite 电影风格","status":"machine"}
+{"id":"Sg7URyDE","en":"Base-Shader","zh":"基础着色器","status":"machine"}
+{"id":"kj9VuxTY","en":"Serendipity","zh":"偶然的发现","status":"machine"}
+{"id":"cKZlPuDG","en":"Zenith's LUT Shader","zh":"Zenith 的 LUT 着色器","status":"machine"}
+{"id":"FQST0Z8M","en":"Glint","zh":"Glint","status":"machine"}
+{"id":"wFfhUbYQ","en":"Black And White Shaders","zh":"黑白着色器","status":"machine"}
+{"id":"HXicJkMZ","en":"the Next Shader","zh":"下一个着色器","status":"machine"}
+{"id":"iQ7o7wlG","en":"NOIR","zh":"NOIR","status":"machine"}
+{"id":"o86c4okd","en":"Lumora Shader","zh":"Lumora 着色器","status":"machine"}
+{"id":"ovetUegn","en":"VerdantLight Lite","zh":"VerdantLight Lite","status":"machine"}
+{"id":"Jqn55RVZ","en":"3D Displacement Test Shader","zh":"3D 位移测试着色器","status":"machine"}
+{"id":"pSjKIOBw","en":"Baseline Shader","zh":"基线着色器","status":"machine"}
+{"id":"O5m5hPLR","en":"B3-PvP","zh":"B3-PvP","status":"machine"}
+{"id":"xulmd28Q","en":"FancyWind and Waves","zh":"《奇幻风与浪》","status":"machine"}
+{"id":"1S4HCfve","en":"Haze Shader","zh":"雾效着色器","status":"machine"}
+{"id":"8jikfk78","en":"Fantasy.VT","zh":"Fantasy.VT","status":"machine"}
+{"id":"XK75twAh","en":"Thunder's Motion Blur","zh":"雷霆的运动模糊","status":"machine"}
+{"id":"3eA74PuK","en":"Ultimate Nausea","zh":"极度恶心","status":"machine"}
+{"id":"85I8M36s","en":"Bad WiFi","zh":"WiFi信号差","status":"machine"}
+{"id":"ezzUqPd4","en":"Jooonah's Grove","zh":"朱娜的林间小径","status":"machine"}
+{"id":"MTiuNKqA","en":"Cartoonikal","zh":"卡通尼卡尔","status":"machine"}
+{"id":"RSk8bNcs","en":"HighFrames+","zh":"HighFrames+","status":"machine"}
+{"id":"RO6afEst","en":"Focal shader","zh":"焦点着色器","status":"machine"}
+{"id":"qCur2p1Q","en":"Principal","zh":"校长","status":"machine"}
+{"id":"33Flu4rX","en":"EchoShift","zh":"EchoShift","status":"machine"}
+{"id":"lByWZ69q","en":"LiDAR Visualizer","zh":"激光雷达可视化工具","status":"machine"}
+{"id":"AcfhEPbv","en":"MotionFlow","zh":"MotionFlow","status":"machine"}
+{"id":"7VtTR53y","en":"aesyin's shaders","zh":"aesyin 的着色器","status":"machine"}
+{"id":"jk8z9NE0","en":"Javier's improved fog","zh":"哈维尔改进的雾效","status":"machine"}
+{"id":"MzbiKkaI","en":"FlowestShaders","zh":"FlowestShaders","status":"machine"}
+{"id":"ecEGgWOY","en":"Adaptive Outline","zh":"自适应大纲","status":"machine"}
+{"id":"5s4tVLty","en":"RealisticallyOptimized","zh":"基于现实的优化","status":"machine"}
+{"id":"vWdKXjPs","en":"After Hours","zh":"下班后","status":"machine"}
+{"id":"VUMmIDj7","en":"Contour Shaders","zh":"轮廓着色器","status":"machine"}
+{"id":"qpA3SxtS","en":"Velocity","zh":"速度","status":"machine"}
+{"id":"gcMD40uk","en":"Kyoko Shader's","zh":"Kyoko Shader 的","status":"machine"}
+{"id":"wQhetBka","en":"Cinematic Vanilla","zh":"电影风香草","status":"machine"}
+{"id":"o8xggQ8S","en":"retroview","zh":"回顾","status":"machine"}
+{"id":"pcMKaDsV","en":"ApexShader","zh":"ApexShader","status":"machine"}
+{"id":"81Z21bW3","en":"Slight","zh":"轻微的","status":"machine"}
+{"id":"X5nQ5C2A","en":"Mode 13h: MS-DOSify!","zh":"模式 13h：MS-DOS 化！","status":"machine"}
+{"id":"XPXWFkqK","en":"Nigthly Fix","zh":"夜间修复","status":"machine"}
+{"id":"O66zvx0c","en":"Recastional","zh":"Recastional","status":"machine"}
+{"id":"TGOrCOTp","en":"TAA69","zh":"TAA69","status":"machine"}
+{"id":"3JNGTF4t","en":"AquaVision-Dynamic Transparent Water","zh":"AquaVision——动态透明水","status":"machine"}
+{"id":"BGTvlEqB","en":"Lunacy Shaders","zh":"Lunacy 着色器","status":"machine"}
+{"id":"osD74aom","en":"Wavy World","zh":"波浪世界","status":"machine"}
+{"id":"Il6bho6B","en":"Nova's Vibrant Lite Shaders","zh":"Nova 的 Vibrant Lite 着色器","status":"machine"}
+{"id":"q3jQXjo4","en":"bit glyphs","zh":"位字符","status":"machine"}
+{"id":"u6zQM13D","en":"PH_lite_shader","zh":"PH_lite_shader","status":"machine"}
+{"id":"LHVsUxbi","en":"True Black & White Shader (Grayscale)","zh":"真正的黑白着色器（灰度）","status":"machine"}
+{"id":"Ncerk8am","en":"Resident Craft","zh":"居民手工艺","status":"machine"}
+{"id":"WuoFW8TM","en":"Globed","zh":"Globed","status":"machine"}
+{"id":"JZnbMbTm","en":"Bloom","zh":"布鲁姆","status":"machine"}
+{"id":"8v0hMClR","en":"Nuar","zh":"努阿尔","status":"machine"}
+{"id":"3bRj5RLF","en":"Drift POV","zh":"漂移视角","status":"machine"}
+{"id":"cfhJEfJM","en":"ONWARD Shader","zh":"ONWARD 着色器","status":"machine"}
+{"id":"FVRDZN4u","en":"Aerosol","zh":"气溶胶","status":"machine"}
+{"id":"hdiE9YEl","en":"Pixelated Shaders","zh":"像素着色器","status":"machine"}
+{"id":"E6Jwe4Tp","en":"Retro Pixel Shader – NES Style","zh":"复古像素着色器——NES风格","status":"machine"}
+{"id":"fsDxQcSJ","en":"Gradius VibrantShader","zh":"Gradius VibrantShader","status":"machine"}
+{"id":"RI6Zer4m","en":"I Am Not Okay","zh":"我不好","status":"machine"}
+{"id":"3LJh38ZH","en":"Dark Fantasy Shader","zh":"黑暗奇幻着色器","status":"machine"}
+{"id":"rBkf9R3g","en":"DOShader","zh":"DOShader","status":"machine"}
+{"id":"wF0EKl3w","en":"Retrowave Shader","zh":"Retrowave 着色器","status":"machine"}
+{"id":"EJfV67NC","en":"No Hand Shaders","zh":"无手着色器","status":"machine"}
+{"id":"8d8lkScD","en":"Full Invert Shader","zh":"全反转着色器","status":"machine"}
+{"id":"cdZAl3l6","en":"Phero Visuals","zh":"Phero Visuals","status":"machine"}
+{"id":"F9FNb1av","en":"Rose World Shader","zh":"玫瑰世界着色器","status":"machine"}
+{"id":"d6TfTZPu","en":"World Outline","zh":"世界概况","status":"machine"}
+{"id":"Zi60D5U5","en":"Tachyon Shaders","zh":"Tachyon 着色器","status":"machine"}
+{"id":"mIcyuS5O","en":"Aberration","zh":"像差","status":"machine"}
+{"id":"S4TPh39p","en":"SSRE Shader","zh":"SSRE 着色器","status":"machine"}
+{"id":"Lyan9gn0","en":"LiteMc","zh":"LiteMc","status":"machine"}
+{"id":"aTLNnxX3","en":"HighFrames","zh":"HighFrames","status":"machine"}
+{"id":"efRqNWHp","en":"Simple Grayscale","zh":"简单的灰度","status":"machine"}
+{"id":"A1wQqzrz","en":"ExShade","zh":"ExShade","status":"machine"}
+{"id":"f1VMVPC1","en":"CRT-Monitor Shader","zh":"CRT显示器着色器","status":"machine"}
+{"id":"bn9xKwMe","en":"drunk-n-high","zh":"醉醺醺又飘飘然","status":"machine"}
+{"id":"zoe0DSv0","en":"Datamosh","zh":"Datamosh","status":"machine"}
+{"id":"Cvgers35","en":"Colorblind Swap","zh":"色盲交换","status":"machine"}
+{"id":"g7X5NlWm","en":"Static Shader","zh":"静态着色器","status":"machine"}
+{"id":"WLkdXnId","en":"Color Cone","zh":"色锥","status":"machine"}
+{"id":"5taDo0oi","en":"ink-wash-shaderpack","zh":"水墨着色器包","status":"machine"}
+{"id":"6iApq3jH","en":"Debug View","zh":"调试视图","status":"machine"}
+{"id":"tYBPpMLT","en":"JustVanilla","zh":"JustVanilla","status":"machine"}
+{"id":"zxdgn1L8","en":"FeathC2","zh":"FeathC2","status":"machine"}
+{"id":"GOgeTOaC","en":"AxoShaders","zh":"AxoShaders","status":"machine"}
+{"id":"6izFt5nL","en":"GlamorousSP Shaders","zh":"GlamorousSP 着色器","status":"machine"}
+{"id":"bLPsBvZw","en":"Upside Down Shader","zh":"倒置着色器","status":"machine"}
+{"id":"1UhWoJiz","en":"Ranold's Better Breaking","zh":"拉诺尔德的《更佳刹车技巧》","status":"machine"}
+{"id":"2BCViFO0","en":"Cripe","zh":"天哪","status":"machine"}
+{"id":"uUbHpMiv","en":"EcoShift Lite","zh":"EcoShift Lite","status":"machine"}
+{"id":"evhfSQzX","en":"EntityMask shader","zh":"EntityMask 着色器","status":"machine"}
+{"id":"k6ksw54I","en":"Real Night Vision Shader","zh":"真正的夜视着色器","status":"machine"}
+{"id":"5mmDuueM","en":"Ghibli Shaders","zh":"吉卜力着色器","status":"machine"}
+{"id":"lcVBKCo1","en":"ESSENTIALS Shader","zh":"ESSENTIALS 着色器","status":"machine"}
+{"id":"WjcI9P1w","en":"Cosinus Shader","zh":"余弦着色器","status":"machine"}
+{"id":"EY0irg87","en":"Spirit Shader","zh":"灵体着色器","status":"machine"}
+{"id":"6FPiJZxx","en":"360W","zh":"360W","status":"machine"}
+{"id":"ACsC5xz2","en":"Panini Projection","zh":"帕尼尼投影法","status":"machine"}
+{"id":"I86gQZVu","en":"Lumavane Shaders","zh":"Lumavane 着色器","status":"machine"}
+{"id":"xCED6hZe","en":"Disco Shaders","zh":"迪斯科着色器","status":"machine"}
+{"id":"6edtW5qi","en":"BitNixelet","zh":"BitNixelet","status":"machine"}
+{"id":"LVUlY6Vc","en":"Despatra's CRT","zh":"德斯帕特拉的CRT","status":"machine"}
+{"id":"NnRy8IFu","en":"Tri Valor realistic shader","zh":"Tri Valor 真实感着色器","status":"machine"}
+{"id":"xAWqMDMo","en":"HyperShader","zh":"HyperShader","status":"machine"}
+{"id":"2P0AV9FE","en":"Liminal Shader","zh":"Liminal Shader","status":"machine"}
+{"id":"9WnqmtbE","en":"Realistic Dark","zh":"写实的黑暗","status":"machine"}
+{"id":"aKaN9eOI","en":"Hyperopia","zh":"远视","status":"machine"}
+{"id":"XxNK9TOy","en":"ImprovedVanillaLighting","zh":"改进版VanillaLighting","status":"machine"}
+{"id":"PqPmJRFY","en":"Polaroid90s","zh":"宝丽来90年代","status":"machine"}
+{"id":"JDDPVSQl","en":"Soleron","zh":"索勒隆","status":"machine"}
+{"id":"ZroHvBI3","en":"VertaLux","zh":"VertaLux","status":"machine"}
+{"id":"IncNSyyi","en":"Crumb Shaders","zh":"Crumb 着色器","status":"machine"}
+{"id":"pWeVnXDz","en":"Light-Shadow","zh":"光与影","status":"machine"}
+{"id":"MWDxkuCc","en":"PosterizationShader","zh":"PosterizationShader","status":"machine"}
+{"id":"ikGRnJq1","en":"Pixel Shades","zh":"像素色调","status":"machine"}
+{"id":"6UU6mdqn","en":"Pomme","zh":"Pomme","status":"machine"}
+{"id":"ckF1i7G7","en":"Renderlines","zh":"渲染线","status":"machine"}
+{"id":"WfX3EInm","en":"SoftShade Shader","zh":"SoftShade 着色器","status":"machine"}
+{"id":"6lhAbY7D","en":"Hologram Shader","zh":"全息着色器","status":"machine"}
+{"id":"SXup1RFh","en":"Bright Pixels","zh":"明亮的像素","status":"machine"}
+{"id":"8bvj4q9V","en":"Kiwi Shader","zh":"Kiwi Shader","status":"machine"}
+{"id":"TaHu0hxV","en":"Cozy Shader","zh":"温馨着色器","status":"machine"}
+{"id":"GWgDfysQ","en":"Psiho shader","zh":"Psiho 着色器","status":"machine"}
+{"id":"g7hFD1Qn","en":"Red And Black Shaders","zh":"红色和黑色着色器","status":"machine"}
+{"id":"8OeaZfgn","en":"Helios Shaders","zh":"Helios 着色器","status":"machine"}
+{"id":"V1DPLa8z","en":"VanillaX Shaders","zh":"VanillaX 着色器","status":"machine"}
+{"id":"G0xaxDsv","en":"Aalu Shaders","zh":"Aalu 着色器","status":"machine"}
+{"id":"8eOqqmcr","en":"Knight Shaders","zh":"骑士着色器","status":"machine"}
+{"id":"ksD0jjws","en":"Extraterrestrial Expanse","zh":"外星疆域","status":"machine"}
+{"id":"GTKLrTzr","en":"Zombie Horror Shader","zh":"僵尸恐怖着色器","status":"machine"}
+{"id":"EwxnsoQC","en":"ClearVision Shader","zh":"ClearVision 着色器","status":"machine"}
+{"id":"iZ0PwIr7","en":"VisualMC","zh":"VisualMC","status":"machine"}
+{"id":"QRSbjJqU","en":"Chara's Vibrant Shaders","zh":"Chara 的鲜活着色器","status":"machine"}
+{"id":"oTF1LJqm","en":"Osh","zh":"奥什","status":"machine"}
+{"id":"79KuNaI2","en":"Blind Shader","zh":"盲式着色器","status":"machine"}
+{"id":"x1ZfjCSo","en":"Baked Potato Shaders","zh":"烤土豆着色器","status":"machine"}
+{"id":"wTlZuD1z","en":"Lumina Shaders","zh":"Lumina 着色器","status":"machine"}
+{"id":"xLx3jnAI","en":"VHS Cord","zh":"VHS 连接线","status":"machine"}
+{"id":"C9RsInRE","en":"SimplyDithered","zh":"SimplyDithered","status":"machine"}
+{"id":"4f6gA44l","en":"SenAbyssShader","zh":"SenAbyssShader","status":"machine"}
+{"id":"ARW1Jej5","en":"Polace","zh":"波拉切","status":"machine"}
+{"id":"xTPEb5xp","en":"WVP Shader (Wozt Vanilla Plus Shader)","zh":"WVP 着色器（Wozt Vanilla Plus 着色器）","status":"machine"}
+{"id":"BPdXbuB3","en":"Moon Shaders","zh":"月之着色器","status":"machine"}
+{"id":"ae0XZNyw","en":"Terminator Vision Shader","zh":"《终结者》视觉着色器","status":"machine"}
+{"id":"DHhlDe2O","en":"Classic Sky","zh":"经典天空","status":"machine"}
+{"id":"n48y4QW0","en":"RtfShader","zh":"RtfShader","status":"machine"}
+{"id":"t4bTcfYA","en":"Cartoon Dreams Shader","zh":"卡通梦想着色器","status":"machine"}
+{"id":"656zJj28","en":"True Vanilla","zh":"纯正香草","status":"machine"}
+{"id":"x2aLLcW3","en":"NoUnderwaterFog","zh":"无水下雾","status":"machine"}
+{"id":"K6uGl6ZR","en":"Animetro","zh":"Animetro","status":"machine"}
+{"id":"VXl7q2GF","en":"Mist","zh":"雾","status":"machine"}
+{"id":"Hn4UaSpH","en":"Super Halftone Shaders","zh":"超级半色调着色器","status":"machine"}
+{"id":"iXjzmsNv","en":"Mist Bound","zh":"《雾锁》","status":"machine"}
+{"id":"prKz0vtM","en":"Orion Shaders","zh":"Orion 着色器","status":"machine"}
+{"id":"WTBaGxsU","en":"Sublime Visuals","zh":"绝美的视觉效果","status":"machine"}
+{"id":"u8gZksyb","en":"No Blindness Shader","zh":"无失明着色器","status":"machine"}
+{"id":"SkEg5Q6H","en":"Sculk Enchantment Glint","zh":"“潜行”附魔“闪光”","status":"machine"}
+{"id":"3rSkAqDn","en":"AuroraRT","zh":"AuroraRT","status":"machine"}
+{"id":"ORK6TcYj","en":"HorrorCraft","zh":"HorrorCraft","status":"machine"}
+{"id":"nEQiCJ4G","en":"Cyberspace Shaders","zh":"网络着色器","status":"machine"}
+{"id":"h0xSmugX","en":"Select Outline","zh":"选择大纲","status":"machine"}
+{"id":"7Kv6swwn","en":"Cinnamon Shader","zh":"Cinnamon 着色器","status":"machine"}
+{"id":"l2palkeG","en":"Solstice","zh":"至日","status":"machine"}
+{"id":"e1d0dCQ3","en":"FSR+ Shader","zh":"FSR+ 着色器","status":"machine"}
+{"id":"OqIpNoGM","en":"The Cursed Shaders","zh":"被诅咒的着色器","status":"machine"}
+{"id":"yj8SBzO3","en":"PS2 Shader","zh":"PS2 着色器","status":"machine"}
+{"id":"wzXKYlbl","en":"Shoggy shader","zh":"Shoggy 着色器","status":"machine"}
+{"id":"ASwLjm7j","en":"White Noise","zh":"白噪声","status":"machine"}
+{"id":"A7ZRNmxc","en":"Eerie Craft","zh":"诡异的手工艺","status":"machine"}
+{"id":"6zwoOMPJ","en":"Solis Blend","zh":"索利斯混合咖啡","status":"machine"}
+{"id":"r1EogXS7","en":"Black & White Shader","zh":"黑白着色器","status":"machine"}
+{"id":"g3CAig6K","en":"koptiretro","zh":"科普蒂罗","status":"machine"}
+{"id":"iK4iV8VO","en":"SMM - Ultra Light Weight Shader","zh":"JM-超轻型遮阳板","status":"machine"}
+{"id":"APwTnV72","en":"Renford Tomlinson","zh":"伦福德·汤姆林森","status":"machine"}
+{"id":"xUZIReLK","en":"Doruk's Shader","zh":"多鲁克的着色器","status":"machine"}
+{"id":"ceBS0tXc","en":"Demonic Possession","zh":"恶魔附身","status":"machine"}
+{"id":"134lIeeG","en":"Chandler's Retro Shader","zh":"钱德勒的复古着色器","status":"machine"}
+{"id":"QOSA4rZD","en":"R-T-S","zh":"R-T-S","status":"machine"}
+{"id":"CxPou90L","en":"AlternateCraft","zh":"替代工艺","status":"machine"}
+{"id":"1sfrgEIk","en":"Haven's Inversion","zh":"Haven反演","status":"machine"}
+{"id":"8dVpKI8t","en":"FilterLite Shaders","zh":"PaperLite着色器","status":"machine"}
+{"id":"aTkE1akQ","en":"Carmine","zh":"胭脂","status":"machine"}
+{"id":"xhSIVWgz","en":"Aerial","zh":"空中","status":"machine"}
+{"id":"piJlVDtP","en":"AVALux Shaders Reimagined","zh":"重新想象的AVALux着色器","status":"machine"}
+{"id":"DZBnTPED","en":"SummerShaders","zh":"SummerShaders","status":"machine"}
+{"id":"RWIrIHFp","en":"Pretty Shadows","zh":"美丽的影子","status":"machine"}
+{"id":"6HW4InFp","en":"VoidDream","zh":"虚空之梦","status":"machine"}
+{"id":"txGgplPN","en":"Serie","zh":"系列","status":"machine"}
+{"id":"50bqhXaO","en":"Enhanced Vision","zh":"增强视觉","status":"machine"}
+{"id":"9VzoIcj0","en":"Velora shader turbo","zh":"Velora着色器涡轮","status":"machine"}
+{"id":"E0TVruIL","en":"IrisDESCENT","zh":"虹膜衰落","status":"machine"}
+{"id":"RGf9oL5z","en":"SomeRandomPhotoShaders","zh":"一些随机照片着色器","status":"machine"}
+{"id":"yFRLQ6nx","en":"RealisticLite Shader","zh":"RealisticLite着色器","status":"machine"}
+{"id":"gEzKZOqB","en":"Daylight Shaders","zh":"日光暗影者","status":"machine"}
+{"id":"5U9YsYYw","en":"Vanilla Shading Renewed","zh":"香草着色更新","status":"machine"}
+{"id":"zzzZQgyq","en":"Lucidus","zh":"卢西德斯","status":"machine"}
+{"id":"9OyoV9my","en":"noodleshader","zh":"面条加工者","status":"machine"}
+{"id":"yhAv3x3d","en":"Baunilha Shader","zh":"鲍尼拉·谢德","status":"machine"}
+{"id":"qxUeQ92X","en":"Nexus Unbound","zh":"Nexus未绑定","status":"machine"}
+{"id":"Z1f4EvKZ","en":"Dara","zh":"Dara","status":"machine"}
+{"id":"kDiTN22C","en":"Galaxy shader","zh":"银河着色器","status":"machine"}
+{"id":"foEGxTnX","en":"Aragorn's Light Shader","zh":"阿拉贡的光影器","status":"machine"}
+{"id":"jJ5VFiNe","en":"White & Black Shader","zh":"黑白着色器","status":"machine"}
+{"id":"BWF57ln1","en":"No Rain Shader","zh":"无雨遮阳器","status":"machine"}
+{"id":"QKTZDHej","en":"Ziran Shaders","zh":"Ziran Shaders","status":"machine"}
+{"id":"SlZ8uzjk","en":"Refractal","zh":"重分形","status":"machine"}
+{"id":"zBFIWgg7","en":"Simply Shaded","zh":"简单阴影","status":"machine"}
+{"id":"xDn0BoKd","en":"DAP Shaders","zh":"DAB着色器","status":"machine"}
+{"id":"hYmXv4lM","en":"ZigCRT","zh":"ZigCPR","status":"machine"}
+{"id":"HeMbTkJg","en":"SerenaCore","zh":"SerenaCore","status":"machine"}
+{"id":"XkrUGY2b","en":"Eternal Prism","zh":"永恒的棱镜","status":"machine"}
+{"id":"ENtjeaoP","en":"RetroPixel","zh":"RetroPixel","status":"machine"}
+{"id":"7iOYrro8","en":"Zero Shader","zh":"零着色器","status":"machine"}
+{"id":"j8GGTDPk","en":"Colorless (Black and White)","zh":"无色（黑色和白色）","status":"machine"}
+{"id":"5cFXIUYW","en":"DMS","zh":"DMS","status":"machine"}
+{"id":"MYAGpRLz","en":"Breeze Shaders","zh":"微风暗影者","status":"machine"}
+{"id":"eU5gfXAN","en":"Refrax","zh":"重制","status":"machine"}
+{"id":"ELveTCgO","en":"OMEGA SHADERS","zh":"欧米茄阴影","status":"machine"}
+{"id":"pAYi7cOe","en":"Ultra Lite Shadows","zh":"Ultra Lite Shadows","status":"machine"}
+{"id":"W86n3JmN","en":"Purpliness","zh":"紫色","status":"machine"}
+{"id":"O4klg90P","en":"Candela Shaders","zh":"粤语暗影者","status":"machine"}
+{"id":"eSqJcTf7","en":"Nolantic Shader","zh":"Nolantic Shader","status":"machine"}
+{"id":"wrmFZVdg","en":"Sylbobek's Shader Pack","zh":"Sylbobek的着色包","status":"machine"}
+{"id":"BXJqEqyQ","en":"Zenith Shaders","zh":"Zenith Shaders","status":"machine"}
+{"id":"3PrdwOBX","en":"Catnip Shaders","zh":"猫薄荷遮光器","status":"machine"}
+{"id":"lCjPSSn9","en":"EzSaturation","zh":"Ez饱和","status":"machine"}
+{"id":"Yz4HegE6","en":"A Sluggy Hike","zh":"缓慢的徒步旅行","status":"machine"}
+{"id":"kOyCDy3k","en":"NyxaVora","zh":"尼萨沃拉","status":"machine"}
+{"id":"tKZUSGNE","en":"Perry Light","zh":"Perry Light","status":"machine"}
+{"id":"cH3CJuSr","en":"vibes2019shaders","zh":"vibes 2019着色器","status":"machine"}
+{"id":"ME1Y9Iq7","en":"Nyolxel","zh":"尼奥尔塞尔","status":"machine"}
+{"id":"lgtDNqmQ","en":"Heliox","zh":"氦氧","status":"machine"}
+{"id":"smVSwFS8","en":"Cursed Shader pack","zh":"诅咒着色器包","status":"machine"}
+{"id":"mHWnah27","en":"Atherial Shaders","zh":"动脉粥样硬化症","status":"machine"}
+{"id":"KO5bdqAG","en":"Flashbang Shader","zh":"闪光弹着色器","status":"machine"}
+{"id":"gNqMYHiT","en":"Summer Vibes","zh":"夏日氛围","status":"machine"}
+{"id":"LvtQEwjR","en":"Sarp Shaders","zh":"Sarp暗影者","status":"machine"}
+{"id":"LimqkmLs","en":"Incremental shaders","zh":"增量着色器","status":"machine"}
+{"id":"bxJZyLSs","en":"NostaLens","zh":"NostaLens","status":"machine"}
+{"id":"HiQZb2UB","en":"Sytex Shader Sound","zh":"Sytex着色器声音","status":"machine"}
+{"id":"X4f9rX0Z","en":"VividVanilla Shaders","zh":"Vivid香草暗影者","status":"machine"}
+{"id":"6n6PKtZ3","en":"Line Shaders","zh":"线条着色器","status":"machine"}
+{"id":"GoM5K1y6","en":"Ascii-Craft","zh":"阿希工艺","status":"machine"}
+{"id":"yPVMbdwm","en":"REAlite","zh":"真实的","status":"machine"}
+{"id":"piFkyOuh","en":"PR1SMLITE","zh":"PR 1 SMLITE","status":"machine"}
+{"id":"WEs7MJGP","en":"Animtr","zh":"Animtr","status":"machine"}
+{"id":"2gKiWP6Y","en":"Memory Leaks","zh":"内存泄漏","status":"machine"}
+{"id":"dtP5JW25","en":"Moonplayshader","zh":"Moonplayshader","status":"machine"}
+{"id":"UQWktRm2","en":"Hex Shaders","zh":"六角暗影者","status":"machine"}
+{"id":"pqxd0THp","en":"Ember Shader","zh":"灰烬着色器","status":"machine"}
+{"id":"E4OF11ZZ","en":"TAA-Voxy Port","zh":"TAA-Vooxy Port","status":"machine"}
+{"id":"uA5nNhrW","en":"EnS-hAder","zh":"EnS-hAder","status":"machine"}
+{"id":"83NcAaaB","en":"Ephyrium Shaders","zh":"叶蕨属","status":"machine"}
+{"id":"AyCLIZ8j","en":"Out Of Focus","zh":"失焦","status":"machine"}
+{"id":"JZUzXrbq","en":"Realistic Vista","zh":"现实的景象","status":"machine"}
+{"id":"XOQB4IrP","en":"AWSS Shader","zh":"AWSS着色器","status":"machine"}
+{"id":"lTpQPKLv","en":"Cinematic Horizon Shaders","zh":"电影地平线暗影者","status":"machine"}
+{"id":"XJCVtujM","en":"Holo","zh":"Holo","status":"machine"}
+{"id":"nRw4OWBE","en":"PlunderPixels Shader - Reimagined","zh":"PlunderPixels Shader -重新想象","status":"machine"}
+{"id":"W0i9ASTQ","en":"RETRO_VHS_Screen","zh":"RETRO_VHS_Screen","status":"machine"}
+{"id":"Od1SJ5Go","en":"ChillCrafter Shaders","zh":"ChillCrafter Shaders","status":"machine"}
+{"id":"BtdRhQHs","en":"MilkShader","zh":"MilkShader","status":"machine"}
+{"id":"72RHWct5","en":"Visual Addons","zh":"视觉添加","status":"machine"}
+{"id":"bxffdpU2","en":"No Blocks Shader","zh":"无块着色器","status":"machine"}
+{"id":"3XFlJWus","en":"EzExposure","zh":"EzExposure","status":"machine"}
+{"id":"z71fU8EI","en":"ULS Shader","zh":"ULS着色器","status":"machine"}
+{"id":"WixOb0d0","en":"Breeze Shader","zh":"微风遮光器","status":"machine"}
+{"id":"YWWRJJac","en":"oldhorrorvibes","zh":"老霍尔罗威贝斯","status":"machine"}
+{"id":"UZ6lEptU","en":"FadedClouds","zh":"褪色的云","status":"machine"}
+{"id":"bkRolebi","en":"Lumen Shaders","zh":"Lumen Shaders","status":"machine"}
+{"id":"IR92NLTh","en":"Veridian","zh":"绿科","status":"machine"}
+{"id":"WtQy4prk","en":"Toon Shades","zh":"Toon Shades","status":"machine"}
+{"id":"mX7szUw7","en":"N87 Shaders","zh":"N87暗影者","status":"machine"}
+{"id":"wd1z78DE","en":"EntitiesBeGone","zh":"身份不再","status":"machine"}
+{"id":"oAeXD5jG","en":"MakeUp: Dead Days","zh":"化妆：死亡日","status":"machine"}
+{"id":"x8m6GVCK","en":"Tint Shaders","zh":"有色阴影","status":"machine"}
+{"id":"JYVuSpWE","en":"Claude AI shader","zh":"Claude AI着色器","status":"machine"}
+{"id":"N9sMPIIC","en":"Kaskada Shaders","zh":"卡斯卡达暗影者","status":"machine"}
+{"id":"XNvZHEgC","en":"[ QUAINT ] Shaders","zh":"[QUAint]着色器","status":"machine"}
+{"id":"JMcDg496","en":"Vomit Shaders","zh":"呕吐阴影","status":"machine"}
+{"id":"3ZnZU00r","en":"Supreme Shader","zh":"最高着色器","status":"machine"}
+{"id":"H2gGCPWk","en":"Beyond Horizons Shaders","zh":"超越地平线暗影者","status":"machine"}
+{"id":"q0sQ0yBU","en":"floor(IT)","zh":"地板（IT）","status":"machine"}
+{"id":"Ne6WFx4Z","en":"Crossfrog's Soft Outlines","zh":"Crossfrog的软轮廓","status":"machine"}
+{"id":"jkDOHaKM","en":"ExtremeDarknessShader","zh":"极端黑暗着色器","status":"machine"}
+{"id":"8MrirRd6","en":"LightWeight Atmospherica","zh":"轻量级大气","status":"machine"}
+{"id":"uSrJL7QR","en":"GreenVoid","zh":"GreenVoid","status":"machine"}
+{"id":"6d8QKJai","en":"Lucid Clarity","zh":"清醒清晰","status":"machine"}
+{"id":"CEkE0ksb","en":"NOISE Shaders","zh":"噪音阴影","status":"machine"}
+{"id":"fQSbV5Hb","en":"Chaos is feasible","zh":"混乱是可行的","status":"machine"}
+{"id":"gPuG6wzc","en":"EzRGB","zh":"EzRB","status":"machine"}
+{"id":"myFzKEjK","en":"vineC's Cartoony Shaders","zh":"vineC的卡通暗影者","status":"machine"}
+{"id":"7B1z49iB","en":"VynixShader","zh":"VynixShader","status":"machine"}
+{"id":"E5wFicpD","en":"Minecraft But It's 50% Redder","zh":"《我的世界》，但它是50% Redder","status":"machine"}
+{"id":"Fy31eTyo","en":"Orbit Shader","zh":"轨道着色器","status":"machine"}
+{"id":"DfW79akk","en":"Cozy Autumn","zh":"舒适的秋天","status":"machine"}
+{"id":"GbicmCIb","en":"Lumen_NM","zh":"Lumen_NM","status":"machine"}
+{"id":"KuAOKxku","en":"CherryJazz","zh":"樱桃爵士乐","status":"machine"}
+{"id":"Dim3bYIE","en":"Talax's Lobotomy Shaders","zh":"塔拉克斯的脑白质切除术暗影者","status":"machine"}
+{"id":"LVvPobw5","en":"NaturalVision Shaders","zh":"NaturalVision Shaders","status":"machine"}
+{"id":"VcyzLPu7","en":"EtherLite Shaderpack","zh":"EtherLite Shaderpack","status":"machine"}
+{"id":"L0V7C0lS","en":"ThaiGlowLite Shader","zh":"ThaiGlowLite着色器","status":"machine"}
+{"id":"tompRlIK","en":"Vertigo Shader","zh":"垂直着色器","status":"machine"}
+{"id":"v8dYs088","en":"Googy Shaders","zh":"Googy Shaders","status":"machine"}
+{"id":"c2oCftuo","en":"OZZA shader","zh":"OZZA着色器","status":"machine"}
+{"id":"7Vl34DZE","en":"Forbis's shader !","zh":"福比斯的着色器！","status":"machine"}
+{"id":"dnu5SLoQ","en":"Procedural_Magic_UHD","zh":"程序性_Magic_UHD","status":"machine"}
+{"id":"yEtjSPos","en":"EmberVoid Shader","zh":"EmberVoid着色器","status":"machine"}
+{"id":"eUzr18bo","en":"LetterBox","zh":"信箱","status":"machine"}
+{"id":"rPU2vYZU","en":"Lost signal","zh":"丢失信号","status":"machine"}
+{"id":"23uUjG6K","en":"Chroma Lite Shaderpack Realism Low-End","zh":"Chroma Lite Shaderpack现实主义低端","status":"machine"}
+{"id":"GEkGzgkr","en":"PS Vibe Shaders","zh":"PS Vibe暗影","status":"machine"}
+{"id":"kauudFKe","en":"Optifine Old Lighting","zh":"Optifine旧照明","status":"machine"}
+{"id":"Xg40RQYd","en":"ColorFulShader","zh":"ColorFulShader","status":"machine"}
+{"id":"c40BhcOZ","en":"BalancedLite Shadere.zip","zh":"BalancedLite Shadere.zip","status":"machine"}
+{"id":"VeFMbpGd","en":"Expanse Shaders","zh":"扩展着色器","status":"machine"}
+{"id":"ckTKAs2b","en":"DREDGIVIBE","zh":"德雷吉维贝","status":"machine"}
+{"id":"htdOJhsU","en":"ThaiGlow Shader","zh":"ThaiGlow Shader","status":"machine"}

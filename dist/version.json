@@ -1,0 +1,15 @@
+{
+  "version": "f428f672e9c24dba",
+  "built_at": "2026-07-20T05:51:18Z",
+  "pair_count": 143395,
+  "status_counts": {
+    "machine": 143395
+  },
+  "exact_path": "exact_titles.json",
+  "semantic_path": "semantic.sqlite",
+  "embed": "char-2gram-hash/256",
+  "usage": {
+    "translate_replace": "exact_titles.json by_en / by_id：英文原名 → 中文",
+    "semantic_search": "semantic.sqlite：中文查询向量 → 近邻英文名"
+  }
+}

@@ -1,0 +1,56 @@
+# 每日编译精确匹配表 + 语义向量库 + version
+name: compile-daily
+
+on:
+  schedule:
+    - cron: "40 17 * * *" # UTC → 北京约 01:40（爬取之后）
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["crawl-daily"]
+    types: [completed]
+
+concurrency:
+  group: compile
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  compile:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Compile dist
+        run: python scripts/compile_dist.py
+
+      - name: Smoke semantic search
+        run: python scripts/search_semantic.py "钠" -k 5 || true
+
+      - name: Commit version + exact map
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # 大文件 semantic.sqlite 走 artifact，不进 git
+          git add dist/version.json dist/exact_titles.json
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore(dist): daily exact + version compile"
+            git pull --rebase --autostash origin HEAD || true
+            git push
+          fi
+
+      - name: Upload semantic.sqlite
+        uses: actions/upload-artifact@v4
+        with:
+          name: semantic-sqlite
+          path: dist/semantic.sqlite
+          retention-days: 30

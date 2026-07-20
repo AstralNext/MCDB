@@ -1,0 +1,61 @@
+# 每日全量爬取 Modrinth，只入库新项目，追加 review 待译行，更新 source/
+name: crawl-daily
+
+on:
+  schedule:
+    - cron: "15 16 * * *" # UTC → 北京时间约 00:15
+  workflow_dispatch:
+
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Restore catalog.db
+        uses: actions/cache@v4
+        with:
+          path: data/catalog.db
+          key: catalog-db-${{ github.run_id }}
+          restore-keys: |
+            catalog-db-
+
+      - name: Crawl (new-only)
+        run: python scripts/crawl.py --db data/catalog.db
+
+      - name: Validate
+        run: python scripts/validate.py
+
+      - name: Commit catalog / review / state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p state data
+          git add source review state/crawl_progress.json || true
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore(crawl): daily sync new Modrinth projects"
+            git pull --rebase --autostash origin HEAD || git pull --rebase origin HEAD
+            git push
+          fi
+
+      - name: Upload catalog.db
+        uses: actions/upload-artifact@v4
+        with:
+          name: catalog-db
+          path: data/catalog.db
+          if-no-files-found: ignore
+          retention-days: 14

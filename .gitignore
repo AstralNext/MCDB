@@ -1,0 +1,29 @@
+# large / regenerable
+dist/semantic.sqlite
+dist/*.sqlite-journal
+
+# local sqlite (artifact / cache only)
+data/
+*.db
+*.db-wal
+*.db-shm
+
+# env / secrets
+.env
+.env.*
+
+# locks (runtime only)
+state/translate.lock
+
+# logs / OS
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# editor
+.vscode/
