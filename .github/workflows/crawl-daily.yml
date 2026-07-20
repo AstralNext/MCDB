@@ -1,0 +1,44 @@
+# 每日全量 API 爬取（纯 JSONL）
+name: crawl-daily
+
+on:
+  schedule:
+    - cron: "15 16 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Crawl (JSONL only)
+        run: python scripts/crawl.py
+
+      - name: Validate
+        run: python scripts/validate.py
+
+      - name: Commit source / review / state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add source review state/crawl_progress.json || true
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore(crawl): daily sync new projects"
+            git pull --rebase --autostash origin HEAD || true
+            git push
+          fi

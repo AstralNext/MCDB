@@ -1,0 +1,31 @@
+# regenerable / large JSON vectors (ship via Release zip)
+dist/semantic/
+dist/semantic.sqlite
+dist/*.sqlite-journal
+release/
+
+# never commit databases
+data/
+*.db
+*.db-wal
+*.db-shm
+
+# env / secrets
+.env
+.env.*
+
+# locks
+state/translate.lock
+
+# logs / OS
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# editor
+.vscode/

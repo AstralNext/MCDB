@@ -1,0 +1,10 @@
+{
+  "provider": "edge",
+  "done_titles": 0,
+  "failed": 0,
+  "chars_sent": 0,
+  "requests": 0,
+  "updated_at": null,
+  "pending_left_estimate": null,
+  "last_error": null
+}

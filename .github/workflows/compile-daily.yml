@@ -1,0 +1,56 @@
+# 每日编译 JSON 产物（无 sqlite）
+name: compile-daily
+
+on:
+  schedule:
+    - cron: "40 17 * * *"
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["crawl-daily"]
+    types: [completed]
+
+concurrency:
+  group: compile
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  compile:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Compile JSON dist
+        run: python scripts/compile_dist.py
+
+      - name: Smoke semantic search
+        run: python scripts/search_semantic.py "钠" -k 5 || true
+
+      - name: Commit small dist JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # semantic/ 体积大，只提交对照表与元信息；向量分片走 Release
+          git add dist/version.json dist/exact_titles.json dist/bilingual.jsonl dist/semantic_meta.json
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore(dist): daily JSON compile"
+            git pull --rebase --autostash origin HEAD || true
+            git push
+          fi
+
+      - name: Upload semantic JSONL shards
+        uses: actions/upload-artifact@v4
+        with:
+          name: semantic-jsonl
+          path: dist/semantic/
+          retention-days: 14

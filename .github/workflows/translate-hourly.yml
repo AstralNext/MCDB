@@ -1,0 +1,52 @@
+# 每小时 Edge 翻译一批（只改 review JSONL）
+name: translate-hourly
+
+on:
+  schedule:
+    - cron: "20 * * * *"
+  workflow_dispatch:
+    inputs:
+      batch:
+        description: "本小时处理条数"
+        required: false
+        default: "40"
+
+concurrency:
+  group: translate
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 110
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Translate batch (Edge)
+        env:
+          BATCH: ${{ github.event.inputs.batch || '40' }}
+        run: |
+          python scripts/translate_edge.py \
+            --batch "$BATCH" \
+            --owner "gha-${{ github.run_id }}"
+
+      - name: Commit progress
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add review state/translate_progress.json || true
+          rm -f state/translate.lock
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore(i18n): edge translate hourly batch"
+            git pull --rebase --autostash origin HEAD || true
+            git push
+          fi
