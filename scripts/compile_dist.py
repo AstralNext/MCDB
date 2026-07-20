@@ -98,6 +98,8 @@ def load_pairs() -> list[dict]:
         if row.get("status") == "skip":
             continue
         meta = source_meta.get(pid, {})
+        desc_en = (row.get("desc") or meta.get("description") or "").strip()
+        desc_zh = (row.get("desc_zh") or "").strip()
         pairs.append(
             {
                 "id": pid,
@@ -105,6 +107,8 @@ def load_pairs() -> list[dict]:
                 "type": row.get("type") or meta.get("type") or "",
                 "en": en,
                 "zh": zh,
+                "desc": desc_en,
+                "desc_zh": desc_zh,
                 "status": row.get("status") or "machine",
                 "downloads": int(meta.get("downloads") or 0),
             }
@@ -194,6 +198,8 @@ def main() -> int:
                         "type": p.get("type") or "",
                         "en": p["en"],
                         "zh": p["zh"],
+                        "desc": p.get("desc") or "",
+                        "desc_zh": p.get("desc_zh") or "",
                         "status": p.get("status") or "",
                     },
                     ensure_ascii=False,

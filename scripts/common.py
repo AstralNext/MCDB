@@ -157,8 +157,16 @@ def parse_review_line(line: str) -> dict | None:
         en = o.get("title_en") or o.get("title") or ""
     if zh is None:
         zh = o.get("title_zh") or ""
+    desc = o.get("desc")
+    if desc is None:
+        desc = o.get("desc_en") or o.get("description") or ""
+    desc_zh = o.get("desc_zh")
+    if desc_zh is None:
+        desc_zh = o.get("description_zh") or ""
     en = str(en)
     zh = str(zh)
+    desc = str(desc)
+    desc_zh = str(desc_zh)
     status = str(o.get("status") or ("reviewed" if zh.strip() else "pending")).strip()
     if status not in ALLOWED_STATUS:
         return None
@@ -166,15 +174,30 @@ def parse_review_line(line: str) -> dict | None:
         status = "machine"
     if not pid or not en:
         return None
-    return {"id": pid, "en": en, "zh": zh, "status": status}
+    return {
+        "id": pid,
+        "en": en,
+        "zh": zh,
+        "desc": desc,
+        "desc_zh": desc_zh,
+        "status": status,
+    }
 
 
-def format_review_line(pid: str, en: str, zh: str, status: str) -> str:
-    return json.dumps(
-        {"id": pid, "en": en or "", "zh": zh or "", "status": status},
-        ensure_ascii=False,
-        separators=(",", ":"),
-    )
+def format_review_line(
+    pid: str,
+    en: str,
+    zh: str,
+    status: str, *,
+    desc: str = "",
+    desc_zh: str = "",
+) -> str:
+    obj: dict = {"id": pid, "en": en or "", "zh": zh or "", "status": status}
+    if desc:
+        obj["desc"] = desc
+    if desc_zh:
+        obj["desc_zh"] = desc_zh
+    return json.dumps(obj, ensure_ascii=False, separators=(",", ":"))
 
 
 def load_all_review_titles(review_root: Path = REVIEW_TITLES) -> dict[str, dict]:
