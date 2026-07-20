@@ -1,6 +1,7 @@
 # large / regenerable
 dist/semantic.sqlite
 dist/*.sqlite-journal
+release/
 
 # local sqlite (artifact / cache only)
 data/

@@ -38,19 +38,19 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # 大文件 semantic.sqlite 走 artifact，不进 git
-          git add dist/version.json dist/exact_titles.json
+          # 大文件 semantic.sqlite 走 Release，不进 git
+          git add dist/version.json dist/exact_titles.json dist/bilingual.jsonl
           if git diff --staged --quiet; then
             echo "No changes"
           else
-            git commit -m "chore(dist): daily exact + version compile"
+            git commit -m "chore(dist): daily exact + bilingual + version compile"
             git pull --rebase --autostash origin HEAD || true
             git push
           fi
 
-      - name: Upload semantic.sqlite
+      - name: Upload semantic.sqlite artifact
         uses: actions/upload-artifact@v4
         with:
           name: semantic-sqlite
           path: dist/semantic.sqlite
-          retention-days: 30
+          retention-days: 14

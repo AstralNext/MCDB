@@ -215,6 +215,26 @@ def main() -> int:
     exact_path = args.out / "exact_titles.json"
     write_json(exact_path, exact)
 
+    # 中英对照：一行一条，方便直接读 / 导入
+    bilingual_path = args.out / "bilingual.jsonl"
+    with bilingual_path.open("w", encoding="utf-8", newline="\n") as f:
+        for p in pairs:
+            f.write(
+                json.dumps(
+                    {
+                        "id": p["id"],
+                        "slug": p.get("slug") or "",
+                        "type": p.get("type") or "",
+                        "en": p["en"],
+                        "zh": p["zh"],
+                        "status": p.get("status") or "",
+                    },
+                    ensure_ascii=False,
+                    separators=(",", ":"),
+                )
+                + "\n"
+            )
+
     sem_path = args.out / "semantic.sqlite"
     build_semantic_db(pairs, sem_path)
 
@@ -224,10 +244,17 @@ def main() -> int:
         "built_at": now_iso(),
         "pair_count": len(pairs),
         "status_counts": dict(status_counts),
+        "files": {
+            "bilingual": "bilingual.jsonl",
+            "exact": "exact_titles.json",
+            "semantic": "semantic.sqlite",
+        },
         "exact_path": "exact_titles.json",
         "semantic_path": "semantic.sqlite",
-        "embed": f"char-{NGRAM_N}gram-hash/{VEC_DIM}",
+        "bilingual_path": "bilingual.jsonl",
+        "embed": f"char-unigram+bigram-hash/{VEC_DIM}",
         "usage": {
+            "bilingual": "bilingual.jsonl：中英对照（id/slug/en/zh）",
             "translate_replace": "exact_titles.json by_en / by_id：英文原名 → 中文",
             "semantic_search": "semantic.sqlite：中文查询向量 → 近邻英文名",
         },

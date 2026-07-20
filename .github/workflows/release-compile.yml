@@ -1,0 +1,105 @@
+# 编译并发布发行包：中英对照 + 精确表 + 语义向量库
+name: release-compile
+
+on:
+  schedule:
+    - cron: "0 18 * * *" # UTC → 北京约 02:00（编译之后）
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["compile-daily"]
+    types: [completed]
+
+concurrency:
+  group: release
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Compile dist
+        run: python scripts/compile_dist.py
+
+      - name: Pack release
+        run: python scripts/pack_release.py
+
+      - name: Read manifest
+        id: meta
+        run: |
+          VER=$(python -c "import json; print(json.load(open('release/manifest.json'))['version'])")
+          STAMP=$(python -c "import json; print((json.load(open('release/manifest.json')).get('built_at') or '')[:10].replace('-',''))")
+          COUNT=$(python -c "import json; print(json.load(open('release/manifest.json')).get('pair_count'))")
+          echo "version=$VER" >> "$GITHUB_OUTPUT"
+          echo "stamp=$STAMP" >> "$GITHUB_OUTPUT"
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+          echo "tag=dist-$STAMP-$VER" >> "$GITHUB_OUTPUT"
+
+      - name: Commit bilingual + version into repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/version.json dist/exact_titles.json dist/bilingual.jsonl
+          if git diff --staged --quiet; then
+            echo "No tracked dist changes"
+          else
+            git commit -m "chore(dist): release compile ${{ steps.meta.outputs.tag }}"
+            git pull --rebase --autostash origin HEAD || true
+            git push
+          fi
+
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: mcdb-release-${{ steps.meta.outputs.stamp }}
+          path: release/
+          retention-days: 30
+
+      - name: Publish GitHub Release (dated)
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.meta.outputs.tag }}
+          name: MCDB ${{ steps.meta.outputs.stamp }} (${{ steps.meta.outputs.count }} pairs)
+          body: |
+            发行包：中英对照 + 精确替换 + 语义向量搜索
+
+            - **version**: `${{ steps.meta.outputs.version }}`
+            - **pairs**: ${{ steps.meta.outputs.count }}
+            - `mcdb-*.zip`：完整包（推荐）
+            - `bilingual.jsonl`：中英对照
+            - `exact_titles.json`：英文 → 中文精确表
+            - `semantic.sqlite`：向量搜索库
+          files: |
+            release/mcdb-*.zip
+            release/bilingual.jsonl
+            release/exact_titles.json
+            release/semantic.sqlite
+            release/version.json
+          fail_on_unmatched_files: true
+
+      - name: Refresh rolling latest-dist
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG=latest-dist
+          gh release delete "$TAG" --yes 2>/dev/null || true
+          git push origin ":refs/tags/$TAG" 2>/dev/null || true
+          gh release create "$TAG" \
+            release/mcdb-*.zip \
+            release/bilingual.jsonl \
+            release/exact_titles.json \
+            release/semantic.sqlite \
+            release/version.json \
+            --title "MCDB latest-dist (${{ steps.meta.outputs.count }} pairs)" \
+            --notes "滚动最新发行包。对应版本 ${{ steps.meta.outputs.tag }}。" \
+            --latest=false
