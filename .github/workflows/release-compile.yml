@@ -1,9 +1,9 @@
-# 编译并发布发行包：中英对照 + 精确表 + 语义向量库
+# 编译并发布全 JSON 发行包（中英对照 + 向量 JSONL）
 name: release-compile
 
 on:
   schedule:
-    - cron: "0 18 * * *" # UTC → 北京约 02:00（编译之后）
+    - cron: "0 18 * * *"
   workflow_dispatch:
   workflow_run:
     workflows: ["compile-daily"]
@@ -28,11 +28,10 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Compile dist
-        run: python scripts/compile_dist.py
-
-      - name: Pack release
-        run: python scripts/pack_release.py
+      - name: Compile + pack
+        run: |
+          python scripts/compile_dist.py
+          python scripts/pack_release.py
 
       - name: Read manifest
         id: meta
@@ -45,11 +44,11 @@ jobs:
           echo "count=$COUNT" >> "$GITHUB_OUTPUT"
           echo "tag=dist-$STAMP-$VER" >> "$GITHUB_OUTPUT"
 
-      - name: Commit bilingual + version into repo
+      - name: Commit small dist JSON
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add dist/version.json dist/exact_titles.json dist/bilingual.jsonl
+          git add dist/version.json dist/exact_titles.json dist/bilingual.jsonl dist/semantic_meta.json
           if git diff --staged --quiet; then
             echo "No tracked dist changes"
           else
@@ -58,7 +57,7 @@ jobs:
             git push
           fi
 
-      - name: Upload build artifact
+      - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: mcdb-release-${{ steps.meta.outputs.stamp }}
@@ -71,21 +70,31 @@ jobs:
           tag_name: ${{ steps.meta.outputs.tag }}
           name: MCDB ${{ steps.meta.outputs.stamp }} (${{ steps.meta.outputs.count }} pairs)
           body: |
-            发行包：中英对照 + 精确替换 + 语义向量搜索
+            全 JSON 发行包（无数据库）
 
             - **version**: `${{ steps.meta.outputs.version }}`
             - **pairs**: ${{ steps.meta.outputs.count }}
             - `mcdb-*.zip`：完整包（推荐）
             - `bilingual.jsonl`：中英对照
-            - `exact_titles.json`：英文 → 中文精确表
-            - `semantic.sqlite`：向量搜索库
+            - `exact_titles.json`：精确替换
+            - `semantic/`：向量搜索 JSONL 分片
           files: |
             release/mcdb-*.zip
             release/bilingual.jsonl
             release/exact_titles.json
-            release/semantic.sqlite
+            release/semantic_meta.json
             release/version.json
           fail_on_unmatched_files: true
+
+      - name: Attach semantic shards to release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # zip 语义分片单独附上，避免超大单文件
+          (cd release && zip -r -q "semantic-${{ steps.meta.outputs.stamp }}.zip" semantic)
+          gh release upload "${{ steps.meta.outputs.tag }}" \
+            "release/semantic-${{ steps.meta.outputs.stamp }}.zip" \
+            --clobber
 
       - name: Refresh rolling latest-dist
         env:
@@ -94,12 +103,14 @@ jobs:
           TAG=latest-dist
           gh release delete "$TAG" --yes 2>/dev/null || true
           git push origin ":refs/tags/$TAG" 2>/dev/null || true
+          (cd release && zip -r -q "semantic-latest.zip" semantic)
           gh release create "$TAG" \
             release/mcdb-*.zip \
             release/bilingual.jsonl \
             release/exact_titles.json \
-            release/semantic.sqlite \
+            release/semantic_meta.json \
             release/version.json \
+            release/semantic-latest.zip \
             --title "MCDB latest-dist (${{ steps.meta.outputs.count }} pairs)" \
-            --notes "滚动最新发行包。对应版本 ${{ steps.meta.outputs.tag }}。" \
+            --notes "滚动最新全 JSON 发行包。对应 ${{ steps.meta.outputs.tag }}。" \
             --latest=false

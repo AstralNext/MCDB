@@ -1,9 +1,9 @@
-# 每周维护：校验、重编译、清理陈旧锁
+# 每周维护：校验 + JSON 重编译
 name: maintain-weekly
 
 on:
   schedule:
-    - cron: "0 18 * * 0" # 周日 UTC 18:00 → 周一北京 02:00
+    - cron: "0 18 * * 0"
   workflow_dispatch:
 
 concurrency:
@@ -27,28 +27,21 @@ jobs:
       - name: Validate
         run: python scripts/validate.py
 
-      - name: Recompile dist
+      - name: Recompile JSON dist
         run: python scripts/compile_dist.py
 
       - name: Clear stale translate lock
         run: rm -f state/translate.lock
 
-      - name: Commit maintenance outputs
+      - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add dist/version.json dist/exact_titles.json state || true
+          git add dist/version.json dist/exact_titles.json dist/bilingual.jsonl dist/semantic_meta.json state || true
           if git diff --staged --quiet; then
             echo "No changes"
           else
-            git commit -m "chore(maintain): weekly validate + recompile"
+            git commit -m "chore(maintain): weekly validate + JSON recompile"
             git pull --rebase --autostash origin HEAD || true
             git push
           fi
-
-      - name: Upload semantic.sqlite
-        uses: actions/upload-artifact@v4
-        with:
-          name: semantic-sqlite-weekly
-          path: dist/semantic.sqlite
-          retention-days: 90

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""小时任务：用 Edge 公共翻译处理一批待译标题，写进度，不覆盖 reviewed。"""
+"""小时任务：Edge 翻译待译标题（只改 review JSONL，无数据库）。"""
 
 from __future__ import annotations
 
@@ -15,11 +15,9 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from common import (
-    CATALOG_DB,
     REVIEW_TITLES,
     TRANSLATE_LOCK,
     TRANSLATE_PROGRESS,
-    connect_db,
     ensure_dirs,
     format_review_line,
     now_iso,
@@ -123,10 +121,7 @@ class EdgeTranslator:
                     wait = min(wait * 1.5, 300)
                     continue
                 if e.code in (429, 503, 408, 500, 502):
-                    print(
-                        f"  HIT WALL {e.code}, sleep {wait:.0f}s ({detail})",
-                        flush=True,
-                    )
+                    print(f"  HIT WALL {e.code}, sleep {wait:.0f}s ({detail})", flush=True)
                     time.sleep(wait)
                     wait = min(wait * 1.8, 600)
                     self._refresh(force=True)
@@ -140,7 +135,6 @@ class EdgeTranslator:
 
 
 def pending_from_review(limit: int) -> list[tuple[Path, int, dict]]:
-    """返回 (path, line_index, row) 待处理项。"""
     items: list[tuple[Path, int, dict]] = []
     if not REVIEW_TITLES.is_dir():
         return items
@@ -153,11 +147,6 @@ def pending_from_review(limit: int) -> list[tuple[Path, int, dict]]:
             if row["status"] in PROTECTED:
                 continue
             if row["zh"] and row["status"] == "machine":
-                continue
-            if row["zh"] and row["status"] not in ("pending", "error", ""):
-                continue
-            # 无中文或 pending/error → 可机翻
-            if row["zh"] and row["status"] == "reviewed":
                 continue
             if not row["zh"] or row["status"] in ("pending", "error"):
                 items.append((path, i, row))
@@ -180,29 +169,11 @@ def write_review_updates(updates: dict[tuple[Path, int], dict]) -> None:
         path.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
-def sync_db_titles(conn, rows: list[dict]) -> None:
-    for row in rows:
-        conn.execute(
-            """
-            UPDATE projects SET
-              title_zh = ?,
-              title_status = ?,
-              translated_at = ?,
-              translate_error = NULL
-            WHERE project_id = ?
-              AND COALESCE(title_status, 'pending') NOT IN ('reviewed', 'skip')
-            """,
-            (row["zh"], row["status"], now_iso(), row["id"]),
-        )
-    conn.commit()
-
-
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Hourly Edge title translation batch")
-    parser.add_argument("--db", type=Path, default=CATALOG_DB)
+    parser = argparse.ArgumentParser(description="Hourly Edge title translation (JSONL)")
     parser.add_argument("--batch", type=int, default=DEFAULT_BATCH)
     parser.add_argument("--delay", type=float, default=DEFAULT_DELAY)
-    parser.add_argument("--chunk", type=int, default=8, help="每请求条数")
+    parser.add_argument("--chunk", type=int, default=8)
     parser.add_argument("--owner", type=str, default="local")
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
@@ -266,7 +237,6 @@ def main() -> int:
                 failed += len(wave)
                 progress["last_error"] = str(e)[:500]
                 print(f"  FAIL wave: {e}", flush=True)
-                # 单波失败：标记 error，避免死循环狂打
                 for path, idx, row in wave:
                     row = dict(row)
                     row["status"] = "error"
@@ -276,11 +246,8 @@ def main() -> int:
 
         write_review_updates(updates)
 
-        conn = connect_db(args.db)
-        sync_db_titles(conn, list(updates.values()))
-        conn.close()
-
         progress["provider"] = "edge"
+        progress["storage"] = "jsonl"
         progress["done_titles"] = int(progress.get("done_titles") or 0) + done
         progress["failed"] = int(progress.get("failed") or 0) + failed
         progress["chars_sent"] = int(progress.get("chars_sent") or 0) + chars
@@ -288,11 +255,9 @@ def main() -> int:
         progress["updated_at"] = now_iso()
         progress["last_batch"] = done
         progress["last_failed"] = failed
-        # 统计剩余
-        left = len(pending_from_review(10_000_000))
-        progress["pending_left_estimate"] = left
+        progress["pending_left_estimate"] = len(pending_from_review(10_000_000))
         write_json(TRANSLATE_PROGRESS, progress)
-        print(json.dumps(progress, ensure_ascii=False, indent=2), flush=True)
+        print(json.dumps(progress, ensure_ascii=True, indent=2), flush=True)
         return 0 if failed == 0 else 1
     finally:
         release_lock(TRANSLATE_LOCK, owner)

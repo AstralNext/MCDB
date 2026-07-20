@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""打包发行目录：中英对照 + 精确表 + 语义库 + 说明，并打 zip。"""
+"""打包发行目录：全 JSON（对照 + 精确表 + 语义分片），打 zip。"""
 
 from __future__ import annotations
 
@@ -16,60 +16,49 @@ from common import DIST_DIR, ROOT, ensure_dirs, now_iso, write_json
 
 RELEASE_DIR = ROOT / "release"
 
-README_TXT = """MCDB 发行包
-===========
-
-本包便于离线使用「中英对照」与「向量搜索」。
+README_TXT = """MCDB 发行包（全 JSON，无数据库）
+================================
 
 文件
 ----
-- bilingual.jsonl     中英对照（一行一条 JSON：id/slug/type/en/zh/status）
-- exact_titles.json   精确替换表（by_en / by_id：英文原名 → 中文）
-- semantic.sqlite     语义向量库（中文查询 → 近邻英文）
-- version.json        版本与条数
-- USAGE.md            用法说明
+- bilingual.jsonl       中英对照
+- exact_titles.json     英文 → 中文精确表
+- semantic/*.jsonl      语义向量分片（字段 v 为 base64 float32）
+- semantic_meta.json    语义元信息
+- version.json          版本
 
-本地搜索示例（需仓库内 scripts）
---------------------------------
-python scripts/search_semantic.py --db semantic.sqlite "钠" -k 5
+搜索示例
+--------
+python scripts/search_semantic.py --semantic ./semantic "钠" -k 5
 python scripts/exact_replace.py --map exact_titles.json "Sodium"
 """
 
-USAGE_MD = """# MCDB 发行包用法
+USAGE_MD = """# MCDB 发行包用法（JSON only）
 
 ## 中英对照
 
-读 `bilingual.jsonl`，每行：
+`bilingual.jsonl` 每行：
 
 ```json
 {"id":"AANobbMI","slug":"sodium","type":"mod","en":"Sodium","zh":"钠","status":"machine"}
 ```
 
-适合导入自己的工具、做列表展示、人工浏览。
+## 精确替换
 
-## 精确替换（翻译用）
+`exact_titles.json` → `by_en` / `by_id`
 
-读 `exact_titles.json`：
+## 向量搜索
 
-- `by_en["Sodium"]` → `"钠"`
-- `by_id["AANobbMI"].zh` → `"钠"`
-
-英文原名完全匹配后替换成中文。
-
-## 向量搜索（搜索用）
-
-使用 `semantic.sqlite`：对中文查询做近邻，返回对应英文名。
-
-若你有本仓库脚本：
+`semantic/*.jsonl` 含字段 `v`（base64 编码的 float32 向量）。
 
 ```bash
-python scripts/search_semantic.py --db path/to/semantic.sqlite "高性能渲染" -k 5
+python scripts/search_semantic.py --semantic path/to/semantic "高性能渲染" -k 5
 ```
 """
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Pack MCDB release zip")
+    parser = argparse.ArgumentParser(description="Pack MCDB JSON release")
     parser.add_argument("--dist", type=Path, default=DIST_DIR)
     parser.add_argument("--out", type=Path, default=RELEASE_DIR)
     args = parser.parse_args()
@@ -79,7 +68,8 @@ def main() -> int:
         args.dist / "version.json",
         args.dist / "bilingual.jsonl",
         args.dist / "exact_titles.json",
-        args.dist / "semantic.sqlite",
+        args.dist / "semantic_meta.json",
+        args.dist / "semantic",
     ]
     missing = [str(p) for p in required if not p.exists()]
     if missing:
@@ -99,9 +89,10 @@ def main() -> int:
         "version.json",
         "bilingual.jsonl",
         "exact_titles.json",
-        "semantic.sqlite",
+        "semantic_meta.json",
     ):
         shutil.copy2(args.dist / name, stage / name)
+    shutil.copytree(args.dist / "semantic", stage / "semantic")
 
     (stage / "README.txt").write_text(README_TXT, encoding="utf-8")
     (stage / "USAGE.md").write_text(USAGE_MD, encoding="utf-8")
@@ -113,11 +104,14 @@ def main() -> int:
             if path.is_file():
                 zf.write(path, arcname=f"mcdb/{path.relative_to(stage).as_posix()}")
 
-    # 也单独放出 sqlite / bilingual，方便只下某一项
-    shutil.copy2(args.dist / "semantic.sqlite", args.out / "semantic.sqlite")
-    shutil.copy2(args.dist / "bilingual.jsonl", args.out / "bilingual.jsonl")
-    shutil.copy2(args.dist / "exact_titles.json", args.out / "exact_titles.json")
-    shutil.copy2(args.dist / "version.json", args.out / "version.json")
+    for name in (
+        "bilingual.jsonl",
+        "exact_titles.json",
+        "version.json",
+        "semantic_meta.json",
+    ):
+        shutil.copy2(args.dist / name, args.out / name)
+    shutil.copytree(args.dist / "semantic", args.out / "semantic")
 
     manifest = {
         "tag_hint": f"dist-{stamp}-{ver}",
@@ -125,12 +119,13 @@ def main() -> int:
         "built_at": version.get("built_at"),
         "version": ver,
         "pair_count": version.get("pair_count"),
+        "format": "json-only",
         "assets": [
             zip_name,
             "bilingual.jsonl",
             "exact_titles.json",
-            "semantic.sqlite",
-            "version.json",
+            "semantic_meta.json",
+            "semantic/",
         ],
     }
     write_json(args.out / "manifest.json", manifest)

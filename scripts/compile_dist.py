@@ -1,19 +1,15 @@
 #!/usr/bin/env python3
-"""编译对外产物：精确匹配表 + 语义向量库 + 版本信息。
-
-用途：
-- exact：翻译时按英文原名精确替换中文
-- semantic：输入中文，找意思接近的英文名（搜索/联想）
-"""
+"""编译对外产物（全 JSON）：中英对照 + 精确表 + 语义向量 JSONL。"""
 
 from __future__ import annotations
 
 import argparse
+import base64
 import hashlib
 import json
 import math
 import re
-import sqlite3
+import shutil
 import struct
 import sys
 from collections import Counter
@@ -33,6 +29,7 @@ from common import (
 
 VEC_DIM = 256
 NGRAM_N = 2
+SEMANTIC_SHARD = 3000
 
 
 def char_ngrams(text: str, n: int = NGRAM_N) -> list[str]:
@@ -45,7 +42,6 @@ def char_ngrams(text: str, n: int = NGRAM_N) -> list[str]:
 
 
 def embed(text: str, dim: int = VEC_DIM) -> list[float]:
-    """字符 uni/bi-gram 哈希向量（无需模型，中英混排短标题够用）。"""
     vec = [0.0] * dim
     grams = char_ngrams(text, 1) + char_ngrams(text, 2)
     if not grams:
@@ -54,7 +50,6 @@ def embed(text: str, dim: int = VEC_DIM) -> list[float]:
         h = int(hashlib.md5(g.encode("utf-8")).hexdigest(), 16)
         idx = h % dim
         sign = 1.0 if (h >> 8) & 1 else -1.0
-        # 单字权重略高，利于短中文查询
         w = 1.4 if len(g) == 1 else 1.0
         vec[idx] += sign * w
     norm = math.sqrt(sum(v * v for v in vec)) or 1.0
@@ -70,12 +65,19 @@ def unpack_vec(blob: bytes) -> list[float]:
     return list(struct.unpack(f"{n}f", blob))
 
 
+def encode_vec(vec: list[float]) -> str:
+    return base64.b64encode(pack_vec(vec)).decode("ascii")
+
+
+def decode_vec(s: str) -> list[float]:
+    return unpack_vec(base64.b64decode(s))
+
+
 def cosine(a: list[float], b: list[float]) -> float:
     return sum(x * y for x, y in zip(a, b))
 
 
 def load_pairs() -> list[dict]:
-    """优先 review（人工/机翻），英文以 review.en 为准；补 slug/type 从 source。"""
     review = load_all_review_titles(REVIEW_TITLES)
     source_meta: dict[str, dict] = {}
     if SOURCE_DIR.is_dir():
@@ -120,7 +122,6 @@ def build_exact(pairs: list[dict]) -> dict:
         by_id[p["id"]] = {"en": p["en"], "zh": p["zh"], "slug": p["slug"]}
         if p["en"] in by_en and by_en[p["en"]] != p["zh"]:
             collisions += 1
-        # 下载量高的优先（已排序）
         by_en.setdefault(p["en"], p["zh"])
         by_en_lower.setdefault(p["en"].lower(), p["zh"])
     return {
@@ -132,67 +133,30 @@ def build_exact(pairs: list[dict]) -> dict:
     }
 
 
-def build_semantic_db(pairs: list[dict], out_path: Path) -> None:
-    if out_path.exists():
-        out_path.unlink()
-    conn = sqlite3.connect(str(out_path))
-    conn.executescript(
-        """
-        CREATE TABLE meta (
-          key TEXT PRIMARY KEY,
-          value TEXT NOT NULL
-        );
-        CREATE TABLE entries (
-          id TEXT PRIMARY KEY,
-          slug TEXT,
-          type TEXT,
-          en TEXT NOT NULL,
-          zh TEXT NOT NULL,
-          status TEXT,
-          downloads INTEGER DEFAULT 0,
-          vec BLOB NOT NULL
-        );
-        CREATE INDEX idx_entries_zh ON entries(zh);
-        CREATE INDEX idx_entries_en ON entries(en);
-        """
-    )
-    # 语义检索面向「中文查询 → 英文」：对中文标题建向量
-    for p in pairs:
-        vec = embed(p["zh"])
-        conn.execute(
-            """
-            INSERT INTO entries (id, slug, type, en, zh, status, downloads, vec)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-            """,
-            (
-                p["id"],
-                p["slug"],
-                p["type"],
-                p["en"],
-                p["zh"],
-                p["status"],
-                p["downloads"],
-                pack_vec(vec),
-            ),
-        )
-    conn.execute(
-        "INSERT INTO meta (key, value) VALUES (?, ?)",
-        ("vec_dim", str(VEC_DIM)),
-    )
-    conn.execute(
-        "INSERT INTO meta (key, value) VALUES (?, ?)",
-        ("embed", f"char-{NGRAM_N}gram-hash"),
-    )
-    conn.execute(
-        "INSERT INTO meta (key, value) VALUES (?, ?)",
-        ("built_at", now_iso()),
-    )
-    conn.execute(
-        "INSERT INTO meta (key, value) VALUES (?, ?)",
-        ("count", str(len(pairs))),
-    )
-    conn.commit()
-    conn.close()
+def build_semantic_jsonl(pairs: list[dict], out_dir: Path, shard_size: int) -> list[str]:
+    if out_dir.exists():
+        shutil.rmtree(out_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    files: list[str] = []
+    for i in range(0, len(pairs), shard_size):
+        chunk = pairs[i : i + shard_size]
+        name = f"{i // shard_size:03d}.jsonl"
+        path = out_dir / name
+        with path.open("w", encoding="utf-8", newline="\n") as f:
+            for p in chunk:
+                obj = {
+                    "id": p["id"],
+                    "slug": p.get("slug") or "",
+                    "type": p.get("type") or "",
+                    "en": p["en"],
+                    "zh": p["zh"],
+                    "status": p.get("status") or "",
+                    "downloads": int(p.get("downloads") or 0),
+                    "v": encode_vec(embed(p["zh"])),
+                }
+                f.write(json.dumps(obj, ensure_ascii=False, separators=(",", ":")) + "\n")
+        files.append(f"semantic/{name}")
+    return files
 
 
 def content_version(pairs: list[dict]) -> str:
@@ -203,19 +167,22 @@ def content_version(pairs: list[dict]) -> str:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Compile exact + semantic dist")
+    parser = argparse.ArgumentParser(description="Compile JSON dist (no sqlite)")
     parser.add_argument("--out", type=Path, default=DIST_DIR)
+    parser.add_argument("--shard-size", type=int, default=SEMANTIC_SHARD)
     args = parser.parse_args()
 
     ensure_dirs()
     args.out.mkdir(parents=True, exist_ok=True)
 
-    pairs = load_pairs()
-    exact = build_exact(pairs)
-    exact_path = args.out / "exact_titles.json"
-    write_json(exact_path, exact)
+    # 清理旧 sqlite
+    old_db = args.out / "semantic.sqlite"
+    if old_db.exists():
+        old_db.unlink()
 
-    # 中英对照：一行一条，方便直接读 / 导入
+    pairs = load_pairs()
+    write_json(args.out / "exact_titles.json", build_exact(pairs))
+
     bilingual_path = args.out / "bilingual.jsonl"
     with bilingual_path.open("w", encoding="utf-8", newline="\n") as f:
         for p in pairs:
@@ -235,31 +202,42 @@ def main() -> int:
                 + "\n"
             )
 
-    sem_path = args.out / "semantic.sqlite"
-    build_semantic_db(pairs, sem_path)
-
+    sem_files = build_semantic_jsonl(pairs, args.out / "semantic", args.shard_size)
     status_counts = Counter(p["status"] for p in pairs)
     version = {
         "version": content_version(pairs),
         "built_at": now_iso(),
         "pair_count": len(pairs),
         "status_counts": dict(status_counts),
+        "format": "json-only",
         "files": {
             "bilingual": "bilingual.jsonl",
             "exact": "exact_titles.json",
-            "semantic": "semantic.sqlite",
+            "semantic_dir": "semantic/",
+            "semantic_shards": sem_files,
         },
-        "exact_path": "exact_titles.json",
-        "semantic_path": "semantic.sqlite",
-        "bilingual_path": "bilingual.jsonl",
-        "embed": f"char-unigram+bigram-hash/{VEC_DIM}",
+        "embed": {
+            "name": "char-unigram+bigram-hash",
+            "dim": VEC_DIM,
+            "vec_encoding": "base64-float32le",
+        },
         "usage": {
-            "bilingual": "bilingual.jsonl：中英对照（id/slug/en/zh）",
-            "translate_replace": "exact_titles.json by_en / by_id：英文原名 → 中文",
-            "semantic_search": "semantic.sqlite：中文查询向量 → 近邻英文名",
+            "bilingual": "bilingual.jsonl：中英对照",
+            "translate_replace": "exact_titles.json：英文原名 → 中文",
+            "semantic_search": "semantic/*.jsonl：中文向量近邻 → 英文",
         },
     }
     write_json(args.out / "version.json", version)
+    write_json(
+        args.out / "semantic_meta.json",
+        {
+            "dim": VEC_DIM,
+            "count": len(pairs),
+            "shards": sem_files,
+            "vec_field": "v",
+            "encoding": "base64-float32le",
+        },
+    )
     print(json.dumps(version, ensure_ascii=True, indent=2), flush=True)
     return 0
 

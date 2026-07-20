@@ -1,4 +1,4 @@
-# 每小时用 Edge 公共翻译处理一批标题；文件锁 + concurrency 防冲突；不覆盖 reviewed
+# 每小时 Edge 翻译一批（只改 review JSONL）
 name: translate-hourly
 
 on:
@@ -29,20 +29,11 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Restore catalog.db
-        uses: actions/cache@v4
-        with:
-          path: data/catalog.db
-          key: catalog-db-${{ github.run_id }}
-          restore-keys: |
-            catalog-db-
-
       - name: Translate batch (Edge)
         env:
           BATCH: ${{ github.event.inputs.batch || '40' }}
         run: |
           python scripts/translate_edge.py \
-            --db data/catalog.db \
             --batch "$BATCH" \
             --owner "gha-${{ github.run_id }}"
 
@@ -50,9 +41,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add review state/translate_progress.json state/translate.lock || true
-          # 锁文件不应提交；确保忽略
-          git reset HEAD state/translate.lock 2>/dev/null || true
+          git add review state/translate_progress.json || true
           rm -f state/translate.lock
           if git diff --staged --quiet; then
             echo "No changes"

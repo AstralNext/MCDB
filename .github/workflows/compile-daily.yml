@@ -1,9 +1,9 @@
-# 每日编译精确匹配表 + 语义向量库 + version
+# 每日编译 JSON 产物（无 sqlite）
 name: compile-daily
 
 on:
   schedule:
-    - cron: "40 17 * * *" # UTC → 北京约 01:40（爬取之后）
+    - cron: "40 17 * * *"
   workflow_dispatch:
   workflow_run:
     workflows: ["crawl-daily"]
@@ -28,29 +28,29 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Compile dist
+      - name: Compile JSON dist
         run: python scripts/compile_dist.py
 
       - name: Smoke semantic search
         run: python scripts/search_semantic.py "钠" -k 5 || true
 
-      - name: Commit version + exact map
+      - name: Commit small dist JSON
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # 大文件 semantic.sqlite 走 Release，不进 git
-          git add dist/version.json dist/exact_titles.json dist/bilingual.jsonl
+          # semantic/ 体积大，只提交对照表与元信息；向量分片走 Release
+          git add dist/version.json dist/exact_titles.json dist/bilingual.jsonl dist/semantic_meta.json
           if git diff --staged --quiet; then
             echo "No changes"
           else
-            git commit -m "chore(dist): daily exact + bilingual + version compile"
+            git commit -m "chore(dist): daily JSON compile"
             git pull --rebase --autostash origin HEAD || true
             git push
           fi
 
-      - name: Upload semantic.sqlite artifact
+      - name: Upload semantic JSONL shards
         uses: actions/upload-artifact@v4
         with:
-          name: semantic-sqlite
-          path: dist/semantic.sqlite
+          name: semantic-jsonl
+          path: dist/semantic/
           retention-days: 14
