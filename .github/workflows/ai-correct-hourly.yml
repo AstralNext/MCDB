@@ -11,9 +11,9 @@ on:
         required: false
         default: "55"
       batch:
-        description: "每批条数"
+        description: "每批条数（单次 API）"
         required: false
-        default: "10"
+        default: "40"
       limit:
         description: "本轮最多处理条数（0=不限制）"
         required: false

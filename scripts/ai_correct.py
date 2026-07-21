@@ -31,7 +31,7 @@ from common import (
 )
 
 DEFAULT_MODEL = "gemini-2.5-flash"
-DEFAULT_BATCH = 10
+DEFAULT_BATCH = 40
 PROGRESS = STATE_DIR / "ai_correct_progress.json"
 
 SYSTEM_PROMPT = (
