@@ -44,7 +44,7 @@ jobs:
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           DURATION: ${{ github.event.inputs.duration_minutes || '55' }}
-          BATCH: ${{ github.event.inputs.batch || '10' }}
+          BATCH: ${{ github.event.inputs.batch || '40' }}
           LIMIT: ${{ github.event.inputs.limit || '0' }}
         run: |
           if [ -z "$GOOGLE_API_KEY" ]; then
