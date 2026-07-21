@@ -232,6 +232,12 @@ def main() -> int:
     parser.add_argument("--duration-minutes", type=float, default=55.0)
     parser.add_argument("--delay", type=float, default=1.5, help="seconds between batches")
     parser.add_argument("--limit", type=int, default=0, help="max items this run (0=unlimited)")
+    parser.add_argument(
+        "--max-batches",
+        type=int,
+        default=0,
+        help="stop after N API batches (0=unlimited; use 1 for incremental CI push)",
+    )
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
 
@@ -408,6 +414,9 @@ def main() -> int:
                 ],
             },
         )
+        if args.max_batches and batches >= args.max_batches:
+            print(f"max_batches={args.max_batches} reached — stop", flush=True)
+            break
         if time.time() >= deadline:
             break
         time.sleep(args.delay)

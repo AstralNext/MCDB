@@ -19,8 +19,9 @@ on:
         required: false
         default: "0"
 
+# 与 crawl-daily 共用：二者都会写 review/
 concurrency:
-  group: ai-correct
+  group: mcdb-review-write
   cancel-in-progress: false
 
 permissions:
@@ -32,15 +33,23 @@ jobs:
     timeout-minutes: 70
     steps:
       - uses: actions/checkout@v5
+        with:
+          ref: main
+          fetch-depth: 0
 
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
+      - name: Sync main
+        run: |
+          git checkout -B main
+          git pull --rebase origin main
+
       - name: Ensure 3-layer schema (idempotent migrate)
         run: python scripts/migrate_zh_layers.py
 
-      - name: AI correct pending titles
+      - name: AI correct with incremental push
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           BIGMODEL_API_KEY: ${{ secrets.BIGMODEL_API_KEY }}
@@ -55,21 +64,48 @@ jobs:
           if [ -z "$BIGMODEL_API_KEY" ]; then
             echo "::warning::BIGMODEL_API_KEY secret is empty — Google 429 cannot failover"
           fi
-          python scripts/ai_correct.py \
-            --batch "$BATCH" \
-            --duration-minutes "$DURATION" \
-            --limit "$LIMIT"
 
-      - name: Commit progress
-        run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add review state/ai_correct_progress.json || true
-          if git diff --staged --quiet; then
-            echo "No changes"
-          else
+
+          push_review() {
+            for attempt in 1 2 3; do
+              echo "Push attempt ${attempt}/3"
+              if git pull --rebase origin main && git push origin main; then
+                return 0
+              fi
+              git rebase --abort 2>/dev/null || true
+              sleep $((attempt * 15))
+            done
+            return 1
+          }
+
+          DEADLINE=$(($(date +%s) + DURATION * 60))
+          ROUND=0
+          while [ "$(date +%s)" -lt "$DEADLINE" ]; do
+            ROUND=$((ROUND + 1))
+            echo "=== round ${ROUND} ==="
+
+            PY_ARGS=(--batch "$BATCH" --duration-minutes 10 --max-batches 1)
+            if [ "$LIMIT" != "0" ]; then
+              PY_ARGS+=(--limit "$LIMIT")
+            fi
+
+            set +e
+            python scripts/ai_correct.py "${PY_ARGS[@]}"
+            PY_EXIT=$?
+            set -e
+            if [ "$PY_EXIT" -eq 2 ]; then
+              exit 2
+            fi
+
+            git add review || true
+            if git diff --staged --quiet; then
+              echo "No review changes — done for this hour"
+              break
+            fi
+
             DONE=$(python -c "import json;print(json.load(open('state/ai_correct_progress.json')).get('done',0))" 2>/dev/null || echo 0)
-            git commit -m "chore(i18n): AI correct hourly batch (+${DONE})"
-            git pull --rebase --autostash origin HEAD || true
-            git push
-          fi
+            git commit -m "chore(i18n): AI correct batch (+${DONE})"
+            push_review || exit 1
+          done
