@@ -49,46 +49,46 @@
 {"id":"kKD6Qv49","en":"New Tardis Mod : ARS Expanded","zh":"新Tardis模组：ARS扩展版","status":"machine"}
 {"id":"idLZenKH","en":"Better Enchant Command","zh":"更好的附魔指挥部","status":"machine"}
 {"id":"QA6fYfWb","en":"Extra Emeralds","zh":"额外翡翠","status":"machine"}
-{"id":"wSOMpJ9E","en":"EssenceBound","zh":"","status":"pending"}
-{"id":"EGGE3PLG","en":"EventHorizon","zh":"","status":"pending"}
-{"id":"bNAo6UDW","en":"Jetlytra","zh":"","status":"pending"}
-{"id":"4lWe2GPP","en":"BountifulForests","zh":"","status":"pending"}
-{"id":"LscsGnMy","en":"BountyHunter","zh":"","status":"pending"}
-{"id":"N6uONOgq","en":"The End Of The Moon","zh":"","status":"pending"}
-{"id":"fRNdUtaJ","en":"Actionbar Damage Indicator","zh":"","status":"pending"}
-{"id":"64mN4kiU","en":"BTC Miner","zh":"","status":"pending"}
-{"id":"LoEn6ObD","en":"InventorySounds","zh":"","status":"pending"}
-{"id":"WSJtmOs6","en":"L-blacklist","zh":"","status":"pending"}
-{"id":"sDN40aHo","en":"BadDuperNoTNT","zh":"","status":"pending"}
-{"id":"zdmCz8C0","en":"Nether One to One","zh":"","status":"pending"}
-{"id":"Rj9NQIGe","en":"Shield Sync","zh":"","status":"pending"}
-{"id":"39kE4yHI","en":"CYF","zh":"","status":"pending"}
-{"id":"KKU7TesJ","en":"Sword & Mace","zh":"","status":"pending"}
-{"id":"dUKc7joD","en":"World Border Alert","zh":"","status":"pending"}
-{"id":"iTk5KgW0","en":"SmoothChat","zh":"","status":"pending"}
-{"id":"jYEDxZ3M","en":"cutting","zh":"","status":"pending"}
-{"id":"tVznehjl","en":"Drippy Gems","zh":"","status":"pending"}
-{"id":"62Xr9WQ6","en":"MythicSkriptAddon: Reborn","zh":"","status":"pending"}
-{"id":"8zQ9tiBV","en":"Simple Soups","zh":"","status":"pending"}
-{"id":"qtDQb3FT","en":"TheEnderiteUpdate","zh":"","status":"pending"}
-{"id":"gg02rviV","en":"Wither Bone Meal","zh":"","status":"pending"}
-{"id":"ohCdtkx1","en":"proxy-mod","zh":"","status":"pending"}
-{"id":"WeZ2k3T1","en":"AStages FTB Quests","zh":"","status":"pending"}
-{"id":"ODJI46XA","en":"Materials Lib","zh":"","status":"pending"}
-{"id":"b0mbfblF","en":"Smoothie Mod","zh":"","status":"pending"}
-{"id":"wNGpcTYO","en":"Natural Armor│天然鎧甲","zh":"","status":"pending"}
-{"id":"l4sVT6sK","en":"ModernMenus","zh":"","status":"pending"}
-{"id":"1mI2WjGf","en":"New structure","zh":"","status":"pending"}
-{"id":"wlfHIb18","en":"Disable Advancements In Dimensions","zh":"","status":"pending"}
-{"id":"Rl44p06v","en":"Remove CustomName","zh":"","status":"pending"}
-{"id":"dd2KQ2Cp","en":"Bone Block Shortcut","zh":"","status":"pending"}
-{"id":"gEroAbXt","en":"The Dragon Egg (Useful Edition)","zh":"","status":"pending"}
-{"id":"8XZP80c1","en":"Endamantium","zh":"","status":"pending"}
-{"id":"SSfu042P","en":"Aloo Khage?? (AlooCraft)","zh":"","status":"pending"}
-{"id":"DERoKMa7","en":"EnderLink","zh":"","status":"pending"}
-{"id":"p9SnmT7W","en":"Fix MC-139908","zh":"","status":"pending"}
-{"id":"53piQdTg","en":"Skylife","zh":"","status":"pending"}
-{"id":"MQoLAFN8","en":"Comparator","zh":"","status":"pending"}
+{"id":"wSOMpJ9E","en":"EssenceBound","zh":"本质绑定","status":"machine"}
+{"id":"EGGE3PLG","en":"EventHorizon","zh":"事件视界","status":"machine"}
+{"id":"bNAo6UDW","en":"Jetlytra","zh":"捷特利特拉","status":"machine"}
+{"id":"4lWe2GPP","en":"BountifulForests","zh":"丰饶森林","status":"machine"}
+{"id":"LscsGnMy","en":"BountyHunter","zh":"赏金猎人","status":"machine"}
+{"id":"N6uONOgq","en":"The End Of The Moon","zh":"月亮的尽头","status":"machine"}
+{"id":"fRNdUtaJ","en":"Actionbar Damage Indicator","zh":"动作条伤害指示器","status":"machine"}
+{"id":"64mN4kiU","en":"BTC Miner","zh":"BTC矿工","status":"machine"}
+{"id":"LoEn6ObD","en":"InventorySounds","zh":"库存之声","status":"machine"}
+{"id":"WSJtmOs6","en":"L-blacklist","zh":"L-黑名单","status":"machine"}
+{"id":"sDN40aHo","en":"BadDuperNoTNT","zh":"坏坏的坏坏的TNT","status":"machine"}
+{"id":"zdmCz8C0","en":"Nether One to One","zh":"一对一的无二","status":"machine"}
+{"id":"Rj9NQIGe","en":"Shield Sync","zh":"盾同步","status":"machine"}
+{"id":"39kE4yHI","en":"CYF","zh":"CYF","status":"machine"}
+{"id":"KKU7TesJ","en":"Sword & Mace","zh":"剑与权杖","status":"machine"}
+{"id":"dUKc7joD","en":"World Border Alert","zh":"世界边境警报","status":"machine"}
+{"id":"iTk5KgW0","en":"SmoothChat","zh":"顺畅聊天","status":"machine"}
+{"id":"jYEDxZ3M","en":"cutting","zh":"切割","status":"machine"}
+{"id":"tVznehjl","en":"Drippy Gems","zh":"滴滴宝石","status":"machine"}
+{"id":"62Xr9WQ6","en":"MythicSkriptAddon: Reborn","zh":"MythicSkriptAddon：重生","status":"machine"}
+{"id":"8zQ9tiBV","en":"Simple Soups","zh":"简单汤","status":"machine"}
+{"id":"qtDQb3FT","en":"TheEnderiteUpdate","zh":"TheEnderite更新","status":"machine"}
+{"id":"gg02rviV","en":"Wither Bone Meal","zh":"枯骨粉","status":"machine"}
+{"id":"ohCdtkx1","en":"proxy-mod","zh":"代理-模组","status":"machine"}
+{"id":"WeZ2k3T1","en":"AStages FTB Quests","zh":"AStages FTB 任务","status":"machine"}
+{"id":"ODJI46XA","en":"Materials Lib","zh":"材料自由","status":"machine"}
+{"id":"b0mbfblF","en":"Smoothie Mod","zh":"奶昔模组","status":"machine"}
+{"id":"wNGpcTYO","en":"Natural Armor│天然鎧甲","zh":"天然铠甲│天然鎧甲","status":"machine"}
+{"id":"l4sVT6sK","en":"ModernMenus","zh":"现代菜单","status":"machine"}
+{"id":"1mI2WjGf","en":"New structure","zh":"新结构","status":"machine"}
+{"id":"wlfHIb18","en":"Disable Advancements In Dimensions","zh":"禁用维度进展","status":"machine"}
+{"id":"Rl44p06v","en":"Remove CustomName","zh":"移除自定义名称","status":"machine"}
+{"id":"dd2KQ2Cp","en":"Bone Block Shortcut","zh":"骨块捷径","status":"machine"}
+{"id":"gEroAbXt","en":"The Dragon Egg (Useful Edition)","zh":"龙蛋（实用版）","status":"machine"}
+{"id":"8XZP80c1","en":"Endamantium","zh":"恩达曼提姆","status":"machine"}
+{"id":"SSfu042P","en":"Aloo Khage?? (AlooCraft)","zh":"阿鲁·卡格？？（阿鲁克拉夫特）","status":"machine"}
+{"id":"DERoKMa7","en":"EnderLink","zh":"EnderLink（末影链接）","status":"machine"}
+{"id":"p9SnmT7W","en":"Fix MC-139908","zh":"修正MC-139908","status":"machine"}
+{"id":"53piQdTg","en":"Skylife","zh":"天空生活","status":"machine"}
+{"id":"MQoLAFN8","en":"Comparator","zh":"比较器","status":"machine"}
 {"id":"pIMBXkPK","en":"Entity Recycle Bin","zh":"","status":"pending"}
 {"id":"nwUv9SYJ","en":"Saddles!","zh":"","status":"pending"}
 {"id":"CrMBVxRD","en":"Villager Trading Helper","zh":"","status":"pending"}
