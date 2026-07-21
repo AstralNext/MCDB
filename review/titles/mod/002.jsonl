@@ -1156,246 +1156,246 @@
 {"id":"efSTEGLV","en":"Musical Instrument Minecraft Interface (MIMI)","zh_draft":"《我的世界》乐器界面（MIMI）","zh_ai":"MIMI乐器接口","zh_human":"","zh":"MIMI乐器接口","status":"ai"}
 {"id":"FwSEI02w","en":"Classic Lucky Blocks","zh_draft":"经典幸运方块","zh_ai":"经典幸运方块","zh_human":"","zh":"经典幸运方块","status":"ai"}
 {"id":"f4mC1K5U","en":"Big Globe - YUNG's Better Ocean Monuments Compatibility","zh_draft":"Big Globe——YUNG的“更美好的海洋纪念碑”兼容性","zh_ai":"大地球仪-YUNG海洋宫殿兼容","zh_human":"","zh":"大地球仪-YUNG海洋宫殿兼容","status":"ai"}
-{"id":"xcMPrAQe","en":"Terrarian Slimes","zh_draft":"《泰拉瑞亚》中的史莱姆","zh_ai":"","zh_human":"","zh":"《泰拉瑞亚》中的史莱姆","status":"pending"}
-{"id":"gQP5iy8B","en":"Quest Plaques","zh_draft":"任务铭牌","zh_ai":"","zh_human":"","zh":"任务铭牌","status":"pending"}
-{"id":"l2IpK3Ji","en":"Ducky Peripherals","zh_draft":"Ducky 外设","zh_ai":"","zh_human":"","zh":"Ducky 外设","status":"pending"}
-{"id":"TZOteSf2","en":"LimboAPI","zh_draft":"LimboAPI","zh_ai":"","zh_human":"","zh":"LimboAPI","status":"pending"}
-{"id":"tDER9MJ9","en":"Death Swap","zh_draft":"死亡交换","zh_ai":"","zh_human":"","zh":"死亡交换","status":"pending"}
-{"id":"8KCmS7Bd","en":"Icon Exporter","zh_draft":"图标导出器","zh_ai":"","zh_human":"","zh":"图标导出器","status":"pending"}
-{"id":"SlPzzauK","en":"PvP Legacy Utils","zh_draft":"PvP 经典实用工具","zh_ai":"","zh_human":"","zh":"PvP 经典实用工具","status":"pending"}
-{"id":"q81yaQZO","en":"Heads","zh_draft":"标题","zh_ai":"","zh_human":"","zh":"标题","status":"pending"}
-{"id":"rBEndPUc","en":"Reliquified L_Ender 's Cataclysm","zh_draft":"L_Ender 的《大灾变》重制版","zh_ai":"","zh_human":"","zh":"L_Ender 的《大灾变》重制版","status":"pending"}
-{"id":"TcVddnvI","en":" I See Lava","zh_draft":"我看见熔岩了","zh_ai":"","zh_human":"","zh":"我看见熔岩了","status":"pending"}
-{"id":"2LREk0YS","en":"DontCry (Horror) (Stalker) (Terror) (Scary)(Twixxel)","zh_draft":"DontCry（恐怖）（跟踪狂）（惊悚）（吓人）（Twixxel）","zh_ai":"","zh_human":"","zh":"DontCry（恐怖）（跟踪狂）（惊悚）（吓人）（Twixxel）","status":"pending"}
-{"id":"zcrRcvE0","en":"Festival Delicacies","zh_draft":"节日美食","zh_ai":"","zh_human":"","zh":"节日美食","status":"pending"}
-{"id":"hvSJRj1T","en":"Double Jump","zh_draft":"二段跳","zh_ai":"","zh_human":"","zh":"二段跳","status":"pending"}
-{"id":"h8t6h658","en":"No Recipe Book","zh_draft":"没有食谱书","zh_ai":"","zh_human":"","zh":"没有食谱书","status":"pending"}
-{"id":"EfBzMHaR","en":"Brutality - A Terramity Addon","zh_draft":"《Brutality》——一款《Terramity》模组","zh_ai":"","zh_human":"","zh":"《Brutality》——一款《Terramity》模组","status":"pending"}
-{"id":"iWkVbeKr","en":"Glide Away!","zh_draft":"滑行吧！","zh_ai":"","zh_human":"","zh":"滑行吧！","status":"pending"}
-{"id":"a7rM4clH","en":"Mob Variants","zh_draft":"怪物变种","zh_ai":"","zh_human":"","zh":"怪物变种","status":"pending"}
-{"id":"UenO0Oqy","en":"Alex's Caves Better Combat","zh_draft":"《亚历克斯的洞穴》：更精彩的战斗","zh_ai":"","zh_human":"","zh":"《亚历克斯的洞穴》：更精彩的战斗","status":"pending"}
-{"id":"SKCLXAJ2","en":"Experimentalist","zh_draft":"实验主义者","zh_ai":"","zh_human":"","zh":"实验主义者","status":"pending"}
-{"id":"pTXV6gwq","en":"Easy Mob Spawn Control - spawn rate, mob cap, disable bad mobs","zh_draft":"简易怪物生成控制——生成速率、怪物上限、禁用不良怪物","zh_ai":"","zh_human":"","zh":"简易怪物生成控制——生成速率、怪物上限、禁用不良怪物","status":"pending"}
-{"id":"1SzND5KW","en":"Foggy Border","zh_draft":"迷雾边境","zh_ai":"","zh_human":"","zh":"迷雾边境","status":"pending"}
-{"id":"91tiN7bG","en":"OpeNLogin","zh_draft":"OpeNLogin","zh_ai":"","zh_human":"","zh":"OpeNLogin","status":"pending"}
-{"id":"CLkPPFSB","en":"Snekcraft","zh_draft":"Snekcraft","zh_ai":"","zh_human":"","zh":"Snekcraft","status":"pending"}
-{"id":"8xUyxhWW","en":"TNTime","zh_draft":"TNTime","zh_ai":"","zh_human":"","zh":"TNTime","status":"pending"}
-{"id":"Ex1ynKrU","en":"Gravity API","zh_draft":"Gravity API","zh_ai":"","zh_human":"","zh":"Gravity API","status":"pending"}
-{"id":"XnLNz8og","en":"macu lib","zh_draft":"macu lib","zh_ai":"","zh_human":"","zh":"macu lib","status":"pending"}
-{"id":"KnaNFo7k","en":"SecurityCraft: More Protectables","zh_draft":"SecurityCraft：更多需要保护的对象","zh_ai":"","zh_human":"","zh":"SecurityCraft：更多需要保护的对象","status":"pending"}
-{"id":"L6UZ430O","en":"TexFix","zh_draft":"TexFix","zh_ai":"","zh_human":"","zh":"TexFix","status":"pending"}
-{"id":"e2R0wxyL","en":"Enhanced Cats","zh_draft":"强化猫","zh_ai":"","zh_human":"","zh":"强化猫","status":"pending"}
-{"id":"LrtCyjyV","en":"Too Expensive Removed","zh_draft":"“太贵了”已删除","zh_ai":"","zh_human":"","zh":"“太贵了”已删除","status":"pending"}
-{"id":"zZluixcp","en":"Attract to Sound ([NEO]Forge/Fabric): Sound & Stealth.","zh_draft":"“被声音吸引”（[NEO]Forge/Fabric）：声音与隐身。","zh_ai":"","zh_human":"","zh":"“被声音吸引”（[NEO]Forge/Fabric）：声音与隐身。","status":"pending"}
-{"id":"kbuqezYO","en":"Pickaxe Effective Reinforced Deepslate [PurpurPack]","zh_draft":"高效强化深板岩镐 [PurpurPack]","zh_ai":"","zh_human":"","zh":"高效强化深板岩镐 [PurpurPack]","status":"pending"}
-{"id":"BEVhblTh","en":"Convenient Effects","zh_draft":"便捷效果","zh_ai":"","zh_human":"","zh":"便捷效果","status":"pending"}
-{"id":"z4LpKjxY","en":"Shipping Bin","zh_draft":"运输箱","zh_ai":"","zh_human":"","zh":"运输箱","status":"pending"}
-{"id":"kwaQX6vq","en":"Vectorientation:RF","zh_draft":"向量方向：RF","zh_ai":"","zh_human":"","zh":"向量方向：RF","status":"pending"}
-{"id":"qNOCEdeg","en":"Reliquified Ars Nouveau","zh_draft":"重获新生的新艺术运动","zh_ai":"","zh_human":"","zh":"重获新生的新艺术运动","status":"pending"}
-{"id":"ZRJOouhX","en":"World Downloader","zh_draft":"World Downloader","zh_ai":"","zh_human":"","zh":"World Downloader","status":"pending"}
-{"id":"2jidfU3A","en":"Reg's More Foods","zh_draft":"雷格的更多食品","zh_ai":"","zh_human":"","zh":"雷格的更多食品","status":"pending"}
-{"id":"c2IMtnCX","en":"Wearable Backpacks: RLCraft Edition","zh_draft":"可穿戴背包：RLCraft 特别版","zh_ai":"","zh_human":"","zh":"可穿戴背包：RLCraft 特别版","status":"pending"}
-{"id":"RpXNx59A","en":"Auth","zh_draft":"Auth","zh_ai":"","zh_human":"","zh":"Auth","status":"pending"}
-{"id":"qULIS7Hc","en":"Voice Chat - Global Spectator Chat","zh_draft":"语音聊天 - 全球观众聊天","zh_ai":"","zh_human":"","zh":"语音聊天 - 全球观众聊天","status":"pending"}
-{"id":"uA8ykOdd","en":"Corpse Complex","zh_draft":"尸体综合征","zh_ai":"","zh_human":"","zh":"尸体综合征","status":"pending"}
-{"id":"y2PnCYl0","en":"Forward Forge Client Reset Packet","zh_draft":"Forward Forge 客户端重置数据包","zh_ai":"","zh_human":"","zh":"Forward Forge 客户端重置数据包","status":"pending"}
-{"id":"lab8OplF","en":"Auto Reauth","zh_draft":"自动重新授权","zh_ai":"","zh_human":"","zh":"自动重新授权","status":"pending"}
-{"id":"EwuS4aoq","en":"Cliffs and Coves","zh_draft":"悬崖与海湾","zh_ai":"","zh_human":"","zh":"悬崖与海湾","status":"pending"}
-{"id":"Fyn3yif8","en":"Oxidizing Lightning Rods","zh_draft":"氧化避雷针","zh_ai":"","zh_human":"","zh":"氧化避雷针","status":"pending"}
-{"id":"g2D95XS4","en":"VillEdit","zh_draft":"VillEdit","zh_ai":"","zh_human":"","zh":"VillEdit","status":"pending"}
-{"id":"nZSk44a8","en":"AxTrade","zh_draft":"AxTrade","zh_ai":"","zh_human":"","zh":"AxTrade","status":"pending"}
-{"id":"N8Pmw3EX","en":"Toggle Sprint","zh_draft":"切换冲刺模式","zh_ai":"","zh_human":"","zh":"切换冲刺模式","status":"pending"}
-{"id":"GjlanGXD","en":"Wildvine: Alien Evolution Addon","zh_draft":"《Wildvine：外星进化》扩展包","zh_ai":"","zh_human":"","zh":"《Wildvine：外星进化》扩展包","status":"pending"}
-{"id":"YYZJDAqy","en":"Sleepless","zh_draft":"辗转难眠","zh_ai":"","zh_human":"","zh":"辗转难眠","status":"pending"}
-{"id":"cz5Ve1NT","en":"Player Drops Head","zh_draft":"球员垂头丧气","zh_ai":"","zh_human":"","zh":"球员垂头丧气","status":"pending"}
-{"id":"hYdqvcAu","en":"Craftable Elytra","zh_draft":"可制作的翼膜","zh_ai":"","zh_human":"","zh":"可制作的翼膜","status":"pending"}
-{"id":"DqcgUFzu","en":"FurnitureLib","zh_draft":"FurnitureLib","zh_ai":"","zh_human":"","zh":"FurnitureLib","status":"pending"}
-{"id":"gnwGOmBf","en":"Refined Storage - Quartz Arsenal","zh_draft":"精致储藏 - 石英军械库","zh_ai":"","zh_human":"","zh":"精致储藏 - 石英军械库","status":"pending"}
-{"id":"CxaV51ez","en":"Enchanting System Overhaul","zh_draft":"附魔系统全面改版","zh_ai":"","zh_human":"","zh":"附魔系统全面改版","status":"pending"}
-{"id":"tAvlhiZW","en":"FZMM","zh_draft":"FZMM","zh_ai":"","zh_human":"","zh":"FZMM","status":"pending"}
-{"id":"Cb5J3sNW","en":"Pizza Delight","zh_draft":"披萨之乐","zh_ai":"","zh_human":"","zh":"披萨之乐","status":"pending"}
-{"id":"gZOTEPbp","en":"Day Counter","zh_draft":"天数计数器","zh_ai":"","zh_human":"","zh":"天数计数器","status":"pending"}
-{"id":"918wEDpP","en":"NightVisionToggle","zh_draft":"夜视模式切换","zh_ai":"","zh_human":"","zh":"夜视模式切换","status":"pending"}
-{"id":"NXqpbY3F","en":"Coxinha Utilities","zh_draft":"Coxinha 实用工具","zh_ai":"","zh_human":"","zh":"Coxinha 实用工具","status":"pending"}
-{"id":"UzkWePRG","en":"A Breach Happened","zh_draft":"发生了一起数据泄露事件","zh_ai":"","zh_human":"","zh":"发生了一起数据泄露事件","status":"pending"}
-{"id":"DxlUSaq8","en":"Additional Armoury","zh_draft":"其他武器库","zh_ai":"","zh_human":"","zh":"其他武器库","status":"pending"}
-{"id":"k3S5nd6q","en":"Optifine Capes Reborn","zh_draft":"Optifine 披风重生","zh_ai":"","zh_human":"","zh":"Optifine 披风重生","status":"pending"}
-{"id":"JD2NSu5O","en":"The Aether II","zh_draft":"《以太 II》","zh_ai":"","zh_human":"","zh":"《以太 II》","status":"pending"}
-{"id":"G2hjjjFv","en":"Create: Basic Additions","zh_draft":"创建：基础加法","zh_ai":"","zh_human":"","zh":"创建：基础加法","status":"pending"}
-{"id":"Sy5mAKPK","en":"Victus - Custom Hearts","zh_draft":"Victus - 定制心形饰品","zh_ai":"","zh_human":"","zh":"Victus - 定制心形饰品","status":"pending"}
-{"id":"mBPfL1U7","en":"Hammering","zh_draft":"敲击","zh_ai":"","zh_human":"","zh":"敲击","status":"pending"}
-{"id":"umAqxZ6n","en":"Creeper Healing","zh_draft":"爬行者治疗","zh_ai":"","zh_human":"","zh":"爬行者治疗","status":"pending"}
-{"id":"z1jD2AYf","en":"Cobblemon: Ball Stickers","zh_draft":"科布尔蒙：球形贴纸","zh_ai":"","zh_human":"","zh":"科布尔蒙：球形贴纸","status":"pending"}
-{"id":"flkUwsSr","en":"QualityArmory","zh_draft":"QualityArmory","zh_ai":"","zh_human":"","zh":"QualityArmory","status":"pending"}
-{"id":"A5foNgax","en":"LoginTo","zh_draft":"登录到","zh_ai":"","zh_human":"","zh":"登录到","status":"pending"}
-{"id":"6AJNcGU2","en":"Chisels & Bits for TFC // 1.18.2 // 1.20.1 //","zh_draft":"TFC 专用凿子与钻头 // 1.18.2 // 1.20.1 //","zh_ai":"","zh_human":"","zh":"TFC 专用凿子与钻头 // 1.18.2 // 1.20.1 //","status":"pending"}
-{"id":"QZt2fevq","en":"Natural Temperature","zh_draft":"自然温度","zh_ai":"","zh_human":"","zh":"自然温度","status":"pending"}
-{"id":"CahyPDjh","en":"Nether Wart Blocks to Nether Warts","zh_draft":"下界疣块变成下界疣","zh_ai":"","zh_human":"","zh":"下界疣块变成下界疣","status":"pending"}
-{"id":"8JQgYY94","en":"TerraformGenerator","zh_draft":"TerraformGenerator","zh_ai":"","zh_human":"","zh":"TerraformGenerator","status":"pending"}
-{"id":"PxcK9msP","en":"Player Armor Stands","zh_draft":"玩家护甲架","zh_ai":"","zh_human":"","zh":"玩家护甲架","status":"pending"}
-{"id":"5u8twXEK","en":"Crop Critters","zh_draft":"农作物害虫","zh_ai":"","zh_human":"","zh":"农作物害虫","status":"pending"}
-{"id":"vSoR3IrK","en":"Info Tools","zh_draft":"信息工具","zh_ai":"","zh_human":"","zh":"信息工具","status":"pending"}
-{"id":"YG7mMy6f","en":"E-Utils","zh_draft":"E-Utils","zh_ai":"","zh_human":"","zh":"E-Utils","status":"pending"}
-{"id":"9dPDuh0K","en":"Polaroid Camera ","zh_draft":"宝丽来相机","zh_ai":"","zh_human":"","zh":"宝丽来相机","status":"pending"}
-{"id":"5HxdoOjv","en":"wynnmod","zh_draft":"wynnmod","zh_ai":"","zh_human":"","zh":"wynnmod","status":"pending"}
-{"id":"gP7RIb0Q","en":"One Enough Block","zh_draft":"一个就够了区块","zh_ai":"","zh_human":"","zh":"一个就够了区块","status":"pending"}
-{"id":"nyFtqnBp","en":"Slash Length","zh_draft":"斜杠长度","zh_ai":"","zh_human":"","zh":"斜杠长度","status":"pending"}
-{"id":"pqYWfEo0","en":"Armor Impact Sounds","zh_draft":"护甲受击声","zh_ai":"","zh_human":"","zh":"护甲受击声","status":"pending"}
-{"id":"ZrpxHZN4","en":"Infernal Expansion","zh_draft":"地狱扩张","zh_ai":"","zh_human":"","zh":"地狱扩张","status":"pending"}
-{"id":"nrekn9hP","en":"Light Emitting Diode","zh_draft":"发光二极管","zh_ai":"","zh_human":"","zh":"发光二极管","status":"pending"}
-{"id":"7baP43pD","en":"Battle Arts API","zh_draft":"战斗艺术 API","zh_ai":"","zh_human":"","zh":"战斗艺术 API","status":"pending"}
-{"id":"lyzGZZ6G","en":"Chat Binds","zh_draft":"聊天绑定","zh_ai":"","zh_human":"","zh":"聊天绑定","status":"pending"}
-{"id":"LSnXhPa7","en":"Tomtaru's Cobblemon and Farmer's Delight Tweaks","zh_draft":"Tomtaru 对“鹅卵石怪”和“农夫之乐”的调整","zh_ai":"","zh_human":"","zh":"Tomtaru 对“鹅卵石怪”和“农夫之乐”的调整","status":"pending"}
-{"id":"VOha5rKf","en":"Big Globe - YUNG's Better Dungeons Compatibility","zh_draft":"Big Globe - 与 YUNG 的《Better Dungeons》兼容性","zh_ai":"","zh_human":"","zh":"Big Globe - 与 YUNG 的《Better Dungeons》兼容性","status":"pending"}
-{"id":"G2K5sLls","en":"Controlify: Forgified","zh_draft":"Controlify：Forgified","zh_ai":"","zh_human":"","zh":"Controlify：Forgified","status":"pending"}
-{"id":"MNQ8PfgX","en":"LightAura","zh_draft":"LightAura","zh_ai":"","zh_human":"","zh":"LightAura","status":"pending"}
-{"id":"XrpsNJah","en":"Aether: Basic Ores","zh_draft":"《以太》：基础矿石","zh_ai":"","zh_human":"","zh":"《以太》：基础矿石","status":"pending"}
-{"id":"NVz9DXUE","en":"Chinese flying island tower","zh_draft":"中国“飞岛”塔","zh_ai":"","zh_human":"","zh":"中国“飞岛”塔","status":"pending"}
-{"id":"WRzU60Pt","en":"BetterSleeping Revived","zh_draft":"“BetterSleeping”重获新生","zh_ai":"","zh_human":"","zh":"“BetterSleeping”重获新生","status":"pending"}
-{"id":"fhMjR3no","en":"Daily Weather","zh_draft":"每日天气","zh_ai":"","zh_human":"","zh":"每日天气","status":"pending"}
-{"id":"Yl6uPZkr","en":"Blåhaj","zh_draft":"Blåhaj","zh_ai":"","zh_human":"","zh":"Blåhaj","status":"pending"}
-{"id":"yoEkK5RL","en":"Purpeille","zh_draft":"普尔佩耶","zh_ai":"","zh_human":"","zh":"普尔佩耶","status":"pending"}
-{"id":"NMU5PHBd","en":"Boats Motion Rework (Climb Stairs, Slabs, and Ice)","zh_draft":"船只移动机制重做（攀爬楼梯、岩板和冰面）","zh_ai":"","zh_human":"","zh":"船只移动机制重做（攀爬楼梯、岩板和冰面）","status":"pending"}
-{"id":"lCSBuaOg","en":"Bird Nests","zh_draft":"鸟巢","zh_ai":"","zh_human":"","zh":"鸟巢","status":"pending"}
-{"id":"lQPUD8WQ","en":"Defiled Lands","zh_draft":"被玷污的土地","zh_ai":"","zh_human":"","zh":"被玷污的土地","status":"pending"}
-{"id":"PHISlklk","en":"Mixin 0.7-0.8 Compatibility","zh_draft":"Mixin 0.7-0.8 的兼容性","zh_ai":"","zh_human":"","zh":"Mixin 0.7-0.8 的兼容性","status":"pending"}
-{"id":"rtbzFq0N","en":"Morph-o-Tool","zh_draft":"Morph-o-Tool","zh_ai":"","zh_human":"","zh":"Morph-o-Tool","status":"pending"}
-{"id":"90Bv2iLE","en":"Simple Nick Hider","zh_draft":"简易昵称隐藏器","zh_ai":"","zh_human":"","zh":"简易昵称隐藏器","status":"pending"}
-{"id":"plzVz20Z","en":"Shake Tweaks","zh_draft":"“Shake” 调整","zh_ai":"","zh_human":"","zh":"“Shake” 调整","status":"pending"}
-{"id":"Zotbxaw6","en":"Create Picky Wheels","zh_draft":"创建“挑剔”车轮","zh_ai":"","zh_human":"","zh":"创建“挑剔”车轮","status":"pending"}
-{"id":"L4DkUS9E","en":"Miraculous: Tales of Ladyblock and Craft Noir","zh_draft":"《奇迹：莱迪布洛克与暗黑工坊的故事》","zh_ai":"","zh_human":"","zh":"《奇迹：莱迪布洛克与暗黑工坊的故事》","status":"pending"}
-{"id":"mc1uvRn8","en":"Origins: Legacy","zh_draft":"起源：传承","zh_ai":"","zh_human":"","zh":"起源：传承","status":"pending"}
-{"id":"hd2YH2vf","en":"Crop & Kettle","zh_draft":"Crop & Kettle","zh_ai":"","zh_human":"","zh":"Crop & Kettle","status":"pending"}
-{"id":"9HWnaQZO","en":"Better Cave Worlds","zh_draft":"更精彩的洞穴世界","zh_ai":"","zh_human":"","zh":"更精彩的洞穴世界","status":"pending"}
-{"id":"1yowwDpk","en":"CustomDiscs SVC","zh_draft":"CustomDiscs SVC","zh_ai":"","zh_human":"","zh":"CustomDiscs SVC","status":"pending"}
-{"id":"IOZULlo2","en":"Tameable Beasts","zh_draft":"可驯服的野兽","zh_ai":"","zh_human":"","zh":"可驯服的野兽","status":"pending"}
-{"id":"VTGi3upD","en":"FalseTweaks","zh_draft":"FalseTweaks","zh_ai":"","zh_human":"","zh":"FalseTweaks","status":"pending"}
-{"id":"8TnTa9Ui","en":"More Fletching Tables","zh_draft":"更多箭羽安装台","zh_ai":"","zh_human":"","zh":"更多箭羽安装台","status":"pending"}
-{"id":"1787GXza","en":"Orbital Railgun Sounds","zh_draft":"《轨道电磁炮》音效","zh_ai":"","zh_human":"","zh":"《轨道电磁炮》音效","status":"pending"}
-{"id":"dNduUQBR","en":"PackagedDraconic","zh_draft":"PackagedDraconic","zh_ai":"","zh_human":"","zh":"PackagedDraconic","status":"pending"}
-{"id":"UMhQPpZd","en":"ShieldBreak","zh_draft":"ShieldBreak","zh_ai":"","zh_human":"","zh":"ShieldBreak","status":"pending"}
-{"id":"tzWbvcEg","en":"Katters Structures - Village","zh_draft":"Katters Structures - 村庄","zh_ai":"","zh_human":"","zh":"Katters Structures - 村庄","status":"pending"}
-{"id":"z4CDikCJ","en":"Happy Pride Moth!","zh_draft":"“骄傲之月”快乐！","zh_ai":"","zh_human":"","zh":"“骄傲之月”快乐！","status":"pending"}
-{"id":"oo0NF2YQ","en":"Skin Changer","zh_draft":"变皮者","zh_ai":"","zh_human":"","zh":"变皮者","status":"pending"}
-{"id":"Hagcl1FT","en":"NEEPMeat","zh_draft":"NEEPMeat","zh_ai":"","zh_human":"","zh":"NEEPMeat","status":"pending"}
-{"id":"XqiBHWlM","en":"Big Globe - YUNG's Better Witch Huts Compatibility","zh_draft":"Big Globe - YUNG 的《Better Witch Huts》兼容性","zh_ai":"","zh_human":"","zh":"Big Globe - YUNG 的《Better Witch Huts》兼容性","status":"pending"}
-{"id":"gHfCZDqf","en":"Food TXF","zh_draft":"食品 TXF","zh_ai":"","zh_human":"","zh":"食品 TXF","status":"pending"}
-{"id":"8XpQehpK","en":"NewWorld","zh_draft":"新世界","zh_ai":"","zh_human":"","zh":"新世界","status":"pending"}
-{"id":"ptXUpAzg","en":"CustomNPCs","zh_draft":"自定义NPC","zh_ai":"","zh_human":"","zh":"自定义NPC","status":"pending"}
-{"id":"78LsPG8Y","en":"Genshin Craft","zh_draft":"原神工艺","zh_ai":"","zh_human":"","zh":"原神工艺","status":"pending"}
-{"id":"usAyJ0Wy","en":"Take It Out — Minecraft Mod (Shulker Picking + Easy Place)","zh_draft":"“Take It Out”——《我的世界》模组（舒尔克箱拾取 + 轻松放置）","zh_ai":"","zh_human":"","zh":"“Take It Out”——《我的世界》模组（舒尔克箱拾取 + 轻松放置）","status":"pending"}
-{"id":"VXk11hFF","en":"NBArmors","zh_draft":"NBArmors","zh_ai":"","zh_human":"","zh":"NBArmors","status":"pending"}
-{"id":"kI2bVWDr","en":"More Tool Variants (MStV+)","zh_draft":"更多工具变体 (MStV+)","zh_ai":"","zh_human":"","zh":"更多工具变体 (MStV+)","status":"pending"}
-{"id":"RO3LwIqV","en":"Ancient Artifacts 2","zh_draft":"《古代文物2》","zh_ai":"","zh_human":"","zh":"《古代文物2》","status":"pending"}
-{"id":"sPg2LVAd","en":"Create: More Girder","zh_draft":"创建：更多桁架","zh_ai":"","zh_human":"","zh":"创建：更多桁架","status":"pending"}
-{"id":"HmLJoQ1K","en":"Integrated Terminals","zh_draft":"集成终端","zh_ai":"","zh_human":"","zh":"集成终端","status":"pending"}
-{"id":"czWH0F4i","en":"Pack It Up!","zh_draft":"收拾好吧！","zh_ai":"","zh_human":"","zh":"收拾好吧！","status":"pending"}
-{"id":"zWtYC4e6","en":"Tab Stats","zh_draft":"标签统计","zh_ai":"","zh_human":"","zh":"标签统计","status":"pending"}
-{"id":"hNxmWV9g","en":"Decorative Blocks Reborn","zh_draft":"装饰砌块的重生","zh_ai":"","zh_human":"","zh":"装饰砌块的重生","status":"pending"}
-{"id":"z3enWbTR","en":"Cobblemon Modded Drops","zh_draft":"科布尔蒙模组掉落物","zh_ai":"","zh_human":"","zh":"科布尔蒙模组掉落物","status":"pending"}
-{"id":"Qppvg0Y6","en":"MaLiLib API","zh_draft":"MaLiLib API","zh_ai":"","zh_human":"","zh":"MaLiLib API","status":"pending"}
-{"id":"weDXQCzq","en":"Fancy Dyes","zh_draft":"花式染料","zh_ai":"","zh_human":"","zh":"花式染料","status":"pending"}
-{"id":"bV68OKwf","en":"Animal Garden -Alligator Gar","zh_draft":"动物园——短吻鲛","zh_ai":"","zh_human":"","zh":"动物园——短吻鲛","status":"pending"}
-{"id":"IEt1Yy3F","en":"SeeMore","zh_draft":"查看更多","zh_ai":"","zh_human":"","zh":"查看更多","status":"pending"}
-{"id":"OORXn0mW","en":"3D Hands","zh_draft":"3D 手","zh_ai":"","zh_human":"","zh":"3D 手","status":"pending"}
-{"id":"jT8j8tot","en":"Scape and Run: Parasites Quark","zh_draft":"《逃离与奔跑：寄生虫夸克》","zh_ai":"","zh_human":"","zh":"《逃离与奔跑：寄生虫夸克》","status":"pending"}
-{"id":"lri0J5Tt","en":"JoJo: World of Stands","zh_draft":"《JoJo：替身世界》","zh_ai":"","zh_human":"","zh":"《JoJo：替身世界》","status":"pending"}
-{"id":"Kt3eUOUy","en":"Sleeper","zh_draft":"《Sleeper》","zh_ai":"","zh_human":"","zh":"《Sleeper》","status":"pending"}
-{"id":"Z43PTXn8","en":"Star Worm Equestrian Mod","zh_draft":"《星虫》马术模组","zh_ai":"","zh_human":"","zh":"《星虫》马术模组","status":"pending"}
-{"id":"TQr3t8Sb","en":"Legendary Survival Overhaul","zh_draft":"《传奇生存》全面改版","zh_ai":"","zh_human":"","zh":"《传奇生存》全面改版","status":"pending"}
-{"id":"53TJSd8P","en":"Cataclysm & BetterCombat - Compatibility","zh_draft":"《大灾变》与 BetterCombat —— 兼容性","zh_ai":"","zh_human":"","zh":"《大灾变》与 BetterCombat —— 兼容性","status":"pending"}
-{"id":"4maRBTYh","en":"777","zh_draft":"777","zh_ai":"","zh_human":"","zh":"777","status":"pending"}
-{"id":"9do6lbqp","en":"Limitless Enchantments","zh_draft":"无尽的魔法","zh_ai":"","zh_human":"","zh":"无尽的魔法","status":"pending"}
-{"id":"y7FjajXw","en":"Arrzee's Superhero Multiverse","zh_draft":"Arrzee的超级英雄多元宇宙","zh_ai":"","zh_human":"","zh":"Arrzee的超级英雄多元宇宙","status":"pending"}
-{"id":"e3aZHOyh","en":"Structure Compass","zh_draft":"结构指南","zh_ai":"","zh_human":"","zh":"结构指南","status":"pending"}
-{"id":"ZNhcuAvG","en":"Break My Fall","zh_draft":"《接住我》","zh_ai":"","zh_human":"","zh":"《接住我》","status":"pending"}
-{"id":"O5VsIpQY","en":"adventure-platform-mod","zh_draft":"冒险-平台-模组","zh_ai":"","zh_human":"","zh":"冒险-平台-模组","status":"pending"}
-{"id":"bbY4H7Rx","en":"Alive Well","zh_draft":"健康生活","zh_ai":"","zh_human":"","zh":"健康生活","status":"pending"}
-{"id":"qBYjphri","en":"Hippo Keystrokes","zh_draft":"Hippo 键盘快捷键","zh_ai":"","zh_human":"","zh":"Hippo 键盘快捷键","status":"pending"}
-{"id":"P5CL1LUJ","en":"Totem Pop Chams","zh_draft":"图腾流行查姆斯","zh_ai":"","zh_human":"","zh":"图腾流行查姆斯","status":"pending"}
-{"id":"SpOsQ3y2","en":"Impactful","zh_draft":"影响深远","zh_ai":"","zh_human":"","zh":"影响深远","status":"pending"}
-{"id":"cYJ3AYak","en":"Carpet crit fix","zh_draft":"地毯漏洞修复","zh_ai":"","zh_human":"","zh":"地毯漏洞修复","status":"pending"}
-{"id":"sDBUwZVY","en":"Rechiseled: AE2","zh_draft":"《Rechiseled：AE2》","zh_ai":"","zh_human":"","zh":"《Rechiseled：AE2》","status":"pending"}
-{"id":"Q5kyKoWn","en":"HSM - Mending fix & Skyblock drill fix","zh_draft":"HSM - 修复补丁及Skyblock钻孔修复补丁","zh_ai":"","zh_human":"","zh":"HSM - 修复补丁及Skyblock钻孔修复补丁","status":"pending"}
-{"id":"LmT6oZrX","en":"Create: Blazing Hot","zh_draft":"创作：炽热","zh_ai":"","zh_human":"","zh":"创作：炽热","status":"pending"}
-{"id":"2meOGkfm","en":"Bountiful Critters","zh_draft":"丰饶的小动物们","zh_ai":"","zh_human":"","zh":"丰饶的小动物们","status":"pending"}
-{"id":"u9tsjkut","en":"Botania: Garden of Glass","zh_draft":"博塔尼亚：玻璃花园","zh_ai":"","zh_human":"","zh":"博塔尼亚：玻璃花园","status":"pending"}
-{"id":"QKHuMlDl","en":"Big Globe - YUNG's Better Desert Temples Compatibility","zh_draft":"Big Globe——YUNG的《更佳沙漠神庙》兼容性","zh_ai":"","zh_human":"","zh":"Big Globe——YUNG的《更佳沙漠神庙》兼容性","status":"pending"}
-{"id":"83TKyAar","en":"VillagerQuests","zh_draft":"村民任务","zh_ai":"","zh_human":"","zh":"村民任务","status":"pending"}
-{"id":"pKlCsfkH","en":"Universal Shortcuts (Ctrl A fix)","zh_draft":"通用快捷键（Ctrl+A 修复）","zh_ai":"","zh_human":"","zh":"通用快捷键（Ctrl+A 修复）","status":"pending"}
-{"id":"A30Sq5Gt","en":"Create: Ornithopter Glider","zh_draft":"创作：扑翼滑翔机","zh_ai":"","zh_human":"","zh":"创作：扑翼滑翔机","status":"pending"}
-{"id":"8eToVMGA","en":"Cobblemon FC Gym Badges","zh_draft":"科布尔蒙足球俱乐部道馆徽章","zh_ai":"","zh_human":"","zh":"科布尔蒙足球俱乐部道馆徽章","status":"pending"}
-{"id":"bJTRwh2l","en":"Nature's Spirit - Farmer's Delight Recipe Compat","zh_draft":"“自然之灵”——“农夫之乐”食谱兼容","zh_ai":"","zh_human":"","zh":"“自然之灵”——“农夫之乐”食谱兼容","status":"pending"}
-{"id":"xMbNBtgO","en":"Shulker / Ender Chest tooltip","zh_draft":"舒尔克 / 恩德宝箱 工具提示","zh_ai":"","zh_human":"","zh":"舒尔克 / 恩德宝箱 工具提示","status":"pending"}
-{"id":"Xqnzyc08","en":"G1ax Crystal Optimizer","zh_draft":"G1ax 晶体优化器","zh_ai":"","zh_human":"","zh":"G1ax 晶体优化器","status":"pending"}
-{"id":"sbuRwhB5","en":"Create Air Forge (A ThinAir compat)","zh_draft":"创建“空气熔炉”（兼容ThinAir）","zh_ai":"","zh_human":"","zh":"创建“空气熔炉”（兼容ThinAir）","status":"pending"}
-{"id":"U9iYRngS","en":"IFPatcher","zh_draft":"IFPatcher","zh_ai":"","zh_human":"","zh":"IFPatcher","status":"pending"}
-{"id":"q89I8czH","en":"Raw Mouse Input - Blessed Edition","zh_draft":"原始鼠标输入 - 祝福版","zh_ai":"","zh_human":"","zh":"原始鼠标输入 - 祝福版","status":"pending"}
-{"id":"GJPO8KoR","en":"Classic Farlands","zh_draft":"经典法兰德斯","zh_ai":"","zh_human":"","zh":"经典法兰德斯","status":"pending"}
-{"id":"bApyjH1r","en":"SpeedsterHeroes","zh_draft":"极速英雄","zh_ai":"","zh_human":"","zh":"极速英雄","status":"pending"}
-{"id":"SXYcZO3i","en":"Skylib","zh_draft":"Skylib","zh_ai":"","zh_human":"","zh":"Skylib","status":"pending"}
-{"id":"jnEFf2VO","en":"Mob Variants","zh_draft":"怪物变种","zh_ai":"","zh_human":"","zh":"怪物变种","status":"pending"}
-{"id":"4nDndTIl","en":"Traveller's Boots","zh_draft":"旅行靴","zh_ai":"","zh_human":"","zh":"旅行靴","status":"pending"}
-{"id":"mW7jD34A","en":"The Ducks","zh_draft":"鸭子","zh_ai":"","zh_human":"","zh":"鸭子","status":"pending"}
-{"id":"1PpUVuyO","en":"IlMusu's Enchantments","zh_draft":"IlMusu的魔法","zh_ai":"","zh_human":"","zh":"IlMusu的魔法","status":"pending"}
-{"id":"KoBYkPNm","en":"Enchantment Decay","zh_draft":"法术效果衰减","zh_ai":"","zh_human":"","zh":"法术效果衰减","status":"pending"}
-{"id":"8wDcQuht","en":"Greate","zh_draft":"Greate","zh_ai":"","zh_human":"","zh":"Greate","status":"pending"}
-{"id":"naW7WZy0","en":"The Last Sword You Never Forgot","zh_draft":"那把你从未忘却的最后一把剑","zh_ai":"","zh_human":"","zh":"那把你从未忘却的最后一把剑","status":"pending"}
-{"id":"BZ5vEM55","en":"CNPC+ DBC Addon","zh_draft":"CNPC+ DBC 扩展插件","zh_ai":"","zh_human":"","zh":"CNPC+ DBC 扩展插件","status":"pending"}
-{"id":"Ut5Iiqct","en":"Cataclysm x YUNG's Better Nether Fortresses Compat","zh_draft":"《大灾变》× YUNG 的“更佳虚空要塞”兼容性","zh_ai":"","zh_human":"","zh":"《大灾变》× YUNG 的“更佳虚空要塞”兼容性","status":"pending"}
-{"id":"W1Paq97E","en":"Tropics","zh_draft":"热带","zh_ai":"","zh_human":"","zh":"热带","status":"pending"}
-{"id":"AUfWGrm6","en":"AutoAttack","zh_draft":"自动攻击","zh_ai":"","zh_human":"","zh":"自动攻击","status":"pending"}
-{"id":"W2U6MtrS","en":"The Hollow Stalker (horror)(not a dweller)","zh_draft":"《空心追踪者》（恐怖）（非居民）","zh_ai":"","zh_human":"","zh":"《空心追踪者》（恐怖）（非居民）","status":"pending"}
-{"id":"nJ9B5oz1","en":"Create: Mechanical Companion","zh_draft":"创作：机械伙伴","zh_ai":"","zh_human":"","zh":"创作：机械伙伴","status":"pending"}
-{"id":"npRLbKIs","en":"TFC: Hammer Time","zh_draft":"TFC：锤子时刻","zh_ai":"","zh_human":"","zh":"TFC：锤子时刻","status":"pending"}
-{"id":"daIJrdNd","en":"Gallant Gauntlets","zh_draft":"英勇护手","zh_ai":"","zh_human":"","zh":"英勇护手","status":"pending"}
-{"id":"3wGWhm8A","en":"JsMacros","zh_draft":"JsMacros","zh_ai":"","zh_human":"","zh":"JsMacros","status":"pending"}
-{"id":"FbJOKNup","en":"'Dustrial Decor","zh_draft":"“工业风装饰”","zh_ai":"","zh_human":"","zh":"“工业风装饰”","status":"pending"}
-{"id":"wOIKNYYX","en":"MoreChatHistory Reforged","zh_draft":"《MoreChatHistory：重铸版》","zh_ai":"","zh_human":"","zh":"《MoreChatHistory：重铸版》","status":"pending"}
-{"id":"Ov2r3aVY","en":"Xaero Train Map","zh_draft":"Xaero 列车时刻表","zh_ai":"","zh_human":"","zh":"Xaero 列车时刻表","status":"pending"}
-{"id":"sKa9BOA6","en":"Cauldron Concrete Powder","zh_draft":"“大锅”混凝土粉","zh_ai":"","zh_human":"","zh":"“大锅”混凝土粉","status":"pending"}
-{"id":"hyTM8xtR","en":"Gods & Heroes (Origins)","zh_draft":"《诸神与英雄》（起源）","zh_ai":"","zh_human":"","zh":"《诸神与英雄》（起源）","status":"pending"}
-{"id":"9KhpDjPy","en":"Mosquito Origin","zh_draft":"蚊子的起源","zh_ai":"","zh_human":"","zh":"蚊子的起源","status":"pending"}
-{"id":"tcswzSAY","en":"Redstone Sound Slider","zh_draft":"Redstone 音量滑块","zh_ai":"","zh_human":"","zh":"Redstone 音量滑块","status":"pending"}
-{"id":"PEsehLDR","en":"Creative Menu Tweaks","zh_draft":"创意菜单调整","zh_ai":"","zh_human":"","zh":"创意菜单调整","status":"pending"}
-{"id":"JNDpuNiN","en":"Stupid Express","zh_draft":"“蠢蠢快车”","zh_ai":"","zh_human":"","zh":"“蠢蠢快车”","status":"pending"}
-{"id":"JL35Xbzz","en":"One World Folder","zh_draft":"“一个世界”文件夹","zh_ai":"","zh_human":"","zh":"“一个世界”文件夹","status":"pending"}
-{"id":"ZSdhSrVt","en":"Even Better Nether","zh_draft":"更棒的下界","zh_ai":"","zh_human":"","zh":"更棒的下界","status":"pending"}
-{"id":"EvokrNVM","en":"Alternate Gunpowder","zh_draft":"替代火药","zh_ai":"","zh_human":"","zh":"替代火药","status":"pending"}
-{"id":"fvtFPg1k","en":"Apathy","zh_draft":"冷漠","zh_ai":"","zh_human":"","zh":"冷漠","status":"pending"}
-{"id":"SaKy2xRK","en":"Easel Does It!","zh_draft":"画架搞定！","zh_ai":"","zh_human":"","zh":"画架搞定！","status":"pending"}
-{"id":"liI36we9","en":"Bucketable","zh_draft":"可装入桶的","zh_ai":"","zh_human":"","zh":"可装入桶的","status":"pending"}
-{"id":"V9uNAQBc","en":"Gun Collection: A CGM weapon addon","zh_draft":"《Gun Collection》：一款 CGM 武器扩展包","zh_ai":"","zh_human":"","zh":"《Gun Collection》：一款 CGM 武器扩展包","status":"pending"}
-{"id":"aIzh7mNF","en":"Cheap Templates","zh_draft":"便宜的模板","zh_ai":"","zh_human":"","zh":"便宜的模板","status":"pending"}
-{"id":"zgaWtmrV","en":"Arcanus: Legacy","zh_draft":"《Arcanus：Legacy》","zh_ai":"","zh_human":"","zh":"《Arcanus：Legacy》","status":"pending"}
-{"id":"1XNzFgSy","en":"Annoying Villagers","zh_draft":"讨厌的村民","zh_ai":"","zh_human":"","zh":"讨厌的村民","status":"pending"}
-{"id":"DQjhR62z","en":"RFTools Control","zh_draft":"RFTools 控件","zh_ai":"","zh_human":"","zh":"RFTools 控件","status":"pending"}
-{"id":"m3dwgb3y","en":"JJBA Music Mod","zh_draft":"JJBA 音乐模组","zh_ai":"","zh_human":"","zh":"JJBA 音乐模组","status":"pending"}
-{"id":"sNUaI7Ge","en":"Create: Garnished Additions","zh_draft":"创建：装饰性配料","zh_ai":"","zh_human":"","zh":"创建：装饰性配料","status":"pending"}
-{"id":"yzoRWZpp","en":"Astrid's Structures","zh_draft":"阿斯特里德的建筑","zh_ai":"","zh_human":"","zh":"阿斯特里德的建筑","status":"pending"}
-{"id":"tj8k9Vvq","en":"Zhipeiweidu","zh_draft":"智佩维度","zh_ai":"","zh_human":"","zh":"智佩维度","status":"pending"}
-{"id":"ANlAmoYX","en":"Double Doors","zh_draft":"双开门","zh_ai":"","zh_human":"","zh":"双开门","status":"pending"}
-{"id":"CnOG2wlS","en":"Toast Control","zh_draft":"烤面包控制","zh_ai":"","zh_human":"","zh":"烤面包控制","status":"pending"}
-{"id":"KcQAUjoP","en":"The Guild","zh_draft":"公会","zh_ai":"","zh_human":"","zh":"公会","status":"pending"}
-{"id":"pdjxnvXe","en":" Bedrock Plus","zh_draft":"Bedrock Plus","zh_ai":"","zh_human":"","zh":"Bedrock Plus","status":"pending"}
-{"id":"wAEWD77L","en":"The NoFog Mod","zh_draft":"NoFog 模组","zh_ai":"","zh_human":"","zh":"NoFog 模组","status":"pending"}
-{"id":"M554ReuW","en":"PixelTweaks","zh_draft":"PixelTweaks","zh_ai":"","zh_human":"","zh":"PixelTweaks","status":"pending"}
-{"id":"iKWDQkn3","en":"Apocalypse Rebooted","zh_draft":"《启示录：重启》","zh_ai":"","zh_human":"","zh":"《启示录：重启》","status":"pending"}
-{"id":"5XRPRPTb","en":"Better Pets","zh_draft":"更好的宠物","zh_ai":"","zh_human":"","zh":"更好的宠物","status":"pending"}
-{"id":"irqADPUT","en":"hypixelautogg","zh_draft":"hypixelautogg","zh_ai":"","zh_human":"","zh":"hypixelautogg","status":"pending"}
-{"id":"xm3GEVSp","en":"AFK Rewards Lite","zh_draft":"AFK 奖励精简版","zh_ai":"","zh_human":"","zh":"AFK 奖励精简版","status":"pending"}
-{"id":"iPcmjKj7","en":"Camera Enhancements","zh_draft":"相机功能增强","zh_ai":"","zh_human":"","zh":"相机功能增强","status":"pending"}
-{"id":"zLNixZZC","en":"TFC Artisanal","zh_draft":"TFC 手工坊","zh_ai":"","zh_human":"","zh":"TFC 手工坊","status":"pending"}
-{"id":"msrQK89I","en":"NonUpdate Reloaded","zh_draft":"《NonUpdate Reloaded》","zh_ai":"","zh_human":"","zh":"《NonUpdate Reloaded》","status":"pending"}
-{"id":"RUtQ9kfe","en":"Neo Origins","zh_draft":"《Neo Origins》","zh_ai":"","zh_human":"","zh":"《Neo Origins》","status":"pending"}
-{"id":"VdZ1CoT5","en":"Carry On + Valkyrien Skies Compat","zh_draft":"《Carry On》与《Valkyrien Skies》兼容","zh_ai":"","zh_human":"","zh":"《Carry On》与《Valkyrien Skies》兼容","status":"pending"}
-{"id":"HeQ9uevZ","en":"Clean View","zh_draft":"简洁视图","zh_ai":"","zh_human":"","zh":"简洁视图","status":"pending"}
-{"id":"jDwAl78q","en":"Crystal Anchor Counter","zh_draft":"水晶锚形收银台","zh_ai":"","zh_human":"","zh":"水晶锚形收银台","status":"pending"}
-{"id":"wsHvEXyt","en":"Lag'B'Gon Revived","zh_draft":"拉格·B·贡重生","zh_ai":"","zh_human":"","zh":"拉格·B·贡重生","status":"pending"}
-{"id":"Jmt7p37B","en":"MoreIotas","zh_draft":"更多Iotas","zh_ai":"","zh_human":"","zh":"更多Iotas","status":"pending"}
-{"id":"4NBV2LS4","en":"Ars Magica 2.5","zh_draft":"《魔法之艺》2.5版","zh_ai":"","zh_human":"","zh":"《魔法之艺》2.5版","status":"pending"}
-{"id":"YS0VbYBE","en":"Craft Saddles","zh_draft":"手工马鞍","zh_ai":"","zh_human":"","zh":"手工马鞍","status":"pending"}
-{"id":"HLW5dnBW","en":"Custom Scoreboard","zh_draft":"自定义记分板","zh_ai":"","zh_human":"","zh":"自定义记分板","status":"pending"}
+{"id":"xcMPrAQe","en":"Terrarian Slimes","zh_draft":"《泰拉瑞亚》中的史莱姆","zh_ai":"泰拉瑞安史莱姆","zh_human":"","zh":"泰拉瑞安史莱姆","status":"ai"}
+{"id":"gQP5iy8B","en":"Quest Plaques","zh_draft":"任务铭牌","zh_ai":"任务牌","zh_human":"","zh":"任务牌","status":"ai"}
+{"id":"l2IpK3Ji","en":"Ducky Peripherals","zh_draft":"Ducky 外设","zh_ai":"鸭鸭外设","zh_human":"","zh":"鸭鸭外设","status":"ai"}
+{"id":"TZOteSf2","en":"LimboAPI","zh_draft":"LimboAPI","zh_ai":"地狱边缘API","zh_human":"","zh":"地狱边缘API","status":"ai"}
+{"id":"tDER9MJ9","en":"Death Swap","zh_draft":"死亡交换","zh_ai":"死亡交换","zh_human":"","zh":"死亡交换","status":"ai"}
+{"id":"8KCmS7Bd","en":"Icon Exporter","zh_draft":"图标导出器","zh_ai":"图标导出器","zh_human":"","zh":"图标导出器","status":"ai"}
+{"id":"SlPzzauK","en":"PvP Legacy Utils","zh_draft":"PvP 经典实用工具","zh_ai":"PvP 旧版工具","zh_human":"","zh":"PvP 旧版工具","status":"ai"}
+{"id":"q81yaQZO","en":"Heads","zh_draft":"标题","zh_ai":"头颅","zh_human":"","zh":"头颅","status":"ai"}
+{"id":"rBEndPUc","en":"Reliquified L_Ender 's Cataclysm","zh_draft":"L_Ender 的《大灾变》重制版","zh_ai":"遗物化末地大灾变","zh_human":"","zh":"遗物化末地大灾变","status":"ai"}
+{"id":"TcVddnvI","en":" I See Lava","zh_draft":"我看见熔岩了","zh_ai":"我看到岩浆","zh_human":"","zh":"我看到岩浆","status":"ai"}
+{"id":"2LREk0YS","en":"DontCry (Horror) (Stalker) (Terror) (Scary)(Twixxel)","zh_draft":"DontCry（恐怖）（跟踪狂）（惊悚）（吓人）（Twixxel）","zh_ai":"不要哭（恐怖）","zh_human":"","zh":"不要哭（恐怖）","status":"ai"}
+{"id":"zcrRcvE0","en":"Festival Delicacies","zh_draft":"节日美食","zh_ai":"节日美食","zh_human":"","zh":"节日美食","status":"ai"}
+{"id":"hvSJRj1T","en":"Double Jump","zh_draft":"二段跳","zh_ai":"双跳","zh_human":"","zh":"双跳","status":"ai"}
+{"id":"h8t6h658","en":"No Recipe Book","zh_draft":"没有食谱书","zh_ai":"无配方书","zh_human":"","zh":"无配方书","status":"ai"}
+{"id":"EfBzMHaR","en":"Brutality - A Terramity Addon","zh_draft":"《Brutality》——一款《Terramity》模组","zh_ai":"残暴 - 泰拉米提插件","zh_human":"","zh":"残暴 - 泰拉米提插件","status":"ai"}
+{"id":"iWkVbeKr","en":"Glide Away!","zh_draft":"滑行吧！","zh_ai":"滑行！","zh_human":"","zh":"滑行！","status":"ai"}
+{"id":"a7rM4clH","en":"Mob Variants","zh_draft":"怪物变种","zh_ai":"怪物变体","zh_human":"","zh":"怪物变体","status":"ai"}
+{"id":"UenO0Oqy","en":"Alex's Caves Better Combat","zh_draft":"《亚历克斯的洞穴》：更精彩的战斗","zh_ai":"亚历克斯的洞穴 - 更好的战斗","zh_human":"","zh":"亚历克斯的洞穴 - 更好的战斗","status":"ai"}
+{"id":"SKCLXAJ2","en":"Experimentalist","zh_draft":"实验主义者","zh_ai":"实验者","zh_human":"","zh":"实验者","status":"ai"}
+{"id":"pTXV6gwq","en":"Easy Mob Spawn Control - spawn rate, mob cap, disable bad mobs","zh_draft":"简易怪物生成控制——生成速率、怪物上限、禁用不良怪物","zh_ai":"简易怪物生成控制 - 生成率，怪物上限，禁用不良怪物","zh_human":"","zh":"简易怪物生成控制 - 生成率，怪物上限，禁用不良怪物","status":"ai"}
+{"id":"1SzND5KW","en":"Foggy Border","zh_draft":"迷雾边境","zh_ai":"雾蒙蒙的边界","zh_human":"","zh":"雾蒙蒙的边界","status":"ai"}
+{"id":"91tiN7bG","en":"OpeNLogin","zh_draft":"OpeNLogin","zh_ai":"开放登录","zh_human":"","zh":"开放登录","status":"ai"}
+{"id":"CLkPPFSB","en":"Snekcraft","zh_draft":"Snekcraft","zh_ai":"蛇工坊","zh_human":"","zh":"蛇工坊","status":"ai"}
+{"id":"8xUyxhWW","en":"TNTime","zh_draft":"TNTime","zh_ai":"TN时间","zh_human":"","zh":"TN时间","status":"ai"}
+{"id":"Ex1ynKrU","en":"Gravity API","zh_draft":"Gravity API","zh_ai":"重力API","zh_human":"","zh":"重力API","status":"ai"}
+{"id":"XnLNz8og","en":"macu lib","zh_draft":"macu lib","zh_ai":"macu库","zh_human":"","zh":"macu库","status":"ai"}
+{"id":"KnaNFo7k","en":"SecurityCraft: More Protectables","zh_draft":"SecurityCraft：更多需要保护的对象","zh_ai":"安全工坊：更多可保护物","zh_human":"","zh":"安全工坊：更多可保护物","status":"ai"}
+{"id":"L6UZ430O","en":"TexFix","zh_draft":"TexFix","zh_ai":"纹理修复","zh_human":"","zh":"纹理修复","status":"ai"}
+{"id":"e2R0wxyL","en":"Enhanced Cats","zh_draft":"强化猫","zh_ai":"增强猫","zh_human":"","zh":"增强猫","status":"ai"}
+{"id":"LrtCyjyV","en":"Too Expensive Removed","zh_draft":"“太贵了”已删除","zh_ai":"太贵了，已移除","zh_human":"","zh":"太贵了，已移除","status":"ai"}
+{"id":"zZluixcp","en":"Attract to Sound ([NEO]Forge/Fabric): Sound & Stealth.","zh_draft":"“被声音吸引”（[NEO]Forge/Fabric）：声音与隐身。","zh_ai":"被声音吸引 ([NEO]Forge/Fabric)：声音与潜行。","zh_human":"","zh":"被声音吸引 ([NEO]Forge/Fabric)：声音与潜行。","status":"ai"}
+{"id":"kbuqezYO","en":"Pickaxe Effective Reinforced Deepslate [PurpurPack]","zh_draft":"高效强化深板岩镐 [PurpurPack]","zh_ai":"镐有效强化深岩层 [PurpurPack]","zh_human":"","zh":"镐有效强化深岩层 [PurpurPack]","status":"ai"}
+{"id":"BEVhblTh","en":"Convenient Effects","zh_draft":"便捷效果","zh_ai":"方便效果","zh_human":"","zh":"方便效果","status":"ai"}
+{"id":"z4LpKjxY","en":"Shipping Bin","zh_draft":"运输箱","zh_ai":"运输箱","zh_human":"","zh":"运输箱","status":"ai"}
+{"id":"kwaQX6vq","en":"Vectorientation:RF","zh_draft":"向量方向：RF","zh_ai":"向量化：RF","zh_human":"","zh":"向量化：RF","status":"ai"}
+{"id":"qNOCEdeg","en":"Reliquified Ars Nouveau","zh_draft":"重获新生的新艺术运动","zh_ai":"遗物化新艺术","zh_human":"","zh":"遗物化新艺术","status":"ai"}
+{"id":"ZRJOouhX","en":"World Downloader","zh_draft":"World Downloader","zh_ai":"世界下载器","zh_human":"","zh":"世界下载器","status":"ai"}
+{"id":"2jidfU3A","en":"Reg's More Foods","zh_draft":"雷格的更多食品","zh_ai":"雷格的更多食物","zh_human":"","zh":"雷格的更多食物","status":"ai"}
+{"id":"c2IMtnCX","en":"Wearable Backpacks: RLCraft Edition","zh_draft":"可穿戴背包：RLCraft 特别版","zh_ai":"可穿戴背包：RLCraft 版本","zh_human":"","zh":"可穿戴背包：RLCraft 版本","status":"ai"}
+{"id":"RpXNx59A","en":"Auth","zh_draft":"Auth","zh_ai":"认证","zh_human":"","zh":"认证","status":"ai"}
+{"id":"qULIS7Hc","en":"Voice Chat - Global Spectator Chat","zh_draft":"语音聊天 - 全球观众聊天","zh_ai":"全球观众聊天","zh_human":"","zh":"全球观众聊天","status":"ai"}
+{"id":"uA8ykOdd","en":"Corpse Complex","zh_draft":"尸体综合征","zh_ai":"尸体综合症","zh_human":"","zh":"尸体综合症","status":"ai"}
+{"id":"y2PnCYl0","en":"Forward Forge Client Reset Packet","zh_draft":"Forward Forge 客户端重置数据包","zh_ai":"前向锻造客户端重置数据包","zh_human":"","zh":"前向锻造客户端重置数据包","status":"ai"}
+{"id":"lab8OplF","en":"Auto Reauth","zh_draft":"自动重新授权","zh_ai":"自动重新认证","zh_human":"","zh":"自动重新认证","status":"ai"}
+{"id":"EwuS4aoq","en":"Cliffs and Coves","zh_draft":"悬崖与海湾","zh_ai":"悬崖和洞穴","zh_human":"","zh":"悬崖和洞穴","status":"ai"}
+{"id":"Fyn3yif8","en":"Oxidizing Lightning Rods","zh_draft":"氧化避雷针","zh_ai":"氧化避雷针","zh_human":"","zh":"氧化避雷针","status":"ai"}
+{"id":"g2D95XS4","en":"VillEdit","zh_draft":"VillEdit","zh_ai":"村庄编辑器","zh_human":"","zh":"村庄编辑器","status":"ai"}
+{"id":"nZSk44a8","en":"AxTrade","zh_draft":"AxTrade","zh_ai":"Ax交易","zh_human":"","zh":"Ax交易","status":"ai"}
+{"id":"N8Pmw3EX","en":"Toggle Sprint","zh_draft":"切换冲刺模式","zh_ai":"切换冲刺","zh_human":"","zh":"切换冲刺","status":"ai"}
+{"id":"GjlanGXD","en":"Wildvine: Alien Evolution Addon","zh_draft":"《Wildvine：外星进化》扩展包","zh_ai":"野藤：外星进化插件","zh_human":"","zh":"野藤：外星进化插件","status":"ai"}
+{"id":"YYZJDAqy","en":"Sleepless","zh_draft":"辗转难眠","zh_ai":"不眠","zh_human":"","zh":"不眠","status":"ai"}
+{"id":"cz5Ve1NT","en":"Player Drops Head","zh_draft":"球员垂头丧气","zh_ai":"玩家掉落头部","zh_human":"","zh":"玩家掉落头部","status":"ai"}
+{"id":"hYdqvcAu","en":"Craftable Elytra","zh_draft":"可制作的翼膜","zh_ai":"可制作飞翼","zh_human":"","zh":"可制作飞翼","status":"ai"}
+{"id":"DqcgUFzu","en":"FurnitureLib","zh_draft":"FurnitureLib","zh_ai":"家具库","zh_human":"","zh":"家具库","status":"ai"}
+{"id":"gnwGOmBf","en":"Refined Storage - Quartz Arsenal","zh_draft":"精致储藏 - 石英军械库","zh_ai":"精炼存储 - 石英军火库","zh_human":"","zh":"精炼存储 - 石英军火库","status":"ai"}
+{"id":"CxaV51ez","en":"Enchanting System Overhaul","zh_draft":"附魔系统全面改版","zh_ai":"附魔系统重铸","zh_human":"","zh":"附魔系统重铸","status":"ai"}
+{"id":"tAvlhiZW","en":"FZMM","zh_draft":"FZMM","zh_ai":"FZMM","zh_human":"","zh":"FZMM","status":"ai"}
+{"id":"Cb5J3sNW","en":"Pizza Delight","zh_draft":"披萨之乐","zh_ai":"披萨美味","zh_human":"","zh":"披萨美味","status":"ai"}
+{"id":"gZOTEPbp","en":"Day Counter","zh_draft":"天数计数器","zh_ai":"天数计数器","zh_human":"","zh":"天数计数器","status":"ai"}
+{"id":"918wEDpP","en":"NightVisionToggle","zh_draft":"夜视模式切换","zh_ai":"夜视切换","zh_human":"","zh":"夜视切换","status":"ai"}
+{"id":"NXqpbY3F","en":"Coxinha Utilities","zh_draft":"Coxinha 实用工具","zh_ai":"Coxinha 工具","zh_human":"","zh":"Coxinha 工具","status":"ai"}
+{"id":"UzkWePRG","en":"A Breach Happened","zh_draft":"发生了一起数据泄露事件","zh_ai":"发生了缺口","zh_human":"","zh":"发生了缺口","status":"ai"}
+{"id":"DxlUSaq8","en":"Additional Armoury","zh_draft":"其他武器库","zh_ai":"额外军械库","zh_human":"","zh":"额外军械库","status":"ai"}
+{"id":"k3S5nd6q","en":"Optifine Capes Reborn","zh_draft":"Optifine 披风重生","zh_ai":"Optifine 披风重生","zh_human":"","zh":"Optifine 披风重生","status":"ai"}
+{"id":"JD2NSu5O","en":"The Aether II","zh_draft":"《以太 II》","zh_ai":"以太 II","zh_human":"","zh":"以太 II","status":"ai"}
+{"id":"G2hjjjFv","en":"Create: Basic Additions","zh_draft":"创建：基础加法","zh_ai":"创造：基本补充","zh_human":"","zh":"创造：基本补充","status":"ai"}
+{"id":"Sy5mAKPK","en":"Victus - Custom Hearts","zh_draft":"Victus - 定制心形饰品","zh_ai":"维库斯 - 自定义心","zh_human":"","zh":"维库斯 - 自定义心","status":"ai"}
+{"id":"mBPfL1U7","en":"Hammering","zh_draft":"敲击","zh_ai":"锤击","zh_human":"","zh":"锤击","status":"ai"}
+{"id":"umAqxZ6n","en":"Creeper Healing","zh_draft":"爬行者治疗","zh_ai":"爬行者治疗","zh_human":"","zh":"爬行者治疗","status":"ai"}
+{"id":"z1jD2AYf","en":"Cobblemon: Ball Stickers","zh_draft":"科布尔蒙：球形贴纸","zh_ai":"圆石兽：球贴纸","zh_human":"","zh":"圆石兽：球贴纸","status":"ai"}
+{"id":"flkUwsSr","en":"QualityArmory","zh_draft":"QualityArmory","zh_ai":"优质军械库","zh_human":"","zh":"优质军械库","status":"ai"}
+{"id":"A5foNgax","en":"LoginTo","zh_draft":"登录到","zh_ai":"登录到","zh_human":"","zh":"登录到","status":"ai"}
+{"id":"6AJNcGU2","en":"Chisels & Bits for TFC // 1.18.2 // 1.20.1 //","zh_draft":"TFC 专用凿子与钻头 // 1.18.2 // 1.20.1 //","zh_ai":"TFC 的雕刻与碎片 // 1.18.2 // 1.20.1 //","zh_human":"","zh":"TFC 的雕刻与碎片 // 1.18.2 // 1.20.1 //","status":"ai"}
+{"id":"QZt2fevq","en":"Natural Temperature","zh_draft":"自然温度","zh_ai":"自然温度","zh_human":"","zh":"自然温度","status":"ai"}
+{"id":"CahyPDjh","en":"Nether Wart Blocks to Nether Warts","zh_draft":"下界疣块变成下界疣","zh_ai":"下界药草块到下界药草","zh_human":"","zh":"下界药草块到下界药草","status":"ai"}
+{"id":"8JQgYY94","en":"TerraformGenerator","zh_draft":"TerraformGenerator","zh_ai":"地形生成器","zh_human":"","zh":"地形生成器","status":"ai"}
+{"id":"PxcK9msP","en":"Player Armor Stands","zh_draft":"玩家护甲架","zh_ai":"玩家盔甲支架","zh_human":"","zh":"玩家盔甲支架","status":"ai"}
+{"id":"5u8twXEK","en":"Crop Critters","zh_draft":"农作物害虫","zh_ai":"作物生物","zh_human":"","zh":"作物生物","status":"ai"}
+{"id":"vSoR3IrK","en":"Info Tools","zh_draft":"信息工具","zh_ai":"信息工具","zh_human":"","zh":"信息工具","status":"ai"}
+{"id":"YG7mMy6f","en":"E-Utils","zh_draft":"E-Utils","zh_ai":"E 工具","zh_human":"","zh":"E 工具","status":"ai"}
+{"id":"9dPDuh0K","en":"Polaroid Camera ","zh_draft":"宝丽来相机","zh_ai":"拍立得相机","zh_human":"","zh":"拍立得相机","status":"ai"}
+{"id":"5HxdoOjv","en":"wynnmod","zh_draft":"wynnmod","zh_ai":"WynnMod","zh_human":"","zh":"WynnMod","status":"ai"}
+{"id":"gP7RIb0Q","en":"One Enough Block","zh_draft":"一个就够了区块","zh_ai":"一块就够","zh_human":"","zh":"一块就够","status":"ai"}
+{"id":"nyFtqnBp","en":"Slash Length","zh_draft":"斜杠长度","zh_ai":"斩击长度","zh_human":"","zh":"斩击长度","status":"ai"}
+{"id":"pqYWfEo0","en":"Armor Impact Sounds","zh_draft":"护甲受击声","zh_ai":"护甲碰撞音效","zh_human":"","zh":"护甲碰撞音效","status":"ai"}
+{"id":"ZrpxHZN4","en":"Infernal Expansion","zh_draft":"地狱扩张","zh_ai":"炼狱扩展","zh_human":"","zh":"炼狱扩展","status":"ai"}
+{"id":"nrekn9hP","en":"Light Emitting Diode","zh_draft":"发光二极管","zh_ai":"发光二极管","zh_human":"","zh":"发光二极管","status":"ai"}
+{"id":"7baP43pD","en":"Battle Arts API","zh_draft":"战斗艺术 API","zh_ai":"战斗技艺API","zh_human":"","zh":"战斗技艺API","status":"ai"}
+{"id":"lyzGZZ6G","en":"Chat Binds","zh_draft":"聊天绑定","zh_ai":"聊天快捷键","zh_human":"","zh":"聊天快捷键","status":"ai"}
+{"id":"LSnXhPa7","en":"Tomtaru's Cobblemon and Farmer's Delight Tweaks","zh_draft":"Tomtaru 对“鹅卵石怪”和“农夫之乐”的调整","zh_ai":"Tomtaru的Cobblemon与农夫乐事调整","zh_human":"","zh":"Tomtaru的Cobblemon与农夫乐事调整","status":"ai"}
+{"id":"VOha5rKf","en":"Big Globe - YUNG's Better Dungeons Compatibility","zh_draft":"Big Globe - 与 YUNG 的《Better Dungeons》兼容性","zh_ai":"大地球仪-YUNG更好地牢兼容","zh_human":"","zh":"大地球仪-YUNG更好地牢兼容","status":"ai"}
+{"id":"G2K5sLls","en":"Controlify: Forgified","zh_draft":"Controlify：Forgified","zh_ai":"Controlify（Forge版）","zh_human":"","zh":"Controlify（Forge版）","status":"ai"}
+{"id":"MNQ8PfgX","en":"LightAura","zh_draft":"LightAura","zh_ai":"灵光","zh_human":"","zh":"灵光","status":"ai"}
+{"id":"XrpsNJah","en":"Aether: Basic Ores","zh_draft":"《以太》：基础矿石","zh_ai":"天堂：基础矿石","zh_human":"","zh":"天堂：基础矿石","status":"ai"}
+{"id":"NVz9DXUE","en":"Chinese flying island tower","zh_draft":"中国“飞岛”塔","zh_ai":"中式浮空岛塔","zh_human":"","zh":"中式浮空岛塔","status":"ai"}
+{"id":"WRzU60Pt","en":"BetterSleeping Revived","zh_draft":"“BetterSleeping”重获新生","zh_ai":"睡眠优化：重制版","zh_human":"","zh":"睡眠优化：重制版","status":"ai"}
+{"id":"fhMjR3no","en":"Daily Weather","zh_draft":"每日天气","zh_ai":"每日天气","zh_human":"","zh":"每日天气","status":"ai"}
+{"id":"Yl6uPZkr","en":"Blåhaj","zh_draft":"Blåhaj","zh_ai":"蓝鲨鱼","zh_human":"","zh":"蓝鲨鱼","status":"ai"}
+{"id":"yoEkK5RL","en":"Purpeille","zh_draft":"普尔佩耶","zh_ai":"紫卵石","zh_human":"","zh":"紫卵石","status":"ai"}
+{"id":"NMU5PHBd","en":"Boats Motion Rework (Climb Stairs, Slabs, and Ice)","zh_draft":"船只移动机制重做（攀爬楼梯、岩板和冰面）","zh_ai":"船只运动重做（可上楼梯、台阶和冰面）","zh_human":"","zh":"船只运动重做（可上楼梯、台阶和冰面）","status":"ai"}
+{"id":"lCSBuaOg","en":"Bird Nests","zh_draft":"鸟巢","zh_ai":"鸟巢","zh_human":"","zh":"鸟巢","status":"ai"}
+{"id":"lQPUD8WQ","en":"Defiled Lands","zh_draft":"被玷污的土地","zh_ai":"腐化之地","zh_human":"","zh":"腐化之地","status":"ai"}
+{"id":"PHISlklk","en":"Mixin 0.7-0.8 Compatibility","zh_draft":"Mixin 0.7-0.8 的兼容性","zh_ai":"Mixin 0.7-0.8 兼容性","zh_human":"","zh":"Mixin 0.7-0.8 兼容性","status":"ai"}
+{"id":"rtbzFq0N","en":"Morph-o-Tool","zh_draft":"Morph-o-Tool","zh_ai":"变形工具","zh_human":"","zh":"变形工具","status":"ai"}
+{"id":"90Bv2iLE","en":"Simple Nick Hider","zh_draft":"简易昵称隐藏器","zh_ai":"简易昵称隐藏","zh_human":"","zh":"简易昵称隐藏","status":"ai"}
+{"id":"plzVz20Z","en":"Shake Tweaks","zh_draft":"“Shake” 调整","zh_ai":"镜头抖动调整","zh_human":"","zh":"镜头抖动调整","status":"ai"}
+{"id":"Zotbxaw6","en":"Create Picky Wheels","zh_draft":"创建“挑剔”车轮","zh_ai":"机械动力：挑剔车轮","zh_human":"","zh":"机械动力：挑剔车轮","status":"ai"}
+{"id":"L4DkUS9E","en":"Miraculous: Tales of Ladyblock and Craft Noir","zh_draft":"《奇迹：莱迪布洛克与暗黑工坊的故事》","zh_ai":"奇迹少女：方块女士与暗夜工匠传说","zh_human":"","zh":"奇迹少女：方块女士与暗夜工匠传说","status":"ai"}
+{"id":"mc1uvRn8","en":"Origins: Legacy","zh_draft":"起源：传承","zh_ai":"起源：传承","zh_human":"","zh":"起源：传承","status":"ai"}
+{"id":"hd2YH2vf","en":"Crop & Kettle","zh_draft":"Crop & Kettle","zh_ai":"作物与水壶","zh_human":"","zh":"作物与水壶","status":"ai"}
+{"id":"9HWnaQZO","en":"Better Cave Worlds","zh_draft":"更精彩的洞穴世界","zh_ai":"优化洞穴世界","zh_human":"","zh":"优化洞穴世界","status":"ai"}
+{"id":"1yowwDpk","en":"CustomDiscs SVC","zh_draft":"CustomDiscs SVC","zh_ai":"自定义唱片 SVC","zh_human":"","zh":"自定义唱片 SVC","status":"ai"}
+{"id":"IOZULlo2","en":"Tameable Beasts","zh_draft":"可驯服的野兽","zh_ai":"可驯服野兽","zh_human":"","zh":"可驯服野兽","status":"ai"}
+{"id":"VTGi3upD","en":"FalseTweaks","zh_draft":"FalseTweaks","zh_ai":"假象调整","zh_human":"","zh":"假象调整","status":"ai"}
+{"id":"8TnTa9Ui","en":"More Fletching Tables","zh_draft":"更多箭羽安装台","zh_ai":"更多箭矢工作台","zh_human":"","zh":"更多箭矢工作台","status":"ai"}
+{"id":"1787GXza","en":"Orbital Railgun Sounds","zh_draft":"《轨道电磁炮》音效","zh_ai":"轨道电磁炮音效","zh_human":"","zh":"轨道电磁炮音效","status":"ai"}
+{"id":"dNduUQBR","en":"PackagedDraconic","zh_draft":"PackagedDraconic","zh_ai":"Draconic整合包","zh_human":"","zh":"Draconic整合包","status":"ai"}
+{"id":"UMhQPpZd","en":"ShieldBreak","zh_draft":"ShieldBreak","zh_ai":"破盾","zh_human":"","zh":"破盾","status":"ai"}
+{"id":"tzWbvcEg","en":"Katters Structures - Village","zh_draft":"Katters Structures - 村庄","zh_ai":"Katters结构：村庄","zh_human":"","zh":"Katters结构：村庄","status":"ai"}
+{"id":"z4CDikCJ","en":"Happy Pride Moth!","zh_draft":"“骄傲之月”快乐！","zh_ai":"快乐骄傲蛾！","zh_human":"","zh":"快乐骄傲蛾！","status":"ai"}
+{"id":"oo0NF2YQ","en":"Skin Changer","zh_draft":"变皮者","zh_ai":"换肤器","zh_human":"","zh":"换肤器","status":"ai"}
+{"id":"Hagcl1FT","en":"NEEPMeat","zh_draft":"NEEPMeat","zh_ai":"NEEPMeat","zh_human":"","zh":"NEEPMeat","status":"ai"}
+{"id":"XqiBHWlM","en":"Big Globe - YUNG's Better Witch Huts Compatibility","zh_draft":"Big Globe - YUNG 的《Better Witch Huts》兼容性","zh_ai":"大地球 - YUNG女巫小屋兼容","zh_human":"","zh":"大地球 - YUNG女巫小屋兼容","status":"ai"}
+{"id":"gHfCZDqf","en":"Food TXF","zh_draft":"食品 TXF","zh_ai":"食物TXF","zh_human":"","zh":"食物TXF","status":"ai"}
+{"id":"8XpQehpK","en":"NewWorld","zh_draft":"新世界","zh_ai":"新世界","zh_human":"","zh":"新世界","status":"ai"}
+{"id":"ptXUpAzg","en":"CustomNPCs","zh_draft":"自定义NPC","zh_ai":"自定义NPC","zh_human":"","zh":"自定义NPC","status":"ai"}
+{"id":"78LsPG8Y","en":"Genshin Craft","zh_draft":"原神工艺","zh_ai":"原神工艺","zh_human":"","zh":"原神工艺","status":"ai"}
+{"id":"usAyJ0Wy","en":"Take It Out — Minecraft Mod (Shulker Picking + Easy Place)","zh_draft":"“Take It Out”——《我的世界》模组（舒尔克箱拾取 + 轻松放置）","zh_ai":"取出物品","zh_human":"","zh":"取出物品","status":"ai"}
+{"id":"VXk11hFF","en":"NBArmors","zh_draft":"NBArmors","zh_ai":"NB护甲","zh_human":"","zh":"NB护甲","status":"ai"}
+{"id":"kI2bVWDr","en":"More Tool Variants (MStV+)","zh_draft":"更多工具变体 (MStV+)","zh_ai":"更多工具变体","zh_human":"","zh":"更多工具变体","status":"ai"}
+{"id":"RO3LwIqV","en":"Ancient Artifacts 2","zh_draft":"《古代文物2》","zh_ai":"古代神器2","zh_human":"","zh":"古代神器2","status":"ai"}
+{"id":"sPg2LVAd","en":"Create: More Girder","zh_draft":"创建：更多桁架","zh_ai":"机械动力：更多横梁","zh_human":"","zh":"机械动力：更多横梁","status":"ai"}
+{"id":"HmLJoQ1K","en":"Integrated Terminals","zh_draft":"集成终端","zh_ai":"集成终端","zh_human":"","zh":"集成终端","status":"ai"}
+{"id":"czWH0F4i","en":"Pack It Up!","zh_draft":"收拾好吧！","zh_ai":"收纳袋","zh_human":"","zh":"收纳袋","status":"ai"}
+{"id":"zWtYC4e6","en":"Tab Stats","zh_draft":"标签统计","zh_ai":"Tab统计","zh_human":"","zh":"Tab统计","status":"ai"}
+{"id":"hNxmWV9g","en":"Decorative Blocks Reborn","zh_draft":"装饰砌块的重生","zh_ai":"装饰方块重生","zh_human":"","zh":"装饰方块重生","status":"ai"}
+{"id":"z3enWbTR","en":"Cobblemon Modded Drops","zh_draft":"科布尔蒙模组掉落物","zh_ai":"宝可梦模组掉落兼容","zh_human":"","zh":"宝可梦模组掉落兼容","status":"ai"}
+{"id":"Qppvg0Y6","en":"MaLiLib API","zh_draft":"MaLiLib API","zh_ai":"MaLiLib API","zh_human":"","zh":"MaLiLib API","status":"ai"}
+{"id":"weDXQCzq","en":"Fancy Dyes","zh_draft":"花式染料","zh_ai":"精美染料","zh_human":"","zh":"精美染料","status":"ai"}
+{"id":"bV68OKwf","en":"Animal Garden -Alligator Gar","zh_draft":"动物园——短吻鲛","zh_ai":"动物花园 - 鳄雀鳝","zh_human":"","zh":"动物花园 - 鳄雀鳝","status":"ai"}
+{"id":"IEt1Yy3F","en":"SeeMore","zh_draft":"查看更多","zh_ai":"查看更多","zh_human":"","zh":"查看更多","status":"ai"}
+{"id":"OORXn0mW","en":"3D Hands","zh_draft":"3D 手","zh_ai":"3D手部","zh_human":"","zh":"3D手部","status":"ai"}
+{"id":"jT8j8tot","en":"Scape and Run: Parasites Quark","zh_draft":"《逃离与奔跑：寄生虫夸克》","zh_ai":"逃亡与奔跑：寄生虫 夸克兼容","zh_human":"","zh":"逃亡与奔跑：寄生虫 夸克兼容","status":"ai"}
+{"id":"lri0J5Tt","en":"JoJo: World of Stands","zh_draft":"《JoJo：替身世界》","zh_ai":"JOJO：替身世界","zh_human":"","zh":"JOJO：替身世界","status":"ai"}
+{"id":"Kt3eUOUy","en":"Sleeper","zh_draft":"《Sleeper》","zh_ai":"沉睡者","zh_human":"","zh":"沉睡者","status":"ai"}
+{"id":"Z43PTXn8","en":"Star Worm Equestrian Mod","zh_draft":"《星虫》马术模组","zh_ai":"星虫骑士模组","zh_human":"","zh":"星虫骑士模组","status":"ai"}
+{"id":"TQr3t8Sb","en":"Legendary Survival Overhaul","zh_draft":"《传奇生存》全面改版","zh_ai":"传奇生存重制","zh_human":"","zh":"传奇生存重制","status":"ai"}
+{"id":"53TJSd8P","en":"Cataclysm & BetterCombat - Compatibility","zh_draft":"《大灾变》与 BetterCombat —— 兼容性","zh_ai":"天灾与更好战斗兼容","zh_human":"","zh":"天灾与更好战斗兼容","status":"ai"}
+{"id":"4maRBTYh","en":"777","zh_draft":"777","zh_ai":"777","zh_human":"","zh":"777","status":"ai"}
+{"id":"9do6lbqp","en":"Limitless Enchantments","zh_draft":"无尽的魔法","zh_ai":"无限附魔","zh_human":"","zh":"无限附魔","status":"ai"}
+{"id":"y7FjajXw","en":"Arrzee's Superhero Multiverse","zh_draft":"Arrzee的超级英雄多元宇宙","zh_ai":"超级英雄多元宇宙","zh_human":"","zh":"超级英雄多元宇宙","status":"ai"}
+{"id":"e3aZHOyh","en":"Structure Compass","zh_draft":"结构指南","zh_ai":"结构指南针","zh_human":"","zh":"结构指南针","status":"ai"}
+{"id":"ZNhcuAvG","en":"Break My Fall","zh_draft":"《接住我》","zh_ai":"缓冲坠落","zh_human":"","zh":"缓冲坠落","status":"ai"}
+{"id":"O5VsIpQY","en":"adventure-platform-mod","zh_draft":"冒险-平台-模组","zh_ai":"冒险平台模组","zh_human":"","zh":"冒险平台模组","status":"ai"}
+{"id":"bbY4H7Rx","en":"Alive Well","zh_draft":"健康生活","zh_ai":"生命之泉","zh_human":"","zh":"生命之泉","status":"ai"}
+{"id":"qBYjphri","en":"Hippo Keystrokes","zh_draft":"Hippo 键盘快捷键","zh_ai":"河马按键","zh_human":"","zh":"河马按键","status":"ai"}
+{"id":"P5CL1LUJ","en":"Totem Pop Chams","zh_draft":"图腾流行查姆斯","zh_ai":"图腾透视","zh_human":"","zh":"图腾透视","status":"ai"}
+{"id":"SpOsQ3y2","en":"Impactful","zh_draft":"影响深远","zh_ai":"打击感","zh_human":"","zh":"打击感","status":"ai"}
+{"id":"cYJ3AYak","en":"Carpet crit fix","zh_draft":"地毯漏洞修复","zh_ai":"地毯暴击修复","zh_human":"","zh":"地毯暴击修复","status":"ai"}
+{"id":"sDBUwZVY","en":"Rechiseled: AE2","zh_draft":"《Rechiseled：AE2》","zh_ai":"再雕刻：应用能源2","zh_human":"","zh":"再雕刻：应用能源2","status":"ai"}
+{"id":"Q5kyKoWn","en":"HSM - Mending fix & Skyblock drill fix","zh_draft":"HSM - 修复补丁及Skyblock钻孔修复补丁","zh_ai":"HSM - 修复修补与天空岛钻头","zh_human":"","zh":"HSM - 修复修补与天空岛钻头","status":"ai"}
+{"id":"LmT6oZrX","en":"Create: Blazing Hot","zh_draft":"创作：炽热","zh_ai":"机械动力：炽热","zh_human":"","zh":"机械动力：炽热","status":"ai"}
+{"id":"2meOGkfm","en":"Bountiful Critters","zh_draft":"丰饶的小动物们","zh_ai":"丰饶宠物","zh_human":"","zh":"丰饶宠物","status":"ai"}
+{"id":"u9tsjkut","en":"Botania: Garden of Glass","zh_draft":"博塔尼亚：玻璃花园","zh_ai":"植物魔法：玻璃花园","zh_human":"","zh":"植物魔法：玻璃花园","status":"ai"}
+{"id":"QKHuMlDl","en":"Big Globe - YUNG's Better Desert Temples Compatibility","zh_draft":"Big Globe——YUNG的《更佳沙漠神庙》兼容性","zh_ai":"大地球仪 - YUNG沙漠神庙兼容","zh_human":"","zh":"大地球仪 - YUNG沙漠神庙兼容","status":"ai"}
+{"id":"83TKyAar","en":"VillagerQuests","zh_draft":"村民任务","zh_ai":"村民任务","zh_human":"","zh":"村民任务","status":"ai"}
+{"id":"pKlCsfkH","en":"Universal Shortcuts (Ctrl A fix)","zh_draft":"通用快捷键（Ctrl+A 修复）","zh_ai":"通用快捷键 (Ctrl A修复)","zh_human":"","zh":"通用快捷键 (Ctrl A修复)","status":"ai"}
+{"id":"A30Sq5Gt","en":"Create: Ornithopter Glider","zh_draft":"创作：扑翼滑翔机","zh_ai":"机械动力：扑翼滑翔机","zh_human":"","zh":"机械动力：扑翼滑翔机","status":"ai"}
+{"id":"8eToVMGA","en":"Cobblemon FC Gym Badges","zh_draft":"科布尔蒙足球俱乐部道馆徽章","zh_ai":"宝可梦 FC道馆徽章","zh_human":"","zh":"宝可梦 FC道馆徽章","status":"ai"}
+{"id":"bJTRwh2l","en":"Nature's Spirit - Farmer's Delight Recipe Compat","zh_draft":"“自然之灵”——“农夫之乐”食谱兼容","zh_ai":"自然之灵 - 农夫乐事配方兼容","zh_human":"","zh":"自然之灵 - 农夫乐事配方兼容","status":"ai"}
+{"id":"xMbNBtgO","en":"Shulker / Ender Chest tooltip","zh_draft":"舒尔克 / 恩德宝箱 工具提示","zh_ai":"潜影盒/末影箱提示","zh_human":"","zh":"潜影盒/末影箱提示","status":"ai"}
+{"id":"Xqnzyc08","en":"G1ax Crystal Optimizer","zh_draft":"G1ax 晶体优化器","zh_ai":"G1ax水晶优化","zh_human":"","zh":"G1ax水晶优化","status":"ai"}
+{"id":"sbuRwhB5","en":"Create Air Forge (A ThinAir compat)","zh_draft":"创建“空气熔炉”（兼容ThinAir）","zh_ai":"机械动力空气熔炉 (ThinAir兼容)","zh_human":"","zh":"机械动力空气熔炉 (ThinAir兼容)","status":"ai"}
+{"id":"U9iYRngS","en":"IFPatcher","zh_draft":"IFPatcher","zh_ai":"IF补丁","zh_human":"","zh":"IF补丁","status":"ai"}
+{"id":"q89I8czH","en":"Raw Mouse Input - Blessed Edition","zh_draft":"原始鼠标输入 - 祝福版","zh_ai":"原始鼠标输入 - 祝福版","zh_human":"","zh":"原始鼠标输入 - 祝福版","status":"ai"}
+{"id":"GJPO8KoR","en":"Classic Farlands","zh_draft":"经典法兰德斯","zh_ai":"经典远陆","zh_human":"","zh":"经典远陆","status":"ai"}
+{"id":"bApyjH1r","en":"SpeedsterHeroes","zh_draft":"极速英雄","zh_ai":"极速英雄","zh_human":"","zh":"极速英雄","status":"ai"}
+{"id":"SXYcZO3i","en":"Skylib","zh_draft":"Skylib","zh_ai":"天空库","zh_human":"","zh":"天空库","status":"ai"}
+{"id":"jnEFf2VO","en":"Mob Variants","zh_draft":"怪物变种","zh_ai":"生物变种","zh_human":"","zh":"生物变种","status":"ai"}
+{"id":"4nDndTIl","en":"Traveller's Boots","zh_draft":"旅行靴","zh_ai":"旅行者之靴","zh_human":"","zh":"旅行者之靴","status":"ai"}
+{"id":"mW7jD34A","en":"The Ducks","zh_draft":"鸭子","zh_ai":"鸭子","zh_human":"","zh":"鸭子","status":"ai"}
+{"id":"1PpUVuyO","en":"IlMusu's Enchantments","zh_draft":"IlMusu的魔法","zh_ai":"IlMusu附魔","zh_human":"","zh":"IlMusu附魔","status":"ai"}
+{"id":"KoBYkPNm","en":"Enchantment Decay","zh_draft":"法术效果衰减","zh_ai":"附魔衰减","zh_human":"","zh":"附魔衰减","status":"ai"}
+{"id":"8wDcQuht","en":"Greate","zh_draft":"Greate","zh_ai":"Greate","zh_human":"","zh":"Greate","status":"ai"}
+{"id":"naW7WZy0","en":"The Last Sword You Never Forgot","zh_draft":"那把你从未忘却的最后一把剑","zh_ai":"永不遗忘之剑","zh_human":"","zh":"永不遗忘之剑","status":"ai"}
+{"id":"BZ5vEM55","en":"CNPC+ DBC Addon","zh_draft":"CNPC+ DBC 扩展插件","zh_ai":"CNPC+ DBC扩展","zh_human":"","zh":"CNPC+ DBC扩展","status":"ai"}
+{"id":"Ut5Iiqct","en":"Cataclysm x YUNG's Better Nether Fortresses Compat","zh_draft":"《大灾变》× YUNG 的“更佳虚空要塞”兼容性","zh_ai":"灾变 x YUNG下界要塞兼容","zh_human":"","zh":"灾变 x YUNG下界要塞兼容","status":"ai"}
+{"id":"W1Paq97E","en":"Tropics","zh_draft":"热带","zh_ai":"热带","zh_human":"","zh":"热带","status":"ai"}
+{"id":"AUfWGrm6","en":"AutoAttack","zh_draft":"自动攻击","zh_ai":"自动攻击","zh_human":"","zh":"自动攻击","status":"ai"}
+{"id":"W2U6MtrS","en":"The Hollow Stalker (horror)(not a dweller)","zh_draft":"《空心追踪者》（恐怖）（非居民）","zh_ai":"空洞追踪者 (恐怖)","zh_human":"","zh":"空洞追踪者 (恐怖)","status":"ai"}
+{"id":"nJ9B5oz1","en":"Create: Mechanical Companion","zh_draft":"创作：机械伙伴","zh_ai":"机械动力：机械伙伴","zh_human":"","zh":"机械动力：机械伙伴","status":"ai"}
+{"id":"npRLbKIs","en":"TFC: Hammer Time","zh_draft":"TFC：锤子时刻","zh_ai":"TFC：锤击时刻","zh_human":"","zh":"TFC：锤击时刻","status":"ai"}
+{"id":"daIJrdNd","en":"Gallant Gauntlets","zh_draft":"英勇护手","zh_ai":"英勇护手","zh_human":"","zh":"英勇护手","status":"ai"}
+{"id":"3wGWhm8A","en":"JsMacros","zh_draft":"JsMacros","zh_ai":"Js宏","zh_human":"","zh":"Js宏","status":"ai"}
+{"id":"FbJOKNup","en":"'Dustrial Decor","zh_draft":"“工业风装饰”","zh_ai":"工业装饰","zh_human":"","zh":"工业装饰","status":"ai"}
+{"id":"wOIKNYYX","en":"MoreChatHistory Reforged","zh_draft":"《MoreChatHistory：重铸版》","zh_ai":"更多聊天历史 重铸","zh_human":"","zh":"更多聊天历史 重铸","status":"ai"}
+{"id":"Ov2r3aVY","en":"Xaero Train Map","zh_draft":"Xaero 列车时刻表","zh_ai":"Xaero列车地图","zh_human":"","zh":"Xaero列车地图","status":"ai"}
+{"id":"sKa9BOA6","en":"Cauldron Concrete Powder","zh_draft":"“大锅”混凝土粉","zh_ai":"坩埚混凝土粉末","zh_human":"","zh":"坩埚混凝土粉末","status":"ai"}
+{"id":"hyTM8xtR","en":"Gods & Heroes (Origins)","zh_draft":"《诸神与英雄》（起源）","zh_ai":"神与英雄 (起源)","zh_human":"","zh":"神与英雄 (起源)","status":"ai"}
+{"id":"9KhpDjPy","en":"Mosquito Origin","zh_draft":"蚊子的起源","zh_ai":"蚊子起源","zh_human":"","zh":"蚊子起源","status":"ai"}
+{"id":"tcswzSAY","en":"Redstone Sound Slider","zh_draft":"Redstone 音量滑块","zh_ai":"红石音量滑块","zh_human":"","zh":"红石音量滑块","status":"ai"}
+{"id":"PEsehLDR","en":"Creative Menu Tweaks","zh_draft":"创意菜单调整","zh_ai":"创造菜单调整","zh_human":"","zh":"创造菜单调整","status":"ai"}
+{"id":"JNDpuNiN","en":"Stupid Express","zh_draft":"“蠢蠢快车”","zh_ai":"笨拙快递","zh_human":"","zh":"笨拙快递","status":"ai"}
+{"id":"JL35Xbzz","en":"One World Folder","zh_draft":"“一个世界”文件夹","zh_ai":"单一世界文件夹","zh_human":"","zh":"单一世界文件夹","status":"ai"}
+{"id":"ZSdhSrVt","en":"Even Better Nether","zh_draft":"更棒的下界","zh_ai":"更好的下界","zh_human":"","zh":"更好的下界","status":"ai"}
+{"id":"EvokrNVM","en":"Alternate Gunpowder","zh_draft":"替代火药","zh_ai":"替代火药","zh_human":"","zh":"替代火药","status":"ai"}
+{"id":"fvtFPg1k","en":"Apathy","zh_draft":"冷漠","zh_ai":"冷漠","zh_human":"","zh":"冷漠","status":"ai"}
+{"id":"SaKy2xRK","en":"Easel Does It!","zh_draft":"画架搞定！","zh_ai":"画架搞定！","zh_human":"","zh":"画架搞定！","status":"ai"}
+{"id":"liI36we9","en":"Bucketable","zh_draft":"可装入桶的","zh_ai":"可装桶","zh_human":"","zh":"可装桶","status":"ai"}
+{"id":"V9uNAQBc","en":"Gun Collection: A CGM weapon addon","zh_draft":"《Gun Collection》：一款 CGM 武器扩展包","zh_ai":"枪械收藏：CGM武器扩展","zh_human":"","zh":"枪械收藏：CGM武器扩展","status":"ai"}
+{"id":"aIzh7mNF","en":"Cheap Templates","zh_draft":"便宜的模板","zh_ai":"廉价模板","zh_human":"","zh":"廉价模板","status":"ai"}
+{"id":"zgaWtmrV","en":"Arcanus: Legacy","zh_draft":"《Arcanus：Legacy》","zh_ai":"奥术：遗产","zh_human":"","zh":"奥术：遗产","status":"ai"}
+{"id":"1XNzFgSy","en":"Annoying Villagers","zh_draft":"讨厌的村民","zh_ai":"烦人的村民","zh_human":"","zh":"烦人的村民","status":"ai"}
+{"id":"DQjhR62z","en":"RFTools Control","zh_draft":"RFTools 控件","zh_ai":"RFTools 控制","zh_human":"","zh":"RFTools 控制","status":"ai"}
+{"id":"m3dwgb3y","en":"JJBA Music Mod","zh_draft":"JJBA 音乐模组","zh_ai":"JOJO音乐模组","zh_human":"","zh":"JOJO音乐模组","status":"ai"}
+{"id":"sNUaI7Ge","en":"Create: Garnished Additions","zh_draft":"创建：装饰性配料","zh_ai":"机械动力：装饰性附加","zh_human":"","zh":"机械动力：装饰性附加","status":"ai"}
+{"id":"yzoRWZpp","en":"Astrid's Structures","zh_draft":"阿斯特里德的建筑","zh_ai":"阿斯特丽德的结构","zh_human":"","zh":"阿斯特丽德的结构","status":"ai"}
+{"id":"tj8k9Vvq","en":"Zhipeiweidu","zh_draft":"智佩维度","zh_ai":"支配维度","zh_human":"","zh":"支配维度","status":"ai"}
+{"id":"ANlAmoYX","en":"Double Doors","zh_draft":"双开门","zh_ai":"双开门","zh_human":"","zh":"双开门","status":"ai"}
+{"id":"CnOG2wlS","en":"Toast Control","zh_draft":"烤面包控制","zh_ai":"提示控制","zh_human":"","zh":"提示控制","status":"ai"}
+{"id":"KcQAUjoP","en":"The Guild","zh_draft":"公会","zh_ai":"公会","zh_human":"","zh":"公会","status":"ai"}
+{"id":"pdjxnvXe","en":" Bedrock Plus","zh_draft":"Bedrock Plus","zh_ai":"基岩版增强","zh_human":"","zh":"基岩版增强","status":"ai"}
+{"id":"wAEWD77L","en":"The NoFog Mod","zh_draft":"NoFog 模组","zh_ai":"无雾模组","zh_human":"","zh":"无雾模组","status":"ai"}
+{"id":"M554ReuW","en":"PixelTweaks","zh_draft":"PixelTweaks","zh_ai":"像素调整","zh_human":"","zh":"像素调整","status":"ai"}
+{"id":"iKWDQkn3","en":"Apocalypse Rebooted","zh_draft":"《启示录：重启》","zh_ai":"末日重启","zh_human":"","zh":"末日重启","status":"ai"}
+{"id":"5XRPRPTb","en":"Better Pets","zh_draft":"更好的宠物","zh_ai":"更好的宠物","zh_human":"","zh":"更好的宠物","status":"ai"}
+{"id":"irqADPUT","en":"hypixelautogg","zh_draft":"hypixelautogg","zh_ai":"Hypixel自动GG","zh_human":"","zh":"Hypixel自动GG","status":"ai"}
+{"id":"xm3GEVSp","en":"AFK Rewards Lite","zh_draft":"AFK 奖励精简版","zh_ai":"挂机奖励精简版","zh_human":"","zh":"挂机奖励精简版","status":"ai"}
+{"id":"iPcmjKj7","en":"Camera Enhancements","zh_draft":"相机功能增强","zh_ai":"摄像机增强","zh_human":"","zh":"摄像机增强","status":"ai"}
+{"id":"zLNixZZC","en":"TFC Artisanal","zh_draft":"TFC 手工坊","zh_ai":"TFC 手工","zh_human":"","zh":"TFC 手工","status":"ai"}
+{"id":"msrQK89I","en":"NonUpdate Reloaded","zh_draft":"《NonUpdate Reloaded》","zh_ai":"非更新重载","zh_human":"","zh":"非更新重载","status":"ai"}
+{"id":"RUtQ9kfe","en":"Neo Origins","zh_draft":"《Neo Origins》","zh_ai":"新起源","zh_human":"","zh":"新起源","status":"ai"}
+{"id":"VdZ1CoT5","en":"Carry On + Valkyrien Skies Compat","zh_draft":"《Carry On》与《Valkyrien Skies》兼容","zh_ai":"搬箱子 + 瓦尔基里天空兼容","zh_human":"","zh":"搬箱子 + 瓦尔基里天空兼容","status":"ai"}
+{"id":"HeQ9uevZ","en":"Clean View","zh_draft":"简洁视图","zh_ai":"清晰视野","zh_human":"","zh":"清晰视野","status":"ai"}
+{"id":"jDwAl78q","en":"Crystal Anchor Counter","zh_draft":"水晶锚形收银台","zh_ai":"水晶锚计数器","zh_human":"","zh":"水晶锚计数器","status":"ai"}
+{"id":"wsHvEXyt","en":"Lag'B'Gon Revived","zh_draft":"拉格·B·贡重生","zh_ai":"消除卡顿复活版","zh_human":"","zh":"消除卡顿复活版","status":"ai"}
+{"id":"Jmt7p37B","en":"MoreIotas","zh_draft":"更多Iotas","zh_ai":"更多微粒","zh_human":"","zh":"更多微粒","status":"ai"}
+{"id":"4NBV2LS4","en":"Ars Magica 2.5","zh_draft":"《魔法之艺》2.5版","zh_ai":"魔法艺术2.5","zh_human":"","zh":"魔法艺术2.5","status":"ai"}
+{"id":"YS0VbYBE","en":"Craft Saddles","zh_draft":"手工马鞍","zh_ai":"合成鞍","zh_human":"","zh":"合成鞍","status":"ai"}
+{"id":"HLW5dnBW","en":"Custom Scoreboard","zh_draft":"自定义记分板","zh_ai":"自定义计分板","zh_human":"","zh":"自定义计分板","status":"ai"}
 {"id":"ROQUKdm5","en":"Armadillo Scute Armor","zh_draft":"犰狳鳞甲","zh_ai":"","zh_human":"","zh":"犰狳鳞甲","status":"pending"}
 {"id":"EYcZHALB","en":"Old Mutant More","zh_draft":"老变种人 更多","zh_ai":"","zh_human":"","zh":"老变种人 更多","status":"pending"}
 {"id":"La4e8zkH","en":"Simple Weapons for Better Combat","zh_draft":"简单武器，更强战斗力","zh_ai":"","zh_human":"","zh":"简单武器，更强战斗力","status":"pending"}
