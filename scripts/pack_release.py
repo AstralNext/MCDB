@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""打包发行目录：全 JSON（对照 + 精确表 + 语义分片），打 zip。"""
+"""打包发行目录：对照表 + 精确表（无向量）。"""
 
 from __future__ import annotations
 
@@ -16,21 +16,18 @@ from common import DIST_DIR, ROOT, ensure_dirs, now_iso, write_json
 
 RELEASE_DIR = ROOT / "release"
 
-README_TXT = """MCDB 发行包（全 JSON，无数据库）
-================================
+README_TXT = """MCDB 发行包（全 JSON，无数据库 / 无向量）
+========================================
 
 文件
 ----
-- bilingual.jsonl       中英对照
+- bilingual.jsonl       中英对照（标题 → 译名）
 - exact_titles.json     英文 → 中文精确表
-- semantic/*.jsonl      语义向量分片（字段 v 为 base64 float32）
-- semantic_meta.json    语义元信息
 - version.json          版本
 
-搜索示例
---------
-python scripts/search_semantic.py --semantic ./semantic "钠" -k 5
-python scripts/exact_replace.py --map exact_titles.json "Sodium"
+搜索
+----
+标题模糊匹配见发行站 Worker / 本地 scripts/search_titles.py
 """
 
 USAGE_MD = """# MCDB 发行包用法（JSON only）
@@ -47,13 +44,9 @@ USAGE_MD = """# MCDB 发行包用法（JSON only）
 
 `exact_titles.json` → `by_en` / `by_id`
 
-## 向量搜索
+## 标题搜索
 
-`semantic/*.jsonl` 含字段 `v`（base64 编码的 float32 向量）。
-
-```bash
-python scripts/search_semantic.py --semantic path/to/semantic "高性能渲染" -k 5
-```
+对 `en` / `zh` / `slug` 做模糊匹配（精确 > 前缀 > 包含），不再提供向量检索。
 """
 
 
@@ -68,8 +61,6 @@ def main() -> int:
         args.dist / "version.json",
         args.dist / "bilingual.jsonl",
         args.dist / "exact_titles.json",
-        args.dist / "semantic_meta.json",
-        args.dist / "semantic",
     ]
     missing = [str(p) for p in required if not p.exists()]
     if missing:
@@ -85,14 +76,8 @@ def main() -> int:
     stage = args.out / "mcdb"
     stage.mkdir(parents=True)
 
-    for name in (
-        "version.json",
-        "bilingual.jsonl",
-        "exact_titles.json",
-        "semantic_meta.json",
-    ):
+    for name in ("version.json", "bilingual.jsonl", "exact_titles.json"):
         shutil.copy2(args.dist / name, stage / name)
-    shutil.copytree(args.dist / "semantic", stage / "semantic")
 
     (stage / "README.txt").write_text(README_TXT, encoding="utf-8")
     (stage / "USAGE.md").write_text(USAGE_MD, encoding="utf-8")
@@ -104,14 +89,8 @@ def main() -> int:
             if path.is_file():
                 zf.write(path, arcname=f"mcdb/{path.relative_to(stage).as_posix()}")
 
-    for name in (
-        "bilingual.jsonl",
-        "exact_titles.json",
-        "version.json",
-        "semantic_meta.json",
-    ):
+    for name in ("bilingual.jsonl", "exact_titles.json", "version.json"):
         shutil.copy2(args.dist / name, args.out / name)
-    shutil.copytree(args.dist / "semantic", args.out / "semantic")
 
     manifest = {
         "tag_hint": f"dist-{stamp}-{ver}",
@@ -124,8 +103,6 @@ def main() -> int:
             zip_name,
             "bilingual.jsonl",
             "exact_titles.json",
-            "semantic_meta.json",
-            "semantic/",
         ],
     }
     write_json(args.out / "manifest.json", manifest)

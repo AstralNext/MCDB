@@ -8,10 +8,11 @@
 
 | 文件 | 用途 |
 |------|------|
-| `bilingual.jsonl` | 中英对照 |
+| `bilingual.jsonl` | 中英对照（标题 → 译名 / 模糊搜索） |
 | `exact_titles.json` | 英文 → 中文精确替换 |
-| `semantic/*.jsonl` | 向量搜索 |
 | `mcdb-*.zip` | 完整包 |
+
+> 已不再编译语义向量。
 
 ## 目录
 
@@ -48,5 +49,5 @@ scripts/
 python scripts/crawl.py
 python scripts/translate_edge.py --batch 20
 python scripts/compile_dist.py
-python scripts/search_semantic.py "钠" -k 5
+python scripts/search_titles.py "钠" -k 5
 ```

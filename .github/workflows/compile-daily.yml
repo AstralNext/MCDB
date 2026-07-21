@@ -1,4 +1,4 @@
-# 每日编译 JSON 产物（无 sqlite）
+# 每日编译 JSON 产物（对照表，无向量）
 name: compile-daily
 
 on:
@@ -31,15 +31,15 @@ jobs:
       - name: Compile JSON dist
         run: python scripts/compile_dist.py
 
-      - name: Smoke semantic search
-        run: python scripts/search_semantic.py "钠" -k 5 || true
+      - name: Smoke title search
+        run: python scripts/search_titles.py "钠" -k 5 || true
 
-      - name: Commit small dist JSON
+      - name: Commit dist JSON
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # semantic/ 体积大，只提交对照表与元信息；向量分片走 Release
-          git add dist/version.json dist/exact_titles.json dist/bilingual.jsonl dist/semantic_meta.json
+          git add dist/version.json dist/exact_titles.json dist/bilingual.jsonl
+          git rm -r --cached dist/semantic dist/semantic_meta.json 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No changes"
           else
@@ -47,10 +47,3 @@ jobs:
             git pull --rebase --autostash origin HEAD || true
             git push
           fi
-
-      - name: Upload semantic JSONL shards
-        uses: actions/upload-artifact@v4
-        with:
-          name: semantic-jsonl
-          path: dist/semantic/
-          retention-days: 14

@@ -1,16 +1,11 @@
 #!/usr/bin/env python3
-"""编译对外产物（全 JSON）：中英对照 + 精确表 + 语义向量 JSONL。"""
+"""编译对外产物（全 JSON）：中英对照 + 精确表。不再编译向量。"""
 
 from __future__ import annotations
 
 import argparse
-import base64
 import hashlib
 import json
-import math
-import re
-import shutil
-import struct
 import sys
 from collections import Counter
 from pathlib import Path
@@ -26,67 +21,6 @@ from common import (
     now_iso,
     write_json,
 )
-
-VEC_DIM = 256
-NGRAM_N = 2
-SEMANTIC_SHARD = 3000
-
-# 社区惯用名 → 编入向量文本（下次全量 compile 生效）
-SLUG_ALIASES: dict[str, list[str]] = {
-    "create": ["机械动力"],
-}
-
-
-def char_ngrams(text: str, n: int = NGRAM_N) -> list[str]:
-    t = re.sub(r"\s+", "", (text or "").lower())
-    if not t:
-        return []
-    if len(t) < n:
-        return [t]
-    return [t[i : i + n] for i in range(len(t) - n + 1)]
-
-
-def embed(text: str, dim: int = VEC_DIM) -> list[float]:
-    vec = [0.0] * dim
-    grams = char_ngrams(text, 1) + char_ngrams(text, 2)
-    if not grams:
-        return vec
-    for g in grams:
-        h = int(hashlib.md5(g.encode("utf-8")).hexdigest(), 16)
-        idx = h % dim
-        sign = 1.0 if (h >> 8) & 1 else -1.0
-        w = 1.4 if len(g) == 1 else 1.0
-        vec[idx] += sign * w
-    norm = math.sqrt(sum(v * v for v in vec)) or 1.0
-    return [v / norm for v in vec]
-
-
-def embed_record(zh: str, en: str, slug: str = "") -> list[float]:
-    """中英双语 + slug 别名，再 hash 成向量。"""
-    parts = [zh or "", en or ""]
-    parts.extend(SLUG_ALIASES.get((slug or "").lower(), []))
-    return embed(" ".join(p for p in parts if p))
-
-
-def pack_vec(vec: list[float]) -> bytes:
-    return struct.pack(f"{len(vec)}f", *vec)
-
-
-def unpack_vec(blob: bytes) -> list[float]:
-    n = len(blob) // 4
-    return list(struct.unpack(f"{n}f", blob))
-
-
-def encode_vec(vec: list[float]) -> str:
-    return base64.b64encode(pack_vec(vec)).decode("ascii")
-
-
-def decode_vec(s: str) -> list[float]:
-    return unpack_vec(base64.b64decode(s))
-
-
-def cosine(a: list[float], b: list[float]) -> float:
-    return sum(x * y for x, y in zip(a, b))
 
 
 def load_pairs() -> list[dict]:
@@ -149,32 +83,6 @@ def build_exact(pairs: list[dict]) -> dict:
     }
 
 
-def build_semantic_jsonl(pairs: list[dict], out_dir: Path, shard_size: int) -> list[str]:
-    if out_dir.exists():
-        shutil.rmtree(out_dir)
-    out_dir.mkdir(parents=True, exist_ok=True)
-    files: list[str] = []
-    for i in range(0, len(pairs), shard_size):
-        chunk = pairs[i : i + shard_size]
-        name = f"{i // shard_size:03d}.jsonl"
-        path = out_dir / name
-        with path.open("w", encoding="utf-8", newline="\n") as f:
-            for p in chunk:
-                obj = {
-                    "id": p["id"],
-                    "slug": p.get("slug") or "",
-                    "type": p.get("type") or "",
-                    "en": p["en"],
-                    "zh": p["zh"],
-                    "status": p.get("status") or "",
-                    "downloads": int(p.get("downloads") or 0),
-                    "v": encode_vec(embed_record(p["zh"], p["en"], p.get("slug") or "")),
-                }
-                f.write(json.dumps(obj, ensure_ascii=False, separators=(",", ":")) + "\n")
-        files.append(f"semantic/{name}")
-    return files
-
-
 def content_version(pairs: list[dict]) -> str:
     h = hashlib.sha256()
     for p in pairs:
@@ -183,18 +91,23 @@ def content_version(pairs: list[dict]) -> str:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Compile JSON dist (no sqlite)")
+    parser = argparse.ArgumentParser(description="Compile JSON dist (titles only, no vectors)")
     parser.add_argument("--out", type=Path, default=DIST_DIR)
-    parser.add_argument("--shard-size", type=int, default=SEMANTIC_SHARD)
     args = parser.parse_args()
 
     ensure_dirs()
     args.out.mkdir(parents=True, exist_ok=True)
 
-    # 清理旧 sqlite
-    old_db = args.out / "semantic.sqlite"
-    if old_db.exists():
-        old_db.unlink()
+    # 清理旧产物
+    for name in ("semantic.sqlite", "semantic_meta.json"):
+        old = args.out / name
+        if old.exists():
+            old.unlink()
+    sem_dir = args.out / "semantic"
+    if sem_dir.is_dir():
+        import shutil
+
+        shutil.rmtree(sem_dir)
 
     pairs = load_pairs()
     write_json(args.out / "exact_titles.json", build_exact(pairs))
@@ -220,7 +133,6 @@ def main() -> int:
                 + "\n"
             )
 
-    sem_files = build_semantic_jsonl(pairs, args.out / "semantic", args.shard_size)
     status_counts = Counter(p["status"] for p in pairs)
     version = {
         "version": content_version(pairs),
@@ -231,33 +143,13 @@ def main() -> int:
         "files": {
             "bilingual": "bilingual.jsonl",
             "exact": "exact_titles.json",
-            "semantic_dir": "semantic/",
-            "semantic_shards": sem_files,
-        },
-        "embed": {
-            "name": "char-unigram+bigram-hash",
-            "dim": VEC_DIM,
-            "vec_encoding": "base64-float32le",
-            "text": "zh + en + slug_aliases",
-            "slug_aliases": SLUG_ALIASES,
         },
         "usage": {
-            "bilingual": "bilingual.jsonl：中英对照",
+            "bilingual": "bilingual.jsonl：中英对照（标题搜索 / 译名）",
             "translate_replace": "exact_titles.json：英文原名 → 中文",
-            "semantic_search": "semantic/*.jsonl：双语向量近邻",
         },
     }
     write_json(args.out / "version.json", version)
-    write_json(
-        args.out / "semantic_meta.json",
-        {
-            "dim": VEC_DIM,
-            "count": len(pairs),
-            "shards": sem_files,
-            "vec_field": "v",
-            "encoding": "base64-float32le",
-        },
-    )
     print(json.dumps(version, ensure_ascii=True, indent=2), flush=True)
     return 0
 
