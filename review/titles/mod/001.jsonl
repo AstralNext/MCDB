@@ -2956,45 +2956,45 @@
 {"id":"jhHNjn7K","en":"Fast Config API","zh_draft":"快速配置 API","zh_ai":"快速配置API","zh_human":"","zh":"快速配置API","status":"ai"}
 {"id":"ranjG9Zq","en":"Mount Opacity","zh_draft":"奥帕西蒂山","zh_ai":"坐骑不透明度","zh_human":"","zh":"坐骑不透明度","status":"ai"}
 {"id":"19crKDsZ","en":"Natural Charcoal","zh_draft":"天然木炭","zh_ai":"天然木炭","zh_human":"","zh":"天然木炭","status":"ai"}
-{"id":"M8z7jPlu","en":"ScreenFX","zh_draft":"ScreenFX","zh_ai":"","zh_human":"","zh":"ScreenFX","status":"pending"}
-{"id":"TzC3nDsQ","en":"Luminous: Monsters","zh_draft":"《Luminous：怪物》","zh_ai":"","zh_human":"","zh":"《Luminous：怪物》","status":"pending"}
-{"id":"FfR6U4UK","en":"XP From Harvest Reworked","zh_draft":"“收获”重做后的经验值","zh_ai":"","zh_human":"","zh":"“收获”重做后的经验值","status":"pending"}
-{"id":"dWIHwNEE","en":"HUD Lib","zh_draft":"HUD 库","zh_ai":"","zh_human":"","zh":"HUD 库","status":"pending"}
-{"id":"g0YZhKZF","en":"Decorative Core","zh_draft":"装饰芯","zh_ai":"","zh_human":"","zh":"装饰芯","status":"pending"}
-{"id":"n2G0Tyys","en":"Royal Variations","zh_draft":"《皇家变奏曲》","zh_ai":"","zh_human":"","zh":"《皇家变奏曲》","status":"pending"}
-{"id":"ilvNBzFn","en":"Critical Strike","zh_draft":"致命一击","zh_ai":"","zh_human":"","zh":"致命一击","status":"pending"}
-{"id":"ZK4bBM3B","en":"More Babies","zh_draft":"更多宝宝","zh_ai":"","zh_human":"","zh":"更多宝宝","status":"pending"}
-{"id":"V7mbOBO4","en":"Create Stock Bridge","zh_draft":"创建股票桥","zh_ai":"","zh_human":"","zh":"创建股票桥","status":"pending"}
-{"id":"eJBXJCbo","en":"Underground Biomes","zh_draft":"地下生物群系","zh_ai":"","zh_human":"","zh":"地下生物群系","status":"pending"}
-{"id":"DaHQ5DDg","en":"the lost city","zh_draft":"失落之城","zh_ai":"","zh_human":"","zh":"失落之城","status":"pending"}
-{"id":"g8kNxIw4","en":"Some Music Discs","zh_draft":"一些音乐光盘","zh_ai":"","zh_human":"","zh":"一些音乐光盘","status":"pending"}
-{"id":"wHODup9j","en":"Antique Atlas","zh_draft":"古董地图集","zh_ai":"","zh_human":"","zh":"古董地图集","status":"pending"}
-{"id":"blEO0qto","en":"Generator Galore","zh_draft":"发电机大集合","zh_ai":"","zh_human":"","zh":"发电机大集合","status":"pending"}
-{"id":"SZ0j5lg1","en":"Game of Reborn","zh_draft":"《重生之战》","zh_ai":"","zh_human":"","zh":"《重生之战》","status":"pending"}
-{"id":"SAaf5yvD","en":"EEEAB's Mobs: Custom Bossbars","zh_draft":"EEEAB 的怪物：自定义首领条","zh_ai":"","zh_human":"","zh":"EEEAB 的怪物：自定义首领条","status":"pending"}
-{"id":"nELKzJ5C","en":"Open Simple Frames","zh_draft":"打开“简单框架”","zh_ai":"","zh_human":"","zh":"打开“简单框架”","status":"pending"}
-{"id":"BYmvNgRP","en":"Kitchen Projectiles","zh_draft":"厨房飞溅物","zh_ai":"","zh_human":"","zh":"厨房飞溅物","status":"pending"}
-{"id":"s4G3ZCcv","en":"ReBlured","zh_draft":"ReBlured","zh_ai":"","zh_human":"","zh":"ReBlured","status":"pending"}
-{"id":"ba5MV2CF","en":"Interactive Foliage","zh_draft":"互动植被","zh_ai":"","zh_human":"","zh":"互动植被","status":"pending"}
-{"id":"WhVa4xyw","en":"Ex Nihilo: Sequentia","zh_draft":"《无中生有：序列》","zh_ai":"","zh_human":"","zh":"《无中生有：序列》","status":"pending"}
-{"id":"MutgVePM","en":"Create: SpawnerBoxer","zh_draft":"创建者：SpawnerBoxer","zh_ai":"","zh_human":"","zh":"创建者：SpawnerBoxer","status":"pending"}
-{"id":"QWq3sAFk","en":"SaltMons","zh_draft":"SaltMons","zh_ai":"","zh_human":"","zh":"SaltMons","status":"pending"}
-{"id":"Ig6QciUH","en":"More Industrial Foregoing Addons (MIFA)","zh_draft":"更多工业放弃附加组件（MIFA）","zh_ai":"","zh_human":"","zh":"更多工业放弃附加组件（MIFA）","status":"pending"}
-{"id":"Rd89yO7d","en":"APTweaks: Gamerules (11.x Classic)","zh_draft":"APTweaks：游戏规则（11.x 经典版）","zh_ai":"","zh_human":"","zh":"APTweaks：游戏规则（11.x 经典版）","status":"pending"}
-{"id":"mwqVTXh1","en":"Bedrock Parity","zh_draft":"基岩平价","zh_ai":"","zh_human":"","zh":"基岩平价","status":"pending"}
-{"id":"uFws80gC","en":"Arts & Crafts Compatibility","zh_draft":"艺术与工艺的兼容性","zh_ai":"","zh_human":"","zh":"艺术与工艺的兼容性","status":"pending"}
-{"id":"KXQSDZIy","en":"Jumbo Furnace","zh_draft":"巨型熔炉","zh_ai":"","zh_human":"","zh":"巨型熔炉","status":"pending"}
-{"id":"Iywe4QI4","en":"Volume Fix","zh_draft":"音量修复","zh_ai":"","zh_human":"","zh":"音量修复","status":"pending"}
-{"id":"4KpyOIiK","en":"Gemcrafting","zh_draft":"宝石制作","zh_ai":"","zh_human":"","zh":"宝石制作","status":"pending"}
-{"id":"X7gTlDx5","en":"Thorough Keybindings","zh_draft":"全面的键位设置","zh_ai":"","zh_human":"","zh":"全面的键位设置","status":"pending"}
-{"id":"oFmiHncm","en":"NhatJS's Furniture Mod","zh_draft":"NhatJS 的家具模组","zh_ai":"","zh_human":"","zh":"NhatJS 的家具模组","status":"pending"}
-{"id":"W77u83l0","en":"Farmer's Cutting: The Aether","zh_draft":"《农夫的切割：以太》","zh_ai":"","zh_human":"","zh":"《农夫的切割：以太》","status":"pending"}
-{"id":"Eg1DyRej","en":"Easter's Delight","zh_draft":"复活节的欢乐","zh_ai":"","zh_human":"","zh":"复活节的欢乐","status":"pending"}
-{"id":"6iAdBiSB","en":"SimplesorterR","zh_draft":"SimplesorterR","zh_ai":"","zh_human":"","zh":"SimplesorterR","status":"pending"}
-{"id":"dWOPoahl","en":"SnappyTappy","zh_draft":"SnappyTappy","zh_ai":"","zh_human":"","zh":"SnappyTappy","status":"pending"}
-{"id":"Tt9OkMjz","en":"Tinkers Tool Leveling 2","zh_draft":"《Tinkers Tool》第二关：调整水平","zh_ai":"","zh_human":"","zh":"《Tinkers Tool》第二关：调整水平","status":"pending"}
-{"id":"tTPzEplo","en":"Gaming Deco","zh_draft":"游戏装饰","zh_ai":"","zh_human":"","zh":"游戏装饰","status":"pending"}
-{"id":"Xht4wlLG","en":"Enchantment Reveal","zh_draft":"魔法揭秘","zh_ai":"","zh_human":"","zh":"魔法揭秘","status":"pending"}
-{"id":"HfZKWsjM","en":"Better Suggestions","zh_draft":"更好的建议","zh_ai":"","zh_human":"","zh":"更好的建议","status":"pending"}
-{"id":"QsiPPta0","en":"Tidal","zh_draft":"Tidal","zh_ai":"","zh_human":"","zh":"Tidal","status":"pending"}
-{"id":"C5PewmIj","en":"Cardiac","zh_draft":"心脏","zh_ai":"","zh_human":"","zh":"心脏","status":"pending"}
+{"id":"M8z7jPlu","en":"ScreenFX","zh_draft":"ScreenFX","zh_ai":"屏幕特效","zh_human":"","zh":"屏幕特效","status":"ai"}
+{"id":"TzC3nDsQ","en":"Luminous: Monsters","zh_draft":"《Luminous：怪物》","zh_ai":"发光怪物","zh_human":"","zh":"发光怪物","status":"ai"}
+{"id":"FfR6U4UK","en":"XP From Harvest Reworked","zh_draft":"“收获”重做后的经验值","zh_ai":"重制后的收获经验值","zh_human":"","zh":"重制后的收获经验值","status":"ai"}
+{"id":"dWIHwNEE","en":"HUD Lib","zh_draft":"HUD 库","zh_ai":"HUD库","zh_human":"","zh":"HUD库","status":"ai"}
+{"id":"g0YZhKZF","en":"Decorative Core","zh_draft":"装饰芯","zh_ai":"装饰核心","zh_human":"","zh":"装饰核心","status":"ai"}
+{"id":"n2G0Tyys","en":"Royal Variations","zh_draft":"《皇家变奏曲》","zh_ai":"皇家变体","zh_human":"","zh":"皇家变体","status":"ai"}
+{"id":"ilvNBzFn","en":"Critical Strike","zh_draft":"致命一击","zh_ai":"致命一击","zh_human":"","zh":"致命一击","status":"ai"}
+{"id":"ZK4bBM3B","en":"More Babies","zh_draft":"更多宝宝","zh_ai":"更多婴儿","zh_human":"","zh":"更多婴儿","status":"ai"}
+{"id":"V7mbOBO4","en":"Create Stock Bridge","zh_draft":"创建股票桥","zh_ai":"创造库存桥梁","zh_human":"","zh":"创造库存桥梁","status":"ai"}
+{"id":"eJBXJCbo","en":"Underground Biomes","zh_draft":"地下生物群系","zh_ai":"地下生物群系","zh_human":"","zh":"地下生物群系","status":"ai"}
+{"id":"DaHQ5DDg","en":"the lost city","zh_draft":"失落之城","zh_ai":"失落之城","zh_human":"","zh":"失落之城","status":"ai"}
+{"id":"g8kNxIw4","en":"Some Music Discs","zh_draft":"一些音乐光盘","zh_ai":"一些音乐唱片","zh_human":"","zh":"一些音乐唱片","status":"ai"}
+{"id":"wHODup9j","en":"Antique Atlas","zh_draft":"古董地图集","zh_ai":"古董地图","zh_human":"","zh":"古董地图","status":"ai"}
+{"id":"blEO0qto","en":"Generator Galore","zh_draft":"发电机大集合","zh_ai":"大量生成器","zh_human":"","zh":"大量生成器","status":"ai"}
+{"id":"SZ0j5lg1","en":"Game of Reborn","zh_draft":"《重生之战》","zh_ai":"重生游戏","zh_human":"","zh":"重生游戏","status":"ai"}
+{"id":"SAaf5yvD","en":"EEEAB's Mobs: Custom Bossbars","zh_draft":"EEEAB 的怪物：自定义首领条","zh_ai":"EEEAB的怪物：自定义Boss条","zh_human":"","zh":"EEEAB的怪物：自定义Boss条","status":"ai"}
+{"id":"nELKzJ5C","en":"Open Simple Frames","zh_draft":"打开“简单框架”","zh_ai":"打开简单框架","zh_human":"","zh":"打开简单框架","status":"ai"}
+{"id":"BYmvNgRP","en":"Kitchen Projectiles","zh_draft":"厨房飞溅物","zh_ai":"厨房投射物","zh_human":"","zh":"厨房投射物","status":"ai"}
+{"id":"s4G3ZCcv","en":"ReBlured","zh_draft":"ReBlured","zh_ai":"重模糊","zh_human":"","zh":"重模糊","status":"ai"}
+{"id":"ba5MV2CF","en":"Interactive Foliage","zh_draft":"互动植被","zh_ai":"交互式叶簇","zh_human":"","zh":"交互式叶簇","status":"ai"}
+{"id":"WhVa4xyw","en":"Ex Nihilo: Sequentia","zh_draft":"《无中生有：序列》","zh_ai":"无中生有：序列","zh_human":"","zh":"无中生有：序列","status":"ai"}
+{"id":"MutgVePM","en":"Create: SpawnerBoxer","zh_draft":"创建者：SpawnerBoxer","zh_ai":"创造：SpawnerBoxer","zh_human":"","zh":"创造：SpawnerBoxer","status":"ai"}
+{"id":"QWq3sAFk","en":"SaltMons","zh_draft":"SaltMons","zh_ai":"盐怪","zh_human":"","zh":"盐怪","status":"ai"}
+{"id":"Ig6QciUH","en":"More Industrial Foregoing Addons (MIFA)","zh_draft":"更多工业放弃附加组件（MIFA）","zh_ai":"更多工业前瞻插件（MIFA）","zh_human":"","zh":"更多工业前瞻插件（MIFA）","status":"ai"}
+{"id":"Rd89yO7d","en":"APTweaks: Gamerules (11.x Classic)","zh_draft":"APTweaks：游戏规则（11.x 经典版）","zh_ai":"APTweaks：游戏规则（11.x经典版）","zh_human":"","zh":"APTweaks：游戏规则（11.x经典版）","status":"ai"}
+{"id":"mwqVTXh1","en":"Bedrock Parity","zh_draft":"基岩平价","zh_ai":"基岩 parity","zh_human":"","zh":"基岩 parity","status":"ai"}
+{"id":"uFws80gC","en":"Arts & Crafts Compatibility","zh_draft":"艺术与工艺的兼容性","zh_ai":"艺术与工艺兼容性","zh_human":"","zh":"艺术与工艺兼容性","status":"ai"}
+{"id":"KXQSDZIy","en":"Jumbo Furnace","zh_draft":"巨型熔炉","zh_ai":"巨型熔炉","zh_human":"","zh":"巨型熔炉","status":"ai"}
+{"id":"Iywe4QI4","en":"Volume Fix","zh_draft":"音量修复","zh_ai":"音量修复","zh_human":"","zh":"音量修复","status":"ai"}
+{"id":"4KpyOIiK","en":"Gemcrafting","zh_draft":"宝石制作","zh_ai":"宝石工艺","zh_human":"","zh":"宝石工艺","status":"ai"}
+{"id":"X7gTlDx5","en":"Thorough Keybindings","zh_draft":"全面的键位设置","zh_ai":"彻底的键绑定","zh_human":"","zh":"彻底的键绑定","status":"ai"}
+{"id":"oFmiHncm","en":"NhatJS's Furniture Mod","zh_draft":"NhatJS 的家具模组","zh_ai":"NhatJS的家具模组","zh_human":"","zh":"NhatJS的家具模组","status":"ai"}
+{"id":"W77u83l0","en":"Farmer's Cutting: The Aether","zh_draft":"《农夫的切割：以太》","zh_ai":"农夫切割：以太","zh_human":"","zh":"农夫切割：以太","status":"ai"}
+{"id":"Eg1DyRej","en":"Easter's Delight","zh_draft":"复活节的欢乐","zh_ai":"复活节之乐","zh_human":"","zh":"复活节之乐","status":"ai"}
+{"id":"6iAdBiSB","en":"SimplesorterR","zh_draft":"SimplesorterR","zh_ai":"简单排序器R","zh_human":"","zh":"简单排序器R","status":"ai"}
+{"id":"dWOPoahl","en":"SnappyTappy","zh_draft":"SnappyTappy","zh_ai":"SnappyTappy","zh_human":"","zh":"SnappyTappy","status":"ai"}
+{"id":"Tt9OkMjz","en":"Tinkers Tool Leveling 2","zh_draft":"《Tinkers Tool》第二关：调整水平","zh_ai":"Tinkers工具升级2","zh_human":"","zh":"Tinkers工具升级2","status":"ai"}
+{"id":"tTPzEplo","en":"Gaming Deco","zh_draft":"游戏装饰","zh_ai":"游戏装饰","zh_human":"","zh":"游戏装饰","status":"ai"}
+{"id":"Xht4wlLG","en":"Enchantment Reveal","zh_draft":"魔法揭秘","zh_ai":"附魔揭示","zh_human":"","zh":"附魔揭示","status":"ai"}
+{"id":"HfZKWsjM","en":"Better Suggestions","zh_draft":"更好的建议","zh_ai":"更好的建议","zh_human":"","zh":"更好的建议","status":"ai"}
+{"id":"QsiPPta0","en":"Tidal","zh_draft":"Tidal","zh_ai":"潮汐","zh_human":"","zh":"潮汐","status":"ai"}
+{"id":"C5PewmIj","en":"Cardiac","zh_draft":"心脏","zh_ai":"心脏","zh_human":"","zh":"心脏","status":"ai"}
