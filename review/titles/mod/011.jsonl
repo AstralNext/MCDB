@@ -1,20 +1,20 @@
-{"id":"pueogdvR","en":"Chat Language Translate","zh_draft":"聊天语言翻译","zh_ai":"","zh_human":"","zh":"聊天语言翻译","status":"pending"}
-{"id":"rZt54WM4","en":"HiResShot","zh_draft":"HiResShot","zh_ai":"","zh_human":"","zh":"HiResShot","status":"pending"}
-{"id":"w9cCbMdC","en":"The gem mod","zh_draft":"宝石模组","zh_ai":"","zh_human":"","zh":"宝石模组","status":"pending"}
-{"id":"4M6g1mq7","en":"eyes.everywhere","zh_draft":"eyes.everywhere","zh_ai":"","zh_human":"","zh":"eyes.everywhere","status":"pending"}
-{"id":"7U5d9aWL","en":"Disguise","zh_draft":"伪装","zh_ai":"","zh_human":"","zh":"伪装","status":"pending"}
-{"id":"H63z0EoR","en":"Rolling Giant: Oldest View","zh_draft":"《滚动巨人》：最古老的视角","zh_ai":"","zh_human":"","zh":"《滚动巨人》：最古老的视角","status":"pending"}
-{"id":"fWsKNtr3","en":"Golden Berries","zh_draft":"金莓","zh_ai":"","zh_human":"","zh":"金莓","status":"pending"}
-{"id":"hnbH8Zhd","en":"pquality","zh_draft":"pquality","zh_ai":"","zh_human":"","zh":"pquality","status":"pending"}
-{"id":"p093IE1F","en":"Custom Villager Names","zh_draft":"自定义村民名称","zh_ai":"","zh_human":"","zh":"自定义村民名称","status":"pending"}
-{"id":"ryIiJzDn","en":"Mining Excavation Dimension","zh_draft":"采矿开挖尺寸","zh_ai":"","zh_human":"","zh":"采矿开挖尺寸","status":"pending"}
-{"id":"sazduSI7","en":"PvPLagacy","zh_draft":"PvP Legacy","zh_ai":"","zh_human":"","zh":"PvP Legacy","status":"pending"}
-{"id":"E9z6ju9x","en":"Cigar/ettes","zh_draft":"雪茄/香烟","zh_ai":"","zh_human":"","zh":"雪茄/香烟","status":"pending"}
-{"id":"JLQRcIOB","en":"Legacy motioNO","zh_draft":"Legacy motioNO简体中文（大陆）","zh_ai":"","zh_human":"","zh":"Legacy motioNO简体中文（大陆）","status":"pending"}
-{"id":"KWtoC4MI","en":"Foiled Music Discs: Replayed","zh_draft":"《 Foiled Music Discs：Replayed》","zh_ai":"","zh_human":"","zh":"《 Foiled Music Discs：Replayed》","status":"pending"}
-{"id":"wTQloQNZ","en":"Sushi's Create Portal Integration","zh_draft":"Sushi 的 Create Portal 集成","zh_ai":"","zh_human":"","zh":"Sushi 的 Create Portal 集成","status":"pending"}
-{"id":"1a4tZTEG","en":"The Trail Ruins Overhaul","zh_draft":"“小径遗迹”全面改版","zh_ai":"","zh_human":"","zh":"“小径遗迹”全面改版","status":"pending"}
-{"id":"7e5g0K9D","en":"Ranged Wireless Redstone","zh_draft":"远程无线红石","zh_ai":"","zh_human":"","zh":"远程无线红石","status":"pending"}
+{"id":"pueogdvR","en":"Chat Language Translate","zh_draft":"聊天语言翻译","zh_ai":"聊天语言翻译","zh_human":"","zh":"聊天语言翻译","status":"ai"}
+{"id":"rZt54WM4","en":"HiResShot","zh_draft":"HiResShot","zh_ai":"高清截图","zh_human":"","zh":"高清截图","status":"ai"}
+{"id":"w9cCbMdC","en":"The gem mod","zh_draft":"宝石模组","zh_ai":"宝石模组","zh_human":"","zh":"宝石模组","status":"ai"}
+{"id":"4M6g1mq7","en":"eyes.everywhere","zh_draft":"eyes.everywhere","zh_ai":"眼睛无处不在","zh_human":"","zh":"眼睛无处不在","status":"ai"}
+{"id":"7U5d9aWL","en":"Disguise","zh_draft":"伪装","zh_ai":"伪装","zh_human":"","zh":"伪装","status":"ai"}
+{"id":"H63z0EoR","en":"Rolling Giant: Oldest View","zh_draft":"《滚动巨人》：最古老的视角","zh_ai":"滚动巨人：古老视角","zh_human":"","zh":"滚动巨人：古老视角","status":"ai"}
+{"id":"fWsKNtr3","en":"Golden Berries","zh_draft":"金莓","zh_ai":"金色浆果","zh_human":"","zh":"金色浆果","status":"ai"}
+{"id":"hnbH8Zhd","en":"pquality","zh_draft":"pquality","zh_ai":"画质优化","zh_human":"","zh":"画质优化","status":"ai"}
+{"id":"p093IE1F","en":"Custom Villager Names","zh_draft":"自定义村民名称","zh_ai":"自定义村民名字","zh_human":"","zh":"自定义村民名字","status":"ai"}
+{"id":"ryIiJzDn","en":"Mining Excavation Dimension","zh_draft":"采矿开挖尺寸","zh_ai":"挖掘维度","zh_human":"","zh":"挖掘维度","status":"ai"}
+{"id":"sazduSI7","en":"PvPLagacy","zh_draft":"PvP Legacy","zh_ai":"PvP遗产","zh_human":"","zh":"PvP遗产","status":"ai"}
+{"id":"E9z6ju9x","en":"Cigar/ettes","zh_draft":"雪茄/香烟","zh_ai":"雪茄","zh_human":"","zh":"雪茄","status":"ai"}
+{"id":"JLQRcIOB","en":"Legacy motioNO","zh_draft":"Legacy motioNO简体中文（大陆）","zh_ai":"经典动作","zh_human":"","zh":"经典动作","status":"ai"}
+{"id":"KWtoC4MI","en":"Foiled Music Discs: Replayed","zh_draft":"《 Foiled Music Discs：Replayed》","zh_ai":"箔片唱片：重播","zh_human":"","zh":"箔片唱片：重播","status":"ai"}
+{"id":"wTQloQNZ","en":"Sushi's Create Portal Integration","zh_draft":"Sushi 的 Create Portal 集成","zh_ai":"寿司的机械传送门集成","zh_human":"","zh":"寿司的机械传送门集成","status":"ai"}
+{"id":"1a4tZTEG","en":"The Trail Ruins Overhaul","zh_draft":"“小径遗迹”全面改版","zh_ai":"遗迹废墟重制","zh_human":"","zh":"遗迹废墟重制","status":"ai"}
+{"id":"7e5g0K9D","en":"Ranged Wireless Redstone","zh_draft":"远程无线红石","zh_ai":"远程无线红石","zh_human":"","zh":"远程无线红石","status":"ai"}
 {"id":"CeEAKHut","en":"Healing Flasks","zh_draft":"治疗药剂","zh_ai":"","zh_human":"","zh":"治疗药剂","status":"pending"}
 {"id":"IJLfQ7u9","en":"No Screen Shake","zh_draft":"无屏幕抖动","zh_ai":"","zh_human":"","zh":"无屏幕抖动","status":"pending"}
 {"id":"L3PSWK2b","en":"Infinite Craft","zh_draft":"无限工坊","zh_ai":"","zh_human":"","zh":"无限工坊","status":"pending"}
