@@ -31,6 +31,11 @@ VEC_DIM = 256
 NGRAM_N = 2
 SEMANTIC_SHARD = 3000
 
+# 社区惯用名 → 编入向量文本（下次全量 compile 生效）
+SLUG_ALIASES: dict[str, list[str]] = {
+    "create": ["机械动力"],
+}
+
 
 def char_ngrams(text: str, n: int = NGRAM_N) -> list[str]:
     t = re.sub(r"\s+", "", (text or "").lower())
@@ -54,6 +59,13 @@ def embed(text: str, dim: int = VEC_DIM) -> list[float]:
         vec[idx] += sign * w
     norm = math.sqrt(sum(v * v for v in vec)) or 1.0
     return [v / norm for v in vec]
+
+
+def embed_record(zh: str, en: str, slug: str = "") -> list[float]:
+    """中英双语 + slug 别名，再 hash 成向量。"""
+    parts = [zh or "", en or ""]
+    parts.extend(SLUG_ALIASES.get((slug or "").lower(), []))
+    return embed(" ".join(p for p in parts if p))
 
 
 def pack_vec(vec: list[float]) -> bytes:
@@ -156,7 +168,7 @@ def build_semantic_jsonl(pairs: list[dict], out_dir: Path, shard_size: int) -> l
                     "zh": p["zh"],
                     "status": p.get("status") or "",
                     "downloads": int(p.get("downloads") or 0),
-                    "v": encode_vec(embed(p["zh"])),
+                    "v": encode_vec(embed_record(p["zh"], p["en"], p.get("slug") or "")),
                 }
                 f.write(json.dumps(obj, ensure_ascii=False, separators=(",", ":")) + "\n")
         files.append(f"semantic/{name}")
@@ -226,11 +238,13 @@ def main() -> int:
             "name": "char-unigram+bigram-hash",
             "dim": VEC_DIM,
             "vec_encoding": "base64-float32le",
+            "text": "zh + en + slug_aliases",
+            "slug_aliases": SLUG_ALIASES,
         },
         "usage": {
             "bilingual": "bilingual.jsonl：中英对照",
             "translate_replace": "exact_titles.json：英文原名 → 中文",
-            "semantic_search": "semantic/*.jsonl：中文向量近邻 → 英文",
+            "semantic_search": "semantic/*.jsonl：双语向量近邻",
         },
     }
     write_json(args.out / "version.json", version)
