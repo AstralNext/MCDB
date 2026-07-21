@@ -43,12 +43,13 @@ jobs:
       - name: AI correct pending titles
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          BIGMODEL_API_KEY: ${{ secrets.BIGMODEL_API_KEY }}
           DURATION: ${{ github.event.inputs.duration_minutes || '55' }}
           BATCH: ${{ github.event.inputs.batch || '40' }}
           LIMIT: ${{ github.event.inputs.limit || '0' }}
         run: |
-          if [ -z "$GOOGLE_API_KEY" ]; then
-            echo "GOOGLE_API_KEY secret missing" >&2
+          if [ -z "$GOOGLE_API_KEY" ] && [ -z "$BIGMODEL_API_KEY" ]; then
+            echo "Need GOOGLE_API_KEY and/or BIGMODEL_API_KEY secrets" >&2
             exit 1
           fi
           python scripts/ai_correct.py \
