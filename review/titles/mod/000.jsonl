@@ -117,46 +117,46 @@
 {"id":"bEpr0Arc","en":"Litematica","zh_draft":"Litematica","zh_ai":"Litematica","zh_human":"","zh":"Litematica","status":"ai"}
 {"id":"nPZr02ET","en":"NetherPortalFix","zh_draft":"NetherPortalFix（地狱门户修复）","zh_ai":"下界传送门修复","zh_human":"","zh":"下界传送门修复","status":"ai"}
 {"id":"qnQsVE2z","en":"Quark","zh_draft":"夸克","zh_ai":"Quark","zh_human":"","zh":"Quark","status":"ai"}
-{"id":"vE2FN5qn","en":"Let Me Despawn","zh_draft":"让我消失","zh_ai":"","zh_human":"","zh":"让我消失","status":"pending"}
-{"id":"u58R1TMW","en":"Sinytra Connector","zh_draft":"辛尼特拉连接线","zh_ai":"","zh_human":"","zh":"辛尼特拉连接线","status":"pending"}
-{"id":"b1ZV3DIJ","en":"Athena","zh_draft":"雅典娜","zh_ai":"","zh_human":"","zh":"雅典娜","status":"pending"}
-{"id":"Z2mXHnxP","en":"YUNG's Better Nether Fortresses","zh_draft":"杨的更佳下界要塞","zh_ai":"","zh_human":"","zh":"杨的更佳下界要塞","status":"pending"}
-{"id":"R2OftAxM","en":"Farmer's Delight","zh_draft":"农夫的喜悦","zh_ai":"","zh_human":"","zh":"农夫的喜悦","status":"pending"}
-{"id":"8oi3bsk5","en":"Terralith","zh_draft":"特拉利斯","zh_ai":"","zh_human":"","zh":"特拉利斯","status":"pending"}
-{"id":"kqJFAPU9","en":"Better Mount HUD","zh_draft":"更好的山顶HUD","zh_ai":"","zh_human":"","zh":"更好的山顶HUD","status":"pending"}
-{"id":"qANg5Jrr","en":"e4mc","zh_draft":"E4MC","zh_ai":"","zh_human":"","zh":"E4MC","status":"pending"}
-{"id":"9mtu0sUO","en":"Fast IP Ping","zh_draft":"快速IPping","zh_ai":"","zh_human":"","zh":"快速IPping","status":"pending"}
-{"id":"Xy8aRQKS","en":"Physics Mod","zh_draft":"物理模组","zh_ai":"","zh_human":"","zh":"物理模组","status":"pending"}
-{"id":"DOUdJVEm","en":"Controlify (Controller support)","zh_draft":"Controlify（控制器支持）","zh_ai":"","zh_human":"","zh":"Controlify（控制器支持）","status":"pending"}
-{"id":"SaCpeal4","en":"Comforts","zh_draft":"舒适设施","zh_ai":"","zh_human":"","zh":"舒适设施","status":"pending"}
-{"id":"lOOpEntO","en":"AttributeFix","zh_draft":"属性修正","zh_ai":"","zh_human":"","zh":"属性修正","status":"pending"}
-{"id":"EltpO5cN","en":"Lootr","zh_draft":"掠夺者","zh_ai":"","zh_human":"","zh":"掠夺者","status":"pending"}
-{"id":"v3CYg2V9","en":"Drippy Loading Screen","zh_draft":"滴水加载画面","zh_ai":"","zh_human":"","zh":"滴水加载画面","status":"pending"}
-{"id":"BAscRYKm","en":"Chipped","zh_draft":"缺口","zh_ai":"","zh_human":"","zh":"缺口","status":"pending"}
-{"id":"x1hIzbuY","en":"FastQuit","zh_draft":"FastQuit","zh_ai":"","zh_human":"","zh":"FastQuit","status":"pending"}
-{"id":"3dT9sgt4","en":"YUNG's Better Ocean Monuments","zh_draft":"杨氏的更美好海洋纪念碑","zh_ai":"","zh_human":"","zh":"杨氏的更美好海洋纪念碑","status":"pending"}
-{"id":"PRN43VSY","en":"Animatica","zh_draft":"动画","zh_ai":"","zh_human":"","zh":"动画","status":"pending"}
-{"id":"o1C1Dkj5","en":"YUNG's Better Dungeons","zh_draft":"杨的更好地下城","zh_ai":"","zh_human":"","zh":"杨的更好地下城","status":"pending"}
-{"id":"EIa1eiMm","en":"Sodium Shadowy Path Blocks (SSPB)","zh_draft":"钠阴影路径阻断（SSPB）","zh_ai":"","zh_human":"","zh":"钠阴影路径阻断（SSPB）","status":"pending"}
-{"id":"tpehi7ww","en":"Dungeons and Taverns","zh_draft":"地下城与酒馆","zh_ai":"","zh_human":"","zh":"地下城与酒馆","status":"pending"}
-{"id":"gF3BGWvG","en":"Open Parties and Claims","zh_draft":"公开政党与权利要求","zh_ai":"","zh_human":"","zh":"公开政党与权利要求","status":"pending"}
-{"id":"XaDC71GB","en":"Lithostitched","zh_draft":"灵魂病","zh_ai":"","zh_human":"","zh":"灵魂病","status":"pending"}
-{"id":"M08ruV16","en":"Bobby","zh_draft":"鲍比","zh_ai":"","zh_human":"","zh":"鲍比","status":"pending"}
-{"id":"ZcR9weSm","en":"Dynamic Crosshair","zh_draft":"动态准星","zh_ai":"","zh_human":"","zh":"动态准星","status":"pending"}
-{"id":"G1s2WpNo","en":"Better Third Person","zh_draft":"更好的第三人称","zh_ai":"","zh_human":"","zh":"更好的第三人称","status":"pending"}
-{"id":"sk9knFPE","en":"Rhino","zh_draft":"犀牛","zh_ai":"","zh_human":"","zh":"犀牛","status":"pending"}
-{"id":"s3dmwKy5","en":"GlitchCore","zh_draft":"故障核心","zh_ai":"","zh_human":"","zh":"故障核心","status":"pending"}
-{"id":"l6YH9Als","en":"spark","zh_draft":"火花","zh_ai":"","zh_human":"","zh":"火花","status":"pending"}
-{"id":"ufdDoWPd","en":"Kiwi 🥝","zh_draft":"奇异鸟 🥝","zh_ai":"","zh_human":"","zh":"奇异鸟 🥝","status":"pending"}
-{"id":"sGmHWmeL","en":"MixinTrace","zh_draft":"混合追踪","zh_ai":"","zh_human":"","zh":"混合追踪","status":"pending"}
-{"id":"rlloIFEV","en":"Traveler's Backpack","zh_draft":"旅行者的背包","zh_ai":"","zh_human":"","zh":"旅行者的背包","status":"pending"}
-{"id":"DnNYdJsx","en":"Chat Animation [Smooth Chat]","zh_draft":"聊天动画【流畅聊天】","zh_ai":"","zh_human":"","zh":"聊天动画【流畅聊天】","status":"pending"}
-{"id":"3sjzyvGR","en":"Modern UI","zh_draft":"现代用户界面","zh_ai":"","zh_human":"","zh":"现代用户界面","status":"pending"}
-{"id":"umyGl7zF","en":"KubeJS","zh_draft":"KubeJS","zh_ai":"","zh_human":"","zh":"KubeJS","status":"pending"}
-{"id":"Es5v4eyq","en":"Sodium Options API","zh_draft":"钠选项API","zh_ai":"","zh_human":"","zh":"钠选项API","status":"pending"}
-{"id":"HjmxVlSr","en":"YUNG's Better Mineshafts","zh_draft":"杨的更好矿井","zh_ai":"","zh_human":"","zh":"杨的更好矿井","status":"pending"}
-{"id":"z9Ve58Ih","en":"YUNG's Better Jungle Temples","zh_draft":"杨的“更佳丛林神庙”","zh_ai":"","zh_human":"","zh":"杨的“更佳丛林神庙”","status":"pending"}
-{"id":"3qsfQtE9","en":"Fabrishot","zh_draft":"Fabrishot","zh_ai":"","zh_human":"","zh":"Fabrishot","status":"pending"}
+{"id":"vE2FN5qn","en":"Let Me Despawn","zh_draft":"让我消失","zh_ai":"让我消失","zh_human":"","zh":"让我消失","status":"ai"}
+{"id":"u58R1TMW","en":"Sinytra Connector","zh_draft":"辛尼特拉连接线","zh_ai":"辛特拉连接器","zh_human":"","zh":"辛特拉连接器","status":"ai"}
+{"id":"b1ZV3DIJ","en":"Athena","zh_draft":"雅典娜","zh_ai":"雅典娜","zh_human":"","zh":"雅典娜","status":"ai"}
+{"id":"Z2mXHnxP","en":"YUNG's Better Nether Fortresses","zh_draft":"杨的更佳下界要塞","zh_ai":"YUNG的更好下界要塞","zh_human":"","zh":"YUNG的更好下界要塞","status":"ai"}
+{"id":"R2OftAxM","en":"Farmer's Delight","zh_draft":"农夫的喜悦","zh_ai":"农夫的乐趣","zh_human":"","zh":"农夫的乐趣","status":"ai"}
+{"id":"8oi3bsk5","en":"Terralith","zh_draft":"特拉利斯","zh_ai":"土质石","zh_human":"","zh":"土质石","status":"ai"}
+{"id":"kqJFAPU9","en":"Better Mount HUD","zh_draft":"更好的山顶HUD","zh_ai":"更好的坐骑HUD","zh_human":"","zh":"更好的坐骑HUD","status":"ai"}
+{"id":"qANg5Jrr","en":"e4mc","zh_draft":"E4MC","zh_ai":"e4mc","zh_human":"","zh":"e4mc","status":"ai"}
+{"id":"9mtu0sUO","en":"Fast IP Ping","zh_draft":"快速IPping","zh_ai":"快速IPping","zh_human":"","zh":"快速IPping","status":"ai"}
+{"id":"Xy8aRQKS","en":"Physics Mod","zh_draft":"物理模组","zh_ai":"物理模组","zh_human":"","zh":"物理模组","status":"ai"}
+{"id":"DOUdJVEm","en":"Controlify (Controller support)","zh_draft":"Controlify（控制器支持）","zh_ai":"Controlify（控制器支持）","zh_human":"","zh":"Controlify（控制器支持）","status":"ai"}
+{"id":"SaCpeal4","en":"Comforts","zh_draft":"舒适设施","zh_ai":"舒适","zh_human":"","zh":"舒适","status":"ai"}
+{"id":"lOOpEntO","en":"AttributeFix","zh_draft":"属性修正","zh_ai":"属性修复","zh_human":"","zh":"属性修复","status":"ai"}
+{"id":"EltpO5cN","en":"Lootr","zh_draft":"掠夺者","zh_ai":"Lootr","zh_human":"","zh":"Lootr","status":"ai"}
+{"id":"v3CYg2V9","en":"Drippy Loading Screen","zh_draft":"滴水加载画面","zh_ai":"滴水加载界面","zh_human":"","zh":"滴水加载界面","status":"ai"}
+{"id":"BAscRYKm","en":"Chipped","zh_draft":"缺口","zh_ai":"损坏的","zh_human":"","zh":"损坏的","status":"ai"}
+{"id":"x1hIzbuY","en":"FastQuit","zh_draft":"FastQuit","zh_ai":"快速退出","zh_human":"","zh":"快速退出","status":"ai"}
+{"id":"3dT9sgt4","en":"YUNG's Better Ocean Monuments","zh_draft":"杨氏的更美好海洋纪念碑","zh_ai":"YUNG的更好海洋纪念碑","zh_human":"","zh":"YUNG的更好海洋纪念碑","status":"ai"}
+{"id":"PRN43VSY","en":"Animatica","zh_draft":"动画","zh_ai":"动画学","zh_human":"","zh":"动画学","status":"ai"}
+{"id":"o1C1Dkj5","en":"YUNG's Better Dungeons","zh_draft":"杨的更好地下城","zh_ai":"YUNG的更好地牢","zh_human":"","zh":"YUNG的更好地牢","status":"ai"}
+{"id":"EIa1eiMm","en":"Sodium Shadowy Path Blocks (SSPB)","zh_draft":"钠阴影路径阻断（SSPB）","zh_ai":"钠阴影路径方块（SSPB）","zh_human":"","zh":"钠阴影路径方块（SSPB）","status":"ai"}
+{"id":"tpehi7ww","en":"Dungeons and Taverns","zh_draft":"地下城与酒馆","zh_ai":"地牢和酒馆","zh_human":"","zh":"地牢和酒馆","status":"ai"}
+{"id":"gF3BGWvG","en":"Open Parties and Claims","zh_draft":"公开政党与权利要求","zh_ai":"开放派对和领地","zh_human":"","zh":"开放派对和领地","status":"ai"}
+{"id":"XaDC71GB","en":"Lithostitched","zh_draft":"灵魂病","zh_ai":"石质缝合","zh_human":"","zh":"石质缝合","status":"ai"}
+{"id":"M08ruV16","en":"Bobby","zh_draft":"鲍比","zh_ai":"鲍比","zh_human":"","zh":"鲍比","status":"ai"}
+{"id":"ZcR9weSm","en":"Dynamic Crosshair","zh_draft":"动态准星","zh_ai":"动态准星","zh_human":"","zh":"动态准星","status":"ai"}
+{"id":"G1s2WpNo","en":"Better Third Person","zh_draft":"更好的第三人称","zh_ai":"更好的第三人称","zh_human":"","zh":"更好的第三人称","status":"ai"}
+{"id":"sk9knFPE","en":"Rhino","zh_draft":"犀牛","zh_ai":"犀牛","zh_human":"","zh":"犀牛","status":"ai"}
+{"id":"s3dmwKy5","en":"GlitchCore","zh_draft":"故障核心","zh_ai":"故障核心","zh_human":"","zh":"故障核心","status":"ai"}
+{"id":"l6YH9Als","en":"spark","zh_draft":"火花","zh_ai":"火花","zh_human":"","zh":"火花","status":"ai"}
+{"id":"ufdDoWPd","en":"Kiwi 🥝","zh_draft":"奇异鸟 🥝","zh_ai":"奇异果","zh_human":"","zh":"奇异果","status":"ai"}
+{"id":"sGmHWmeL","en":"MixinTrace","zh_draft":"混合追踪","zh_ai":"MixinTrace","zh_human":"","zh":"MixinTrace","status":"ai"}
+{"id":"rlloIFEV","en":"Traveler's Backpack","zh_draft":"旅行者的背包","zh_ai":"旅行者背包","zh_human":"","zh":"旅行者背包","status":"ai"}
+{"id":"DnNYdJsx","en":"Chat Animation [Smooth Chat]","zh_draft":"聊天动画【流畅聊天】","zh_ai":"聊天动画[平滑聊天]","zh_human":"","zh":"聊天动画[平滑聊天]","status":"ai"}
+{"id":"3sjzyvGR","en":"Modern UI","zh_draft":"现代用户界面","zh_ai":"现代UI","zh_human":"","zh":"现代UI","status":"ai"}
+{"id":"umyGl7zF","en":"KubeJS","zh_draft":"KubeJS","zh_ai":"KubeJS","zh_human":"","zh":"KubeJS","status":"ai"}
+{"id":"Es5v4eyq","en":"Sodium Options API","zh_draft":"钠选项API","zh_ai":"钠选项API","zh_human":"","zh":"钠选项API","status":"ai"}
+{"id":"HjmxVlSr","en":"YUNG's Better Mineshafts","zh_draft":"杨的更好矿井","zh_ai":"YUNG的更好矿洞","zh_human":"","zh":"YUNG的更好矿洞","status":"ai"}
+{"id":"z9Ve58Ih","en":"YUNG's Better Jungle Temples","zh_draft":"杨的“更佳丛林神庙”","zh_ai":"YUNG的更好丛林神殿","zh_human":"","zh":"YUNG的更好丛林神殿","status":"ai"}
+{"id":"3qsfQtE9","en":"Fabrishot","zh_draft":"Fabrishot","zh_ai":"Fabrishot","zh_human":"","zh":"Fabrishot","status":"ai"}
 {"id":"nrikgvxm","en":"Particle Rain","zh_draft":"粒子雨","zh_ai":"","zh_human":"","zh":"粒子雨","status":"pending"}
 {"id":"2BwBOmBQ","en":"YUNG's Better End Island","zh_draft":"杨的美好终点岛","zh_ai":"","zh_human":"","zh":"杨的美好终点岛","status":"pending"}
 {"id":"XeEZ3fK2","en":"Freecam","zh_draft":"自由摄像机","zh_ai":"","zh_human":"","zh":"自由摄像机","status":"pending"}
