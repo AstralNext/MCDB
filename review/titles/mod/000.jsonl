@@ -1676,46 +1676,46 @@
 {"id":"7L1HalIW","en":"Weaker Spiderwebs","zh_draft":"较弱的蜘蛛网","zh_ai":"较弱的蜘蛛网","zh_human":"","zh":"较弱的蜘蛛网","status":"ai"}
 {"id":"TToG3iVN","en":"Infinity With Mending","zh_draft":"修复的无限","zh_ai":"修复后的无限","zh_human":"","zh":"修复后的无限","status":"ai"}
 {"id":"d6cSefpO","en":"Twilight's Flavor & Delight","zh_draft":"暮光的风味与欢愉","zh_ai":"Twilight的口味与愉悦","zh_human":"","zh":"Twilight的口味与愉悦","status":"ai"}
-{"id":"9FuEJ7Wg","en":"Carpet PVP","zh_draft":"地毯PVP","zh_ai":"","zh_human":"","zh":"地毯PVP","status":"pending"}
-{"id":"xp45cyDI","en":"Translucency Fix","zh_draft":"半透明修复","zh_ai":"","zh_human":"","zh":"半透明修复","status":"pending"}
-{"id":"pJGcKPh1","en":"Corpse x Curios API Compat","zh_draft":"Corpse x Curios API Compat","zh_ai":"","zh_human":"","zh":"Corpse x Curios API Compat","status":"pending"}
-{"id":"Rtp2Lyr5","en":"LiLaC","zh_draft":"LiLaC","zh_ai":"","zh_human":"","zh":"LiLaC","status":"pending"}
-{"id":"FOY0uIwP","en":"Mim1q's Derelict","zh_draft":"Mim1q的废弃","zh_ai":"","zh_human":"","zh":"Mim1q的废弃","status":"pending"}
-{"id":"ssUbhMkL","en":"Gravestones","zh_draft":"墓碑","zh_ai":"","zh_human":"","zh":"墓碑","status":"pending"}
-{"id":"AV4N1OZQ","en":"RevampedWolf","zh_draft":"重塑狼","zh_ai":"","zh_human":"","zh":"重塑狼","status":"pending"}
-{"id":"B0xSlae0","en":"Butcher's Delight","zh_draft":"屠夫的喜悦","zh_ai":"","zh_human":"","zh":"屠夫的喜悦","status":"pending"}
-{"id":"3J4LK0So","en":"Better Crafting Recipes","zh_draft":"更好的制作配方","zh_ai":"","zh_human":"","zh":"更好的制作配方","status":"pending"}
-{"id":"1ury0R3s","en":"Text Formatting Everywhere","zh_draft":"文本格式无处不在","zh_ai":"","zh_human":"","zh":"文本格式无处不在","status":"pending"}
-{"id":"PvssKrgi","en":"Thaumon","zh_draft":"索蒙","zh_ai":"","zh_human":"","zh":"索蒙","status":"pending"}
-{"id":"uZQipe0a","en":"ReBalance","zh_draft":"再平衡","zh_ai":"","zh_human":"","zh":"再平衡","status":"pending"}
-{"id":"dbE0tvSw","en":"Cobblemon: NoValidation","zh_draft":"Cobblemon：无认可","zh_ai":"","zh_human":"","zh":"Cobblemon：无认可","status":"pending"}
-{"id":"K2YWwbQ8","en":"VillagerTradeFix","zh_draft":"村民贸易修正","zh_ai":"","zh_human":"","zh":"村民贸易修正","status":"pending"}
-{"id":"hAjvvnUD","en":"Pockets","zh_draft":"口袋","zh_ai":"","zh_human":"","zh":"口袋","status":"pending"}
-{"id":"s93iojuG","en":"Conquest Reforged","zh_draft":"征服重铸","zh_ai":"","zh_human":"","zh":"征服重铸","status":"pending"}
-{"id":"HK3p7LMj","en":"PolyNametag","zh_draft":"PolyNametag","zh_ai":"","zh_human":"","zh":"PolyNametag","status":"pending"}
-{"id":"bQ5TJA1E","en":"Continents","zh_draft":"大陆","zh_ai":"","zh_human":"","zh":"大陆","status":"pending"}
-{"id":"YknNc5nN","en":"PolyPatcher","zh_draft":"PolyPatcher","zh_ai":"","zh_human":"","zh":"PolyPatcher","status":"pending"}
-{"id":"bTOwvKv9","en":"PatchouliButton","zh_draft":"广藿香按钮","zh_ai":"","zh_human":"","zh":"广藿香按钮","status":"pending"}
-{"id":"6wP3NByD","en":"Custom Item Attributes (CIA)","zh_draft":"自定义物品属性（CIA）","zh_ai":"","zh_human":"","zh":"自定义物品属性（CIA）","status":"pending"}
-{"id":"AXXLr36C","en":"Collector's Reap","zh_draft":"收割者","zh_ai":"","zh_human":"","zh":"收割者","status":"pending"}
-{"id":"Xvg6q5Wp","en":"Thermal Foundation","zh_draft":"热能基金会","zh_ai":"","zh_human":"","zh":"热能基金会","status":"pending"}
-{"id":"6EpIGT2g","en":"NaNny","zh_draft":"南妮","zh_ai":"","zh_human":"","zh":"南妮","status":"pending"}
-{"id":"Xiv4r347","en":"Ore Harvester","zh_draft":"矿石收割机","zh_ai":"","zh_human":"","zh":"矿石收割机","status":"pending"}
-{"id":"5fNJnSba","en":"Dungeons Plus","zh_draft":"地下城加","zh_ai":"","zh_human":"","zh":"地下城加","status":"pending"}
-{"id":"6qTrsXCy","en":"Vanillin","zh_draft":"香草","zh_ai":"","zh_human":"","zh":"香草","status":"pending"}
-{"id":"eVAp8Nkw","en":"AE2 EMI Crafting Integration","zh_draft":"AE2 EMI 制作集成","zh_ai":"","zh_human":"","zh":"AE2 EMI 制作集成","status":"pending"}
-{"id":"aetFpEaA","en":"Food Effect Tooltips (Forge)","zh_draft":"食物效应工具提示（Forge）","zh_ai":"","zh_human":"","zh":"食物效应工具提示（Forge）","status":"pending"}
-{"id":"9enMEvoc","en":"Create: Structures Arise","zh_draft":"创造：结构崛起","zh_ai":"","zh_human":"","zh":"创造：结构崛起","status":"pending"}
-{"id":"wdcuURhS","en":"[TACZ] Gucci & Vuitton Attachments","zh_draft":"[塔兹]古驰与威登附属品","zh_ai":"","zh_human":"","zh":"[塔兹]古驰与威登附属品","status":"pending"}
-{"id":"mKaYfrOy","en":"Repurposed Structures - Better Desert Temples Compat","zh_draft":"再利用建筑——更优的沙漠神庙合作","zh_ai":"","zh_human":"","zh":"再利用建筑——更优的沙漠神庙合作","status":"pending"}
-{"id":"e7pPr7RQ","en":"Time & Wind","zh_draft":"时间与风","zh_ai":"","zh_human":"","zh":"时间与风","status":"pending"}
-{"id":"Jdbbtt0i","en":"Create: Numismatics","zh_draft":"创作：钱币学","zh_ai":"","zh_human":"","zh":"创作：钱币学","status":"pending"}
-{"id":"ZAfRfkTo","en":"Quality Sounds","zh_draft":"高质量音效","zh_ai":"","zh_human":"","zh":"高质量音效","status":"pending"}
-{"id":"bWkJ7ejc","en":"NoRefreshScroll","zh_draft":"NoRefreshScroll","zh_ai":"","zh_human":"","zh":"NoRefreshScroll","status":"pending"}
-{"id":"yJZFl0Ux","en":"GenoMons [Cobblemon]","zh_draft":"基因兽 [Cobblemon]","zh_ai":"","zh_human":"","zh":"基因兽 [Cobblemon]","status":"pending"}
-{"id":"u8TYP2M6","en":"Cobblemon Repel","zh_draft":"科布莱蒙反击","zh_ai":"","zh_human":"","zh":"科布莱蒙反击","status":"pending"}
-{"id":"QSzy55SB","en":"No Fog","zh_draft":"无雾","zh_ai":"","zh_human":"","zh":"无雾","status":"pending"}
-{"id":"692GClaE","en":"Modonomicon","zh_draft":"莫多诺米典","zh_ai":"","zh_human":"","zh":"莫多诺米典","status":"pending"}
+{"id":"9FuEJ7Wg","en":"Carpet PVP","zh_draft":"地毯PVP","zh_ai":"地毯PVP","zh_human":"","zh":"地毯PVP","status":"ai"}
+{"id":"xp45cyDI","en":"Translucency Fix","zh_draft":"半透明修复","zh_ai":"半透明修复","zh_human":"","zh":"半透明修复","status":"ai"}
+{"id":"pJGcKPh1","en":"Corpse x Curios API Compat","zh_draft":"Corpse x Curios API Compat","zh_ai":"尸体 x 神秘物品API兼容","zh_human":"","zh":"尸体 x 神秘物品API兼容","status":"ai"}
+{"id":"Rtp2Lyr5","en":"LiLaC","zh_draft":"LiLaC","zh_ai":"LiLaC","zh_human":"","zh":"LiLaC","status":"ai"}
+{"id":"FOY0uIwP","en":"Mim1q's Derelict","zh_draft":"Mim1q的废弃","zh_ai":"Mim1q的废弃之地","zh_human":"","zh":"Mim1q的废弃之地","status":"ai"}
+{"id":"ssUbhMkL","en":"Gravestones","zh_draft":"墓碑","zh_ai":"墓碑","zh_human":"","zh":"墓碑","status":"ai"}
+{"id":"AV4N1OZQ","en":"RevampedWolf","zh_draft":"重塑狼","zh_ai":"改进的狼","zh_human":"","zh":"改进的狼","status":"ai"}
+{"id":"B0xSlae0","en":"Butcher's Delight","zh_draft":"屠夫的喜悦","zh_ai":"屠夫的乐趣","zh_human":"","zh":"屠夫的乐趣","status":"ai"}
+{"id":"3J4LK0So","en":"Better Crafting Recipes","zh_draft":"更好的制作配方","zh_ai":"更好的合成配方","zh_human":"","zh":"更好的合成配方","status":"ai"}
+{"id":"1ury0R3s","en":"Text Formatting Everywhere","zh_draft":"文本格式无处不在","zh_ai":"全范围文本格式化","zh_human":"","zh":"全范围文本格式化","status":"ai"}
+{"id":"PvssKrgi","en":"Thaumon","zh_draft":"索蒙","zh_ai":"Thaumon","zh_human":"","zh":"Thaumon","status":"ai"}
+{"id":"uZQipe0a","en":"ReBalance","zh_draft":"再平衡","zh_ai":"重平衡","zh_human":"","zh":"重平衡","status":"ai"}
+{"id":"dbE0tvSw","en":"Cobblemon: NoValidation","zh_draft":"Cobblemon：无认可","zh_ai":"Cobblemon: 无验证","zh_human":"","zh":"Cobblemon: 无验证","status":"ai"}
+{"id":"K2YWwbQ8","en":"VillagerTradeFix","zh_draft":"村民贸易修正","zh_ai":"村民交易修复","zh_human":"","zh":"村民交易修复","status":"ai"}
+{"id":"hAjvvnUD","en":"Pockets","zh_draft":"口袋","zh_ai":"口袋","zh_human":"","zh":"口袋","status":"ai"}
+{"id":"s93iojuG","en":"Conquest Reforged","zh_draft":"征服重铸","zh_ai":"征服重铸","zh_human":"","zh":"征服重铸","status":"ai"}
+{"id":"HK3p7LMj","en":"PolyNametag","zh_draft":"PolyNametag","zh_ai":"多标签","zh_human":"","zh":"多标签","status":"ai"}
+{"id":"bQ5TJA1E","en":"Continents","zh_draft":"大陆","zh_ai":"大陆","zh_human":"","zh":"大陆","status":"ai"}
+{"id":"YknNc5nN","en":"PolyPatcher","zh_draft":"PolyPatcher","zh_ai":"多补丁器","zh_human":"","zh":"多补丁器","status":"ai"}
+{"id":"bTOwvKv9","en":"PatchouliButton","zh_draft":"广藿香按钮","zh_ai":"广藿香按钮","zh_human":"","zh":"广藿香按钮","status":"ai"}
+{"id":"6wP3NByD","en":"Custom Item Attributes (CIA)","zh_draft":"自定义物品属性（CIA）","zh_ai":"自定义物品属性 (CIA)","zh_human":"","zh":"自定义物品属性 (CIA)","status":"ai"}
+{"id":"AXXLr36C","en":"Collector's Reap","zh_draft":"收割者","zh_ai":"收藏家收割","zh_human":"","zh":"收藏家收割","status":"ai"}
+{"id":"Xvg6q5Wp","en":"Thermal Foundation","zh_draft":"热能基金会","zh_ai":"热力基础","zh_human":"","zh":"热力基础","status":"ai"}
+{"id":"6EpIGT2g","en":"NaNny","zh_draft":"南妮","zh_ai":"NaNny","zh_human":"","zh":"NaNny","status":"ai"}
+{"id":"Xiv4r347","en":"Ore Harvester","zh_draft":"矿石收割机","zh_ai":"矿石收割机","zh_human":"","zh":"矿石收割机","status":"ai"}
+{"id":"5fNJnSba","en":"Dungeons Plus","zh_draft":"地下城加","zh_ai":"地牢+","zh_human":"","zh":"地牢+","status":"ai"}
+{"id":"6qTrsXCy","en":"Vanillin","zh_draft":"香草","zh_ai":"香兰素","zh_human":"","zh":"香兰素","status":"ai"}
+{"id":"eVAp8Nkw","en":"AE2 EMI Crafting Integration","zh_draft":"AE2 EMI 制作集成","zh_ai":"AE2 EMI合成集成","zh_human":"","zh":"AE2 EMI合成集成","status":"ai"}
+{"id":"aetFpEaA","en":"Food Effect Tooltips (Forge)","zh_draft":"食物效应工具提示（Forge）","zh_ai":"食物效果提示 (Forge)","zh_human":"","zh":"食物效果提示 (Forge)","status":"ai"}
+{"id":"9enMEvoc","en":"Create: Structures Arise","zh_draft":"创造：结构崛起","zh_ai":"Create: 结构出现","zh_human":"","zh":"Create: 结构出现","status":"ai"}
+{"id":"wdcuURhS","en":"[TACZ] Gucci & Vuitton Attachments","zh_draft":"[塔兹]古驰与威登附属品","zh_ai":"[TACZ] 古驰 & 路易威登附件","zh_human":"","zh":"[TACZ] 古驰 & 路易威登附件","status":"ai"}
+{"id":"mKaYfrOy","en":"Repurposed Structures - Better Desert Temples Compat","zh_draft":"再利用建筑——更优的沙漠神庙合作","zh_ai":"改造结构 - 更好的沙漠神庙兼容","zh_human":"","zh":"改造结构 - 更好的沙漠神庙兼容","status":"ai"}
+{"id":"e7pPr7RQ","en":"Time & Wind","zh_draft":"时间与风","zh_ai":"时间与风","zh_human":"","zh":"时间与风","status":"ai"}
+{"id":"Jdbbtt0i","en":"Create: Numismatics","zh_draft":"创作：钱币学","zh_ai":"Create: 钱币学","zh_human":"","zh":"Create: 钱币学","status":"ai"}
+{"id":"ZAfRfkTo","en":"Quality Sounds","zh_draft":"高质量音效","zh_ai":"高质量音效","zh_human":"","zh":"高质量音效","status":"ai"}
+{"id":"bWkJ7ejc","en":"NoRefreshScroll","zh_draft":"NoRefreshScroll","zh_ai":"不刷新卷轴","zh_human":"","zh":"不刷新卷轴","status":"ai"}
+{"id":"yJZFl0Ux","en":"GenoMons [Cobblemon]","zh_draft":"基因兽 [Cobblemon]","zh_ai":"GenoMons [Cobblemon]","zh_human":"","zh":"GenoMons [Cobblemon]","status":"ai"}
+{"id":"u8TYP2M6","en":"Cobblemon Repel","zh_draft":"科布莱蒙反击","zh_ai":"Cobblemon排斥","zh_human":"","zh":"Cobblemon排斥","status":"ai"}
+{"id":"QSzy55SB","en":"No Fog","zh_draft":"无雾","zh_ai":"无雾","zh_human":"","zh":"无雾","status":"ai"}
+{"id":"692GClaE","en":"Modonomicon","zh_draft":"莫多诺米典","zh_ai":"模组图鉴","zh_human":"","zh":"模组图鉴","status":"ai"}
 {"id":"K62sN7Sd","en":"Friends&Foes - Beekeeper Hut (Forge/NeoForge)","zh_draft":"朋友与敌人 - 养蜂人小屋（锻造/新锻造）","zh_ai":"","zh_human":"","zh":"朋友与敌人 - 养蜂人小屋（锻造/新锻造）","status":"pending"}
 {"id":"wsfP1tWd","en":"XPlus ContingameIME","zh_draft":"XPlus Contingame我记得","zh_ai":"","zh_human":"","zh":"XPlus Contingame我记得","status":"pending"}
 {"id":"K2Q9LnPH","en":"CobbleCats [cobblemon]","zh_draft":"鹅卵石猫 [cobblemon]","zh_ai":"","zh_human":"","zh":"鹅卵石猫 [cobblemon]","status":"pending"}
