@@ -436,22 +436,30 @@ def main() -> int:
                     rotator.mark_rate_limited(provider)
                     continue
                 provider.fail_batches += 1
-                failed += len(titles)
+                if e.code >= 500 or e.code in (408,):
+                    print(
+                        f"{provider.name} transient HTTP {e.code} — try next provider",
+                        flush=True,
+                    )
+                    time.sleep(max(args.delay, 5.0))
+                    continue
+                print(
+                    f"{provider.name} HTTP {e.code} — try next provider",
+                    flush=True,
+                )
                 time.sleep(max(args.delay, 5.0))
-                results = None
-                break
+                continue
             except Exception as e:
                 print(f"{provider.name} ERROR: {e}", file=sys.stderr)
                 if is_rate_limit_error(e):
                     rotator.mark_rate_limited(provider)
                     continue
                 provider.fail_batches += 1
-                failed += len(titles)
                 time.sleep(max(args.delay, 5.0))
-                results = None
-                break
+                continue
 
         if results is None or used is None:
+            failed += len(titles)
             continue
 
         last_provider = f"{used.name}/{used.model}"

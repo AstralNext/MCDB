@@ -70,7 +70,8 @@ jobs:
           push_review() {
             for attempt in 1 2 3; do
               echo "Push attempt ${attempt}/3"
-              if git pull --rebase origin main && git push origin main; then
+              git checkout -- state/ 2>/dev/null || true
+              if git pull --rebase --autostash origin main && git push origin main; then
                 return 0
               fi
               git rebase --abort 2>/dev/null || true
