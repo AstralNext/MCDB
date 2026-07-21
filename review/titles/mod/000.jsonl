@@ -517,46 +517,46 @@
 {"id":"wGKYL7st","en":"Combat Roll","zh_draft":"战斗掷骰","zh_ai":"战斗翻滚","zh_human":"","zh":"战斗翻滚","status":"ai"}
 {"id":"Eeb4VkF6","en":"Grass Overhaul","zh_draft":"草地大修","zh_ai":"草地重制","zh_human":"","zh":"草地重制","status":"ai"}
 {"id":"4VYO7ir0","en":"Fabric Seasons: Delight Compat","zh_draft":"面料季节：Delight 兼容","zh_ai":"Fabric 季节：乐趣兼容","zh_human":"","zh":"Fabric 季节：乐趣兼容","status":"ai"}
-{"id":"hnOfcjSq","en":"Pokeblocks","zh_draft":"宝可积木","zh_ai":"","zh_human":"","zh":"宝可积木","status":"pending"}
-{"id":"JZKbCCSk","en":"Fast Scrolling","zh_draft":"快速滚动","zh_ai":"","zh_human":"","zh":"快速滚动","status":"pending"}
-{"id":"ONZm0H7Y","en":"Better Block Entities","zh_draft":"更好的区块实体","zh_ai":"","zh_human":"","zh":"更好的区块实体","status":"pending"}
-{"id":"ePCzRQkj","en":"Hearth & Home","zh_draft":"炉火与家","zh_ai":"","zh_human":"","zh":"炉火与家","status":"pending"}
-{"id":"o7DitHWP","en":"WI Zoom","zh_draft":"威斯康星州Zoom","zh_ai":"","zh_human":"","zh":"威斯康星州Zoom","status":"pending"}
-{"id":"4ZVIxU8x","en":"Goety - The Dark Arts","zh_draft":"戈蒂——黑暗魔法","zh_ai":"","zh_human":"","zh":"戈蒂——黑暗魔法","status":"pending"}
-{"id":"b7NV2plI","en":"[Let's Do] Brewery - Farm&Charm Compat","zh_draft":"[开始吧]酿酒厂 - 农场与魅力公司","zh_ai":"","zh_human":"","zh":"[开始吧]酿酒厂 - 农场与魅力公司","status":"pending"}
-{"id":"4TTDxtOx","en":"[Let's Do] NetherVinery","zh_draft":"[开始吧]NetherVinery","zh_ai":"","zh_human":"","zh":"[开始吧]NetherVinery","status":"pending"}
-{"id":"cGvQGRls","en":"Formations Nether","zh_draft":"地狱形成","zh_ai":"","zh_human":"","zh":"地狱形成","status":"pending"}
-{"id":"XCIMrYn0","en":"Hearths","zh_draft":"炉灶","zh_ai":"","zh_human":"","zh":"炉灶","status":"pending"}
-{"id":"ZJTGwAND","en":"End Remastered","zh_draft":"重制版结束","zh_ai":"","zh_human":"","zh":"重制版结束","status":"pending"}
-{"id":"Yg1VT27P","en":"Sodium Options Mod Compat","zh_draft":"钠选项模组兼容","zh_ai":"","zh_human":"","zh":"钠选项模组兼容","status":"pending"}
-{"id":"lO3s8hjs","en":"Bridging Mod","zh_draft":"桥接模组","zh_ai":"","zh_human":"","zh":"桥接模组","status":"pending"}
-{"id":"BwFQLeCh","en":"Custom Splash Screen","zh_draft":"自定义启动画面","zh_ai":"","zh_human":"","zh":"自定义启动画面","status":"pending"}
-{"id":"XvoWJaA2","en":"Spell Engine","zh_draft":"法术引擎","zh_ai":"","zh_human":"","zh":"法术引擎","status":"pending"}
-{"id":"Yd4wb5wZ","en":"Critters and Companions","zh_draft":"小动物与伙伴","zh_ai":"","zh_human":"","zh":"小动物与伙伴","status":"pending"}
-{"id":"rrwQMaWQ","en":"Camera Utils","zh_draft":"摄影机用途","zh_ai":"","zh_human":"","zh":"摄影机用途","status":"pending"}
-{"id":"iSkQCp6b","en":"Simple Hats","zh_draft":"简约帽","zh_ai":"","zh_human":"","zh":"简约帽","status":"pending"}
-{"id":"6IpcGP7T","en":"InvMoveCompats","zh_draft":"InvMoveCompats","zh_ai":"","zh_human":"","zh":"InvMoveCompats","status":"pending"}
-{"id":"MCnBYP0b","en":"True Ending - Ender Dragon Overhaul","zh_draft":"真结局——末影龙大改造","zh_ai":"","zh_human":"","zh":"真结局——末影龙大改造","status":"pending"}
-{"id":"V5ujR2yw","en":"Valkyrien Skies","zh_draft":"女武神天空","zh_ai":"","zh_human":"","zh":"女武神天空","status":"pending"}
-{"id":"Hcy2DFKF","en":"YUNG's Menu Tweaks","zh_draft":"YUNG的菜单调整","zh_ai":"","zh_human":"","zh":"YUNG的菜单调整","status":"pending"}
-{"id":"PuyPazRT","en":"SmartBrainLib","zh_draft":"智能大脑图书馆","zh_ai":"","zh_human":"","zh":"智能大脑图书馆","status":"pending"}
-{"id":"UMxybHE8","en":"MiniHUD","zh_draft":"MiniHUD","zh_ai":"","zh_human":"","zh":"MiniHUD","status":"pending"}
-{"id":"tEcWzCZz","en":"Held Item Info","zh_draft":"已持有物品信息","zh_ai":"","zh_human":"","zh":"已持有物品信息","status":"pending"}
-{"id":"pduQXSbl","en":"AzureLib Armor","zh_draft":"AzureLib 装甲","zh_ai":"","zh_human":"","zh":"AzureLib 装甲","status":"pending"}
-{"id":"SISoSFPP","en":"Configured Defaults","zh_draft":"配置默认","zh_ai":"","zh_human":"","zh":"配置默认","status":"pending"}
-{"id":"ErpAAAaf","en":"Interactic","zh_draft":"跨行动","zh_ai":"","zh_human":"","zh":"跨行动","status":"pending"}
-{"id":"FGlHZl7X","en":"The Lost Castle","zh_draft":"失落的城堡","zh_ai":"","zh_human":"","zh":"失落的城堡","status":"pending"}
-{"id":"DynYZEae","en":"Exordium","zh_draft":"Exordium","zh_ai":"","zh_human":"","zh":"Exordium","status":"pending"}
-{"id":"DOB2l4oJ","en":"Library Ferret","zh_draft":"图书馆雪貂","zh_ai":"","zh_human":"","zh":"图书馆雪貂","status":"pending"}
-{"id":"t6BIRVZn","en":"Decorative Blocks","zh_draft":"装饰性方块","zh_ai":"","zh_human":"","zh":"装饰性方块","status":"pending"}
-{"id":"qpPoAL6m","en":"Trade Cycling","zh_draft":"贸易自行车","zh_ai":"","zh_human":"","zh":"贸易自行车","status":"pending"}
-{"id":"m0oRwcZx","en":"Camera Overhaul","zh_draft":"摄像机大修","zh_ai":"","zh_human":"","zh":"摄像机大修","status":"pending"}
-{"id":"pcGnjJ39","en":"Explorations","zh_draft":"探险","zh_ai":"","zh_human":"","zh":"探险","status":"pending"}
-{"id":"dQcfqGbl","en":"Cobweb","zh_draft":"蛛网","zh_ai":"","zh_human":"","zh":"蛛网","status":"pending"}
-{"id":"LPjGiSO4","en":"Nullscape","zh_draft":"虚无景观","zh_ai":"","zh_human":"","zh":"虚无景观","status":"pending"}
-{"id":"gM34U4xh","en":"Bulk Villager Trading","zh_draft":"散装村民贸易","zh_ai":"","zh_human":"","zh":"散装村民贸易","status":"pending"}
-{"id":"PAO12Ixe","en":"CobbleThemes","zh_draft":"鹅卵石主题","zh_ai":"","zh_human":"","zh":"鹅卵石主题","status":"pending"}
-{"id":"8ooWzSQP","en":"Spell Power Attributes","zh_draft":"法术力量属性","zh_ai":"","zh_human":"","zh":"法术力量属性","status":"pending"}
+{"id":"hnOfcjSq","en":"Pokeblocks","zh_draft":"宝可积木","zh_ai":"宝可方块","zh_human":"","zh":"宝可方块","status":"ai"}
+{"id":"JZKbCCSk","en":"Fast Scrolling","zh_draft":"快速滚动","zh_ai":"快速滚动","zh_human":"","zh":"快速滚动","status":"ai"}
+{"id":"ONZm0H7Y","en":"Better Block Entities","zh_draft":"更好的区块实体","zh_ai":"更好的方块实体","zh_human":"","zh":"更好的方块实体","status":"ai"}
+{"id":"ePCzRQkj","en":"Hearth & Home","zh_draft":"炉火与家","zh_ai":"炉火之家","zh_human":"","zh":"炉火之家","status":"ai"}
+{"id":"o7DitHWP","en":"WI Zoom","zh_draft":"威斯康星州Zoom","zh_ai":"WI缩放","zh_human":"","zh":"WI缩放","status":"ai"}
+{"id":"4ZVIxU8x","en":"Goety - The Dark Arts","zh_draft":"戈蒂——黑暗魔法","zh_ai":"戈蒂 - 暗黑艺术","zh_human":"","zh":"戈蒂 - 暗黑艺术","status":"ai"}
+{"id":"b7NV2plI","en":"[Let's Do] Brewery - Farm&Charm Compat","zh_draft":"[开始吧]酿酒厂 - 农场与魅力公司","zh_ai":"[让我们做] 酿酒厂 - 农场与魅力兼容","zh_human":"","zh":"[让我们做] 酿酒厂 - 农场与魅力兼容","status":"ai"}
+{"id":"4TTDxtOx","en":"[Let's Do] NetherVinery","zh_draft":"[开始吧]NetherVinery","zh_ai":"[让我们做] 地狱酒庄","zh_human":"","zh":"[让我们做] 地狱酒庄","status":"ai"}
+{"id":"cGvQGRls","en":"Formations Nether","zh_draft":"地狱形成","zh_ai":"地狱构造","zh_human":"","zh":"地狱构造","status":"ai"}
+{"id":"XCIMrYn0","en":"Hearths","zh_draft":"炉灶","zh_ai":"炉火","zh_human":"","zh":"炉火","status":"ai"}
+{"id":"ZJTGwAND","en":"End Remastered","zh_draft":"重制版结束","zh_ai":"末地重制","zh_human":"","zh":"末地重制","status":"ai"}
+{"id":"Yg1VT27P","en":"Sodium Options Mod Compat","zh_draft":"钠选项模组兼容","zh_ai":"钠选项模组兼容","zh_human":"","zh":"钠选项模组兼容","status":"ai"}
+{"id":"lO3s8hjs","en":"Bridging Mod","zh_draft":"桥接模组","zh_ai":"桥梁模组","zh_human":"","zh":"桥梁模组","status":"ai"}
+{"id":"BwFQLeCh","en":"Custom Splash Screen","zh_draft":"自定义启动画面","zh_ai":"自定义启动画面","zh_human":"","zh":"自定义启动画面","status":"ai"}
+{"id":"XvoWJaA2","en":"Spell Engine","zh_draft":"法术引擎","zh_ai":"法术引擎","zh_human":"","zh":"法术引擎","status":"ai"}
+{"id":"Yd4wb5wZ","en":"Critters and Companions","zh_draft":"小动物与伙伴","zh_ai":"小动物与伙伴","zh_human":"","zh":"小动物与伙伴","status":"ai"}
+{"id":"rrwQMaWQ","en":"Camera Utils","zh_draft":"摄影机用途","zh_ai":"相机工具","zh_human":"","zh":"相机工具","status":"ai"}
+{"id":"iSkQCp6b","en":"Simple Hats","zh_draft":"简约帽","zh_ai":"简单帽子","zh_human":"","zh":"简单帽子","status":"ai"}
+{"id":"6IpcGP7T","en":"InvMoveCompats","zh_draft":"InvMoveCompats","zh_ai":"物品移动兼容","zh_human":"","zh":"物品移动兼容","status":"ai"}
+{"id":"MCnBYP0b","en":"True Ending - Ender Dragon Overhaul","zh_draft":"真结局——末影龙大改造","zh_ai":"真实结局 - 端午龙重制","zh_human":"","zh":"真实结局 - 端午龙重制","status":"ai"}
+{"id":"V5ujR2yw","en":"Valkyrien Skies","zh_draft":"女武神天空","zh_ai":"女武神天空","zh_human":"","zh":"女武神天空","status":"ai"}
+{"id":"Hcy2DFKF","en":"YUNG's Menu Tweaks","zh_draft":"YUNG的菜单调整","zh_ai":"YUNG的菜单调整","zh_human":"","zh":"YUNG的菜单调整","status":"ai"}
+{"id":"PuyPazRT","en":"SmartBrainLib","zh_draft":"智能大脑图书馆","zh_ai":"智能大脑库","zh_human":"","zh":"智能大脑库","status":"ai"}
+{"id":"UMxybHE8","en":"MiniHUD","zh_draft":"MiniHUD","zh_ai":"迷你HUD","zh_human":"","zh":"迷你HUD","status":"ai"}
+{"id":"tEcWzCZz","en":"Held Item Info","zh_draft":"已持有物品信息","zh_ai":"手持物品信息","zh_human":"","zh":"手持物品信息","status":"ai"}
+{"id":"pduQXSbl","en":"AzureLib Armor","zh_draft":"AzureLib 装甲","zh_ai":"AzureLib护甲","zh_human":"","zh":"AzureLib护甲","status":"ai"}
+{"id":"SISoSFPP","en":"Configured Defaults","zh_draft":"配置默认","zh_ai":"配置默认值","zh_human":"","zh":"配置默认值","status":"ai"}
+{"id":"ErpAAAaf","en":"Interactic","zh_draft":"跨行动","zh_ai":"交互式","zh_human":"","zh":"交互式","status":"ai"}
+{"id":"FGlHZl7X","en":"The Lost Castle","zh_draft":"失落的城堡","zh_ai":"失落城堡","zh_human":"","zh":"失落城堡","status":"ai"}
+{"id":"DynYZEae","en":"Exordium","zh_draft":"Exordium","zh_ai":"序章","zh_human":"","zh":"序章","status":"ai"}
+{"id":"DOB2l4oJ","en":"Library Ferret","zh_draft":"图书馆雪貂","zh_ai":"图书馆松鼠","zh_human":"","zh":"图书馆松鼠","status":"ai"}
+{"id":"t6BIRVZn","en":"Decorative Blocks","zh_draft":"装饰性方块","zh_ai":"装饰方块","zh_human":"","zh":"装饰方块","status":"ai"}
+{"id":"qpPoAL6m","en":"Trade Cycling","zh_draft":"贸易自行车","zh_ai":"贸易骑行","zh_human":"","zh":"贸易骑行","status":"ai"}
+{"id":"m0oRwcZx","en":"Camera Overhaul","zh_draft":"摄像机大修","zh_ai":"相机重制","zh_human":"","zh":"相机重制","status":"ai"}
+{"id":"pcGnjJ39","en":"Explorations","zh_draft":"探险","zh_ai":"探险","zh_human":"","zh":"探险","status":"ai"}
+{"id":"dQcfqGbl","en":"Cobweb","zh_draft":"蛛网","zh_ai":"蜘蛛网","zh_human":"","zh":"蜘蛛网","status":"ai"}
+{"id":"LPjGiSO4","en":"Nullscape","zh_draft":"虚无景观","zh_ai":"虚无景观","zh_human":"","zh":"虚无景观","status":"ai"}
+{"id":"gM34U4xh","en":"Bulk Villager Trading","zh_draft":"散装村民贸易","zh_ai":"批量村民交易","zh_human":"","zh":"批量村民交易","status":"ai"}
+{"id":"PAO12Ixe","en":"CobbleThemes","zh_draft":"鹅卵石主题","zh_ai":"圆石主题","zh_human":"","zh":"圆石主题","status":"ai"}
+{"id":"8ooWzSQP","en":"Spell Power Attributes","zh_draft":"法术力量属性","zh_ai":"法术力量属性","zh_human":"","zh":"法术力量属性","status":"ai"}
 {"id":"AP8rDDLS","en":"Hold My Items","zh_draft":"帮我保管物品","zh_ai":"","zh_human":"","zh":"帮我保管物品","status":"pending"}
 {"id":"iFRF5kc2","en":"[TACZ]Enchanted Arsenal","zh_draft":"[塔兹]魔法军械库","zh_ai":"","zh_human":"","zh":"[塔兹]魔法军械库","status":"pending"}
 {"id":"oWaK0Q19","en":"Create Aeronautics","zh_draft":"创建航空","zh_ai":"","zh_human":"","zh":"创建航空","status":"pending"}
