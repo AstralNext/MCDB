@@ -2276,46 +2276,46 @@
 {"id":"yJR377od","en":"Aquatic Torches","zh_draft":"水上火炬","zh_ai":"水下火炬","zh_human":"","zh":"水下火炬","status":"ai"}
 {"id":"2fltysAl","en":"Straw Statues","zh_draft":"稻草雕像","zh_ai":"稻草雕像","zh_human":"","zh":"稻草雕像","status":"ai"}
 {"id":"V6LLU8Gf","en":"Katters Structures","zh_draft":"卡特斯建筑","zh_ai":"卡特结构","zh_human":"","zh":"卡特结构","status":"ai"}
-{"id":"NjHNA0vG","en":"Shutters","zh_draft":"百叶窗","zh_ai":"","zh_human":"","zh":"百叶窗","status":"pending"}
-{"id":"pFgXNvCD","en":"Audio Extension for FancyMenu v2","zh_draft":"FancyMenu v2 音频扩展","zh_ai":"","zh_human":"","zh":"FancyMenu v2 音频扩展","status":"pending"}
-{"id":"bDx3sk7a","en":"Cobblemon - Show Held Items","zh_draft":"Cobblemon - 展会持有物品","zh_ai":"","zh_human":"","zh":"Cobblemon - 展会持有物品","status":"pending"}
-{"id":"DKY9btbd","en":"WorldGuard","zh_draft":"世界卫队","zh_ai":"","zh_human":"","zh":"世界卫队","status":"pending"}
-{"id":"l1rj36Ob","en":"Nostalgic Tweaks","zh_draft":"怀旧的微调","zh_ai":"","zh_human":"","zh":"怀旧的微调","status":"pending"}
-{"id":"Vl1uNAuy","en":"Aquaculture 2","zh_draft":"水产养殖2","zh_ai":"","zh_human":"","zh":"水产养殖2","status":"pending"}
-{"id":"qS1ot7R2","en":"VMod","zh_draft":"VMod","zh_ai":"","zh_human":"","zh":"VMod","status":"pending"}
-{"id":"LpXuY1YR","en":"SkyBlock Enhancements","zh_draft":"SkyBlock 增强功能","zh_ai":"","zh_human":"","zh":"SkyBlock 增强功能","status":"pending"}
-{"id":"RlEyqCCv","en":"Natural Motion Blur","zh_draft":"自然运动模糊","zh_ai":"","zh_human":"","zh":"自然运动模糊","status":"pending"}
-{"id":"23u6FAt6","en":"Autototem","zh_draft":"自土腾","zh_ai":"","zh_human":"","zh":"自土腾","status":"pending"}
-{"id":"LSxfjfLO","en":"Battle Towers","zh_draft":"战斗塔楼","zh_ai":"","zh_human":"","zh":"战斗塔楼","status":"pending"}
-{"id":"oqKSI6b9","en":"Variant Tools and Weaponry - More Weapons","zh_draft":"变体工具与武器——更多武器","zh_ai":"","zh_human":"","zh":"变体工具与武器——更多武器","status":"pending"}
-{"id":"fXt291FO","en":"CC:C Bridge","zh_draft":"CC：C 桥","zh_ai":"","zh_human":"","zh":"CC：C 桥","status":"pending"}
-{"id":"rqTgDmc8","en":"ResolutionControl+","zh_draft":"分辨率控制+","zh_ai":"","zh_human":"","zh":"分辨率控制+","status":"pending"}
-{"id":"8Dbnvm77","en":"Dungeons and Taverns Nether Fortress Overhaul","zh_draft":"地下城与酒馆 下界要塞大修","zh_ai":"","zh_human":"","zh":"地下城与酒馆 下界要塞大修","status":"pending"}
-{"id":"hXiIvTyT","en":"EssentialsX","zh_draft":"EssentialsX","zh_ai":"","zh_human":"","zh":"EssentialsX","status":"pending"}
-{"id":"vRFcG5n6","en":"Tooltip Overhaul","zh_draft":"提示大修","zh_ai":"","zh_human":"","zh":"提示大修","status":"pending"}
-{"id":"1uFqOdbr","en":"DracoMon [Cobblemon]","zh_draft":"龙兽 [Cobblemon]","zh_ai":"","zh_human":"","zh":"龙兽 [Cobblemon]","status":"pending"}
-{"id":"5EMX10qI","en":"Legends & Myths (Cobblemon)","zh_draft":"传说与神话（Cobblemon）","zh_ai":"","zh_human":"","zh":"传说与神话（Cobblemon）","status":"pending"}
-{"id":"1Zu0uTEE","en":"McJtyLib","zh_draft":"麦克杰图文","zh_ai":"","zh_human":"","zh":"麦克杰图文","status":"pending"}
-{"id":"hD0W2Wde","en":"Paper Doll","zh_draft":"纸娃娃","zh_ai":"","zh_human":"","zh":"纸娃娃","status":"pending"}
-{"id":"6zGxpbt7","en":"Beyond Dimensions","zh_draft":"超越维度","zh_ai":"","zh_human":"","zh":"超越维度","status":"pending"}
-{"id":"90wM2vXN","en":"ArdaGrass","zh_draft":"阿达草","zh_ai":"","zh_human":"","zh":"阿达草","status":"pending"}
-{"id":"RCK4uOMN","en":"Hopper Gadgetry","zh_draft":"跳跃器小玩意儿","zh_ai":"","zh_human":"","zh":"跳跃器小玩意儿","status":"pending"}
-{"id":"z7UX4SHt","en":"Nether Portal Spread","zh_draft":"下界传送门传播","zh_ai":"","zh_human":"","zh":"下界传送门传播","status":"pending"}
-{"id":"plgWdsGJ","en":"Redden's Stone Lanterns","zh_draft":"雷登的石灯","zh_ai":"","zh_human":"","zh":"雷登的石灯","status":"pending"}
-{"id":"CAASGC7r","en":"Builder's Delight","zh_draft":"建造者的喜悦","zh_ai":"","zh_human":"","zh":"建造者的喜悦","status":"pending"}
-{"id":"5BPpCYUe","en":"Certain Questing Additions","zh_draft":"某些任务新增内容","zh_ai":"","zh_human":"","zh":"某些任务新增内容","status":"pending"}
-{"id":"j6YEKDZd","en":"Typewriter Day Counter","zh_draft":"打字机日数计数器","zh_ai":"","zh_human":"","zh":"打字机日数计数器","status":"pending"}
-{"id":"JJNYRb4B","en":"ProbeJS","zh_draft":"ProbeJS","zh_ai":"","zh_human":"","zh":"ProbeJS","status":"pending"}
-{"id":"ETKe9DNz","en":"Snowballs Freeze Mobs","zh_draft":"雪球冻结怪物","zh_ai":"","zh_human":"","zh":"雪球冻结怪物","status":"pending"}
-{"id":"MBmh0f9A","en":"Responsive Shields","zh_draft":"响应式护盾","zh_ai":"","zh_human":"","zh":"响应式护盾","status":"pending"}
-{"id":"nxrXbh5K","en":"View Distance Fix","zh_draft":"视距定位","zh_ai":"","zh_human":"","zh":"视距定位","status":"pending"}
-{"id":"1A2mKfBx","en":"Hypixel Mod API","zh_draft":"Hypixel 模组 API","zh_ai":"","zh_human":"","zh":"Hypixel 模组 API","status":"pending"}
-{"id":"FXDpZRJG","en":"Trackwork","zh_draft":"轨道工程","zh_ai":"","zh_human":"","zh":"轨道工程","status":"pending"}
-{"id":"vYSi4UOX","en":"Unusual Fish Mod","zh_draft":"非凡的鱼类模组","zh_ai":"","zh_human":"","zh":"非凡的鱼类模组","status":"pending"}
-{"id":"4alTd2ag","en":"Consumable Optimizer","zh_draft":"消耗品优化器","zh_ai":"","zh_human":"","zh":"消耗品优化器","status":"pending"}
-{"id":"CcxcmoLQ","en":"Who am I?","zh_draft":"我是谁？","zh_ai":"","zh_human":"","zh":"我是谁？","status":"pending"}
-{"id":"42tSijuX","en":"REI Search Bar Calculations","zh_draft":"REI搜索栏计算","zh_ai":"","zh_human":"","zh":"REI搜索栏计算","status":"pending"}
-{"id":"L2OEQEMK","en":"The Cosmic Spokespersons","zh_draft":"宇宙代言人","zh_ai":"","zh_human":"","zh":"宇宙代言人","status":"pending"}
+{"id":"NjHNA0vG","en":"Shutters","zh_draft":"百叶窗","zh_ai":"百叶窗","zh_human":"","zh":"百叶窗","status":"ai"}
+{"id":"pFgXNvCD","en":"Audio Extension for FancyMenu v2","zh_draft":"FancyMenu v2 音频扩展","zh_ai":"FancyMenu v2 音频扩展","zh_human":"","zh":"FancyMenu v2 音频扩展","status":"ai"}
+{"id":"bDx3sk7a","en":"Cobblemon - Show Held Items","zh_draft":"Cobblemon - 展会持有物品","zh_ai":"Cobblemon - 显示手持物品","zh_human":"","zh":"Cobblemon - 显示手持物品","status":"ai"}
+{"id":"DKY9btbd","en":"WorldGuard","zh_draft":"世界卫队","zh_ai":"世界守护者","zh_human":"","zh":"世界守护者","status":"ai"}
+{"id":"l1rj36Ob","en":"Nostalgic Tweaks","zh_draft":"怀旧的微调","zh_ai":"怀旧调整","zh_human":"","zh":"怀旧调整","status":"ai"}
+{"id":"Vl1uNAuy","en":"Aquaculture 2","zh_draft":"水产养殖2","zh_ai":"水产养殖 2","zh_human":"","zh":"水产养殖 2","status":"ai"}
+{"id":"qS1ot7R2","en":"VMod","zh_draft":"VMod","zh_ai":"VMod","zh_human":"","zh":"VMod","status":"ai"}
+{"id":"LpXuY1YR","en":"SkyBlock Enhancements","zh_draft":"SkyBlock 增强功能","zh_ai":"SkyBlock 扩展","zh_human":"","zh":"SkyBlock 扩展","status":"ai"}
+{"id":"RlEyqCCv","en":"Natural Motion Blur","zh_draft":"自然运动模糊","zh_ai":"自然运动模糊","zh_human":"","zh":"自然运动模糊","status":"ai"}
+{"id":"23u6FAt6","en":"Autototem","zh_draft":"自土腾","zh_ai":"自动图腾","zh_human":"","zh":"自动图腾","status":"ai"}
+{"id":"LSxfjfLO","en":"Battle Towers","zh_draft":"战斗塔楼","zh_ai":"战斗塔","zh_human":"","zh":"战斗塔","status":"ai"}
+{"id":"oqKSI6b9","en":"Variant Tools and Weaponry - More Weapons","zh_draft":"变体工具与武器——更多武器","zh_ai":"变体工具与武器 - 更多武器","zh_human":"","zh":"变体工具与武器 - 更多武器","status":"ai"}
+{"id":"fXt291FO","en":"CC:C Bridge","zh_draft":"CC：C 桥","zh_ai":"CC:C 桥","zh_human":"","zh":"CC:C 桥","status":"ai"}
+{"id":"rqTgDmc8","en":"ResolutionControl+","zh_draft":"分辨率控制+","zh_ai":"分辨率控制+","zh_human":"","zh":"分辨率控制+","status":"ai"}
+{"id":"8Dbnvm77","en":"Dungeons and Taverns Nether Fortress Overhaul","zh_draft":"地下城与酒馆 下界要塞大修","zh_ai":"地牢与酒馆 地狱堡垒重制","zh_human":"","zh":"地牢与酒馆 地狱堡垒重制","status":"ai"}
+{"id":"hXiIvTyT","en":"EssentialsX","zh_draft":"EssentialsX","zh_ai":"EssentialsX","zh_human":"","zh":"EssentialsX","status":"ai"}
+{"id":"vRFcG5n6","en":"Tooltip Overhaul","zh_draft":"提示大修","zh_ai":"工具提示重制","zh_human":"","zh":"工具提示重制","status":"ai"}
+{"id":"1uFqOdbr","en":"DracoMon [Cobblemon]","zh_draft":"龙兽 [Cobblemon]","zh_ai":"DracoMon [Cobblemon]","zh_human":"","zh":"DracoMon [Cobblemon]","status":"ai"}
+{"id":"5EMX10qI","en":"Legends & Myths (Cobblemon)","zh_draft":"传说与神话（Cobblemon）","zh_ai":"传说与神话 (Cobblemon)","zh_human":"","zh":"传说与神话 (Cobblemon)","status":"ai"}
+{"id":"1Zu0uTEE","en":"McJtyLib","zh_draft":"麦克杰图文","zh_ai":"McJtyLib","zh_human":"","zh":"McJtyLib","status":"ai"}
+{"id":"hD0W2Wde","en":"Paper Doll","zh_draft":"纸娃娃","zh_ai":"纸娃娃","zh_human":"","zh":"纸娃娃","status":"ai"}
+{"id":"6zGxpbt7","en":"Beyond Dimensions","zh_draft":"超越维度","zh_ai":"超越维度","zh_human":"","zh":"超越维度","status":"ai"}
+{"id":"90wM2vXN","en":"ArdaGrass","zh_draft":"阿达草","zh_ai":"ArdaGrass","zh_human":"","zh":"ArdaGrass","status":"ai"}
+{"id":"RCK4uOMN","en":"Hopper Gadgetry","zh_draft":"跳跃器小玩意儿","zh_ai":"跳桶小工具","zh_human":"","zh":"跳桶小工具","status":"ai"}
+{"id":"z7UX4SHt","en":"Nether Portal Spread","zh_draft":"下界传送门传播","zh_ai":"地狱传送门扩散","zh_human":"","zh":"地狱传送门扩散","status":"ai"}
+{"id":"plgWdsGJ","en":"Redden's Stone Lanterns","zh_draft":"雷登的石灯","zh_ai":"Redden's 石灯笼","zh_human":"","zh":"Redden's 石灯笼","status":"ai"}
+{"id":"CAASGC7r","en":"Builder's Delight","zh_draft":"建造者的喜悦","zh_ai":"建筑者的乐趣","zh_human":"","zh":"建筑者的乐趣","status":"ai"}
+{"id":"5BPpCYUe","en":"Certain Questing Additions","zh_draft":"某些任务新增内容","zh_ai":"特定寻宝添加","zh_human":"","zh":"特定寻宝添加","status":"ai"}
+{"id":"j6YEKDZd","en":"Typewriter Day Counter","zh_draft":"打字机日数计数器","zh_ai":"打字机日计数器","zh_human":"","zh":"打字机日计数器","status":"ai"}
+{"id":"JJNYRb4B","en":"ProbeJS","zh_draft":"ProbeJS","zh_ai":"ProbeJS","zh_human":"","zh":"ProbeJS","status":"ai"}
+{"id":"ETKe9DNz","en":"Snowballs Freeze Mobs","zh_draft":"雪球冻结怪物","zh_ai":"雪球冻结怪物","zh_human":"","zh":"雪球冻结怪物","status":"ai"}
+{"id":"MBmh0f9A","en":"Responsive Shields","zh_draft":"响应式护盾","zh_ai":"响应式盾牌","zh_human":"","zh":"响应式盾牌","status":"ai"}
+{"id":"nxrXbh5K","en":"View Distance Fix","zh_draft":"视距定位","zh_ai":"视距修复","zh_human":"","zh":"视距修复","status":"ai"}
+{"id":"1A2mKfBx","en":"Hypixel Mod API","zh_draft":"Hypixel 模组 API","zh_ai":"Hypixel 模组 API","zh_human":"","zh":"Hypixel 模组 API","status":"ai"}
+{"id":"FXDpZRJG","en":"Trackwork","zh_draft":"轨道工程","zh_ai":"轨道工作","zh_human":"","zh":"轨道工作","status":"ai"}
+{"id":"vYSi4UOX","en":"Unusual Fish Mod","zh_draft":"非凡的鱼类模组","zh_ai":"不寻常的鱼模组","zh_human":"","zh":"不寻常的鱼模组","status":"ai"}
+{"id":"4alTd2ag","en":"Consumable Optimizer","zh_draft":"消耗品优化器","zh_ai":"消耗品优化器","zh_human":"","zh":"消耗品优化器","status":"ai"}
+{"id":"CcxcmoLQ","en":"Who am I?","zh_draft":"我是谁？","zh_ai":"我是谁?","zh_human":"","zh":"我是谁?","status":"ai"}
+{"id":"42tSijuX","en":"REI Search Bar Calculations","zh_draft":"REI搜索栏计算","zh_ai":"REI 搜索栏计算","zh_human":"","zh":"REI 搜索栏计算","status":"ai"}
+{"id":"L2OEQEMK","en":"The Cosmic Spokespersons","zh_draft":"宇宙代言人","zh_ai":"宇宙发言人","zh_human":"","zh":"宇宙发言人","status":"ai"}
 {"id":"zZwEA08D","en":"EnderTanks","zh_draft":"末影坦克","zh_ai":"","zh_human":"","zh":"末影坦克","status":"pending"}
 {"id":"hAG5PWoN","en":"Armor Durability HUD","zh_draft":"护甲耐久度抬头显示器","zh_ai":"","zh_human":"","zh":"护甲耐久度抬头显示器","status":"pending"}
 {"id":"EXzIPtJo","en":"Replanting Crops","zh_draft":"作物再种植","zh_ai":"","zh_human":"","zh":"作物再种植","status":"pending"}
