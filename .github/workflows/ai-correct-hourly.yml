@@ -2,8 +2,6 @@
 name: ai-correct-hourly
 
 on:
-  schedule:
-    - cron: "5 * * * *"
   workflow_dispatch:
     inputs:
       duration_minutes:
@@ -26,6 +24,7 @@ concurrency:
 
 permissions:
   contents: write
+  actions: read
 
 jobs:
   ai-correct:

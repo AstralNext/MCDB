@@ -1,0 +1,36 @@
+# 整点检查：仅当 ai-correct-hourly 空闲时才 dispatch，避免上一小时未跑完又排队一小时
+name: ai-correct-hourly-schedule
+
+on:
+  schedule:
+    - cron: "5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  contents: read
+
+jobs:
+  dispatch-if-idle:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Skip or dispatch ai-correct-hourly
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          BUSY=$(gh run list \
+            --repo "${{ github.repository }}" \
+            --workflow "ai-correct-hourly.yml" \
+            --status in_progress \
+            --json databaseId \
+            -q 'length')
+          if [ "$BUSY" -gt 0 ]; then
+            echo "ai-correct-hourly already in progress ($BUSY run(s)) — skip scheduled dispatch"
+            exit 0
+          fi
+          gh workflow run ai-correct-hourly.yml \
+            --repo "${{ github.repository }}" \
+            -f duration_minutes=55 \
+            -f batch=40 \
+            -f limit=0
+          echo "Dispatched ai-correct-hourly"
