@@ -1313,49 +1313,49 @@
 {"id":"8yqXwFLl","en":"SkyBlock Profile Viewer","zh_draft":"SkyBlock 配置文件查看器","zh_ai":"SkyBlock个人资料查看器","zh_human":"","zh":"SkyBlock个人资料查看器","status":"ai"}
 {"id":"jjuIRIVr","en":"MEGA Cells","zh_draft":"超级细胞","zh_ai":"MEGA细胞","zh_human":"","zh":"MEGA细胞","status":"ai"}
 {"id":"dGVX5JbJ","en":"Better Villages","zh_draft":"更好的村庄","zh_ai":"更好的村庄","zh_human":"","zh":"更好的村庄","status":"ai"}
-{"id":"MPAgKQOE","en":"Magic Vibe Decorations (Crystals, Halloween)","zh_draft":"魔法氛围装饰（水晶，万圣节）","zh_ai":"","zh_human":"","zh":"魔法氛围装饰（水晶，万圣节）","status":"pending"}
+{"id":"MPAgKQOE","en":"Magic Vibe Decorations (Crystals, Halloween)","zh_draft":"魔法氛围装饰（水晶，万圣节）","zh_ai":"魔法节庆装饰（水晶，万圣节）","zh_human":"","zh":"魔法节庆装饰（水晶，万圣节）","status":"ai"}
 {"id":"iEwt8nJR","en":"UMU Little Maid","zh_draft":"UMU 小女仆","zh_ai":"UMU小女仆","zh_human":"","zh":"UMU小女仆","status":"ai"}
 {"id":"eIO12l2t","en":"Allurement","zh_draft":"魅力","zh_ai":"诱惑","zh_human":"","zh":"诱惑","status":"ai"}
 {"id":"QTy3tT6m","en":"Goety's Delight","zh_draft":"歌蒂的喜悦","zh_ai":"Goety的乐趣","zh_human":"","zh":"Goety的乐趣","status":"ai"}
-{"id":"hHVaPgFK","en":"Naturally Trimmed","zh_draft":"自然修剪","zh_ai":"","zh_human":"","zh":"自然修剪","status":"pending"}
-{"id":"4w0EzGRW","en":"Companion 🐕","zh_draft":"伴侣 🐕","zh_ai":"","zh_human":"","zh":"伴侣 🐕","status":"pending"}
-{"id":"R4TvILfj","en":"Additional Additions: Vanilla+ QoL, Sniffers, Music, Food","zh_draft":"额外新增内容：原版+生活质量、嗅探器、音乐、食物","zh_ai":"","zh_human":"","zh":"额外新增内容：原版+生活质量、嗅探器、音乐、食物","status":"pending"}
-{"id":"E9sX1ncV","en":"IBE Editor","zh_draft":"IBE编辑","zh_ai":"","zh_human":"","zh":"IBE编辑","status":"pending"}
-{"id":"vZoqTqwv","en":"Dungeon Now Loading","zh_draft":"地下城正在加载","zh_ai":"","zh_human":"","zh":"地下城正在加载","status":"pending"}
-{"id":"Koee7vhY","en":"Trail&Tales Delight","zh_draft":"Trail & Tales 的乐趣","zh_ai":"","zh_human":"","zh":"Trail & Tales 的乐趣","status":"pending"}
-{"id":"iAzrhsju","en":"GravelMiner","zh_draft":"砾石矿工","zh_ai":"","zh_human":"","zh":"砾石矿工","status":"pending"}
-{"id":"qIv5FhAA","en":"Horseman","zh_draft":"骑士","zh_ai":"","zh_human":"","zh":"骑士","status":"pending"}
-{"id":"9BPuv4vL","en":"Beautify!","zh_draft":"美化！","zh_ai":"","zh_human":"","zh":"美化！","status":"pending"}
-{"id":"hn56Bq5n","en":"Awesome Dungeon Ocean","zh_draft":"超棒的地下城海洋","zh_ai":"","zh_human":"","zh":"超棒的地下城海洋","status":"pending"}
-{"id":"geGZinIB","en":"Combat Hitboxes","zh_draft":"战斗判定箱","zh_ai":"","zh_human":"","zh":"战斗判定箱","status":"pending"}
-{"id":"G5AvCOPI","en":"RpgDifficulty","zh_draft":"RPG难度","zh_ai":"","zh_human":"","zh":"RPG难度","status":"pending"}
-{"id":"ha1mEyJS","en":"Player Animation Library","zh_draft":"球员动画库","zh_ai":"","zh_human":"","zh":"球员动画库","status":"pending"}
-{"id":"k6hi4lMv","en":"[Let's Do Addon] EMI Compat","zh_draft":"[让我们做插件]EMI互换","zh_ai":"","zh_human":"","zh":"[让我们做插件]EMI互换","status":"pending"}
-{"id":"kcudYghD","en":"Cobbleloots: Loot Balls and More!","zh_draft":"鹅卵石战利品：战利品球及更多！","zh_ai":"","zh_human":"","zh":"鹅卵石战利品：战利品球及更多！","status":"pending"}
-{"id":"VpmCsizY","en":"IceAndFire Community Edition","zh_draft":"冰与火社区版","zh_ai":"","zh_human":"","zh":"冰与火社区版","status":"pending"}
-{"id":"3Acxy864","en":"Uranus","zh_draft":"天王星","zh_ai":"","zh_human":"","zh":"天王星","status":"pending"}
-{"id":"jURjbCaq","en":"Variants-CIT","zh_draft":"变体-CIT","zh_ai":"","zh_human":"","zh":"变体-CIT","status":"pending"}
-{"id":"6tlhZmC5","en":"Axolotl Buckets","zh_draft":"钝口螈水桶","zh_ai":"","zh_human":"","zh":"钝口螈水桶","status":"pending"}
-{"id":"GGamhqbw","en":"NotEnoughUpdates","zh_draft":"更新不足","zh_ai":"","zh_human":"","zh":"更新不足","status":"pending"}
-{"id":"YP9DjOvN","en":"tetra","zh_draft":"四灯鱼","zh_ai":"","zh_human":"","zh":"四灯鱼","status":"pending"}
-{"id":"NU7qMnLN","en":"Players Drop Heads","zh_draft":"球员掉头","zh_ai":"","zh_human":"","zh":"球员掉头","status":"pending"}
-{"id":"3P2XnNW6","en":"Aether Villages","zh_draft":"以太村落","zh_ai":"","zh_human":"","zh":"以太村落","status":"pending"}
-{"id":"S5ivha5X","en":"I Know What I'm Doing","zh_draft":"我知道自己在做什么","zh_ai":"","zh_human":"","zh":"我知道自己在做什么","status":"pending"}
-{"id":"aWDwN8NN","en":"Xenon","zh_draft":"氙气","zh_ai":"","zh_human":"","zh":"氙气","status":"pending"}
-{"id":"xMTLdsFH","en":"Smooth Particles","zh_draft":"光滑粒子","zh_ai":"","zh_human":"","zh":"光滑粒子","status":"pending"}
-{"id":"Th33t82F","en":"Transmog","zh_draft":"幻化","zh_ai":"","zh_human":"","zh":"幻化","status":"pending"}
-{"id":"uvlgIwBD","en":"Smooth Skies","zh_draft":"平静的天空","zh_ai":"","zh_human":"","zh":"平静的天空","status":"pending"}
-{"id":"rOrXjyPb","en":"Bookshelf Inspector","zh_draft":"书架检查员","zh_ai":"","zh_human":"","zh":"书架检查员","status":"pending"}
-{"id":"T38eAZQC","en":"KubeJS Create","zh_draft":"KubeJS Create","zh_ai":"","zh_human":"","zh":"KubeJS Create","status":"pending"}
-{"id":"G1ckZuWK","en":"MixinBooter","zh_draft":"混合启动器","zh_ai":"","zh_human":"","zh":"混合启动器","status":"pending"}
-{"id":"dw7LChq9","en":"PatPat [Mod & Plugin]","zh_draft":"PatPat [模组和插件]","zh_ai":"","zh_human":"","zh":"PatPat [模组和插件]","status":"pending"}
-{"id":"VJkx9nDN","en":"Spellblades and Such","zh_draft":"法刃之类的","zh_ai":"","zh_human":"","zh":"法刃之类的","status":"pending"}
-{"id":"tOueorRp","en":"Swirlix and Slurpuff for Cobblemon! [OUTDATED]","zh_draft":"Swirlix和Slurpuff给Cobblemon！[过时]","zh_ai":"","zh_human":"","zh":"Swirlix和Slurpuff给Cobblemon！[过时]","status":"pending"}
-{"id":"P4Xi5huA","en":"Runelic","zh_draft":"符文","zh_ai":"","zh_human":"","zh":"符文","status":"pending"}
-{"id":"vQLjjxNs","en":"Kaleidoscope Doll","zh_draft":"万花筒娃娃","zh_ai":"","zh_human":"","zh":"万花筒娃娃","status":"pending"}
-{"id":"Zf8HMFM5","en":"Satisfying Buttons","zh_draft":"令人满意的按钮","zh_ai":"","zh_human":"","zh":"令人满意的按钮","status":"pending"}
-{"id":"jCikwMS7","en":"Animation Overhaul","zh_draft":"动画大改","zh_ai":"","zh_human":"","zh":"动画大改","status":"pending"}
-{"id":"qO4lsa4Y","en":"Create: Extended Cogwheels","zh_draft":"创建：扩展齿轮","zh_ai":"","zh_human":"","zh":"创建：扩展齿轮","status":"pending"}
+{"id":"hHVaPgFK","en":"Naturally Trimmed","zh_draft":"自然修剪","zh_ai":"自然修剪","zh_human":"","zh":"自然修剪","status":"ai"}
+{"id":"4w0EzGRW","en":"Companion 🐕","zh_draft":"伴侣 🐕","zh_ai":"伙伴 🐕","zh_human":"","zh":"伙伴 🐕","status":"ai"}
+{"id":"R4TvILfj","en":"Additional Additions: Vanilla+ QoL, Sniffers, Music, Food","zh_draft":"额外新增内容：原版+生活质量、嗅探器、音乐、食物","zh_ai":"额外添加：原版+ QoL，嗅探器，音乐，食物","zh_human":"","zh":"额外添加：原版+ QoL，嗅探器，音乐，食物","status":"ai"}
+{"id":"E9sX1ncV","en":"IBE Editor","zh_draft":"IBE编辑","zh_ai":"IBE 编辑器","zh_human":"","zh":"IBE 编辑器","status":"ai"}
+{"id":"vZoqTqwv","en":"Dungeon Now Loading","zh_draft":"地下城正在加载","zh_ai":"地牢正在加载","zh_human":"","zh":"地牢正在加载","status":"ai"}
+{"id":"Koee7vhY","en":"Trail&Tales Delight","zh_draft":"Trail & Tales 的乐趣","zh_ai":"足迹与故事之乐","zh_human":"","zh":"足迹与故事之乐","status":"ai"}
+{"id":"iAzrhsju","en":"GravelMiner","zh_draft":"砾石矿工","zh_ai":"砾石矿工","zh_human":"","zh":"砾石矿工","status":"ai"}
+{"id":"qIv5FhAA","en":"Horseman","zh_draft":"骑士","zh_ai":"骑手","zh_human":"","zh":"骑手","status":"ai"}
+{"id":"9BPuv4vL","en":"Beautify!","zh_draft":"美化！","zh_ai":"美化！","zh_human":"","zh":"美化！","status":"ai"}
+{"id":"hn56Bq5n","en":"Awesome Dungeon Ocean","zh_draft":"超棒的地下城海洋","zh_ai":"惊人的地牢海洋","zh_human":"","zh":"惊人的地牢海洋","status":"ai"}
+{"id":"geGZinIB","en":"Combat Hitboxes","zh_draft":"战斗判定箱","zh_ai":"战斗击中框","zh_human":"","zh":"战斗击中框","status":"ai"}
+{"id":"G5AvCOPI","en":"RpgDifficulty","zh_draft":"RPG难度","zh_ai":"RPG 难度","zh_human":"","zh":"RPG 难度","status":"ai"}
+{"id":"ha1mEyJS","en":"Player Animation Library","zh_draft":"球员动画库","zh_ai":"玩家动画库","zh_human":"","zh":"玩家动画库","status":"ai"}
+{"id":"k6hi4lMv","en":"[Let's Do Addon] EMI Compat","zh_draft":"[让我们做插件]EMI互换","zh_ai":"[让我们做插件] EMI 兼容","zh_human":"","zh":"[让我们做插件] EMI 兼容","status":"ai"}
+{"id":"kcudYghD","en":"Cobbleloots: Loot Balls and More!","zh_draft":"鹅卵石战利品：战利品球及更多！","zh_ai":"圆石宝藏：战利品球和更多！","zh_human":"","zh":"圆石宝藏：战利品球和更多！","status":"ai"}
+{"id":"VpmCsizY","en":"IceAndFire Community Edition","zh_draft":"冰与火社区版","zh_ai":"冰与火社区版","zh_human":"","zh":"冰与火社区版","status":"ai"}
+{"id":"3Acxy864","en":"Uranus","zh_draft":"天王星","zh_ai":"天王星","zh_human":"","zh":"天王星","status":"ai"}
+{"id":"jURjbCaq","en":"Variants-CIT","zh_draft":"变体-CIT","zh_ai":"变体-CIT","zh_human":"","zh":"变体-CIT","status":"ai"}
+{"id":"6tlhZmC5","en":"Axolotl Buckets","zh_draft":"钝口螈水桶","zh_ai":"蝾螈桶","zh_human":"","zh":"蝾螈桶","status":"ai"}
+{"id":"GGamhqbw","en":"NotEnoughUpdates","zh_draft":"更新不足","zh_ai":"更新不足","zh_human":"","zh":"更新不足","status":"ai"}
+{"id":"YP9DjOvN","en":"tetra","zh_draft":"四灯鱼","zh_ai":"四边形","zh_human":"","zh":"四边形","status":"ai"}
+{"id":"NU7qMnLN","en":"Players Drop Heads","zh_draft":"球员掉头","zh_ai":"玩家掉落头颅","zh_human":"","zh":"玩家掉落头颅","status":"ai"}
+{"id":"3P2XnNW6","en":"Aether Villages","zh_draft":"以太村落","zh_ai":"以太村庄","zh_human":"","zh":"以太村庄","status":"ai"}
+{"id":"S5ivha5X","en":"I Know What I'm Doing","zh_draft":"我知道自己在做什么","zh_ai":"我知道我在做什么","zh_human":"","zh":"我知道我在做什么","status":"ai"}
+{"id":"aWDwN8NN","en":"Xenon","zh_draft":"氙气","zh_ai":"氙气","zh_human":"","zh":"氙气","status":"ai"}
+{"id":"xMTLdsFH","en":"Smooth Particles","zh_draft":"光滑粒子","zh_ai":"平滑粒子","zh_human":"","zh":"平滑粒子","status":"ai"}
+{"id":"Th33t82F","en":"Transmog","zh_draft":"幻化","zh_ai":"变形魔","zh_human":"","zh":"变形魔","status":"ai"}
+{"id":"uvlgIwBD","en":"Smooth Skies","zh_draft":"平静的天空","zh_ai":"平滑天空","zh_human":"","zh":"平滑天空","status":"ai"}
+{"id":"rOrXjyPb","en":"Bookshelf Inspector","zh_draft":"书架检查员","zh_ai":"书架检查员","zh_human":"","zh":"书架检查员","status":"ai"}
+{"id":"T38eAZQC","en":"KubeJS Create","zh_draft":"KubeJS Create","zh_ai":"KubeJS 创建","zh_human":"","zh":"KubeJS 创建","status":"ai"}
+{"id":"G1ckZuWK","en":"MixinBooter","zh_draft":"混合启动器","zh_ai":"MixinBooter","zh_human":"","zh":"MixinBooter","status":"ai"}
+{"id":"dw7LChq9","en":"PatPat [Mod & Plugin]","zh_draft":"PatPat [模组和插件]","zh_ai":"PatPat [模组 & 插件]","zh_human":"","zh":"PatPat [模组 & 插件]","status":"ai"}
+{"id":"VJkx9nDN","en":"Spellblades and Such","zh_draft":"法刃之类的","zh_ai":"法术之刃等","zh_human":"","zh":"法术之刃等","status":"ai"}
+{"id":"tOueorRp","en":"Swirlix and Slurpuff for Cobblemon! [OUTDATED]","zh_draft":"Swirlix和Slurpuff给Cobblemon！[过时]","zh_ai":"为 Cobblemon！的 Swirlix 和 Slurpuff [过时]","zh_human":"","zh":"为 Cobblemon！的 Swirlix 和 Slurpuff [过时]","status":"ai"}
+{"id":"P4Xi5huA","en":"Runelic","zh_draft":"符文","zh_ai":"符文石","zh_human":"","zh":"符文石","status":"ai"}
+{"id":"vQLjjxNs","en":"Kaleidoscope Doll","zh_draft":"万花筒娃娃","zh_ai":"万花筒娃娃","zh_human":"","zh":"万花筒娃娃","status":"ai"}
+{"id":"Zf8HMFM5","en":"Satisfying Buttons","zh_draft":"令人满意的按钮","zh_ai":"令人满意的按钮","zh_human":"","zh":"令人满意的按钮","status":"ai"}
+{"id":"jCikwMS7","en":"Animation Overhaul","zh_draft":"动画大改","zh_ai":"动画全面更新","zh_human":"","zh":"动画全面更新","status":"ai"}
+{"id":"qO4lsa4Y","en":"Create: Extended Cogwheels","zh_draft":"创建：扩展齿轮","zh_ai":"Create：扩展齿轮","zh_human":"","zh":"Create：扩展齿轮","status":"ai"}
 {"id":"AKbBSvuC","en":"Bewitchment","zh_draft":"迷惑","zh_ai":"","zh_human":"","zh":"迷惑","status":"pending"}
 {"id":"4k0QM1rC","en":"Panorama Screens","zh_draft":"全景屏幕","zh_ai":"","zh_human":"","zh":"全景屏幕","status":"pending"}
 {"id":"BzOTnuqM","en":"Fish of Thieves","zh_draft":"盗贼之鱼","zh_ai":"","zh_human":"","zh":"盗贼之鱼","status":"pending"}
