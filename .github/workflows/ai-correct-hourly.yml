@@ -31,9 +31,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 70
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
@@ -51,6 +51,9 @@ jobs:
           if [ -z "$GOOGLE_API_KEY" ] && [ -z "$BIGMODEL_API_KEY" ]; then
             echo "Need GOOGLE_API_KEY and/or BIGMODEL_API_KEY secrets" >&2
             exit 1
+          fi
+          if [ -z "$BIGMODEL_API_KEY" ]; then
+            echo "::warning::BIGMODEL_API_KEY secret is empty — Google 429 cannot failover"
           fi
           python scripts/ai_correct.py \
             --batch "$BATCH" \

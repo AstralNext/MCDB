@@ -207,19 +207,20 @@ def apply_updates(updates: list[tuple[Path, int, dict]]) -> None:
 
 
 def build_rotator() -> RotateState:
+    # 智谱免费额度更适合长跑；Google 免费档常 20 RPM，放后面
     return RotateState(
         providers=[
-            Provider(
-                name="google",
-                model=os.environ.get("GOOGLE_MODEL", "gemini-2.5-flash").strip()
-                or "gemini-2.5-flash",
-                api_key=(os.environ.get("GOOGLE_API_KEY") or "").strip(),
-            ),
             Provider(
                 name="bigmodel",
                 model=os.environ.get("BIGMODEL_MODEL", "glm-4-flash").strip()
                 or "glm-4-flash",
                 api_key=(os.environ.get("BIGMODEL_API_KEY") or "").strip(),
+            ),
+            Provider(
+                name="google",
+                model=os.environ.get("GOOGLE_MODEL", "gemini-2.5-flash").strip()
+                or "gemini-2.5-flash",
+                api_key=(os.environ.get("GOOGLE_API_KEY") or "").strip(),
             ),
         ]
     )
@@ -235,12 +236,28 @@ def main() -> int:
     args = parser.parse_args()
 
     rotator = build_rotator()
+    configured = [p.name for p in rotator.providers if p.api_key]
+    missing = [p.name for p in rotator.providers if not p.api_key]
+    print(
+        f"providers configured={configured or '[]'} missing_key={missing or '[]'}",
+        flush=True,
+    )
     if not args.dry_run and not rotator.alive():
         print(
             "ERROR: set at least one of GOOGLE_API_KEY / BIGMODEL_API_KEY",
             file=sys.stderr,
         )
         return 2
+    if not args.dry_run and "bigmodel" in missing:
+        print(
+            "WARN: BIGMODEL_API_KEY not set — cannot failover when Google is rate-limited",
+            flush=True,
+        )
+    if not args.dry_run and "google" in missing:
+        print(
+            "WARN: GOOGLE_API_KEY not set — only BigModel will be used",
+            flush=True,
+        )
 
     ensure_dirs()
     deadline = time.time() + max(0.1, args.duration_minutes) * 60.0
@@ -275,7 +292,13 @@ def main() -> int:
         while True:
             provider = rotator.next_provider()
             if provider is None:
-                print("all providers rate-limited — stop this hour", flush=True)
+                cooled = [p.name for p in rotator.providers if p.cooled]
+                no_key = [p.name for p in rotator.providers if not p.api_key]
+                print(
+                    "no available providers — stop this hour "
+                    f"(cooled={cooled}, missing_key={no_key})",
+                    flush=True,
+                )
                 write_json(
                     PROGRESS,
                     {
@@ -284,7 +307,9 @@ def main() -> int:
                         "done": done,
                         "failed": failed,
                         "batches": batches,
-                        "stop_reason": "all_providers_cooled",
+                        "stop_reason": "no_available_providers",
+                        "cooled": cooled,
+                        "missing_key": no_key,
                         "providers": [
                             {
                                 "name": p.name,
@@ -292,6 +317,7 @@ def main() -> int:
                                 "cooled": p.cooled,
                                 "ok_batches": p.ok_batches,
                                 "fail_batches": p.fail_batches,
+                                "configured": bool(p.api_key),
                             }
                             for p in rotator.providers
                         ],
