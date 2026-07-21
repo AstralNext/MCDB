@@ -38,14 +38,41 @@ from common import (
 DEFAULT_BATCH = 40
 PROGRESS = STATE_DIR / "ai_correct_progress.json"
 
-SYSTEM_PROMPT = (
-    "你是 Minecraft Java 模组中文译名专家，熟悉 MC百科(mcmod.cn) 与国内社区通行译名。\n"
-    "任务：把英文标题译成符合社区认知的中文名；若无通行译名，再按意思意译。\n"
-    "规则：\n"
-    "- 只输出 JSON 数组，不要 markdown，不要解释\n"
-    "- 每项字段：id, en, zh（id 必须与输入完全一致，不可省略或改写）\n"
-    "- zh 尽量短，像模组列表里显示的名字\n"
+SYSTEM_PROMPT = """你是 Minecraft Java 模组/整合包/资源中文译名专家，熟悉 MC百科(mcmod.cn) 与国内社区通行译名。
+
+## 任务
+把每条英文标题译成社区认知中的中文名；若无通行译名，再按意思简短意译。
+
+## 输出格式（必须严格遵守，否则视为失败）
+1. 只输出一个 JSON 数组本体，禁止 markdown 代码块（禁止 ```），禁止任何解释、注释、前后缀文字。
+2. 数组长度必须与输入条数完全相同，顺序与输入一一对应，不得合并、跳过或追加。
+3. 每项必须是 JSON 对象，且只能包含三个字段：id、en、zh（不得使用 translation、title_zh 等其它字段名）。
+4. id：必须与输入中的 id 逐字复制，不得省略、修改、重新生成或留空。
+5. en：必须与输入中的 en 原样回显，不得改写。
+6. zh：非空中文字符串，尽量短，像启动器/百科列表里显示的名字；不要加书名号、引号或英文后缀。
+
+## 译名原则
+- 有社区通行译名（如 Create→机械动力、JEI→Just Enough Items 常保留或音译）优先用通行名。
+- 专有名词可音译或保留常见写法；SMP/Mod/API 等可按社区习惯处理。
+- 不要翻译 id；不要把 en 填进 zh。
+
+## 示例
+输入：[{"id":"W0RlaT0h","en":"Create"}, {"id":"W1hcf7F7","en":"Hardcore SMP"}]
+输出：[{"id":"W0RlaT0h","en":"Create","zh":"机械动力"}, {"id":"W1hcf7F7","en":"Hardcore SMP","zh":"极限生存"}]
+"""
+
+BIGMODEL_SYSTEM_PROMPT = (
+    "你是严格的 JSON 翻译 API。只输出合法 JSON 数组，不要 markdown，不要解释。"
+    "每项必须含 id、en、zh 三个字段；id/en 与输入完全一致；数组长度与顺序与输入相同。"
 )
+
+
+def _build_user_prompt(titles: list[dict]) -> str:
+    n = len(titles)
+    return (
+        f"请翻译以下 {n} 条，输出恰好 {n} 项的 JSON 数组（每项含 id、en、zh）：\n"
+        f"{json.dumps(titles, ensure_ascii=False)}"
+    )
 
 
 @dataclass
@@ -172,7 +199,7 @@ def _lookup_translation(
 
 
 def gemini_translate(titles: list[dict], api_key: str, model: str) -> list[dict]:
-    prompt = SYSTEM_PROMPT + f"输入：\n{json.dumps(titles, ensure_ascii=False)}"
+    prompt = SYSTEM_PROMPT + "\n\n" + _build_user_prompt(titles)
     body = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
@@ -198,13 +225,13 @@ def gemini_translate(titles: list[dict], api_key: str, model: str) -> list[dict]
 
 def bigmodel_translate(titles: list[dict], api_key: str, model: str) -> list[dict]:
     """智谱 OpenAI 兼容：https://open.bigmodel.cn/api/paas/v4/chat/completions"""
-    prompt = SYSTEM_PROMPT + f"输入：\n{json.dumps(titles, ensure_ascii=False)}"
+    user_prompt = SYSTEM_PROMPT + "\n\n" + _build_user_prompt(titles)
     body = {
         "model": model,
         "temperature": 0.2,
         "messages": [
-            {"role": "system", "content": "只输出合法 JSON 数组，不要其它文字。"},
-            {"role": "user", "content": prompt},
+            {"role": "system", "content": BIGMODEL_SYSTEM_PROMPT},
+            {"role": "user", "content": user_prompt},
         ],
     }
     url = "https://open.bigmodel.cn/api/paas/v4/chat/completions"
