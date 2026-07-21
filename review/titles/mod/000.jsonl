@@ -237,46 +237,46 @@
 {"id":"MS1ZMyR7","en":"Better Ping Display [Fabric]","zh_draft":"更好的Ping显示[布料]","zh_ai":"更好的ping显示[织物]","zh_human":"","zh":"更好的ping显示[织物]","status":"ai"}
 {"id":"lL2MtE37","en":"Bad Wither No Cookie - Reloaded","zh_draft":"坏凋零无饼干 - 重装","zh_ai":"坏凋灵无饼干 - 重载","zh_human":"","zh":"坏凋灵无饼干 - 重载","status":"ai"}
 {"id":"I7k4B65h","en":"JustEnoughCharacters","zh_draft":"刚好够用的角色","zh_ai":"JustEnoughCharacters","zh_human":"","zh":"JustEnoughCharacters","status":"ai"}
-{"id":"9hx3AbJM","en":"Easy Magic","zh_draft":"轻松魔法","zh_ai":"","zh_human":"","zh":"轻松魔法","status":"pending"}
-{"id":"B1CcCd9h","en":"Particular ✨","zh_draft":"具体 ✨","zh_ai":"","zh_human":"","zh":"具体 ✨","status":"pending"}
-{"id":"gPCdW0Wr","en":"Make Bubbles Pop","zh_draft":"让泡泡爆开","zh_ai":"","zh_human":"","zh":"让泡泡爆开","status":"pending"}
-{"id":"DSVgwcji","en":"AI Improvements","zh_draft":"人工智能改进","zh_ai":"","zh_human":"","zh":"人工智能改进","status":"pending"}
-{"id":"WMDesFsZ","en":"IMBlocker","zh_draft":"IMBlocker","zh_ai":"","zh_human":"","zh":"IMBlocker","status":"pending"}
-{"id":"muf0XoRe","en":"Repurposed Structures - Fabric","zh_draft":"再利用结构 - 织物","zh_ai":"","zh_human":"","zh":"再利用结构 - 织物","status":"pending"}
-{"id":"BdKIyOLe","en":"Boat Item View","zh_draft":"船只物品视图","zh_ai":"","zh_human":"","zh":"船只物品视图","status":"pending"}
-{"id":"vBbPDuOs","en":"TxniLib","zh_draft":"TxniLib","zh_ai":"","zh_human":"","zh":"TxniLib","status":"pending"}
-{"id":"P1Kv5EAO","en":"Necronomicon API","zh_draft":"死灵之书 API","zh_ai":"","zh_human":"","zh":"死灵之书 API","status":"pending"}
-{"id":"P0Mu4wcQ","en":"Artifacts","zh_draft":"文物","zh_ai":"","zh_human":"","zh":"文物","status":"pending"}
-{"id":"H1sntfo8","en":"Guard Villagers","zh_draft":"守卫村民","zh_ai":"","zh_human":"","zh":"守卫村民","status":"pending"}
-{"id":"DFqQfIBR","en":"CraftPresence","zh_draft":"工艺存在","zh_ai":"","zh_human":"","zh":"工艺存在","status":"pending"}
-{"id":"WKwQAwke","en":"LibJF","zh_draft":"自由犹太论坛","zh_ai":"","zh_human":"","zh":"自由犹太论坛","status":"pending"}
-{"id":"MpzVLzy5","en":"BetterNether","zh_draft":"更美好的下界","zh_ai":"","zh_human":"","zh":"更美好的下界","status":"pending"}
-{"id":"AVq17PqV","en":"Leaves Be Gone","zh_draft":"叶子消失","zh_ai":"","zh_human":"","zh":"叶子消失","status":"pending"}
-{"id":"ZYgyPyfq","en":"YUNG's Extras","zh_draft":"杨的群众演员","zh_ai":"","zh_human":"","zh":"杨的群众演员","status":"pending"}
-{"id":"QQXAdCzh","en":"Ping Wheel","zh_draft":"针轮","zh_ai":"","zh_human":"","zh":"针轮","status":"pending"}
-{"id":"Fb4jn8m6","en":"FallingTree","zh_draft":"倒树","zh_ai":"","zh_human":"","zh":"倒树","status":"pending"}
-{"id":"vdjF5PL5","en":"Dynamic Trees","zh_draft":"动态树","zh_ai":"","zh_human":"","zh":"动态树","status":"pending"}
-{"id":"ZzjhlDgM","en":"Create: Steam 'n' Rails","zh_draft":"创作：蒸汽与轨道","zh_ai":"","zh_human":"","zh":"创作：蒸汽与轨道","status":"pending"}
-{"id":"BgNRHReB","en":"BCLib","zh_draft":"BCLib","zh_ai":"","zh_human":"","zh":"BCLib","status":"pending"}
-{"id":"86xjpqqS","en":"Yes Steve Model","zh_draft":"是的，史蒂夫·莫特","zh_ai":"","zh_human":"","zh":"是的，史蒂夫·莫特","status":"pending"}
-{"id":"Bh6ZOMvp","en":"Smarter Farmers (farmers replant)","zh_draft":"更聪明的农民（农民再种植）","zh_ai":"","zh_human":"","zh":"更聪明的农民（农民再种植）","status":"pending"}
-{"id":"icU5P2Mk","en":"Spartan Weaponry","zh_draft":"斯巴达武器","zh_ai":"","zh_human":"","zh":"斯巴达武器","status":"pending"}
-{"id":"wdLuzzEP","en":"Gamma Utils (Fullbright)","zh_draft":"伽玛实用车（富布赖特）","zh_ai":"","zh_human":"","zh":"伽玛实用车（富布赖特）","status":"pending"}
-{"id":"jtmvUHXj","en":"Accessories","zh_draft":"配件","zh_ai":"","zh_human":"","zh":"配件","status":"pending"}
-{"id":"705gWllI","en":"EMIffect","zh_draft":"EM效应","zh_ai":"","zh_human":"","zh":"EM效应","status":"pending"}
-{"id":"5WeWGLoJ","en":"Forge Config Screens","zh_draft":"Forge配置界面","zh_ai":"","zh_human":"","zh":"Forge配置界面","status":"pending"}
-{"id":"N6n5dqoA","en":"Axiom","zh_draft":"公理","zh_ai":"","zh_human":"","zh":"公理","status":"pending"}
-{"id":"aaRl8GiW","en":"Prickle","zh_draft":"刺","zh_ai":"","zh_human":"","zh":"刺","status":"pending"}
-{"id":"Cnejf5xM","en":"RightClickHarvest","zh_draft":"右键收获","zh_ai":"","zh_human":"","zh":"右键收获","status":"pending"}
-{"id":"1DWmBJVA","en":"[Let's Do] Vinery","zh_draft":"[开始吧]葡萄园","zh_ai":"","zh_human":"","zh":"[开始吧]葡萄园","status":"pending"}
-{"id":"Adega8YN","en":"MmmMmmMmmMmm","zh_draft":"嗯嗯嗯嗯","zh_ai":"","zh_human":"","zh":"嗯嗯嗯嗯","status":"pending"}
-{"id":"gqRXDo8B","en":"Villager Names","zh_draft":"村民名字","zh_ai":"","zh_human":"","zh":"村民名字","status":"pending"}
-{"id":"RLzHAoZe","en":"Resourcify","zh_draft":"资源化","zh_ai":"","zh_human":"","zh":"资源化","status":"pending"}
-{"id":"Y8uFrUil","en":"ukulib","zh_draft":"乌库利布","zh_ai":"","zh_human":"","zh":"乌库利布","status":"pending"}
-{"id":"AMCbgyVw","en":"Tips","zh_draft":"小贴士","zh_ai":"","zh_human":"","zh":"小贴士","status":"pending"}
-{"id":"vqqx0QiE","en":"Sodium Extras","zh_draft":"钠花絮","zh_ai":"","zh_human":"","zh":"钠花絮","status":"pending"}
-{"id":"Ps1zyz6x","en":"ScalableLux","zh_draft":"ScalableLux","zh_ai":"","zh_human":"","zh":"ScalableLux","status":"pending"}
-{"id":"SszvX85I","en":"Cobblemon: Mega Showdown","zh_draft":"科布莱蒙：超级对决","zh_ai":"","zh_human":"","zh":"科布莱蒙：超级对决","status":"pending"}
+{"id":"9hx3AbJM","en":"Easy Magic","zh_draft":"轻松魔法","zh_ai":"简易魔法","zh_human":"","zh":"简易魔法","status":"ai"}
+{"id":"B1CcCd9h","en":"Particular ✨","zh_draft":"具体 ✨","zh_ai":"特别✨","zh_human":"","zh":"特别✨","status":"ai"}
+{"id":"gPCdW0Wr","en":"Make Bubbles Pop","zh_draft":"让泡泡爆开","zh_ai":"气泡爆破","zh_human":"","zh":"气泡爆破","status":"ai"}
+{"id":"DSVgwcji","en":"AI Improvements","zh_draft":"人工智能改进","zh_ai":"AI增强","zh_human":"","zh":"AI增强","status":"ai"}
+{"id":"WMDesFsZ","en":"IMBlocker","zh_draft":"IMBlocker","zh_ai":"IM拦截器","zh_human":"","zh":"IM拦截器","status":"ai"}
+{"id":"muf0XoRe","en":"Repurposed Structures - Fabric","zh_draft":"再利用结构 - 织物","zh_ai":"改造结构 - Fabric","zh_human":"","zh":"改造结构 - Fabric","status":"ai"}
+{"id":"BdKIyOLe","en":"Boat Item View","zh_draft":"船只物品视图","zh_ai":"船物品查看","zh_human":"","zh":"船物品查看","status":"ai"}
+{"id":"vBbPDuOs","en":"TxniLib","zh_draft":"TxniLib","zh_ai":"TxniLib","zh_human":"","zh":"TxniLib","status":"ai"}
+{"id":"P1Kv5EAO","en":"Necronomicon API","zh_draft":"死灵之书 API","zh_ai":"诺斯罗普API","zh_human":"","zh":"诺斯罗普API","status":"ai"}
+{"id":"P0Mu4wcQ","en":"Artifacts","zh_draft":"文物","zh_ai":"神器","zh_human":"","zh":"神器","status":"ai"}
+{"id":"H1sntfo8","en":"Guard Villagers","zh_draft":"守卫村民","zh_ai":"守卫村民","zh_human":"","zh":"守卫村民","status":"ai"}
+{"id":"DFqQfIBR","en":"CraftPresence","zh_draft":"工艺存在","zh_ai":"工艺存在","zh_human":"","zh":"工艺存在","status":"ai"}
+{"id":"WKwQAwke","en":"LibJF","zh_draft":"自由犹太论坛","zh_ai":"LibJF","zh_human":"","zh":"LibJF","status":"ai"}
+{"id":"MpzVLzy5","en":"BetterNether","zh_draft":"更美好的下界","zh_ai":"更好的下界","zh_human":"","zh":"更好的下界","status":"ai"}
+{"id":"AVq17PqV","en":"Leaves Be Gone","zh_draft":"叶子消失","zh_ai":"树叶消失","zh_human":"","zh":"树叶消失","status":"ai"}
+{"id":"ZYgyPyfq","en":"YUNG's Extras","zh_draft":"杨的群众演员","zh_ai":"YUNG的额外","zh_human":"","zh":"YUNG的额外","status":"ai"}
+{"id":"QQXAdCzh","en":"Ping Wheel","zh_draft":"针轮","zh_ai":"ping轮","zh_human":"","zh":"ping轮","status":"ai"}
+{"id":"Fb4jn8m6","en":"FallingTree","zh_draft":"倒树","zh_ai":"掉落树","zh_human":"","zh":"掉落树","status":"ai"}
+{"id":"vdjF5PL5","en":"Dynamic Trees","zh_draft":"动态树","zh_ai":"动态树","zh_human":"","zh":"动态树","status":"ai"}
+{"id":"ZzjhlDgM","en":"Create: Steam 'n' Rails","zh_draft":"创作：蒸汽与轨道","zh_ai":"创造：蒸汽与轨道","zh_human":"","zh":"创造：蒸汽与轨道","status":"ai"}
+{"id":"BgNRHReB","en":"BCLib","zh_draft":"BCLib","zh_ai":"BCLib","zh_human":"","zh":"BCLib","status":"ai"}
+{"id":"86xjpqqS","en":"Yes Steve Model","zh_draft":"是的，史蒂夫·莫特","zh_ai":"是史蒂夫模型","zh_human":"","zh":"是史蒂夫模型","status":"ai"}
+{"id":"Bh6ZOMvp","en":"Smarter Farmers (farmers replant)","zh_draft":"更聪明的农民（农民再种植）","zh_ai":"更聪明的农民（农民重新种植）","zh_human":"","zh":"更聪明的农民（农民重新种植）","status":"ai"}
+{"id":"icU5P2Mk","en":"Spartan Weaponry","zh_draft":"斯巴达武器","zh_ai":"斯巴达武器","zh_human":"","zh":"斯巴达武器","status":"ai"}
+{"id":"wdLuzzEP","en":"Gamma Utils (Fullbright)","zh_draft":"伽玛实用车（富布赖特）","zh_ai":"伽玛工具（全亮）","zh_human":"","zh":"伽玛工具（全亮）","status":"ai"}
+{"id":"jtmvUHXj","en":"Accessories","zh_draft":"配件","zh_ai":"配件","zh_human":"","zh":"配件","status":"ai"}
+{"id":"705gWllI","en":"EMIffect","zh_draft":"EM效应","zh_ai":"EM效果","zh_human":"","zh":"EM效果","status":"ai"}
+{"id":"5WeWGLoJ","en":"Forge Config Screens","zh_draft":"Forge配置界面","zh_ai":"Forge配置屏幕","zh_human":"","zh":"Forge配置屏幕","status":"ai"}
+{"id":"N6n5dqoA","en":"Axiom","zh_draft":"公理","zh_ai":"公理","zh_human":"","zh":"公理","status":"ai"}
+{"id":"aaRl8GiW","en":"Prickle","zh_draft":"刺","zh_ai":"刺痛","zh_human":"","zh":"刺痛","status":"ai"}
+{"id":"Cnejf5xM","en":"RightClickHarvest","zh_draft":"右键收获","zh_ai":"右键收获","zh_human":"","zh":"右键收获","status":"ai"}
+{"id":"1DWmBJVA","en":"[Let's Do] Vinery","zh_draft":"[开始吧]葡萄园","zh_ai":"[让我们做] 葡萄园","zh_human":"","zh":"[让我们做] 葡萄园","status":"ai"}
+{"id":"Adega8YN","en":"MmmMmmMmmMmm","zh_draft":"嗯嗯嗯嗯","zh_ai":"MmmMmmMmmMmm","zh_human":"","zh":"MmmMmmMmmMmm","status":"ai"}
+{"id":"gqRXDo8B","en":"Villager Names","zh_draft":"村民名字","zh_ai":"村民名字","zh_human":"","zh":"村民名字","status":"ai"}
+{"id":"RLzHAoZe","en":"Resourcify","zh_draft":"资源化","zh_ai":"资源化","zh_human":"","zh":"资源化","status":"ai"}
+{"id":"Y8uFrUil","en":"ukulib","zh_draft":"乌库利布","zh_ai":"ukulib","zh_human":"","zh":"ukulib","status":"ai"}
+{"id":"AMCbgyVw","en":"Tips","zh_draft":"小贴士","zh_ai":"提示","zh_human":"","zh":"提示","status":"ai"}
+{"id":"vqqx0QiE","en":"Sodium Extras","zh_draft":"钠花絮","zh_ai":"钠额外","zh_human":"","zh":"钠额外","status":"ai"}
+{"id":"Ps1zyz6x","en":"ScalableLux","zh_draft":"ScalableLux","zh_ai":"可扩展光","zh_human":"","zh":"可扩展光","status":"ai"}
+{"id":"SszvX85I","en":"Cobblemon: Mega Showdown","zh_draft":"科布莱蒙：超级对决","zh_ai":"圆石兽：终极对决","zh_human":"","zh":"圆石兽：终极对决","status":"ai"}
 {"id":"FYpiwiBR","en":"Connector Extras","zh_draft":"连接附加内容","zh_ai":"","zh_human":"","zh":"连接附加内容","status":"pending"}
 {"id":"CllP7wW0","en":"Smooth Scrolling","zh_draft":"平滑滚动","zh_ai":"","zh_human":"","zh":"平滑滚动","status":"pending"}
 {"id":"DWuwk8aA","en":"Skyboxify","zh_draft":"Skyboxify","zh_ai":"","zh_human":"","zh":"Skyboxify","status":"pending"}
