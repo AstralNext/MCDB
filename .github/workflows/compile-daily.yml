@@ -1,0 +1,65 @@
+# 每日编译 JSON 产物（对照表，无向量）
+name: compile-daily
+
+on:
+  schedule:
+    - cron: "40 17 * * *"
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["crawl-daily"]
+    types: [completed]
+
+concurrency:
+  group: mcdb-dist-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  compile:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Sync main
+        run: |
+          git checkout -B main
+          git pull --rebase origin main
+
+      - name: Compile JSON dist
+        run: python scripts/compile_dist.py
+
+      - name: Smoke title search
+        run: python scripts/search_titles.py "钠" -k 5 || true
+
+      - name: Commit and push dist JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/version.json dist/exact_titles.json dist/bilingual.jsonl
+          git rm -r --cached dist/semantic dist/semantic_meta.json 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git commit -m "chore(dist): daily JSON compile"
+          for attempt in 1 2 3 4 5; do
+            echo "Push attempt ${attempt}/5"
+            if git pull --rebase --autostash origin main && git push origin main; then
+              exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            sleep $((attempt * 15))
+          done
+          echo "::error::Failed to push dist commit after 5 attempts" >&2
+          exit 1

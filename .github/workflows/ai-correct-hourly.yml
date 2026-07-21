@@ -1,0 +1,127 @@
+# 每小时 AI 纠正一批标题（约跑满 55 分钟，只改尚无 zh_ai 的条目）
+name: ai-correct-hourly
+
+on:
+  workflow_dispatch:
+    inputs:
+      duration_minutes:
+        description: "本小时最长运行分钟数"
+        required: false
+        default: "55"
+      batch:
+        description: "每批条数（单次 API）"
+        required: false
+        default: "40"
+      limit:
+        description: "本轮最多处理条数（0=不限制）"
+        required: false
+        default: "0"
+
+# 与 crawl-daily 共用：二者都会写 review/
+concurrency:
+  group: mcdb-review-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  ai-correct:
+    runs-on: ubuntu-latest
+    timeout-minutes: 70
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Sync main
+        run: |
+          git checkout -B main
+          git pull --rebase origin main
+
+      - name: Ensure 3-layer schema (idempotent migrate)
+        run: python scripts/migrate_zh_layers.py
+
+      - name: AI correct with incremental push
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          BIGMODEL_API_KEY: ${{ secrets.BIGMODEL_API_KEY }}
+          BIGMODEL2_API_KEY: ${{ secrets.BIGMODEL2_API_KEY }}
+          AGNES_API_KEY: ${{ secrets.AGNES_API_KEY }}
+          AGNES2_API_KEY: ${{ secrets.AGNES2_API_KEY }}
+          AGNES3_API_KEY: ${{ secrets.AGNES3_API_KEY }}
+          DURATION: ${{ github.event.inputs.duration_minutes || '55' }}
+          BATCH: ${{ github.event.inputs.batch || '40' }}
+          LIMIT: ${{ github.event.inputs.limit || '0' }}
+        run: |
+          count_keys() {
+            n=0
+            for v in "$@"; do
+              [ -n "$v" ] && n=$((n + 1))
+            done
+            echo "$n"
+          }
+          WORKERS=$(count_keys "$BIGMODEL_API_KEY" "$BIGMODEL2_API_KEY" "$AGNES_API_KEY" "$AGNES2_API_KEY" "$AGNES3_API_KEY" "$GOOGLE_API_KEY")
+          if [ "$WORKERS" -eq 0 ]; then
+            echo "Need at least one of BIGMODEL/AGNES/GOOGLE API keys" >&2
+            exit 1
+          fi
+          echo "parallel workers=$WORKERS batch=$BATCH"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          push_review() {
+            for attempt in 1 2 3; do
+              echo "Push attempt ${attempt}/3"
+              git checkout -- state/ 2>/dev/null || true
+              if git pull --rebase --autostash origin main && git push origin main; then
+                return 0
+              fi
+              git rebase --abort 2>/dev/null || true
+              sleep $((attempt * 15))
+            done
+            return 1
+          }
+
+          DEADLINE=$(($(date +%s) + DURATION * 60))
+          ROUND=0
+          while [ "$(date +%s)" -lt "$DEADLINE" ]; do
+            ROUND=$((ROUND + 1))
+            echo "=== round ${ROUND} (parallel x${WORKERS}) ==="
+
+            PY_ARGS=(
+              --batch "$BATCH"
+              --duration-minutes 10
+              --max-batches "$WORKERS"
+              --parallel
+              --workers "$WORKERS"
+            )
+            if [ "$LIMIT" != "0" ]; then
+              PY_ARGS+=(--limit "$LIMIT")
+            fi
+
+            set +e
+            python scripts/ai_correct.py "${PY_ARGS[@]}"
+            PY_EXIT=$?
+            set -e
+            if [ "$PY_EXIT" -eq 2 ]; then
+              exit 2
+            fi
+
+            git add review || true
+            if git diff --staged --quiet; then
+              echo "No review changes — done for this hour"
+              break
+            fi
+
+            DONE=$(python -c "import json;print(json.load(open('state/ai_correct_progress.json')).get('done',0))" 2>/dev/null || echo 0)
+            git commit -m "chore(i18n): AI correct batch (+${DONE}, x${WORKERS})"
+            push_review || exit 1
+          done

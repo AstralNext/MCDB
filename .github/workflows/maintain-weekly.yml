@@ -1,0 +1,60 @@
+# 每周维护：校验 + JSON 重编译
+name: maintain-weekly
+
+on:
+  schedule:
+    - cron: "0 18 * * 0"
+  workflow_dispatch:
+
+concurrency:
+  group: mcdb-dist-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  maintain:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Sync main
+        run: |
+          git checkout -B main
+          git pull --rebase origin main
+
+      - name: Validate
+        run: python scripts/validate.py
+
+      - name: Recompile JSON dist
+        run: python scripts/compile_dist.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/version.json dist/exact_titles.json dist/bilingual.jsonl || true
+          if git diff --staged --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git commit -m "chore(dist): weekly recompile"
+          for attempt in 1 2 3 4 5; do
+            echo "Push attempt ${attempt}/5"
+            if git pull --rebase --autostash origin main && git push origin main; then
+              exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            sleep $((attempt * 15))
+          done
+          echo "::error::Failed to push dist commit after 5 attempts" >&2
+          exit 1

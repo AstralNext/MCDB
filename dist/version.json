@@ -1,0 +1,18 @@
+{
+  "version": "4f1a8c05dbd3fe51",
+  "built_at": "2026-07-21T10:09:50Z",
+  "pair_count": 143595,
+  "status_counts": {
+    "ai": 4359,
+    "pending": 139236
+  },
+  "format": "json-only",
+  "files": {
+    "bilingual": "bilingual.jsonl",
+    "exact": "exact_titles.json"
+  },
+  "usage": {
+    "bilingual": "bilingual.jsonl：三层译名 zh_draft/zh_ai/zh_human + 有效 zh",
+    "translate_replace": "exact_titles.json：英文原名 → 有效中文"
+  }
+}

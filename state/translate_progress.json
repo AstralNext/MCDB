@@ -1,0 +1,13 @@
+{
+  "provider": "edge",
+  "done_titles": 200,
+  "failed": 0,
+  "chars_sent": 3032,
+  "requests": 25,
+  "updated_at": "2026-07-21T03:46:01Z",
+  "pending_left_estimate": 721,
+  "last_error": null,
+  "last_batch": 40,
+  "storage": "jsonl",
+  "last_failed": 0
+}

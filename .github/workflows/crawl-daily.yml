@@ -1,0 +1,60 @@
+# 每日全量 API 爬取（纯 JSONL）
+name: crawl-daily
+
+on:
+  schedule:
+    - cron: "15 16 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: mcdb-review-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Sync main
+        run: |
+          git checkout -B main
+          git pull --rebase origin main
+
+      - name: Crawl (JSONL only)
+        run: python scripts/crawl.py
+
+      - name: Validate
+        run: python scripts/validate.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add source review state/crawl_progress.json || true
+          if git diff --staged --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git commit -m "chore(crawl): daily sync new projects"
+          for attempt in 1 2 3; do
+            echo "Push attempt ${attempt}/3"
+            if git pull --rebase origin main && git push origin main; then
+              exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            sleep $((attempt * 15))
+          done
+          echo "::error::Failed to push after 3 attempts (rebase conflict or remote rejected)" >&2
+          exit 1

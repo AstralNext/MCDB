@@ -1,0 +1,24 @@
+{
+  "started_at": "2026-07-21T05:12:18Z",
+  "finished_at": "2026-07-21T05:12:39Z",
+  "done": 40,
+  "failed": 0,
+  "batches": 1,
+  "stop_reason": "all_providers_cooled",
+  "providers": [
+    {
+      "name": "google",
+      "model": "gemini-2.5-flash",
+      "cooled": true,
+      "ok_batches": 1,
+      "fail_batches": 1
+    },
+    {
+      "name": "bigmodel",
+      "model": "glm-4-flash",
+      "cooled": false,
+      "ok_batches": 0,
+      "fail_batches": 0
+    }
+  ]
+}
