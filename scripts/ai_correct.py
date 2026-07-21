@@ -14,6 +14,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import sys
 import time
 import urllib.error
@@ -42,7 +43,7 @@ SYSTEM_PROMPT = (
     "任务：把英文标题译成符合社区认知的中文名；若无通行译名，再按意思意译。\n"
     "规则：\n"
     "- 只输出 JSON 数组，不要 markdown，不要解释\n"
-    "- 每项字段：id, en, zh\n"
+    "- 每项字段：id, en, zh（id 必须与输入完全一致，不可省略或改写）\n"
     "- zh 尽量短，像模组列表里显示的名字\n"
 )
 
@@ -99,9 +100,12 @@ def list_pending(review_root: Path) -> list[tuple[Path, int, dict]]:
 
 def _parse_json_array(text: str) -> list[dict]:
     text = text.strip()
-    if text.startswith("```"):
+    fence = re.search(r"```(?:json)?\s*(.*?)\s*```", text, re.DOTALL | re.IGNORECASE)
+    if fence:
+        text = fence.group(1).strip()
+    elif text.startswith("```"):
         text = text.strip("`")
-        if text.startswith("json"):
+        if text.lower().startswith("json"):
             text = text[4:].strip()
     # 有时模型外包一层对象
     parsed = json.loads(text)
@@ -112,7 +116,59 @@ def _parse_json_array(text: str) -> list[dict]:
                 break
     if not isinstance(parsed, list):
         raise ValueError(f"unexpected response type: {type(parsed)}")
-    return parsed
+    out: list[dict] = []
+    for item in parsed:
+        if isinstance(item, dict):
+            out.append(item)
+        elif isinstance(item, str) and item.strip():
+            out.append({"zh": item.strip()})
+    return out
+
+
+def _extract_zh(item: dict) -> str:
+    for key in ("zh", "title_zh", "chinese", "translation", "zh_cn", "name_zh", "cn"):
+        v = str(item.get(key) or "").strip()
+        if v:
+            return v
+    return ""
+
+
+def _index_translation_results(
+    results: list[dict], titles: list[dict]
+) -> tuple[dict[str, dict], dict[str, dict]]:
+    by_id: dict[str, dict] = {}
+    by_en: dict[str, dict] = {}
+    for x in results:
+        if not isinstance(x, dict):
+            continue
+        pid = str(x.get("id") or "").strip()
+        en = str(x.get("en") or x.get("title") or x.get("title_en") or "").strip()
+        if pid:
+            by_id[pid] = x
+        if en:
+            by_en[en.casefold()] = x
+
+    id_hits = sum(1 for t in titles if str(t.get("id") or "") in by_id)
+    if len(results) == len(titles) and id_hits < max(1, len(titles) // 2):
+        for i, t in enumerate(titles):
+            pid = str(t.get("id") or "")
+            if pid and pid not in by_id and i < len(results) and isinstance(results[i], dict):
+                by_id[pid] = results[i]
+    return by_id, by_en
+
+
+def _lookup_translation(
+    row: dict, by_id: dict[str, dict], by_en: dict[str, dict]
+) -> tuple[dict | None, str]:
+    pid = str(row.get("id") or "")
+    hit = by_id.get(pid)
+    if hit is None:
+        en_key = str(row.get("en") or "").casefold()
+        if en_key:
+            hit = by_en.get(en_key)
+    if hit is None:
+        return None, ""
+    return hit, _extract_zh(hit)
 
 
 def gemini_translate(titles: list[dict], api_key: str, model: str) -> list[dict]:
@@ -372,13 +428,10 @@ def main() -> int:
             continue
 
         last_provider = f"{used.name}/{used.model}"
-        by_id = {str(x.get("id")): x for x in results if isinstance(x, dict)}
+        by_id, by_en = _index_translation_results(results, titles)
         updates: list[tuple[Path, int, dict]] = []
         for path, idx, row in chunk:
-            hit = by_id.get(row["id"])
-            zh = ""
-            if hit:
-                zh = str(hit.get("zh") or "").strip()
+            hit, zh = _lookup_translation(row, by_id, by_en)
             if not zh:
                 failed += 1
                 continue
@@ -388,7 +441,14 @@ def main() -> int:
             updates.append((path, idx, row))
             done += 1
 
-        if updates:
+        if not updates and results:
+            sample = results[0] if isinstance(results[0], dict) else {"raw": results[0]}
+            print(
+                f"WARN: 0/{len(chunk)} translations matched; "
+                f"sample={json.dumps(sample, ensure_ascii=False)[:300]}",
+                flush=True,
+            )
+        elif updates:
             apply_updates(updates)
             print(f"batch={batches+1} wrote zh_ai={len(updates)} via {last_provider}", flush=True)
         batches += 1
