@@ -1,74 +1,17 @@
 {
-  "version": "f2332fc8770d90fc",
-  "built_at": "2026-07-20T19:42:17Z",
-  "pair_count": 143395,
+  "version": "e9bb011bab31d2d6",
+  "built_at": "2026-07-21T04:42:19Z",
+  "pair_count": 143595,
   "status_counts": {
-    "machine": 143395
+    "pending": 143595
   },
   "format": "json-only",
   "files": {
     "bilingual": "bilingual.jsonl",
-    "exact": "exact_titles.json",
-    "semantic_dir": "semantic/",
-    "semantic_shards": [
-      "semantic/000.jsonl",
-      "semantic/001.jsonl",
-      "semantic/002.jsonl",
-      "semantic/003.jsonl",
-      "semantic/004.jsonl",
-      "semantic/005.jsonl",
-      "semantic/006.jsonl",
-      "semantic/007.jsonl",
-      "semantic/008.jsonl",
-      "semantic/009.jsonl",
-      "semantic/010.jsonl",
-      "semantic/011.jsonl",
-      "semantic/012.jsonl",
-      "semantic/013.jsonl",
-      "semantic/014.jsonl",
-      "semantic/015.jsonl",
-      "semantic/016.jsonl",
-      "semantic/017.jsonl",
-      "semantic/018.jsonl",
-      "semantic/019.jsonl",
-      "semantic/020.jsonl",
-      "semantic/021.jsonl",
-      "semantic/022.jsonl",
-      "semantic/023.jsonl",
-      "semantic/024.jsonl",
-      "semantic/025.jsonl",
-      "semantic/026.jsonl",
-      "semantic/027.jsonl",
-      "semantic/028.jsonl",
-      "semantic/029.jsonl",
-      "semantic/030.jsonl",
-      "semantic/031.jsonl",
-      "semantic/032.jsonl",
-      "semantic/033.jsonl",
-      "semantic/034.jsonl",
-      "semantic/035.jsonl",
-      "semantic/036.jsonl",
-      "semantic/037.jsonl",
-      "semantic/038.jsonl",
-      "semantic/039.jsonl",
-      "semantic/040.jsonl",
-      "semantic/041.jsonl",
-      "semantic/042.jsonl",
-      "semantic/043.jsonl",
-      "semantic/044.jsonl",
-      "semantic/045.jsonl",
-      "semantic/046.jsonl",
-      "semantic/047.jsonl"
-    ]
-  },
-  "embed": {
-    "name": "char-unigram+bigram-hash",
-    "dim": 256,
-    "vec_encoding": "base64-float32le"
+    "exact": "exact_titles.json"
   },
   "usage": {
-    "bilingual": "bilingual.jsonl：中英对照",
-    "translate_replace": "exact_titles.json：英文原名 → 中文",
-    "semantic_search": "semantic/*.jsonl：中文向量近邻 → 英文"
+    "bilingual": "bilingual.jsonl：三层译名 zh_draft/zh_ai/zh_human + 有效 zh",
+    "translate_replace": "exact_titles.json：英文原名 → 有效中文"
   }
 }

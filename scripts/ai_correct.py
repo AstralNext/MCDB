@@ -2,8 +2,8 @@
 """用 Google Gemini 纠正尚无 zh_ai 的标题（社区向中文名）。
 
 环境变量：GOOGLE_API_KEY
-默认：每批 10 条，持续约 duration-minutes（工作流按 1 小时跑）。
-只处理 needs_ai_correct（无 zh_ai、无 zh_human、非 skip）。
+默认：每批 40 条；严格串行——等本批完整回答并写盘后，再发起下一批。
+工作流按约 55 分钟跑满一小时窗口。
 """
 
 from __future__ import annotations
@@ -148,7 +148,11 @@ def main() -> int:
             take = min(take, args.limit - done)
         chunk = pending[:take]
         titles = [{"id": r["id"], "en": r["en"]} for _, _, r in chunk]
-        print(f"batch={batches+1} size={len(titles)} remaining~={len(pending)}", flush=True)
+        print(
+            f"batch={batches+1} size={len(titles)} remaining~={len(pending)} "
+            f"— requesting Gemini (wait for reply before next batch)…",
+            flush=True,
+        )
 
         if args.dry_run:
             print(json.dumps(titles, ensure_ascii=False, indent=2))
@@ -157,7 +161,9 @@ def main() -> int:
             break
 
         try:
+            # 严格串行：等本批 HTTP 完整返回后才写盘、再请求下一批
             results = gemini_translate(titles, api_key, args.model)
+            print(f"batch={batches+1} reply ok items={len(results)}", flush=True)
         except urllib.error.HTTPError as e:
             err = e.read().decode("utf-8", errors="replace")
             print(f"HTTP {e.code}: {err[:500]}", file=sys.stderr)
@@ -191,6 +197,7 @@ def main() -> int:
 
         if updates:
             apply_updates(updates)
+            print(f"batch={batches+1} wrote zh_ai={len(updates)}", flush=True)
         batches += 1
         write_json(
             PROGRESS,
@@ -205,6 +212,7 @@ def main() -> int:
         )
         if time.time() >= deadline:
             break
+        # 仅在成功拿到回答并落盘后，再间隔发起下一次询问
         time.sleep(args.delay)
 
     summary = {
