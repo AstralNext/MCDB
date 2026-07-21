@@ -2976,25 +2976,25 @@
 {"id":"RfPERAmo","en":"Break Progress","zh_draft":"暂停进度","zh_ai":"破坏进度","zh_human":"","zh":"破坏进度","status":"ai"}
 {"id":"USSrR0LL","en":"Myst1c's Strength Smp","zh_draft":"Myst1c的Strength Smp","zh_ai":"神秘力量SMP","zh_human":"","zh":"神秘力量SMP","status":"ai"}
 {"id":"XrOxQUVg","en":"Project Babylon Materials","zh_draft":"“巴比伦计划”资料","zh_ai":"巴比伦计划材料","zh_human":"","zh":"巴比伦计划材料","status":"ai"}
-{"id":"aTjcJuUc","en":"Create: Petrol Powered","zh_draft":"创建：汽油动力","zh_ai":"","zh_human":"","zh":"创建：汽油动力","status":"pending"}
-{"id":"b0p52mD4","en":"Thinking","zh_draft":"思考","zh_ai":"","zh_human":"","zh":"思考","status":"pending"}
-{"id":"c79Y0R7U","en":"Redstone Transceivers","zh_draft":"红石收发器","zh_ai":"","zh_human":"","zh":"红石收发器","status":"pending"}
-{"id":"ehuotjHl","en":"MoreTools+","zh_draft":"更多工具+","zh_ai":"","zh_human":"","zh":"更多工具+","status":"pending"}
-{"id":"kRtdi0I8","en":"Crop Dusting","zh_draft":"农用飞机喷洒","zh_ai":"","zh_human":"","zh":"农用飞机喷洒","status":"pending"}
-{"id":"lXsF9wsd","en":"u00a7","zh_draft":"u00a7","zh_ai":"","zh_human":"","zh":"u00a7","status":"pending"}
-{"id":"nVLkfwA4","en":"swrpgtrees","zh_draft":"swrpgtrees","zh_ai":"","zh_human":"","zh":"swrpgtrees","status":"pending"}
-{"id":"12kNytlE","en":"Bookshelf Time Module","zh_draft":"书架时间模块","zh_ai":"","zh_human":"","zh":"书架时间模块","status":"pending"}
-{"id":"8VXrroW1","en":"Shaderite","zh_draft":"Shaderite","zh_ai":"","zh_human":"","zh":"Shaderite","status":"pending"}
-{"id":"GDrr0KgP","en":"EarthMC Essentials","zh_draft":"EarthMC 基础知识","zh_ai":"","zh_human":"","zh":"EarthMC 基础知识","status":"pending"}
-{"id":"bvz0BuS4","en":"Reuben's Mob Removal","zh_draft":"鲁本的黑帮清剿行动","zh_ai":"","zh_human":"","zh":"鲁本的黑帮清剿行动","status":"pending"}
-{"id":"d4ZMML0z","en":"CountryBlock","zh_draft":"CountryBlock","zh_ai":"","zh_human":"","zh":"CountryBlock","status":"pending"}
-{"id":"dw2CdIhH","en":"Don't Starve 4(Reborn)","zh_draft":"《饥荒4（重生）》","zh_ai":"","zh_human":"","zh":"《饥荒4（重生）》","status":"pending"}
-{"id":"eyixqFsI","en":"Sculk","zh_draft":"Sculk","zh_ai":"","zh_human":"","zh":"Sculk","status":"pending"}
-{"id":"hc2J3Wv2","en":"Immersive Jungles","zh_draft":"身临其境的丛林","zh_ai":"","zh_human":"","zh":"身临其境的丛林","status":"pending"}
-{"id":"iNm8TsGV","en":"ExNihiloSequentiaTempFix-421856","zh_draft":"ExNihiloSequentiaTempFix-421856简体中文（大陆）","zh_ai":"","zh_human":"","zh":"ExNihiloSequentiaTempFix-421856简体中文（大陆）","status":"pending"}
-{"id":"kQmr1VJb","en":"Alpha 1.0_13","zh_draft":"Alpha 1.0_13","zh_ai":"","zh_human":"","zh":"Alpha 1.0_13","status":"pending"}
-{"id":"kXQgE273","en":"CnidarianOrigins","zh_draft":"刺胞动物的起源","zh_ai":"","zh_human":"","zh":"刺胞动物的起源","status":"pending"}
-{"id":"kypWYwUz","en":"KiCK's Tool Touch-Ups","zh_draft":"KiCK 工具的微调","zh_ai":"","zh_human":"","zh":"KiCK 工具的微调","status":"pending"}
-{"id":"qKTboxdx","en":"Backup Scripts","zh_draft":"备份脚本","zh_ai":"","zh_human":"","zh":"备份脚本","status":"pending"}
-{"id":"qjUo9Dwl","en":"Super Simple Combat","zh_draft":"超级简单的战斗","zh_ai":"","zh_human":"","zh":"超级简单的战斗","status":"pending"}
-{"id":"rRWXJ5cp","en":"IslesExtra","zh_draft":"IslesExtra","zh_ai":"","zh_human":"","zh":"IslesExtra","status":"pending"}
+{"id":"aTjcJuUc","en":"Create: Petrol Powered","zh_draft":"创建：汽油动力","zh_ai":"燃油动力创造器","zh_human":"","zh":"燃油动力创造器","status":"ai"}
+{"id":"b0p52mD4","en":"Thinking","zh_draft":"思考","zh_ai":"思考","zh_human":"","zh":"思考","status":"ai"}
+{"id":"c79Y0R7U","en":"Redstone Transceivers","zh_draft":"红石收发器","zh_ai":"红石收发器","zh_human":"","zh":"红石收发器","status":"ai"}
+{"id":"ehuotjHl","en":"MoreTools+","zh_draft":"更多工具+","zh_ai":"更多工具+","zh_human":"","zh":"更多工具+","status":"ai"}
+{"id":"kRtdi0I8","en":"Crop Dusting","zh_draft":"农用飞机喷洒","zh_ai":"作物喷粉","zh_human":"","zh":"作物喷粉","status":"ai"}
+{"id":"lXsF9wsd","en":"u00a7","zh_draft":"u00a7","zh_ai":"颜色代码","zh_human":"","zh":"颜色代码","status":"ai"}
+{"id":"nVLkfwA4","en":"swrpgtrees","zh_draft":"swrpgtrees","zh_ai":"星球树","zh_human":"","zh":"星球树","status":"ai"}
+{"id":"12kNytlE","en":"Bookshelf Time Module","zh_draft":"书架时间模块","zh_ai":"书架时间模块","zh_human":"","zh":"书架时间模块","status":"ai"}
+{"id":"8VXrroW1","en":"Shaderite","zh_draft":"Shaderite","zh_ai":"着色石","zh_human":"","zh":"着色石","status":"ai"}
+{"id":"GDrr0KgP","en":"EarthMC Essentials","zh_draft":"EarthMC 基础知识","zh_ai":"地球MC基础","zh_human":"","zh":"地球MC基础","status":"ai"}
+{"id":"bvz0BuS4","en":"Reuben's Mob Removal","zh_draft":"鲁本的黑帮清剿行动","zh_ai":"鲁本怪物清除器","zh_human":"","zh":"鲁本怪物清除器","status":"ai"}
+{"id":"d4ZMML0z","en":"CountryBlock","zh_draft":"CountryBlock","zh_ai":"乡村方块","zh_human":"","zh":"乡村方块","status":"ai"}
+{"id":"dw2CdIhH","en":"Don't Starve 4(Reborn)","zh_draft":"《饥荒4（重生）》","zh_ai":"不要饿死4（重生）","zh_human":"","zh":"不要饿死4（重生）","status":"ai"}
+{"id":"eyixqFsI","en":"Sculk","zh_draft":"Sculk","zh_ai":"隐匿","zh_human":"","zh":"隐匿","status":"ai"}
+{"id":"hc2J3Wv2","en":"Immersive Jungles","zh_draft":"身临其境的丛林","zh_ai":"沉浸式丛林","zh_human":"","zh":"沉浸式丛林","status":"ai"}
+{"id":"iNm8TsGV","en":"ExNihiloSequentiaTempFix-421856","zh_draft":"ExNihiloSequentiaTempFix-421856简体中文（大陆）","zh_ai":"无中生有时间修复-421856","zh_human":"","zh":"无中生有时间修复-421856","status":"ai"}
+{"id":"kQmr1VJb","en":"Alpha 1.0_13","zh_draft":"Alpha 1.0_13","zh_ai":"阿尔法1.0_13","zh_human":"","zh":"阿尔法1.0_13","status":"ai"}
+{"id":"kXQgE273","en":"CnidarianOrigins","zh_draft":"刺胞动物的起源","zh_ai":"刺胞动物起源","zh_human":"","zh":"刺胞动物起源","status":"ai"}
+{"id":"kypWYwUz","en":"KiCK's Tool Touch-Ups","zh_draft":"KiCK 工具的微调","zh_ai":"KiCK的工具微调","zh_human":"","zh":"KiCK的工具微调","status":"ai"}
+{"id":"qKTboxdx","en":"Backup Scripts","zh_draft":"备份脚本","zh_ai":"备份脚本","zh_human":"","zh":"备份脚本","status":"ai"}
+{"id":"qjUo9Dwl","en":"Super Simple Combat","zh_draft":"超级简单的战斗","zh_ai":"超级简单战斗","zh_human":"","zh":"超级简单战斗","status":"ai"}
+{"id":"rRWXJ5cp","en":"IslesExtra","zh_draft":"IslesExtra","zh_ai":"岛屿额外","zh_human":"","zh":"岛屿额外","status":"ai"}
