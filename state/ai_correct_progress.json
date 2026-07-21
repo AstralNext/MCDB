@@ -1,9 +1,9 @@
 {
-  "started_at": "2026-07-21T04:47:46Z",
-  "finished_at": "2026-07-21T04:53:52Z",
+  "started_at": "2026-07-21T05:04:48Z",
+  "finished_at": "2026-07-21T05:05:46Z",
   "model": "gemini-2.5-flash",
-  "done": 760,
+  "done": 120,
   "failed": 40,
-  "batches": 19,
+  "batches": 3,
   "dry_run": false
 }
