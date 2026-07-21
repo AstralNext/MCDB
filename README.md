@@ -41,4 +41,12 @@ python scripts/compile_dist.py
 python scripts/search_titles.py "钠" -k 5
 ```
 
-密钥：环境变量 `GOOGLE_API_KEY`，或 GitHub Actions Secret 同名。
+密钥（GitHub Actions → Settings → Secrets and variables → Actions）：
+
+| Name | 内容 |
+|------|------|
+| `GOOGLE_API_KEY` | Google AI Studio 密钥 |
+| `BIGMODEL_API_KEY` | 智谱 open.bigmodel.cn API Key |
+
+可选：`GOOGLE_MODEL`（默认 `gemini-2.5-flash`）、`BIGMODEL_MODEL`（默认 `glm-4-flash`）。  
+两家轮流调用；某家限流则跳过，都限流则本小时结束。
