@@ -1716,46 +1716,46 @@
 {"id":"u8TYP2M6","en":"Cobblemon Repel","zh_draft":"科布莱蒙反击","zh_ai":"Cobblemon排斥","zh_human":"","zh":"Cobblemon排斥","status":"ai"}
 {"id":"QSzy55SB","en":"No Fog","zh_draft":"无雾","zh_ai":"无雾","zh_human":"","zh":"无雾","status":"ai"}
 {"id":"692GClaE","en":"Modonomicon","zh_draft":"莫多诺米典","zh_ai":"模组图鉴","zh_human":"","zh":"模组图鉴","status":"ai"}
-{"id":"K62sN7Sd","en":"Friends&Foes - Beekeeper Hut (Forge/NeoForge)","zh_draft":"朋友与敌人 - 养蜂人小屋（锻造/新锻造）","zh_ai":"","zh_human":"","zh":"朋友与敌人 - 养蜂人小屋（锻造/新锻造）","status":"pending"}
-{"id":"wsfP1tWd","en":"XPlus ContingameIME","zh_draft":"XPlus Contingame我记得","zh_ai":"","zh_human":"","zh":"XPlus Contingame我记得","status":"pending"}
-{"id":"K2Q9LnPH","en":"CobbleCats [cobblemon]","zh_draft":"鹅卵石猫 [cobblemon]","zh_ai":"","zh_human":"","zh":"鹅卵石猫 [cobblemon]","status":"pending"}
-{"id":"wYtDgIUZ","en":"Friends&Foes - Flowery Mooblooms (Forge/NeoForge)","zh_draft":"朋友与敌人 - 花朵花朵（Forge/NeoForge）","zh_ai":"","zh_human":"","zh":"朋友与敌人 - 花朵花朵（Forge/NeoForge）","status":"pending"}
-{"id":"cuIIkdlx","en":"KaleidoscopeChineseFood","zh_draft":"万花筒中餐","zh_ai":"","zh_human":"","zh":"万花筒中餐","status":"pending"}
-{"id":"4sYI62kA","en":"Oritech","zh_draft":"奥里泰克","zh_ai":"","zh_human":"","zh":"奥里泰克","status":"pending"}
-{"id":"bAWzYNRd","en":"Mythic Metals","zh_draft":"神话金属","zh_ai":"","zh_human":"","zh":"神话金属","status":"pending"}
-{"id":"HtGckJVc","en":"Stack to Nearby Chests","zh_draft":"堆到附近的宝箱","zh_ai":"","zh_human":"","zh":"堆到附近的宝箱","status":"pending"}
-{"id":"a48R8AGk","en":"L_Ender 's Cataclysm Delight","zh_draft":"L_Ender的灾变之乐","zh_ai":"","zh_human":"","zh":"L_Ender的灾变之乐","status":"pending"}
-{"id":"vUE54e5E","en":"Create Ultimine","zh_draft":"创造Ultimine","zh_ai":"","zh_human":"","zh":"创造Ultimine","status":"pending"}
-{"id":"J5bVsBt9","en":"Enhanced Boss Bars","zh_draft":"增强版Boss栏","zh_ai":"","zh_human":"","zh":"增强版Boss栏","status":"pending"}
-{"id":"uO522mgw","en":"Scaffolding Drops Nearby","zh_draft":"附近的脚手架落差","zh_ai":"","zh_human":"","zh":"附近的脚手架落差","status":"pending"}
-{"id":"eagoVRnY","en":"TravelerZ","zh_draft":"旅行者Z","zh_ai":"","zh_human":"","zh":"旅行者Z","status":"pending"}
-{"id":"g6sbyCTu","en":"Fruits Delight","zh_draft":"水果之喜","zh_ai":"","zh_human":"","zh":"水果之喜","status":"pending"}
-{"id":"cWtswsPK","en":"No Resource Pack Warnings forge","zh_draft":"无资源包警告 forge","zh_ai":"","zh_human":"","zh":"无资源包警告 forge","status":"pending"}
-{"id":"Bgz35D5U","en":"Brazilian Delight","zh_draft":"巴西的喜悦","zh_ai":"","zh_human":"","zh":"巴西的喜悦","status":"pending"}
-{"id":"CvX6rOtB","en":"Birds | Boids Addon","zh_draft":"鸟类 |Boids 附加元件","zh_ai":"","zh_human":"","zh":"鸟类 |Boids 附加元件","status":"pending"}
-{"id":"DuUMFIfX","en":"MasterCutter","zh_draft":"大师切割者","zh_ai":"","zh_human":"","zh":"大师切割者","status":"pending"}
-{"id":"UR0ocuEt","en":"NBT Autocomplete","zh_draft":"NBT自动补全","zh_ai":"","zh_human":"","zh":"NBT自动补全","status":"pending"}
-{"id":"cCXV545X","en":"Aquamirae Delight","zh_draft":"海王之喜","zh_ai":"","zh_human":"","zh":"海王之喜","status":"pending"}
-{"id":"k5jeNqWg","en":"Nyctophobia","zh_draft":"夜恐惧症","zh_ai":"","zh_human":"","zh":"夜恐惧症","status":"pending"}
-{"id":"h7QgiH72","en":"Create: Crystal Clear","zh_draft":"创作：水晶清晰","zh_ai":"","zh_human":"","zh":"创作：水晶清晰","status":"pending"}
-{"id":"uZAcFHLd","en":"Custom FOV","zh_draft":"自定义视野","zh_ai":"","zh_human":"","zh":"自定义视野","status":"pending"}
-{"id":"O1XGs7ps","en":"William Wythers' Expanded Ecosphere","zh_draft":"威廉·怀瑟斯的扩展生态圈","zh_ai":"","zh_human":"","zh":"威廉·怀瑟斯的扩展生态圈","status":"pending"}
-{"id":"72GXx2MO","en":"Emojiful","zh_draft":"表情符号","zh_ai":"","zh_human":"","zh":"表情符号","status":"pending"}
-{"id":"O1qboAbB","en":"Oceanic Delight","zh_draft":"海洋之悦","zh_ai":"","zh_human":"","zh":"海洋之悦","status":"pending"}
-{"id":"lX1xTFBZ","en":"Distinct Potions","zh_draft":"独特药剂","zh_ai":"","zh_human":"","zh":"独特药剂","status":"pending"}
-{"id":"cSIsh4gX","en":"Display Case","zh_draft":"展示柜","zh_ai":"","zh_human":"","zh":"展示柜","status":"pending"}
-{"id":"FuRR0tKd","en":"Async Pack Scan","zh_draft":"异步包扫描","zh_ai":"","zh_human":"","zh":"异步包扫描","status":"pending"}
-{"id":"EX0TBCxA","en":"Whimsy Deco","zh_draft":"奇思妙想装饰","zh_ai":"","zh_human":"","zh":"奇思妙想装饰","status":"pending"}
-{"id":"YQnwl5Vv","en":"Visual Overhaul","zh_draft":"视觉大改造","zh_ai":"","zh_human":"","zh":"视觉大改造","status":"pending"}
-{"id":"gvl7lVcV","en":"Ping View","zh_draft":"平视图","zh_ai":"","zh_human":"","zh":"平视图","status":"pending"}
-{"id":"aqYNR6rI","en":"Create: Copper & Zinc","zh_draft":"创作：铜与锌","zh_ai":"","zh_human":"","zh":"创作：铜与锌","status":"pending"}
-{"id":"PWcQ3kcp","en":"Exposure Catalog","zh_draft":"曝光目录","zh_ai":"","zh_human":"","zh":"曝光目录","status":"pending"}
-{"id":"OlAQOlqx","en":"Trade Refresh","zh_draft":"贸易刷新","zh_ai":"","zh_human":"","zh":"贸易刷新","status":"pending"}
-{"id":"JzdjByS4","en":"PotionCounter","zh_draft":"药水计数器","zh_ai":"","zh_human":"","zh":"药水计数器","status":"pending"}
-{"id":"SvXrP8rT","en":"Achievements Optimizer","zh_draft":"成就优化器","zh_ai":"","zh_human":"","zh":"成就优化器","status":"pending"}
-{"id":"YWn7nNrm","en":"Vanilla Cookbook","zh_draft":"香草食谱","zh_ai":"","zh_human":"","zh":"香草食谱","status":"pending"}
-{"id":"wKkoqHrH","en":"Geyser","zh_draft":"间歇泉","zh_ai":"","zh_human":"","zh":"间歇泉","status":"pending"}
-{"id":"5ofroZ5W","en":"Create: Compatible Storage","zh_draft":"创建：兼容存储","zh_ai":"","zh_human":"","zh":"创建：兼容存储","status":"pending"}
+{"id":"K62sN7Sd","en":"Friends&Foes - Beekeeper Hut (Forge/NeoForge)","zh_draft":"朋友与敌人 - 养蜂人小屋（锻造/新锻造）","zh_ai":"蜜蜂屋（Forge/NeoForge）","zh_human":"","zh":"蜜蜂屋（Forge/NeoForge）","status":"ai"}
+{"id":"wsfP1tWd","en":"XPlus ContingameIME","zh_draft":"XPlus Contingame我记得","zh_ai":"XPlus 游戏内输入法","zh_human":"","zh":"XPlus 游戏内输入法","status":"ai"}
+{"id":"K2Q9LnPH","en":"CobbleCats [cobblemon]","zh_draft":"鹅卵石猫 [cobblemon]","zh_ai":"方块猫 [方块龙]","zh_human":"","zh":"方块猫 [方块龙]","status":"ai"}
+{"id":"wYtDgIUZ","en":"Friends&Foes - Flowery Mooblooms (Forge/NeoForge)","zh_draft":"朋友与敌人 - 花朵花朵（Forge/NeoForge）","zh_ai":"花朵蘑菇（Forge/NeoForge）","zh_human":"","zh":"花朵蘑菇（Forge/NeoForge）","status":"ai"}
+{"id":"cuIIkdlx","en":"KaleidoscopeChineseFood","zh_draft":"万花筒中餐","zh_ai":"万花筒中式美食","zh_human":"","zh":"万花筒中式美食","status":"ai"}
+{"id":"4sYI62kA","en":"Oritech","zh_draft":"奥里泰克","zh_ai":"奥里特克科技","zh_human":"","zh":"奥里特克科技","status":"ai"}
+{"id":"bAWzYNRd","en":"Mythic Metals","zh_draft":"神话金属","zh_ai":"神话金属","zh_human":"","zh":"神话金属","status":"ai"}
+{"id":"HtGckJVc","en":"Stack to Nearby Chests","zh_draft":"堆到附近的宝箱","zh_ai":"堆叠到附近的箱子","zh_human":"","zh":"堆叠到附近的箱子","status":"ai"}
+{"id":"a48R8AGk","en":"L_Ender 's Cataclysm Delight","zh_draft":"L_Ender的灾变之乐","zh_ai":"末影之灾的乐趣","zh_human":"","zh":"末影之灾的乐趣","status":"ai"}
+{"id":"vUE54e5E","en":"Create Ultimine","zh_draft":"创造Ultimine","zh_ai":"Create 极限矿化","zh_human":"","zh":"Create 极限矿化","status":"ai"}
+{"id":"J5bVsBt9","en":"Enhanced Boss Bars","zh_draft":"增强版Boss栏","zh_ai":"增强Boss血条","zh_human":"","zh":"增强Boss血条","status":"ai"}
+{"id":"uO522mgw","en":"Scaffolding Drops Nearby","zh_draft":"附近的脚手架落差","zh_ai":"脚手架掉落附近","zh_human":"","zh":"脚手架掉落附近","status":"ai"}
+{"id":"eagoVRnY","en":"TravelerZ","zh_draft":"旅行者Z","zh_ai":"旅行者Z","zh_human":"","zh":"旅行者Z","status":"ai"}
+{"id":"g6sbyCTu","en":"Fruits Delight","zh_draft":"水果之喜","zh_ai":"水果之乐","zh_human":"","zh":"水果之乐","status":"ai"}
+{"id":"cWtswsPK","en":"No Resource Pack Warnings forge","zh_draft":"无资源包警告 forge","zh_ai":"无资源包警告 Forge","zh_human":"","zh":"无资源包警告 Forge","status":"ai"}
+{"id":"Bgz35D5U","en":"Brazilian Delight","zh_draft":"巴西的喜悦","zh_ai":"巴西之乐","zh_human":"","zh":"巴西之乐","status":"ai"}
+{"id":"CvX6rOtB","en":"Birds | Boids Addon","zh_draft":"鸟类 |Boids 附加元件","zh_ai":"鸟类 | 鸟群插件","zh_human":"","zh":"鸟类 | 鸟群插件","status":"ai"}
+{"id":"DuUMFIfX","en":"MasterCutter","zh_draft":"大师切割者","zh_ai":"大师切割器","zh_human":"","zh":"大师切割器","status":"ai"}
+{"id":"UR0ocuEt","en":"NBT Autocomplete","zh_draft":"NBT自动补全","zh_ai":"NBT 自动完成","zh_human":"","zh":"NBT 自动完成","status":"ai"}
+{"id":"cCXV545X","en":"Aquamirae Delight","zh_draft":"海王之喜","zh_ai":"水之乐","zh_human":"","zh":"水之乐","status":"ai"}
+{"id":"k5jeNqWg","en":"Nyctophobia","zh_draft":"夜恐惧症","zh_ai":"夜恐症","zh_human":"","zh":"夜恐症","status":"ai"}
+{"id":"h7QgiH72","en":"Create: Crystal Clear","zh_draft":"创作：水晶清晰","zh_ai":"Create 晶清","zh_human":"","zh":"Create 晶清","status":"ai"}
+{"id":"uZAcFHLd","en":"Custom FOV","zh_draft":"自定义视野","zh_ai":"自定义视野","zh_human":"","zh":"自定义视野","status":"ai"}
+{"id":"O1XGs7ps","en":"William Wythers' Expanded Ecosphere","zh_draft":"威廉·怀瑟斯的扩展生态圈","zh_ai":"威廉·威瑟斯扩展生态系统","zh_human":"","zh":"威廉·威瑟斯扩展生态系统","status":"ai"}
+{"id":"72GXx2MO","en":"Emojiful","zh_draft":"表情符号","zh_ai":"表情丰富","zh_human":"","zh":"表情丰富","status":"ai"}
+{"id":"O1qboAbB","en":"Oceanic Delight","zh_draft":"海洋之悦","zh_ai":"海洋之乐","zh_human":"","zh":"海洋之乐","status":"ai"}
+{"id":"lX1xTFBZ","en":"Distinct Potions","zh_draft":"独特药剂","zh_ai":"独特的药水","zh_human":"","zh":"独特的药水","status":"ai"}
+{"id":"cSIsh4gX","en":"Display Case","zh_draft":"展示柜","zh_ai":"展示柜","zh_human":"","zh":"展示柜","status":"ai"}
+{"id":"FuRR0tKd","en":"Async Pack Scan","zh_draft":"异步包扫描","zh_ai":"异步包扫描","zh_human":"","zh":"异步包扫描","status":"ai"}
+{"id":"EX0TBCxA","en":"Whimsy Deco","zh_draft":"奇思妙想装饰","zh_ai":"异想天开装饰","zh_human":"","zh":"异想天开装饰","status":"ai"}
+{"id":"YQnwl5Vv","en":"Visual Overhaul","zh_draft":"视觉大改造","zh_ai":"视觉重制","zh_human":"","zh":"视觉重制","status":"ai"}
+{"id":"gvl7lVcV","en":"Ping View","zh_draft":"平视图","zh_ai":"ping视图","zh_human":"","zh":"ping视图","status":"ai"}
+{"id":"aqYNR6rI","en":"Create: Copper & Zinc","zh_draft":"创作：铜与锌","zh_ai":"Create 铜 & 锌","zh_human":"","zh":"Create 铜 & 锌","status":"ai"}
+{"id":"PWcQ3kcp","en":"Exposure Catalog","zh_draft":"曝光目录","zh_ai":"曝光目录","zh_human":"","zh":"曝光目录","status":"ai"}
+{"id":"OlAQOlqx","en":"Trade Refresh","zh_draft":"贸易刷新","zh_ai":"贸易刷新","zh_human":"","zh":"贸易刷新","status":"ai"}
+{"id":"JzdjByS4","en":"PotionCounter","zh_draft":"药水计数器","zh_ai":"药水计数器","zh_human":"","zh":"药水计数器","status":"ai"}
+{"id":"SvXrP8rT","en":"Achievements Optimizer","zh_draft":"成就优化器","zh_ai":"成就优化器","zh_human":"","zh":"成就优化器","status":"ai"}
+{"id":"YWn7nNrm","en":"Vanilla Cookbook","zh_draft":"香草食谱","zh_ai":"原版食谱","zh_human":"","zh":"原版食谱","status":"ai"}
+{"id":"wKkoqHrH","en":"Geyser","zh_draft":"间歇泉","zh_ai":"喷泉","zh_human":"","zh":"喷泉","status":"ai"}
+{"id":"5ofroZ5W","en":"Create: Compatible Storage","zh_draft":"创建：兼容存储","zh_ai":"Create 兼容存储","zh_human":"","zh":"Create 兼容存储","status":"ai"}
 {"id":"GmuH0lCA","en":"Mutant More","zh_draft":"变异者更多","zh_ai":"","zh_human":"","zh":"变异者更多","status":"pending"}
 {"id":"Xqu7vgqw","en":"Kitchen Karrot","zh_draft":"厨房卡罗特","zh_ai":"","zh_human":"","zh":"厨房卡罗特","status":"pending"}
 {"id":"SqIC1Dq9","en":"Ascended Quark","zh_draft":"升天夸克","zh_ai":"","zh_human":"","zh":"升天夸克","status":"pending"}
