@@ -44,9 +44,10 @@ USAGE_MD = """# MCDB 发行包用法（JSON only）
 
 `exact_titles.json` → `by_en` / `by_id`
 
-## 标题搜索
+## 标题搜索 / 三层译名
 
-对 `en` / `zh` / `slug` 做模糊匹配（精确 > 前缀 > 包含），不再提供向量检索。
+对 `en` / `zh` / `slug` 做模糊匹配。  
+`zh` = `zh_human` ?? `zh_ai` ?? `zh_draft`。
 """
 
 

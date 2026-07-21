@@ -30,18 +30,15 @@ jobs:
       - name: Recompile JSON dist
         run: python scripts/compile_dist.py
 
-      - name: Clear stale translate lock
-        run: rm -f state/translate.lock
-
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add dist/version.json dist/exact_titles.json dist/bilingual.jsonl dist/semantic_meta.json state || true
+          git add dist/version.json dist/exact_titles.json dist/bilingual.jsonl || true
           if git diff --staged --quiet; then
             echo "No changes"
           else
-            git commit -m "chore(maintain): weekly validate + JSON recompile"
+            git commit -m "chore(dist): weekly recompile"
             git pull --rebase --autostash origin HEAD || true
             git push
           fi

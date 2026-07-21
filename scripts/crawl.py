@@ -183,7 +183,7 @@ def append_review_pending(new_rows: list[dict], shard_size: int) -> int:
                 buf_path = d / f"{shard_idx:03d}.jsonl"
                 buf_path.write_text("", encoding="utf-8")
                 buf_count = 0
-            line = format_review_line(r["id"], r.get("title") or "", "", "pending")
+            line = format_review_line(r["id"], r.get("title") or "", "pending")
             with buf_path.open("a", encoding="utf-8", newline="\n") as f:
                 f.write(line + "\n")
             buf_count += 1

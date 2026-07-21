@@ -24,6 +24,8 @@ from common import (
 
 
 def load_pairs() -> list[dict]:
+    from common import effective_zh
+
     review = load_all_review_titles(REVIEW_TITLES)
     source_meta: dict[str, dict] = {}
     if SOURCE_DIR.is_dir():
@@ -37,8 +39,8 @@ def load_pairs() -> list[dict]:
 
     pairs = []
     for pid, row in review.items():
-        zh = (row.get("zh") or "").strip()
         en = (row.get("en") or "").strip()
+        zh = effective_zh(row)
         if not en or not zh:
             continue
         if row.get("status") == "skip":
@@ -52,10 +54,13 @@ def load_pairs() -> list[dict]:
                 "slug": meta.get("slug") or "",
                 "type": row.get("type") or meta.get("type") or "",
                 "en": en,
+                "zh_draft": (row.get("zh_draft") or "").strip(),
+                "zh_ai": (row.get("zh_ai") or "").strip(),
+                "zh_human": (row.get("zh_human") or "").strip(),
                 "zh": zh,
                 "desc": desc_en,
                 "desc_zh": desc_zh,
-                "status": row.get("status") or "machine",
+                "status": row.get("status") or "pending",
                 "downloads": int(meta.get("downloads") or 0),
             }
         )
@@ -122,6 +127,9 @@ def main() -> int:
                         "slug": p.get("slug") or "",
                         "type": p.get("type") or "",
                         "en": p["en"],
+                        "zh_draft": p.get("zh_draft") or "",
+                        "zh_ai": p.get("zh_ai") or "",
+                        "zh_human": p.get("zh_human") or "",
                         "zh": p["zh"],
                         "desc": p.get("desc") or "",
                         "desc_zh": p.get("desc_zh") or "",
@@ -145,8 +153,8 @@ def main() -> int:
             "exact": "exact_titles.json",
         },
         "usage": {
-            "bilingual": "bilingual.jsonl：中英对照（标题搜索 / 译名）",
-            "translate_replace": "exact_titles.json：英文原名 → 中文",
+            "bilingual": "bilingual.jsonl：三层译名 zh_draft/zh_ai/zh_human + 有效 zh",
+            "translate_replace": "exact_titles.json：英文原名 → 有效中文",
         },
     }
     write_json(args.out / "version.json", version)

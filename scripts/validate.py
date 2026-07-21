@@ -11,7 +11,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from common import load_all_review_titles, parse_review_line
+from common import effective_zh, load_all_review_titles, needs_ai_correct, parse_review_line
 
 
 def main() -> int:
@@ -45,7 +45,8 @@ def main() -> int:
     review = load_all_review_titles(review_root)
     review_ids = set(review)
     status = Counter(r["status"] for r in review.values())
-    empty_zh = sum(1 for r in review.values() if not (r.get("zh") or "").strip())
+    empty_eff = sum(1 for r in review.values() if not effective_zh(r))
+    need_ai = sum(1 for r in review.values() if needs_ai_correct(r))
 
     only_review = review_ids - source_ids
     only_source = source_ids - review_ids
@@ -56,7 +57,6 @@ def main() -> int:
         print(f"ERROR ... and {len(only_review) - 20} more orphan review ids")
         errors += 1
 
-    # 格式抽查
     for path in sorted(review_root.rglob("*.jsonl")):
         for i, line in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
             if not line.strip() or line.startswith("#"):
@@ -69,9 +69,9 @@ def main() -> int:
     print(f"source_ids={len(source_ids)} review_ids={len(review_ids)}")
     print(f"only_source(missing review)={len(only_source)}")
     print(f"status={json.dumps(dict(status), ensure_ascii=True)}")
-    print(f"empty_zh={empty_zh}")
+    print(f"empty_effective_zh={empty_eff}")
+    print(f"need_ai_correct={need_ai}")
     print(f"errors={errors}")
-    # 缺 review 行算警告但不阻断（crawl 后可能短暂不一致）；orphan review 算错
     if only_source:
         print(f"WARN {len(only_source)} source ids lack review lines")
     return 1 if errors else 0

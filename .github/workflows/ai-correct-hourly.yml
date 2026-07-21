@@ -1,0 +1,71 @@
+# 每小时 AI 纠正一批标题（约跑满 55 分钟，只改尚无 zh_ai 的条目）
+name: ai-correct-hourly
+
+on:
+  schedule:
+    - cron: "5 * * * *"
+  workflow_dispatch:
+    inputs:
+      duration_minutes:
+        description: "本小时最长运行分钟数"
+        required: false
+        default: "55"
+      batch:
+        description: "每批条数"
+        required: false
+        default: "10"
+      limit:
+        description: "本轮最多处理条数（0=不限制）"
+        required: false
+        default: "0"
+
+concurrency:
+  group: ai-correct
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  ai-correct:
+    runs-on: ubuntu-latest
+    timeout-minutes: 70
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Ensure 3-layer schema (idempotent migrate)
+        run: python scripts/migrate_zh_layers.py
+
+      - name: AI correct pending titles
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          DURATION: ${{ github.event.inputs.duration_minutes || '55' }}
+          BATCH: ${{ github.event.inputs.batch || '10' }}
+          LIMIT: ${{ github.event.inputs.limit || '0' }}
+        run: |
+          if [ -z "$GOOGLE_API_KEY" ]; then
+            echo "GOOGLE_API_KEY secret missing" >&2
+            exit 1
+          fi
+          python scripts/ai_correct.py \
+            --batch "$BATCH" \
+            --duration-minutes "$DURATION" \
+            --limit "$LIMIT"
+
+      - name: Commit progress
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add review state/ai_correct_progress.json || true
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            DONE=$(python -c "import json;print(json.load(open('state/ai_correct_progress.json')).get('done',0))" 2>/dev/null || echo 0)
+            git commit -m "chore(i18n): AI correct hourly batch (+${DONE})"
+            git pull --rebase --autostash origin HEAD || true
+            git push
+          fi

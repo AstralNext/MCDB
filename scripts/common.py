@@ -136,11 +136,36 @@ def write_json(path: Path, data: dict) -> None:
     )
 
 
-ALLOWED_STATUS = {"pending", "machine", "reviewed", "skip", "error", "done"}
+ALLOWED_STATUS = {"pending", "ai", "reviewed", "skip", "error", "machine", "done"}
+
+
+def _nonempty(s: str | None) -> str:
+    return (s or "").strip()
+
+
+def effective_zh(row: dict) -> str:
+    """人工 > AI > 底稿；兼容旧字段 zh。"""
+    for key in ("zh_human", "zh_ai", "zh_draft", "zh"):
+        v = _nonempty(row.get(key))
+        if v:
+            return v
+    return ""
+
+
+def needs_ai_correct(row: dict) -> bool:
+    """尚无 AI 纠正、非 skip、且人工未定稿。"""
+    status = str(row.get("status") or "").strip()
+    if status == "skip":
+        return False
+    if _nonempty(row.get("zh_human")):
+        return False
+    if _nonempty(row.get("zh_ai")):
+        return False
+    return True
 
 
 def parse_review_line(line: str) -> dict | None:
-    """解析 JSONL：{"id","en","zh","status"}。"""
+    """解析 JSONL：三层译名 + status。"""
     raw = line.strip()
     if not raw or raw.startswith("#"):
         return None
@@ -152,47 +177,105 @@ def parse_review_line(line: str) -> dict | None:
         return None
     pid = str(o.get("id") or "").strip()
     en = o.get("en")
-    zh = o.get("zh")
     if en is None:
         en = o.get("title_en") or o.get("title") or ""
-    if zh is None:
-        zh = o.get("title_zh") or ""
+    en = str(en)
+
+    zh_legacy = o.get("zh")
+    if zh_legacy is None:
+        zh_legacy = o.get("title_zh") or ""
+    zh_legacy = str(zh_legacy)
+
+    zh_draft = o.get("zh_draft")
+    zh_ai = o.get("zh_ai")
+    zh_human = o.get("zh_human")
+    # 旧单字段：迁入底稿语义（读时兼容，写时由 migrate 落盘）
+    if zh_draft is None and zh_ai is None and zh_human is None:
+        zh_draft = zh_legacy
+        zh_ai = ""
+        zh_human = ""
+    else:
+        zh_draft = "" if zh_draft is None else str(zh_draft)
+        zh_ai = "" if zh_ai is None else str(zh_ai)
+        zh_human = "" if zh_human is None else str(zh_human)
+
     desc = o.get("desc")
     if desc is None:
         desc = o.get("desc_en") or o.get("description") or ""
     desc_zh = o.get("desc_zh")
     if desc_zh is None:
         desc_zh = o.get("description_zh") or ""
-    en = str(en)
-    zh = str(zh)
     desc = str(desc)
     desc_zh = str(desc_zh)
-    status = str(o.get("status") or ("reviewed" if zh.strip() else "pending")).strip()
+
+    status = str(o.get("status") or "pending").strip()
     if status not in ALLOWED_STATUS:
         return None
     if status == "done":
-        status = "machine"
+        status = "pending"
+    if status == "machine":
+        status = "pending"
+    # 有人工则 reviewed；有 AI 无人工则 ai；否则 pending
+    if _nonempty(zh_human):
+        status = "reviewed" if status != "skip" else status
+    elif _nonempty(zh_ai) and status not in ("skip", "error"):
+        status = "ai"
+
     if not pid or not en:
         return None
-    return {
+
+    row = {
         "id": pid,
         "en": en,
-        "zh": zh,
+        "zh_draft": zh_draft,
+        "zh_ai": zh_ai,
+        "zh_human": zh_human,
+        "zh": effective_zh(
+            {
+                "zh_human": zh_human,
+                "zh_ai": zh_ai,
+                "zh_draft": zh_draft,
+                "zh": zh_legacy,
+            }
+        ),
         "desc": desc,
         "desc_zh": desc_zh,
         "status": status,
     }
+    return row
 
 
 def format_review_line(
     pid: str,
     en: str,
-    zh: str,
-    status: str, *,
+    status: str,
+    *,
+    zh_draft: str = "",
+    zh_ai: str = "",
+    zh_human: str = "",
+    zh: str | None = None,
     desc: str = "",
     desc_zh: str = "",
 ) -> str:
-    obj: dict = {"id": pid, "en": en or "", "zh": zh or "", "status": status}
+    """写入三层字段；zh 为 effective，便于人工扫一眼。"""
+    draft = zh_draft or ""
+    ai = zh_ai or ""
+    human = zh_human or ""
+    # 兼容旧调用：只传了 zh=
+    if zh is not None and not draft and not ai and not human:
+        draft = zh
+    eff = effective_zh(
+        {"zh_human": human, "zh_ai": ai, "zh_draft": draft}
+    )
+    obj: dict = {
+        "id": pid,
+        "en": en or "",
+        "zh_draft": draft,
+        "zh_ai": ai,
+        "zh_human": human,
+        "zh": eff,
+        "status": status,
+    }
     if desc:
         obj["desc"] = desc
     if desc_zh:
@@ -201,7 +284,7 @@ def format_review_line(
 
 
 def load_all_review_titles(review_root: Path = REVIEW_TITLES) -> dict[str, dict]:
-    """id -> {en, zh, status, path, type, shard}。reviewed 优先保留。"""
+    """id -> row。reviewed（有 zh_human）优先保留。"""
     out: dict[str, dict] = {}
     if not review_root.is_dir():
         return out
