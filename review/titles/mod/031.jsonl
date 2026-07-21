@@ -89,46 +89,46 @@
 {"id":"p9SnmT7W","en":"Fix MC-139908","zh":"修正MC-139908","status":"machine"}
 {"id":"53piQdTg","en":"Skylife","zh":"天空生活","status":"machine"}
 {"id":"MQoLAFN8","en":"Comparator","zh":"比较器","status":"machine"}
-{"id":"pIMBXkPK","en":"Entity Recycle Bin","zh":"","status":"pending"}
-{"id":"nwUv9SYJ","en":"Saddles!","zh":"","status":"pending"}
-{"id":"CrMBVxRD","en":"Villager Trading Helper","zh":"","status":"pending"}
-{"id":"Q3GM6ncK","en":"ItemFlex","zh":"","status":"pending"}
-{"id":"ZVGl1Td7","en":"Veno Valley Additions","zh":"","status":"pending"}
-{"id":"xBGazcdx","en":"Artemis - Better Biomes","zh":"","status":"pending"}
-{"id":"zJGcAN5a","en":"ServerGuardian","zh":"","status":"pending"}
-{"id":"VnE1qdNX","en":"Villager Pickup","zh":"","status":"pending"}
-{"id":"ZExSsfoR","en":"Combat State","zh":"","status":"pending"}
-{"id":"xKIoze7W","en":"HySpawn","zh":"","status":"pending"}
-{"id":"QhceNxKR","en":"Malmkraft - Ores & Resources","zh":"","status":"pending"}
-{"id":"rQosBkl6","en":"Smeltable Raw Ore Blocks (1.21.Xׁׁ)","zh":"","status":"pending"}
-{"id":"ggXh6CbG","en":"SilentJoin","zh":"","status":"pending"}
-{"id":"pEH2LUc6","en":"Lodestone Waypoints","zh":"","status":"pending"}
-{"id":"eB7k3pf3","en":"Fart Plugin","zh":"","status":"pending"}
-{"id":"fciXgFFd","en":"SkinsLib","zh":"","status":"pending"}
-{"id":"XplejnuW","en":"Sound Sign","zh":"","status":"pending"}
-{"id":"qKswkjrg","en":"CommandSpyPlus","zh":"","status":"pending"}
-{"id":"d8sddG5u","en":"Ultimate Homes","zh":"","status":"pending"}
-{"id":"o25oQ7f9","en":"Zones API","zh":"","status":"pending"}
-{"id":"niJPLrPI","en":"NoItemBreak","zh":"","status":"pending"}
-{"id":"72KSAFnn","en":"Staff+","zh":"","status":"pending"}
-{"id":"pJL7WgY6","en":"Mycelium Craft","zh":"","status":"pending"}
-{"id":"H3CoMToa","en":"6T4 Challenges","zh":"","status":"pending"}
-{"id":"Jn2JX8xT","en":"Darwin Fish","zh":"","status":"pending"}
-{"id":"vk53agI1","en":"Ying-Yang","zh":"","status":"pending"}
-{"id":"MoCMCBcS","en":"annihilationbladeEX","zh":"","status":"pending"}
-{"id":"TzDgobxt","en":"Wing It!","zh":"","status":"pending"}
-{"id":"1cblFKnJ","en":"nocape","zh":"","status":"pending"}
-{"id":"gJPzubyv","en":"ImmuneCharge++","zh":"","status":"pending"}
-{"id":"ZQ631MZa","en":"GambleBar","zh":"","status":"pending"}
-{"id":"2GQWEdh4","en":"Le Mod Wenjah","zh":"","status":"pending"}
-{"id":"qRcNIUcw","en":"WanderingPlus","zh":"","status":"pending"}
-{"id":"7sjDdsmQ","en":"Command Block Delay","zh":"","status":"pending"}
-{"id":"1lkxd5L5","en":"ItemDB","zh":"","status":"pending"}
-{"id":"6YspAAj0","en":"Dumb Mod","zh":"","status":"pending"}
-{"id":"EQYfBDqi","en":"CopyNameChat","zh":"","status":"pending"}
-{"id":"NqSOmYj1","en":"UsernameRegex","zh":"","status":"pending"}
-{"id":"uQKIxGE9","en":"BalanceFormatter","zh":"","status":"pending"}
-{"id":"Dv7hRsYD","en":"M3H EFM!","zh":"","status":"pending"}
+{"id":"pIMBXkPK","en":"Entity Recycle Bin","zh":"实体回收箱","status":"machine"}
+{"id":"nwUv9SYJ","en":"Saddles!","zh":"马鞍！","status":"machine"}
+{"id":"CrMBVxRD","en":"Villager Trading Helper","zh":"村民交易助手","status":"machine"}
+{"id":"Q3GM6ncK","en":"ItemFlex","zh":"ItemFlex","status":"machine"}
+{"id":"ZVGl1Td7","en":"Veno Valley Additions","zh":"维诺谷新增项目","status":"machine"}
+{"id":"xBGazcdx","en":"Artemis - Better Biomes","zh":"阿尔忒弥斯——更好的生态区","status":"machine"}
+{"id":"zJGcAN5a","en":"ServerGuardian","zh":"服务器守护者","status":"machine"}
+{"id":"VnE1qdNX","en":"Villager Pickup","zh":"村民接送","status":"machine"}
+{"id":"ZExSsfoR","en":"Combat State","zh":"战斗状态","status":"machine"}
+{"id":"xKIoze7W","en":"HySpawn","zh":"海斯波恩","status":"machine"}
+{"id":"QhceNxKR","en":"Malmkraft - Ores & Resources","zh":"马尔姆克拉夫特 - 矿石与资源","status":"machine"}
+{"id":"rQosBkl6","en":"Smeltable Raw Ore Blocks (1.21.Xׁׁ)","zh":"可熔炼原矿块（1.21.Xׁׁ）","status":"machine"}
+{"id":"ggXh6CbG","en":"SilentJoin","zh":"静默加入","status":"machine"}
+{"id":"pEH2LUc6","en":"Lodestone Waypoints","zh":"磁石航点","status":"machine"}
+{"id":"eB7k3pf3","en":"Fart Plugin","zh":"放屁插件","status":"machine"}
+{"id":"fciXgFFd","en":"SkinsLib","zh":"皮肤解放","status":"machine"}
+{"id":"XplejnuW","en":"Sound Sign","zh":"声音符号","status":"machine"}
+{"id":"qKswkjrg","en":"CommandSpyPlus","zh":"指挥间谍加","status":"machine"}
+{"id":"d8sddG5u","en":"Ultimate Homes","zh":"终极住宅","status":"machine"}
+{"id":"o25oQ7f9","en":"Zones API","zh":"分区 API","status":"machine"}
+{"id":"niJPLrPI","en":"NoItemBreak","zh":"无物断裂","status":"machine"}
+{"id":"72KSAFnn","en":"Staff+","zh":"Staff+","status":"machine"}
+{"id":"pJL7WgY6","en":"Mycelium Craft","zh":"菌丝工艺","status":"machine"}
+{"id":"H3CoMToa","en":"6T4 Challenges","zh":"6T4挑战","status":"machine"}
+{"id":"Jn2JX8xT","en":"Darwin Fish","zh":"达尔文·费什","status":"machine"}
+{"id":"vk53agI1","en":"Ying-Yang","zh":"英阳","status":"machine"}
+{"id":"MoCMCBcS","en":"annihilationbladeEX","zh":"歼灭之刃EX","status":"machine"}
+{"id":"TzDgobxt","en":"Wing It!","zh":"随手发挥！","status":"machine"}
+{"id":"1cblFKnJ","en":"nocape","zh":"诺卡佩","status":"machine"}
+{"id":"gJPzubyv","en":"ImmuneCharge++","zh":"免疫充电++","status":"machine"}
+{"id":"ZQ631MZa","en":"GambleBar","zh":"甘布尔酒吧","status":"machine"}
+{"id":"2GQWEdh4","en":"Le Mod Wenjah","zh":"勒莫德·温贾","status":"machine"}
+{"id":"qRcNIUcw","en":"WanderingPlus","zh":"流浪加","status":"machine"}
+{"id":"7sjDdsmQ","en":"Command Block Delay","zh":"命令块延迟","status":"machine"}
+{"id":"1lkxd5L5","en":"ItemDB","zh":"ItemDB","status":"machine"}
+{"id":"6YspAAj0","en":"Dumb Mod","zh":"愚蠢模组","status":"machine"}
+{"id":"EQYfBDqi","en":"CopyNameChat","zh":"CopyNameChat","status":"machine"}
+{"id":"NqSOmYj1","en":"UsernameRegex","zh":"用户名正则表达","status":"machine"}
+{"id":"uQKIxGE9","en":"BalanceFormatter","zh":"平衡形态","status":"machine"}
+{"id":"Dv7hRsYD","en":"M3H EFM!","zh":"M3H EFM！","status":"machine"}
 {"id":"KMZSkY7V","en":"Sagittari's Rubies","zh":"","status":"pending"}
 {"id":"OWbY6qq5","en":"Peaceful Players","zh":"","status":"pending"}
 {"id":"QddWpAt0","en":"Happier Ghasts","zh":"","status":"pending"}
