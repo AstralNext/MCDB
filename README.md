@@ -48,6 +48,8 @@ python scripts/search_titles.py "钠" -k 5
 | `GOOGLE_API_KEY` | Google AI Studio 密钥 |
 | `BIGMODEL_API_KEY` | 智谱主密钥 |
 | `BIGMODEL2_API_KEY` | 第二个智谱密钥（可选，并行） |
+| `BIGMODEL3_API_KEY` | 第三个智谱密钥（可选，并行） |
+| `BIGMODEL4_API_KEY` | 第四个智谱密钥（可选，并行） |
 | `AGNES_API_KEY` | Agnes AI 主密钥 |
 | `AGNES2_API_KEY` | 第二个 Agnes 密钥（可选，并行） |
 | `AGNES3_API_KEY` | 第三个 Agnes 密钥（可选，并行） |

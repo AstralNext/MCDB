@@ -53,6 +53,8 @@ jobs:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           BIGMODEL_API_KEY: ${{ secrets.BIGMODEL_API_KEY }}
           BIGMODEL2_API_KEY: ${{ secrets.BIGMODEL2_API_KEY }}
+          BIGMODEL3_API_KEY: ${{ secrets.BIGMODEL3_API_KEY }}
+          BIGMODEL4_API_KEY: ${{ secrets.BIGMODEL4_API_KEY }}
           AGNES_API_KEY: ${{ secrets.AGNES_API_KEY }}
           AGNES2_API_KEY: ${{ secrets.AGNES2_API_KEY }}
           AGNES3_API_KEY: ${{ secrets.AGNES3_API_KEY }}
@@ -67,7 +69,7 @@ jobs:
             done
             echo "$n"
           }
-          WORKERS=$(count_keys "$BIGMODEL_API_KEY" "$BIGMODEL2_API_KEY" "$AGNES_API_KEY" "$AGNES2_API_KEY" "$AGNES3_API_KEY" "$GOOGLE_API_KEY")
+          WORKERS=$(count_keys "$BIGMODEL_API_KEY" "$BIGMODEL2_API_KEY" "$BIGMODEL3_API_KEY" "$BIGMODEL4_API_KEY" "$AGNES_API_KEY" "$AGNES2_API_KEY" "$AGNES3_API_KEY" "$GOOGLE_API_KEY")
           if [ "$WORKERS" -eq 0 ]; then
             echo "Need at least one of BIGMODEL/AGNES/GOOGLE API keys" >&2
             exit 1

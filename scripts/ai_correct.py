@@ -3,7 +3,7 @@
 
 环境变量：
   GOOGLE_API_KEY    — Google Gemini
-  BIGMODEL_API_KEY  — 智谱主密钥（更多：BIGMODEL2_API_KEY、BIGMODEL3_API_KEY 或 BIGMODEL_API_KEYS）
+  BIGMODEL_API_KEY  — 智谱主密钥（更多：BIGMODEL2/3/4_API_KEY 或 BIGMODEL_API_KEYS）
   AGNES_API_KEY     — Agnes AI（可多个：AGNES2/3_API_KEY 或 AGNES_API_KEYS）
   AI_CORRECT_WORKERS — 并行线程数（默认 = 已配置密钥数）
 
@@ -342,6 +342,7 @@ def build_providers() -> list[Provider]:
             "BIGMODEL_API_KEY",
             "BIGMODEL2_API_KEY",
             "BIGMODEL3_API_KEY",
+            "BIGMODEL4_API_KEY",
         ),
         start=1,
     ):
