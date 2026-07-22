@@ -1,7 +1,7 @@
-{"id":"3lF88EgJ","en":"Little Maid Create","zh_draft":"小女仆创作","zh_ai":"","zh_human":"","zh":"小女仆创作","status":"pending"}
-{"id":"v9O6MsP8","en":"Minecraft Faithfully Remastered","zh_draft":"《我的世界》忠实重制版","zh_ai":"","zh_human":"","zh":"《我的世界》忠实重制版","status":"pending"}
-{"id":"SkA0N83u","en":"Azur","zh_draft":"Azur","zh_ai":"","zh_human":"","zh":"Azur","status":"pending"}
-{"id":"N7YLnfQ8","en":"Technically Optimized","zh_draft":"技术优化","zh_ai":"","zh_human":"","zh":"技术优化","status":"pending"}
+{"id":"3lF88EgJ","en":"Little Maid Create","zh_draft":"小女仆创作","zh_ai":"小女仆创造","zh_human":"","zh":"小女仆创造","status":"ai"}
+{"id":"v9O6MsP8","en":"Minecraft Faithfully Remastered","zh_draft":"《我的世界》忠实重制版","zh_ai":"忠实重制版Minecraft","zh_human":"","zh":"忠实重制版Minecraft","status":"ai"}
+{"id":"SkA0N83u","en":"Azur","zh_draft":"Azur","zh_ai":"Azur","zh_human":"","zh":"Azur","status":"ai"}
+{"id":"N7YLnfQ8","en":"Technically Optimized","zh_draft":"技术优化","zh_ai":"技术优化","zh_human":"","zh":"技术优化","status":"ai"}
 {"id":"1pLr0Ghx","en":"CreepyCraft","zh_draft":"CreepyCraft","zh_ai":"","zh_human":"","zh":"CreepyCraft","status":"pending"}
 {"id":"12QYv5ME","en":"Azulite's Create Pack","zh_draft":"Azulite 的“创作包”","zh_ai":"","zh_human":"","zh":"Azulite 的“创作包”","status":"pending"}
 {"id":"LvmNqdm4","en":"Divinn's Cobblemon & Stuff","zh_draft":"Divinn的科布尔蒙及其他","zh_ai":"","zh_human":"","zh":"Divinn的科布尔蒙及其他","status":"pending"}
@@ -42,246 +42,246 @@
 {"id":"oMskb4v5","en":"G-Craft","zh_draft":"G-Craft","zh_ai":"","zh_human":"","zh":"G-Craft","status":"pending"}
 {"id":"pVda2Kof","en":"Dark Dimensions 3: Dimensional War","zh_draft":"《暗黑维度3：维度之战》","zh_ai":"","zh_human":"","zh":"《暗黑维度3：维度之战》","status":"pending"}
 {"id":"3fbBugWT","en":"Argon","zh_draft":"氩","zh_ai":"","zh_human":"","zh":"氩","status":"pending"}
-{"id":"J5xlMzUn","en":"GregTech: VR Edition","zh_draft":"GregTech：VR版","zh_ai":"","zh_human":"","zh":"GregTech：VR版","status":"pending"}
-{"id":"UbMyvFDu","en":"tokaua's PvP Pack","zh_draft":"tokaua 的 PvP 礼包","zh_ai":"","zh_human":"","zh":"tokaua 的 PvP 礼包","status":"pending"}
-{"id":"krnmntLV","en":"Minerva","zh_draft":"米涅瓦","zh_ai":"","zh_human":"","zh":"米涅瓦","status":"pending"}
-{"id":"2oHDMY5x","en":"Performance Eternal","zh_draft":"永恒的表演","zh_ai":"","zh_human":"","zh":"永恒的表演","status":"pending"}
-{"id":"ZZL3lDML","en":"Create in Chunk","zh_draft":"分块创建","zh_ai":"","zh_human":"","zh":"分块创建","status":"pending"}
-{"id":"Sx0iPO4p","en":"Client Necessities","zh_draft":"客户需求","zh_ai":"","zh_human":"","zh":"客户需求","status":"pending"}
-{"id":"PwyxMN09","en":"Fabric Kazzen","zh_draft":"法布里克·卡岑","zh_ai":"","zh_human":"","zh":"法布里克·卡岑","status":"pending"}
-{"id":"FZrU1oX4","en":"The Builder's Modpack","zh_draft":"《建造者模组包》","zh_ai":"","zh_human":"","zh":"《建造者模组包》","status":"pending"}
-{"id":"nvJNNtZt","en":"Forest Beta+","zh_draft":"Forest Beta+","zh_ai":"","zh_human":"","zh":"Forest Beta+","status":"pending"}
-{"id":"TVo6piJe","en":"Mio mods","zh_draft":"Mio 改装","zh_ai":"","zh_human":"","zh":"Mio 改装","status":"pending"}
-{"id":"ZRQ8Qe3p","en":"Vanilla+ | Better Exploration","zh_draft":"Vanilla+ | 更精彩的探索","zh_ai":"","zh_human":"","zh":"Vanilla+ | 更精彩的探索","status":"pending"}
-{"id":"hZTe9D99","en":"Time Synced","zh_draft":"时间同步","zh_ai":"","zh_human":"","zh":"时间同步","status":"pending"}
-{"id":"l35JBMY2","en":"-Slightly- different Renderer","zh_draft":"-略有-不同的渲染器","zh_ai":"","zh_human":"","zh":"-略有-不同的渲染器","status":"pending"}
-{"id":"vS7x3wto","en":"The Monster Spawned Official Pack [Modded Edition]","zh_draft":"《怪物诞生》官方资料包 [修改版]","zh_ai":"","zh_human":"","zh":"《怪物诞生》官方资料包 [修改版]","status":"pending"}
-{"id":"BnHRJhYb","en":"silly modpack","zh_draft":"傻乎乎的模组包","zh_ai":"","zh_human":"","zh":"傻乎乎的模组包","status":"pending"}
-{"id":"ZKcTVXrc","en":"The Lost Server - The Broken Script","zh_draft":"《失落的服务器——破碎的剧本》","zh_ai":"","zh_human":"","zh":"《失落的服务器——破碎的剧本》","status":"pending"}
-{"id":"EZUM7DPK","en":"Reimaden SMP","zh_draft":"Reimaden SMP","zh_ai":"","zh_human":"","zh":"Reimaden SMP","status":"pending"}
-{"id":"GbNYjiAg","en":"Lekkerman Clientside","zh_draft":"Lekkerman 客户端","zh_ai":"","zh_human":"","zh":"Lekkerman 客户端","status":"pending"}
-{"id":"1Jubezv9","en":"Cubelets Cobblemon","zh_draft":"Cubelets 科布尔蒙","zh_ai":"","zh_human":"","zh":"Cubelets 科布尔蒙","status":"pending"}
-{"id":"KQK0AcoC","en":"GSkard-Modpack","zh_draft":"GSkard-模组包","zh_ai":"","zh_human":"","zh":"GSkard-模组包","status":"pending"}
-{"id":"uRRHDCqG","en":"Potato Mods","zh_draft":"Potato Mods","zh_ai":"","zh_human":"","zh":"Potato Mods","status":"pending"}
-{"id":"dwJRlcNu","en":"Access your abilities","zh_draft":"发挥你的能力","zh_ai":"","zh_human":"","zh":"发挥你的能力","status":"pending"}
-{"id":"Z9dpCFLi","en":"MC for the Steam Deck","zh_draft":"Steam Deck 的 MC","zh_ai":"","zh_human":"","zh":"Steam Deck 的 MC","status":"pending"}
-{"id":"z1nnzjsw","en":"Vervain's Integrated Modpack for Performance","zh_draft":"Vervain 性能综合模组包","zh_ai":"","zh_human":"","zh":"Vervain 性能综合模组包","status":"pending"}
-{"id":"99pgNcm5","en":"Moded Lifesteal","zh_draft":"强化吸血","zh_ai":"","zh_human":"","zh":"强化吸血","status":"pending"}
-{"id":"X6O2qCqg","en":"Ultra View","zh_draft":"Ultra View","zh_ai":"","zh_human":"","zh":"Ultra View","status":"pending"}
-{"id":"d4HHMvFP","en":"FPS Craft(Builder's Edition)","zh_draft":"FPS Craft（建造者版）","zh_ai":"","zh_human":"","zh":"FPS Craft（建造者版）","status":"pending"}
-{"id":"pH2IEQW4","en":"KattCo: Management Wanted Modpack","zh_draft":"KattCo：招聘管理层模组包","zh_ai":"","zh_human":"","zh":"KattCo：招聘管理层模组包","status":"pending"}
-{"id":"175u5lkK","en":"RvNxMango Anarchy Modpack","zh_draft":"RvNxMango 无政府主义模组包","zh_ai":"","zh_human":"","zh":"RvNxMango 无政府主义模组包","status":"pending"}
-{"id":"XKG5ptce","en":"Last One Alive","zh_draft":"最后一个幸存者","zh_ai":"","zh_human":"","zh":"最后一个幸存者","status":"pending"}
-{"id":"g2JXbXuJ","en":"Minecraft: Trailer Style","zh_draft":"《我的世界》：预告片风格","zh_ai":"","zh_human":"","zh":"《我的世界》：预告片风格","status":"pending"}
-{"id":"k2eO7NKu","en":"Emberspark Cobblemon","zh_draft":"余烬火花·科布尔蒙","zh_ai":"","zh_human":"","zh":"余烬火花·科布尔蒙","status":"pending"}
-{"id":"GLwLtVYh","en":"Beautiful Optimized","zh_draft":"优美且经过优化","zh_ai":"","zh_human":"","zh":"优美且经过优化","status":"pending"}
-{"id":"KpxDzEYo","en":"MirageCraft Pixelmon","zh_draft":"MirageCraft Pixelmon","zh_ai":"","zh_human":"","zh":"MirageCraft Pixelmon","status":"pending"}
-{"id":"hxHND1sh","en":"MineHanced 2","zh_draft":"MineHanced 2","zh_ai":"","zh_human":"","zh":"MineHanced 2","status":"pending"}
-{"id":"Fh6nQPrW","en":"Spears' Modpack","zh_draft":"斯皮尔斯的模组包","zh_ai":"","zh_human":"","zh":"斯皮尔斯的模组包","status":"pending"}
-{"id":"y4o9OeyJ","en":"ModFest: Singularity","zh_draft":"ModFest：奇点","zh_ai":"","zh_human":"","zh":"ModFest：奇点","status":"pending"}
-{"id":"vkAztSta","en":"Reverie","zh_draft":"遐想","zh_ai":"","zh_human":"","zh":"遐想","status":"pending"}
-{"id":"qReEwNRA","en":"Cinemacraft","zh_draft":"Cinemacraft","zh_ai":"","zh_human":"","zh":"Cinemacraft","status":"pending"}
-{"id":"7O7VtTW6","en":"No Chat Reports","zh_draft":"无聊天报告","zh_ai":"","zh_human":"","zh":"无聊天报告","status":"pending"}
-{"id":"iVMg4XDM","en":"Shadow Wizard Money Gang","zh_draft":"暗影法师金钱帮","zh_ai":"","zh_human":"","zh":"暗影法师金钱帮","status":"pending"}
-{"id":"9rdIDspw","en":"Twenty or Less Mods Performance","zh_draft":"“二十个或更少”模组的表现","zh_ai":"","zh_human":"","zh":"“二十个或更少”模组的表现","status":"pending"}
-{"id":"K1bDWxcM","en":"AttilaCraft 3","zh_draft":"AttilaCraft 3","zh_ai":"","zh_human":"","zh":"AttilaCraft 3","status":"pending"}
-{"id":"VmcFz4BI","en":"Orecraft Adventures","zh_draft":"Orecraft 冒险之旅","zh_ai":"","zh_human":"","zh":"Orecraft 冒险之旅","status":"pending"}
-{"id":"sYnio88G","en":"Theyab’s Survival Experience","zh_draft":"Theyab的生存经历","zh_ai":"","zh_human":"","zh":"Theyab的生存经历","status":"pending"}
-{"id":"blrSdgjc","en":"Salted Caramel","zh_draft":"咸焦糖","zh_ai":"","zh_human":"","zh":"咸焦糖","status":"pending"}
-{"id":"duNVI8Ye","en":"New Ardenite SMP","zh_draft":"新款 Ardenite SMP","zh_ai":"","zh_human":"","zh":"新款 Ardenite SMP","status":"pending"}
-{"id":"esaVVmZ3","en":"FatCat Gun PvP Pack","zh_draft":"FatCat Gun PvP 套装","zh_ai":"","zh_human":"","zh":"FatCat Gun PvP 套装","status":"pending"}
-{"id":"yp0fqS48","en":"Serene","zh_draft":"宁静","zh_ai":"","zh_human":"","zh":"宁静","status":"pending"}
-{"id":"AYF4s7qx","en":"Back2Alpha","zh_draft":"Back2Alpha","zh_ai":"","zh_human":"","zh":"Back2Alpha","status":"pending"}
-{"id":"w4unz3sW","en":"Planes Trains and Cobblemon","zh_draft":"飞机、火车和科布尔蒙","zh_ai":"","zh_human":"","zh":"飞机、火车和科布尔蒙","status":"pending"}
-{"id":"QrR8IR9d","en":"Cobblemon MEGA Evolution","zh_draft":"石头怪 MEGA进化","zh_ai":"","zh_human":"","zh":"石头怪 MEGA进化","status":"pending"}
-{"id":"gqjHPs1k","en":"PvP to the Max","zh_draft":"PvP 尽情畅享","zh_ai":"","zh_human":"","zh":"PvP 尽情畅享","status":"pending"}
-{"id":"4uF4WPKA","en":"Gentle Brew","zh_draft":"温和酿造","zh_ai":"","zh_human":"","zh":"温和酿造","status":"pending"}
-{"id":"f8uKew98","en":"Create-Technical(CreateTech)","zh_draft":"Create-Technical（CreateTech）","zh_ai":"","zh_human":"","zh":"Create-Technical（CreateTech）","status":"pending"}
-{"id":"gGx62WeX","en":"Timelord Adventures","zh_draft":"《时间领主历险记》","zh_ai":"","zh_human":"","zh":"《时间领主历险记》","status":"pending"}
-{"id":"yKY7Fvn3","en":"Comely Adventure","zh_draft":"迷人的冒险","zh_ai":"","zh_human":"","zh":"迷人的冒险","status":"pending"}
-{"id":"Qh8PEGov","en":"TheTimeVortex Modpack","zh_draft":"《TheTimeVortex》模组包","zh_ai":"","zh_human":"","zh":"《TheTimeVortex》模组包","status":"pending"}
-{"id":"DostwBtw","en":"Keramika","zh_draft":"Keramika","zh_ai":"","zh_human":"","zh":"Keramika","status":"pending"}
-{"id":"TP2Bu3k4","en":"Hardcore Alchemy","zh_draft":"硬核炼金术","zh_ai":"","zh_human":"","zh":"硬核炼金术","status":"pending"}
-{"id":"WyGpIlgw","en":"Apocalyptic Resistance","zh_draft":"《末日抵抗》","zh_ai":"","zh_human":"","zh":"《末日抵抗》","status":"pending"}
-{"id":"n8XIwA0x","en":"Tango Modded","zh_draft":"Tango 修改版","zh_ai":"","zh_human":"","zh":"Tango 修改版","status":"pending"}
-{"id":"8Lulmk8M","en":"Solas SMP QOL Modpack","zh_draft":"Solas SMP 生活质量模组包","zh_ai":"","zh_human":"","zh":"Solas SMP 生活质量模组包","status":"pending"}
-{"id":"DlAYGmaI","en":"FROZEN APOCALYPSE","zh_draft":"冰封末日","zh_ai":"","zh_human":"","zh":"冰封末日","status":"pending"}
-{"id":"HeLBS3Zq","en":"devcraft","zh_draft":"devcraft","zh_ai":"","zh_human":"","zh":"devcraft","status":"pending"}
-{"id":"uSoMxDcd","en":"ORIGINS SMP S2","zh_draft":"ORIGINS SMP S2","zh_ai":"","zh_human":"","zh":"ORIGINS SMP S2","status":"pending"}
-{"id":"2oFeDZEL","en":"Nova’s Perfected","zh_draft":"《Nova》的臻于完美","zh_ai":"","zh_human":"","zh":"《Nova》的臻于完美","status":"pending"}
-{"id":"4BvPZOIL","en":"Holapack","zh_draft":"Holapack","zh_ai":"","zh_human":"","zh":"Holapack","status":"pending"}
-{"id":"vcHANb0O","en":"ImagineFun Add-Ons","zh_draft":"ImagineFun 扩展功能","zh_ai":"","zh_human":"","zh":"ImagineFun 扩展功能","status":"pending"}
-{"id":"AUOnuVb0","en":"All you need: Horror","zh_draft":"你所需要的：恐怖","zh_ai":"","zh_human":"","zh":"你所需要的：恐怖","status":"pending"}
-{"id":"EJJfApPn","en":"True: Calamity","zh_draft":"《真相：灾难》","zh_ai":"","zh_human":"","zh":"《真相：灾难》","status":"pending"}
-{"id":"QZGnuwRK","en":"VRCraft","zh_draft":"VRCraft","zh_ai":"","zh_human":"","zh":"VRCraft","status":"pending"}
-{"id":"ATAuWnEZ","en":"InteritusCraft","zh_draft":"InteritusCraft","zh_ai":"","zh_human":"","zh":"InteritusCraft","status":"pending"}
-{"id":"VvLAbbPp","en":"Horror: Perfected","zh_draft":"恐怖：臻于完美","zh_ai":"","zh_human":"","zh":"恐怖：臻于完美","status":"pending"}
-{"id":"GrHJ84fF","en":"Aeroworks","zh_draft":"Aeroworks","zh_ai":"","zh_human":"","zh":"Aeroworks","status":"pending"}
-{"id":"Zvyw87v3","en":"MCSMD-Java","zh_draft":"MCSMD-Java","zh_ai":"","zh_human":"","zh":"MCSMD-Java","status":"pending"}
-{"id":"aGkDzX1O","en":"cubesdufutur","zh_draft":"cubesdufutur","zh_ai":"","zh_human":"","zh":"cubesdufutur","status":"pending"}
-{"id":"rBVqF3J8","en":"WysternCraft","zh_draft":"WysternCraft","zh_ai":"","zh_human":"","zh":"WysternCraft","status":"pending"}
-{"id":"vXl0v3x6","en":"Create: Skies & Beyond","zh_draft":"创作：天空与更远之处","zh_ai":"","zh_human":"","zh":"创作：天空与更远之处","status":"pending"}
-{"id":"wjirDytO","en":"WONDERVERSE PRIME","zh_draft":"WONDERVERSE PRIME","zh_ai":"","zh_human":"","zh":"WONDERVERSE PRIME","status":"pending"}
-{"id":"ZippRRkw","en":"Piratecraft Modpack","zh_draft":"《海盗工艺》模组包","zh_ai":"","zh_human":"","zh":"《海盗工艺》模组包","status":"pending"}
-{"id":"x3hbp8Wz","en":"TFC Extended","zh_draft":"TFC 扩展版","zh_ai":"","zh_human":"","zh":"TFC 扩展版","status":"pending"}
-{"id":"OwTcTHUI","en":"Create: Bliss","zh_draft":"创作：Bliss","zh_ai":"","zh_human":"","zh":"创作：Bliss","status":"pending"}
-{"id":"Edix9086","en":"SeniorLegend FPS Boost - Mobile Edition","zh_draft":"SeniorLegend FPS Boost - 移动版","zh_ai":"","zh_human":"","zh":"SeniorLegend FPS Boost - 移动版","status":"pending"}
-{"id":"GA1ha0jT","en":"Bedrock Edition: Legacy","zh_draft":"基岩版：经典版","zh_ai":"","zh_human":"","zh":"基岩版：经典版","status":"pending"}
-{"id":"KkpB1FwG","en":"Everything Modrinth","zh_draft":"关于莫德林斯的一切","zh_ai":"","zh_human":"","zh":"关于莫德林斯的一切","status":"pending"}
-{"id":"iPrr52jv","en":"The OW Nerds' Modpack","zh_draft":"OW Nerds 的模组包","zh_ai":"","zh_human":"","zh":"OW Nerds 的模组包","status":"pending"}
-{"id":"ZVaQmaEC","en":"DBobbyClient","zh_draft":"DBobbyClient","zh_ai":"","zh_human":"","zh":"DBobbyClient","status":"pending"}
-{"id":"zCJ606t6","en":"Tillage","zh_draft":"耕作","zh_ai":"","zh_human":"","zh":"耕作","status":"pending"}
-{"id":"68FlS3RJ","en":"KonoSuba: God's Blessing on This Wonderful World","zh_draft":"《这个美妙的世界，愿神保佑》","zh_ai":"","zh_human":"","zh":"《这个美妙的世界，愿神保佑》","status":"pending"}
-{"id":"HVjlzo2y","en":"Snowbound","zh_draft":"大雪封路","zh_ai":"","zh_human":"","zh":"大雪封路","status":"pending"}
-{"id":"jzcCrOrR","en":"Trailer Edition","zh_draft":"预告片版","zh_ai":"","zh_human":"","zh":"预告片版","status":"pending"}
-{"id":"muYTTFnZ","en":"ToadOdyssey","zh_draft":"ToadOdyssey","zh_ai":"","zh_human":"","zh":"ToadOdyssey","status":"pending"}
-{"id":"RDIYfJae","en":"All the Things!","zh_draft":"所有东西！","zh_ai":"","zh_human":"","zh":"所有东西！","status":"pending"}
-{"id":"pl3jzHBI","en":"Ebrius Pack","zh_draft":"埃布里乌斯套装","zh_ai":"","zh_human":"","zh":"埃布里乌斯套装","status":"pending"}
-{"id":"LMudvydf","en":"Magic, Medieval and Mythics","zh_draft":"魔法、中世纪与神话","zh_ai":"","zh_human":"","zh":"魔法、中世纪与神话","status":"pending"}
-{"id":"9biDVU4u","en":"Realistically Irritatingly Difficult","zh_draft":"现实中令人恼火的难度","zh_ai":"","zh_human":"","zh":"现实中令人恼火的难度","status":"pending"}
-{"id":"l2L6GCPn","en":"Winter Horrorscape","zh_draft":"冬日恐怖景观","zh_ai":"","zh_human":"","zh":"冬日恐怖景观","status":"pending"}
-{"id":"2tYxJAZo","en":"Cobblemon Create RPG","zh_draft":"《Cobblemon Create RPG》","zh_ai":"","zh_human":"","zh":"《Cobblemon Create RPG》","status":"pending"}
-{"id":"X5uy3rtT","en":"Train City Craft","zh_draft":"火车城市工坊","zh_ai":"","zh_human":"","zh":"火车城市工坊","status":"pending"}
-{"id":"dowmdJEZ","en":"Legends - RPG Dungeons","zh_draft":"《传奇》——角色扮演类地牢游戏","zh_ai":"","zh_human":"","zh":"《传奇》——角色扮演类地牢游戏","status":"pending"}
-{"id":"eYGxt98x","en":"MCC Island Unlocked","zh_draft":"解锁MCC岛","zh_ai":"","zh_human":"","zh":"解锁MCC岛","status":"pending"}
-{"id":"Zxyaa2WY","en":"FPS MAX+","zh_draft":"FPS MAX+","zh_ai":"","zh_human":"","zh":"FPS MAX+","status":"pending"}
-{"id":"zHeoAkBq","en":"EjThePvP'S PvP Pack","zh_draft":"EjThePvP 的 PvP 包","zh_ai":"","zh_human":"","zh":"EjThePvP 的 PvP 包","status":"pending"}
-{"id":"vdslakyU","en":"The Golden Days","zh_draft":"黄金岁月","zh_ai":"","zh_human":"","zh":"黄金岁月","status":"pending"}
-{"id":"3bZGMxNC","en":"Dino dance pack","zh_draft":"恐龙舞蹈包","zh_ai":"","zh_human":"","zh":"恐龙舞蹈包","status":"pending"}
-{"id":"sckmsbqT","en":"Sp worlds","zh_draft":"Sp 世界","zh_ai":"","zh_human":"","zh":"Sp 世界","status":"pending"}
-{"id":"1q5BdPZj","en":"Create: Rethinked","zh_draft":"《Create：重新构想》","zh_ai":"","zh_human":"","zh":"《Create：重新构想》","status":"pending"}
-{"id":"NWqc1pJm","en":"BlockCraft CrystalPVP (CPVP)","zh_draft":"BlockCraft CrystalPVP (CPVP)","zh_ai":"","zh_human":"","zh":"BlockCraft CrystalPVP (CPVP)","status":"pending"}
-{"id":"Xah4jynk","en":"The MegaFaresX Modpack","zh_draft":"MegaFaresX 模组包","zh_ai":"","zh_human":"","zh":"MegaFaresX 模组包","status":"pending"}
-{"id":"lF6XcleQ","en":"KRILLKRAFT","zh_draft":"KRILLKRAFT","zh_ai":"","zh_human":"","zh":"KRILLKRAFT","status":"pending"}
-{"id":"glNdDRI0","en":"Pookie","zh_draft":"Pookie","zh_ai":"","zh_human":"","zh":"Pookie","status":"pending"}
-{"id":"wL7kgJnU","en":"StormWatchers: Emergency","zh_draft":"《风暴观察者：紧急情况》","zh_ai":"","zh_human":"","zh":"《风暴观察者：紧急情况》","status":"pending"}
-{"id":"fonVaqdH","en":"Vanilla QoL","zh_draft":"Vanilla QoL","zh_ai":"","zh_human":"","zh":"Vanilla QoL","status":"pending"}
-{"id":"2CjqTxJV","en":"Impact","zh_draft":"影响","zh_ai":"","zh_human":"","zh":"影响","status":"pending"}
-{"id":"DjY4vwWO","en":"Breathful: An Atmospheric Journey","zh_draft":"《Breathful：一场充满氛围感的旅程》","zh_ai":"","zh_human":"","zh":"《Breathful：一场充满氛围感的旅程》","status":"pending"}
-{"id":"WCQwA4kA","en":"Farmers Craft","zh_draft":"农家手工艺","zh_ai":"","zh_human":"","zh":"农家手工艺","status":"pending"}
-{"id":"qLbWAkIE","en":"Forge+Optimized","zh_draft":"Forge+优化版","zh_ai":"","zh_human":"","zh":"Forge+优化版","status":"pending"}
-{"id":"GqBN9Gze","en":"Riptidium","zh_draft":"Riptidium","zh_ai":"","zh_human":"","zh":"Riptidium","status":"pending"}
-{"id":"vYDdkxEM","en":"Not Enough Guns","zh_draft":"枪支不足","zh_ai":"","zh_human":"","zh":"枪支不足","status":"pending"}
-{"id":"4ajlLwPF","en":"ultra optimization on vulkan","zh_draft":"Vulkan 的深度优化","zh_ai":"","zh_human":"","zh":"Vulkan 的深度优化","status":"pending"}
-{"id":"63jcdCqn","en":"Starfell: The Second Knight","zh_draft":"《星落：第二骑士》","zh_ai":"","zh_human":"","zh":"《星落：第二骑士》","status":"pending"}
-{"id":"rAuiq0eg","en":"KimetsuCraftModpack","zh_draft":"KimetsuCraftModpack","zh_ai":"","zh_human":"","zh":"KimetsuCraftModpack","status":"pending"}
-{"id":"2o8ZNr3u","en":"Lag Slayer: FPS Edition","zh_draft":"《延迟终结者：FPS版》","zh_ai":"","zh_human":"","zh":"《延迟终结者：FPS版》","status":"pending"}
-{"id":"45TPUd5Q","en":"FurryRPG","zh_draft":"FurryRPG","zh_ai":"","zh_human":"","zh":"FurryRPG","status":"pending"}
-{"id":"rG2LlAtJ","en":"Better Minecraft Custom","zh_draft":"更好的《我的世界》模组","zh_ai":"","zh_human":"","zh":"更好的《我的世界》模组","status":"pending"}
-{"id":"dm9a6Tly","en":"Stranded","zh_draft":"受困","zh_ai":"","zh_human":"","zh":"受困","status":"pending"}
-{"id":"aZBCmWEa","en":"Legend's Creator Essentials","zh_draft":"《Legend》创作者必备指南","zh_ai":"","zh_human":"","zh":"《Legend》创作者必备指南","status":"pending"}
-{"id":"DM08xSnr","en":"Men play Skyblock (Lite)","zh_draft":"男性玩家玩《Skyblock（Lite）》","zh_ai":"","zh_human":"","zh":"男性玩家玩《Skyblock（Lite）》","status":"pending"}
-{"id":"RQXO09r0","en":"The Useful Pack","zh_draft":"实用套装","zh_ai":"","zh_human":"","zh":"实用套装","status":"pending"}
-{"id":"K4knSn41","en":"Cobblemon and Gears","zh_draft":"科布尔蒙和齿轮","zh_ai":"","zh_human":"","zh":"科布尔蒙和齿轮","status":"pending"}
-{"id":"e3v4PZPD","en":"Demon Slayer #DS","zh_draft":"鬼灭之刃 #DS","zh_ai":"","zh_human":"","zh":"鬼灭之刃 #DS","status":"pending"}
-{"id":"6ez8zbhp","en":"garetcraft SMP","zh_draft":"garetcraft SMP","zh_ai":"","zh_human":"","zh":"garetcraft SMP","status":"pending"}
-{"id":"CUQscRgH","en":"The Sculk Horde - Modpack","zh_draft":"《Sculk Horde》——模组包","zh_ai":"","zh_human":"","zh":"《Sculk Horde》——模组包","status":"pending"}
-{"id":"HQMdevcC","en":"Portal Craft","zh_draft":"《Portal Craft》","zh_ai":"","zh_human":"","zh":"《Portal Craft》","status":"pending"}
-{"id":"WwXJjmbe","en":"ImmersiveMC - IMC1","zh_draft":"ImmersiveMC - IMC1","zh_ai":"","zh_human":"","zh":"ImmersiveMC - IMC1","status":"pending"}
-{"id":"8zrkfiWU","en":"NeoIndustrial","zh_draft":"新工业","zh_ai":"","zh_human":"","zh":"新工业","status":"pending"}
-{"id":"9db71uUF","en":"Project Create 2","zh_draft":"“创造”项目 2","zh_ai":"","zh_human":"","zh":"“创造”项目 2","status":"pending"}
-{"id":"FlQzGto5","en":"Ratcraft","zh_draft":"Ratcraft","zh_ai":"","zh_human":"","zh":"Ratcraft","status":"pending"}
-{"id":"JHXddQMO","en":"SkyChunk Resurfaced","zh_draft":"《SkyChunk》重磅回归","zh_ai":"","zh_human":"","zh":"《SkyChunk》重磅回归","status":"pending"}
-{"id":"hjLPC6G9","en":"Dungeons and Towns","zh_draft":"地牢与城镇","zh_ai":"","zh_human":"","zh":"地牢与城镇","status":"pending"}
-{"id":"VX9aSdcO","en":"Foxy's Stone Saga","zh_draft":"《福克西的石头传奇》","zh_ai":"","zh_human":"","zh":"《福克西的石头传奇》","status":"pending"}
-{"id":"bFbhyiVs","en":"ESMP - Standard","zh_draft":"ESMP - 标准版","zh_ai":"","zh_human":"","zh":"ESMP - 标准版","status":"pending"}
-{"id":"uMwLQPEC","en":"Ignacia SMP","zh_draft":"伊格纳西亚 SMP","zh_ai":"","zh_human":"","zh":"伊格纳西亚 SMP","status":"pending"}
-{"id":"iKp2IdJv","en":"Arcane Dragons [NEOFORGE]","zh_draft":"奥术巨龙 [NEOFORGE]","zh_ai":"","zh_human":"","zh":"奥术巨龙 [NEOFORGE]","status":"pending"}
-{"id":"WFsEAqJr","en":"asphyxia mods","zh_draft":"窒息模组","zh_ai":"","zh_human":"","zh":"窒息模组","status":"pending"}
-{"id":"gGe8drPG","en":"Forge Optimized","zh_draft":"Forge 优化版","zh_ai":"","zh_human":"","zh":"Forge 优化版","status":"pending"}
-{"id":"Y4ABUjyV","en":"Dracium Create Edition","zh_draft":"Dracium 创作版","zh_ai":"","zh_human":"","zh":"Dracium 创作版","status":"pending"}
-{"id":"a3gYmuZx","en":"Visual","zh_draft":"视觉","zh_ai":"","zh_human":"","zh":"视觉","status":"pending"}
-{"id":"MlPTcgQ5","en":"Vinderland - Rift","zh_draft":"文德兰 - 裂隙","zh_ai":"","zh_human":"","zh":"文德兰 - 裂隙","status":"pending"}
-{"id":"iN1kI4g0","en":"Damine optimized","zh_draft":"Damine 已优化","zh_ai":"","zh_human":"","zh":"Damine 已优化","status":"pending"}
-{"id":"2tLIG9M7","en":"PAFB Pack","zh_draft":"PAFB 套装","zh_ai":"","zh_human":"","zh":"PAFB 套装","status":"pending"}
-{"id":"RAcFUHMi","en":"t0gp smp","zh_draft":"t0gp smp","zh_ai":"","zh_human":"","zh":"t0gp smp","status":"pending"}
-{"id":"V4cePEPy","en":"A Very Bad Modpack","zh_draft":"一个非常糟糕的模组包","zh_ai":"","zh_human":"","zh":"一个非常糟糕的模组包","status":"pending"}
-{"id":"p45F4XFa","en":"VisualCraft by Moizoref","zh_draft":"Moizoref 创作的《VisualCraft》","zh_ai":"","zh_human":"","zh":"Moizoref 创作的《VisualCraft》","status":"pending"}
-{"id":"2R5k8Ht5","en":"Dino's Kingdom","zh_draft":"迪诺的王国","zh_ai":"","zh_human":"","zh":"迪诺的王国","status":"pending"}
-{"id":"3PLawDWI","en":"Insanity","zh_draft":"疯狂","zh_ai":"","zh_human":"","zh":"疯狂","status":"pending"}
-{"id":"QKgzaVmn","en":"Above the cloud","zh_draft":"云之上","zh_ai":"","zh_human":"","zh":"云之上","status":"pending"}
-{"id":"RBoGlRxY","en":"Unimaginative Speed","zh_draft":"缺乏想象力的速度","zh_ai":"","zh_human":"","zh":"缺乏想象力的速度","status":"pending"}
-{"id":"5jBhJ9eA","en":"Just Vanilla Things","zh_draft":"纯粹的普通事物","zh_ai":"","zh_human":"","zh":"纯粹的普通事物","status":"pending"}
-{"id":"7GXtoBk6","en":"Militaryism","zh_draft":"军国主义","zh_ai":"","zh_human":"","zh":"军国主义","status":"pending"}
-{"id":"UHJt1qgO","en":"Adventure Overhaul+","zh_draft":"《冒险大翻新+》","zh_ai":"","zh_human":"","zh":"《冒险大翻新+》","status":"pending"}
-{"id":"RW1aoEBh","en":"Melody","zh_draft":"梅洛迪","zh_ai":"","zh_human":"","zh":"梅洛迪","status":"pending"}
-{"id":"IsNu5zcX","en":"Vanilla Enhance","zh_draft":"香草增强版","zh_ai":"","zh_human":"","zh":"香草增强版","status":"pending"}
-{"id":"4pKSSmRE","en":"Perfection Pack","zh_draft":"完美套装","zh_ai":"","zh_human":"","zh":"完美套装","status":"pending"}
-{"id":"KYc83XcM","en":"Builder's Delight","zh_draft":"建筑师的乐趣","zh_ai":"","zh_human":"","zh":"建筑师的乐趣","status":"pending"}
-{"id":"ZbOkX4VO","en":"Simple Client Mods","zh_draft":"简单的客户端模组","zh_ai":"","zh_human":"","zh":"简单的客户端模组","status":"pending"}
-{"id":"2y0pNYma","en":"Multiversal Vanilla","zh_draft":"多元宇宙原味","zh_ai":"","zh_human":"","zh":"多元宇宙原味","status":"pending"}
-{"id":"8PvD5tbt","en":"Create Industrial Complex","zh_draft":"创建工业园区","zh_ai":"","zh_human":"","zh":"创建工业园区","status":"pending"}
-{"id":"cWKAqncT","en":"Creation Exploring the Road of","zh_draft":"创作：探索……之路","zh_ai":"","zh_human":"","zh":"创作：探索……之路","status":"pending"}
-{"id":"EzrerBaK","en":"Thread","zh_draft":"主题","zh_ai":"","zh_human":"","zh":"主题","status":"pending"}
-{"id":"AEzpMzqp","en":"Enchantment Attack!","zh_draft":"魔法攻击！","zh_ai":"","zh_human":"","zh":"魔法攻击！","status":"pending"}
-{"id":"qlWTfrFr","en":"Invincible","zh_draft":"无敌","zh_ai":"","zh_human":"","zh":"无敌","status":"pending"}
-{"id":"jjSAREq0","en":"PokeCubed","zh_draft":"PokeCubed","zh_ai":"","zh_human":"","zh":"PokeCubed","status":"pending"}
-{"id":"3pVcvlKy","en":"VhyperCraft","zh_draft":"VhyperCraft","zh_ai":"","zh_human":"","zh":"VhyperCraft","status":"pending"}
-{"id":"5ckORlgY","en":"Cobble Cove QOL Modpack","zh_draft":"Cobble Cove 生活质量模组包","zh_ai":"","zh_human":"","zh":"Cobble Cove 生活质量模组包","status":"pending"}
-{"id":"VnFLK6YI","en":"CraftyCrew","zh_draft":"CraftyCrew","zh_ai":"","zh_human":"","zh":"CraftyCrew","status":"pending"}
-{"id":"RjsX1M8N","en":"Essence","zh_draft":"精髓","zh_ai":"","zh_human":"","zh":"精髓","status":"pending"}
-{"id":"W09VXJGP","en":"MCCI Utilities and Optimization Pack [Unofficial]","zh_draft":"MCCI 实用工具与优化包 [非官方版]","zh_ai":"","zh_human":"","zh":"MCCI 实用工具与优化包 [非官方版]","status":"pending"}
-{"id":"GMSvVIpM","en":"MC: Unknown","zh_draft":"MC：未知","zh_ai":"","zh_human":"","zh":"MC：未知","status":"pending"}
-{"id":"ZQs1g4OA","en":"Overly Vulkan","zh_draft":"Overly Vulkan","zh_ai":"","zh_human":"","zh":"Overly Vulkan","status":"pending"}
-{"id":"4VSZRQni","en":"Aetherial Airships","zh_draft":"以太飞艇","zh_ai":"","zh_human":"","zh":"以太飞艇","status":"pending"}
-{"id":"4gHmRCCG","en":"Glass Optimized","zh_draft":"针对玻璃进行了优化","zh_ai":"","zh_human":"","zh":"针对玻璃进行了优化","status":"pending"}
-{"id":"deGexWyQ","en":"Creat(e)ing Baumland","zh_draft":"创造“鲍姆兰”","zh_ai":"","zh_human":"","zh":"创造“鲍姆兰”","status":"pending"}
-{"id":"mgPh800Z","en":"CPVP Performance+","zh_draft":"CPVP Performance+","zh_ai":"","zh_human":"","zh":"CPVP Performance+","status":"pending"}
-{"id":"Uz1YOyAm","en":"Xtremely Optimized","zh_draft":"极致优化","zh_ai":"","zh_human":"","zh":"极致优化","status":"pending"}
-{"id":"YNRWzxYr","en":"lelMc","zh_draft":"lelMc","zh_ai":"","zh_human":"","zh":"lelMc","status":"pending"}
-{"id":"ZTsYVIjP","en":"Reach SMP","zh_draft":"联系 SMP","zh_ai":"","zh_human":"","zh":"联系 SMP","status":"pending"}
-{"id":"YJKnnYSA","en":"Furry Fruit Basket","zh_draft":"毛茸茸的水果篮","zh_ai":"","zh_human":"","zh":"毛茸茸的水果篮","status":"pending"}
-{"id":"AVCLVTSZ","en":"Optimized & Stuff","zh_draft":"优化及其他","zh_ai":"","zh_human":"","zh":"优化及其他","status":"pending"}
-{"id":"kM7oWBqX","en":"SuperYosh's PVP Client","zh_draft":"SuperYosh的PVP客户端","zh_ai":"","zh_human":"","zh":"SuperYosh的PVP客户端","status":"pending"}
-{"id":"cbZ2jlsv","en":"Cube Cavern Recrafted +","zh_draft":"《立方洞穴：重制版》+","zh_ai":"","zh_human":"","zh":"《立方洞穴：重制版》+","status":"pending"}
-{"id":"kp67VIB3","en":"Vanilla: Reforged","zh_draft":"《Vanilla：重铸》","zh_ai":"","zh_human":"","zh":"《Vanilla：重铸》","status":"pending"}
-{"id":"5lDIaXk1","en":"create aeronautics (update) modpack","zh_draft":"创建航空（更新版）模组包","zh_ai":"","zh_human":"","zh":"创建航空（更新版）模组包","status":"pending"}
-{"id":"1sVj1UgU","en":"ATOMLAND Optimized","zh_draft":"ATOMLAND 优化版","zh_ai":"","zh_human":"","zh":"ATOMLAND 优化版","status":"pending"}
-{"id":"UqAIdvco","en":"Simonuwu Fabric Project","zh_draft":"西蒙乌布料项目","zh_ai":"","zh_human":"","zh":"西蒙乌布料项目","status":"pending"}
-{"id":"KiXSuFix","en":"ExtraFPS","zh_draft":"ExtraFPS","zh_ai":"","zh_human":"","zh":"ExtraFPS","status":"pending"}
-{"id":"f1kbmNgz","en":"Create Warium","zh_draft":"创建 Warium","zh_ai":"","zh_human":"","zh":"创建 Warium","status":"pending"}
-{"id":"qAJSW83M","en":"Isaac's Optimized Horizons","zh_draft":"艾萨克的优化视野","zh_ai":"","zh_human":"","zh":"艾萨克的优化视野","status":"pending"}
-{"id":"rtiQSL7d","en":"FPSTODOMOON Sodium Edition","zh_draft":"FPSTODOMOON 钠版","zh_ai":"","zh_human":"","zh":"FPSTODOMOON 钠版","status":"pending"}
-{"id":"2DCKPGVX","en":"VsBase","zh_draft":"VsBase","zh_ai":"","zh_human":"","zh":"VsBase","status":"pending"}
-{"id":"A0GlgfGi","en":"Ultimate Modpack by Trijjy","zh_draft":"Trijjy 制作的《终极模组包》","zh_ai":"","zh_human":"","zh":"Trijjy 制作的《终极模组包》","status":"pending"}
-{"id":"Ifq5BXkY","en":"PMX","zh_draft":"PMX","zh_ai":"","zh_human":"","zh":"PMX","status":"pending"}
-{"id":"TK4qUxXZ","en":"Hardest Core","zh_draft":"最硬的核心","zh_ai":"","zh_human":"","zh":"最硬的核心","status":"pending"}
-{"id":"eLpTmZEi","en":"MineClient","zh_draft":"MineClient","zh_ai":"","zh_human":"","zh":"MineClient","status":"pending"}
-{"id":"pY6mXsC8","en":"Minecaft: Story Mode [Retold]","zh_draft":"《我的世界》：故事模式 [重述版]","zh_ai":"","zh_human":"","zh":"《我的世界》：故事模式 [重述版]","status":"pending"}
-{"id":"r2vkeHpG","en":"KeegCraft","zh_draft":"KeegCraft","zh_ai":"","zh_human":"","zh":"KeegCraft","status":"pending"}
-{"id":"JJefcRgX","en":"T.O.M","zh_draft":"T.O.M","zh_ai":"","zh_human":"","zh":"T.O.M","status":"pending"}
-{"id":"QiDWCyw0","en":"Sitrus Cobblemon - [MOBILE]","zh_draft":"西特鲁斯·科布尔蒙 - [手机版]","zh_ai":"","zh_human":"","zh":"西特鲁斯·科布尔蒙 - [手机版]","status":"pending"}
-{"id":"eAK8AOn6","en":"PvP Modpack","zh_draft":"PvP 模组包","zh_ai":"","zh_human":"","zh":"PvP 模组包","status":"pending"}
-{"id":"pqwhFxwV","en":"Wonderfully Optimized","zh_draft":"优化得恰到好处","zh_ai":"","zh_human":"","zh":"优化得恰到好处","status":"pending"}
-{"id":"6M5Ttc1e","en":"Minecraft Better Mode","zh_draft":"《我的世界》Better Mode","zh_ai":"","zh_human":"","zh":"《我的世界》Better Mode","status":"pending"}
-{"id":"Dt30muso","en":"CreateVerse Modpack","zh_draft":"CreateVerse 模组包","zh_ai":"","zh_human":"","zh":"CreateVerse 模组包","status":"pending"}
-{"id":"IaajDIEI","en":"Modern Mods","zh_draft":"现代改装","zh_ai":"","zh_human":"","zh":"现代改装","status":"pending"}
-{"id":"wtB5QZQD","en":"On Ancient Ground","zh_draft":"在古老的土地上","zh_ai":"","zh_human":"","zh":"在古老的土地上","status":"pending"}
-{"id":"zVNVGgPM","en":"Create + Optimization","zh_draft":"创建 + 优化","zh_ai":"","zh_human":"","zh":"创建 + 优化","status":"pending"}
-{"id":"QsL8Wj6D","en":"Wandering Beta: Legacy","zh_draft":"《流浪贝塔：传承》","zh_ai":"","zh_human":"","zh":"《流浪贝塔：传承》","status":"pending"}
-{"id":"kOewKYln","en":"PSYclown's tech mod","zh_draft":"PSYclown 的技术模组","zh_ai":"","zh_human":"","zh":"PSYclown 的技术模组","status":"pending"}
-{"id":"Hmjo06Nq","en":"Journey's End Vanilla","zh_draft":"《旅程终点》香草味","zh_ai":"","zh_human":"","zh":"《旅程终点》香草味","status":"pending"}
-{"id":"5DwW61mf","en":"Optimized for PVP","zh_draft":"针对PVP进行了优化","zh_ai":"","zh_human":"","zh":"针对PVP进行了优化","status":"pending"}
-{"id":"84lVzYAW","en":"Vanilla World","zh_draft":"香草世界","zh_ai":"","zh_human":"","zh":"香草世界","status":"pending"}
-{"id":"luoDBxco","en":"Enhanced Weather!","zh_draft":"增强版天气！","zh_ai":"","zh_human":"","zh":"增强版天气！","status":"pending"}
-{"id":"w9rRdudK","en":"Build with Botania and Create Lite","zh_draft":"使用 Botania 和 Create Lite 进行开发","zh_ai":"","zh_human":"","zh":"使用 Botania 和 Create Lite 进行开发","status":"pending"}
-{"id":"Tt9sh4yJ","en":"Miracle-Monde","zh_draft":"Miracle-Monde","zh_ai":"","zh_human":"","zh":"Miracle-Monde","status":"pending"}
-{"id":"IEKuWlfa","en":"Oakleaf","zh_draft":"橡叶","zh_ai":"","zh_human":"","zh":"橡叶","status":"pending"}
-{"id":"jmN1F4rG","en":"Spyro Modpack","zh_draft":"《斯派罗》模组包","zh_ai":"","zh_human":"","zh":"《斯派罗》模组包","status":"pending"}
-{"id":"rgPTlYca","en":"Visual Vanilla","zh_draft":"Visual Vanilla","zh_ai":"","zh_human":"","zh":"Visual Vanilla","status":"pending"}
-{"id":"z6rscZMU","en":"Fabulous MC","zh_draft":"超棒的主持人","zh_ai":"","zh_human":"","zh":"超棒的主持人","status":"pending"}
-{"id":"K9pFEuri","en":"NMD Survival","zh_draft":"《NMD Survival》","zh_ai":"","zh_human":"","zh":"《NMD Survival》","status":"pending"}
-{"id":"lyGR26rH","en":"Vanilla Beta","zh_draft":"Vanilla Beta","zh_ai":"","zh_human":"","zh":"Vanilla Beta","status":"pending"}
-{"id":"Rw1m1T4m","en":"Muoh Optimize Modpack (Pojav + Pc)","zh_draft":"Muoh 优化模组包（Pojav + Pc）","zh_ai":"","zh_human":"","zh":"Muoh 优化模组包（Pojav + Pc）","status":"pending"}
-{"id":"TGeOrJNs","en":"Past to future","zh_draft":"从过去到未来","zh_ai":"","zh_human":"","zh":"从过去到未来","status":"pending"}
-{"id":"e1vk4Ch1","en":"In The West","zh_draft":"在西方","zh_ai":"","zh_human":"","zh":"在西方","status":"pending"}
-{"id":"8BlioeRk","en":"Boat Racing","zh_draft":"赛艇","zh_ai":"","zh_human":"","zh":"赛艇","status":"pending"}
-{"id":"LZXyhWkI","en":"Conflict","zh_draft":"冲突","zh_ai":"","zh_human":"","zh":"冲突","status":"pending"}
-{"id":"bNn50P6g","en":"NarcoleTweaks","zh_draft":"NarcoleTweaks","zh_ai":"","zh_human":"","zh":"NarcoleTweaks","status":"pending"}
-{"id":"aUPUGvyw","en":"Dysphoric's VR Modpack","zh_draft":"Dysphoric 的 VR 模组包","zh_ai":"","zh_human":"","zh":"Dysphoric 的 VR 模组包","status":"pending"}
-{"id":"UXCGs5Ez","en":"Lightweight RPG","zh_draft":"轻量级角色扮演游戏","zh_ai":"","zh_human":"","zh":"轻量级角色扮演游戏","status":"pending"}
-{"id":"mdy38CVY","en":"QQT´s Optimine","zh_draft":"QQT的Optimine","zh_ai":"","zh_human":"","zh":"QQT的Optimine","status":"pending"}
-{"id":"Cn2yHzck","en":"Wynncraft Reimagined","zh_draft":"Wynncraft 焕新诠释","zh_ai":"","zh_human":"","zh":"Wynncraft 焕新诠释","status":"pending"}
+{"id":"J5xlMzUn","en":"GregTech: VR Edition","zh_draft":"GregTech：VR版","zh_ai":"GregTech VR版","zh_human":"","zh":"GregTech VR版","status":"ai"}
+{"id":"UbMyvFDu","en":"tokaua's PvP Pack","zh_draft":"tokaua 的 PvP 礼包","zh_ai":"tokaua的PvP包","zh_human":"","zh":"tokaua的PvP包","status":"ai"}
+{"id":"krnmntLV","en":"Minerva","zh_draft":"米涅瓦","zh_ai":"米涅瓦","zh_human":"","zh":"米涅瓦","status":"ai"}
+{"id":"2oHDMY5x","en":"Performance Eternal","zh_draft":"永恒的表演","zh_ai":"性能永恒","zh_human":"","zh":"性能永恒","status":"ai"}
+{"id":"ZZL3lDML","en":"Create in Chunk","zh_draft":"分块创建","zh_ai":"区块内创建","zh_human":"","zh":"区块内创建","status":"ai"}
+{"id":"Sx0iPO4p","en":"Client Necessities","zh_draft":"客户需求","zh_ai":"客户端必需品","zh_human":"","zh":"客户端必需品","status":"ai"}
+{"id":"PwyxMN09","en":"Fabric Kazzen","zh_draft":"法布里克·卡岑","zh_ai":"Fabric Kazzen","zh_human":"","zh":"Fabric Kazzen","status":"ai"}
+{"id":"FZrU1oX4","en":"The Builder's Modpack","zh_draft":"《建造者模组包》","zh_ai":"建造者模组包","zh_human":"","zh":"建造者模组包","status":"ai"}
+{"id":"nvJNNtZt","en":"Forest Beta+","zh_draft":"Forest Beta+","zh_ai":"森林Beta+","zh_human":"","zh":"森林Beta+","status":"ai"}
+{"id":"TVo6piJe","en":"Mio mods","zh_draft":"Mio 改装","zh_ai":"Mio模组","zh_human":"","zh":"Mio模组","status":"ai"}
+{"id":"ZRQ8Qe3p","en":"Vanilla+ | Better Exploration","zh_draft":"Vanilla+ | 更精彩的探索","zh_ai":"纯净+ | 更好探索","zh_human":"","zh":"纯净+ | 更好探索","status":"ai"}
+{"id":"hZTe9D99","en":"Time Synced","zh_draft":"时间同步","zh_ai":"时间同步","zh_human":"","zh":"时间同步","status":"ai"}
+{"id":"l35JBMY2","en":"-Slightly- different Renderer","zh_draft":"-略有-不同的渲染器","zh_ai":"略有不同的渲染器","zh_human":"","zh":"略有不同的渲染器","status":"ai"}
+{"id":"vS7x3wto","en":"The Monster Spawned Official Pack [Modded Edition]","zh_draft":"《怪物诞生》官方资料包 [修改版]","zh_ai":"怪物孵化官方包 [模组版]","zh_human":"","zh":"怪物孵化官方包 [模组版]","status":"ai"}
+{"id":"BnHRJhYb","en":"silly modpack","zh_draft":"傻乎乎的模组包","zh_ai":"愚蠢模组包","zh_human":"","zh":"愚蠢模组包","status":"ai"}
+{"id":"ZKcTVXrc","en":"The Lost Server - The Broken Script","zh_draft":"《失落的服务器——破碎的剧本》","zh_ai":"失落服务器 - 破碎脚本","zh_human":"","zh":"失落服务器 - 破碎脚本","status":"ai"}
+{"id":"EZUM7DPK","en":"Reimaden SMP","zh_draft":"Reimaden SMP","zh_ai":"Reimaden SMP","zh_human":"","zh":"Reimaden SMP","status":"ai"}
+{"id":"GbNYjiAg","en":"Lekkerman Clientside","zh_draft":"Lekkerman 客户端","zh_ai":"Lekkerman客户端","zh_human":"","zh":"Lekkerman客户端","status":"ai"}
+{"id":"1Jubezv9","en":"Cubelets Cobblemon","zh_draft":"Cubelets 科布尔蒙","zh_ai":"方块石怪","zh_human":"","zh":"方块石怪","status":"ai"}
+{"id":"KQK0AcoC","en":"GSkard-Modpack","zh_draft":"GSkard-模组包","zh_ai":"GSkard模组包","zh_human":"","zh":"GSkard模组包","status":"ai"}
+{"id":"uRRHDCqG","en":"Potato Mods","zh_draft":"Potato Mods","zh_ai":"土豆模组","zh_human":"","zh":"土豆模组","status":"ai"}
+{"id":"dwJRlcNu","en":"Access your abilities","zh_draft":"发挥你的能力","zh_ai":"访问你的能力","zh_human":"","zh":"访问你的能力","status":"ai"}
+{"id":"Z9dpCFLi","en":"MC for the Steam Deck","zh_draft":"Steam Deck 的 MC","zh_ai":"Steam Deck版MC","zh_human":"","zh":"Steam Deck版MC","status":"ai"}
+{"id":"z1nnzjsw","en":"Vervain's Integrated Modpack for Performance","zh_draft":"Vervain 性能综合模组包","zh_ai":"Vervain性能集成模组包","zh_human":"","zh":"Vervain性能集成模组包","status":"ai"}
+{"id":"99pgNcm5","en":"Moded Lifesteal","zh_draft":"强化吸血","zh_ai":"魔改生命吸取","zh_human":"","zh":"魔改生命吸取","status":"ai"}
+{"id":"X6O2qCqg","en":"Ultra View","zh_draft":"Ultra View","zh_ai":"超视界","zh_human":"","zh":"超视界","status":"ai"}
+{"id":"d4HHMvFP","en":"FPS Craft(Builder's Edition)","zh_draft":"FPS Craft（建造者版）","zh_ai":"FPS Craft(建造者版)","zh_human":"","zh":"FPS Craft(建造者版)","status":"ai"}
+{"id":"pH2IEQW4","en":"KattCo: Management Wanted Modpack","zh_draft":"KattCo：招聘管理层模组包","zh_ai":"KattCo：管理欲模组包","zh_human":"","zh":"KattCo：管理欲模组包","status":"ai"}
+{"id":"175u5lkK","en":"RvNxMango Anarchy Modpack","zh_draft":"RvNxMango 无政府主义模组包","zh_ai":"RvNxMango无政府主义模组包","zh_human":"","zh":"RvNxMango无政府主义模组包","status":"ai"}
+{"id":"XKG5ptce","en":"Last One Alive","zh_draft":"最后一个幸存者","zh_ai":"最后的幸存者","zh_human":"","zh":"最后的幸存者","status":"ai"}
+{"id":"g2JXbXuJ","en":"Minecraft: Trailer Style","zh_draft":"《我的世界》：预告片风格","zh_ai":"Minecraft：预告片风格","zh_human":"","zh":"Minecraft：预告片风格","status":"ai"}
+{"id":"k2eO7NKu","en":"Emberspark Cobblemon","zh_draft":"余烬火花·科布尔蒙","zh_ai":"火花石怪","zh_human":"","zh":"火花石怪","status":"ai"}
+{"id":"GLwLtVYh","en":"Beautiful Optimized","zh_draft":"优美且经过优化","zh_ai":"美丽优化","zh_human":"","zh":"美丽优化","status":"ai"}
+{"id":"KpxDzEYo","en":"MirageCraft Pixelmon","zh_draft":"MirageCraft Pixelmon","zh_ai":"幻影工坊Pixelmon","zh_human":"","zh":"幻影工坊Pixelmon","status":"ai"}
+{"id":"hxHND1sh","en":"MineHanced 2","zh_draft":"MineHanced 2","zh_ai":"MineHanced 2","zh_human":"","zh":"MineHanced 2","status":"ai"}
+{"id":"Fh6nQPrW","en":"Spears' Modpack","zh_draft":"斯皮尔斯的模组包","zh_ai":"长矛模组包","zh_human":"","zh":"长矛模组包","status":"ai"}
+{"id":"y4o9OeyJ","en":"ModFest: Singularity","zh_draft":"ModFest：奇点","zh_ai":"模组节：奇点","zh_human":"","zh":"模组节：奇点","status":"ai"}
+{"id":"vkAztSta","en":"Reverie","zh_draft":"遐想","zh_ai":"梦境","zh_human":"","zh":"梦境","status":"ai"}
+{"id":"qReEwNRA","en":"Cinemacraft","zh_draft":"Cinemacraft","zh_ai":"电影工坊","zh_human":"","zh":"电影工坊","status":"ai"}
+{"id":"7O7VtTW6","en":"No Chat Reports","zh_draft":"无聊天报告","zh_ai":"无聊天报告","zh_human":"","zh":"无聊天报告","status":"ai"}
+{"id":"iVMg4XDM","en":"Shadow Wizard Money Gang","zh_draft":"暗影法师金钱帮","zh_ai":"影巫金钱团","zh_human":"","zh":"影巫金钱团","status":"ai"}
+{"id":"9rdIDspw","en":"Twenty or Less Mods Performance","zh_draft":"“二十个或更少”模组的表现","zh_ai":"20个以下模组性能","zh_human":"","zh":"20个以下模组性能","status":"ai"}
+{"id":"K1bDWxcM","en":"AttilaCraft 3","zh_draft":"AttilaCraft 3","zh_ai":"AttilaCraft 3","zh_human":"","zh":"AttilaCraft 3","status":"ai"}
+{"id":"VmcFz4BI","en":"Orecraft Adventures","zh_draft":"Orecraft 冒险之旅","zh_ai":"矿石工坊冒险","zh_human":"","zh":"矿石工坊冒险","status":"ai"}
+{"id":"sYnio88G","en":"Theyab’s Survival Experience","zh_draft":"Theyab的生存经历","zh_ai":"Theyab的生存体验","zh_human":"","zh":"Theyab的生存体验","status":"ai"}
+{"id":"blrSdgjc","en":"Salted Caramel","zh_draft":"咸焦糖","zh_ai":"海盐焦糖","zh_human":"","zh":"海盐焦糖","status":"ai"}
+{"id":"duNVI8Ye","en":"New Ardenite SMP","zh_draft":"新款 Ardenite SMP","zh_ai":"新阿登石极限生存","zh_human":"","zh":"新阿登石极限生存","status":"ai"}
+{"id":"esaVVmZ3","en":"FatCat Gun PvP Pack","zh_draft":"FatCat Gun PvP 套装","zh_ai":"肥猫枪PvP包","zh_human":"","zh":"肥猫枪PvP包","status":"ai"}
+{"id":"yp0fqS48","en":"Serene","zh_draft":"宁静","zh_ai":"宁静","zh_human":"","zh":"宁静","status":"ai"}
+{"id":"AYF4s7qx","en":"Back2Alpha","zh_draft":"Back2Alpha","zh_ai":"回到阿尔法","zh_human":"","zh":"回到阿尔法","status":"ai"}
+{"id":"w4unz3sW","en":"Planes Trains and Cobblemon","zh_draft":"飞机、火车和科布尔蒙","zh_ai":"平面火车和圆石兽","zh_human":"","zh":"平面火车和圆石兽","status":"ai"}
+{"id":"QrR8IR9d","en":"Cobblemon MEGA Evolution","zh_draft":"石头怪 MEGA进化","zh_ai":"圆石兽MEGA进化","zh_human":"","zh":"圆石兽MEGA进化","status":"ai"}
+{"id":"gqjHPs1k","en":"PvP to the Max","zh_draft":"PvP 尽情畅享","zh_ai":"PvP到极致","zh_human":"","zh":"PvP到极致","status":"ai"}
+{"id":"4uF4WPKA","en":"Gentle Brew","zh_draft":"温和酿造","zh_ai":"温和酿造","zh_human":"","zh":"温和酿造","status":"ai"}
+{"id":"f8uKew98","en":"Create-Technical(CreateTech)","zh_draft":"Create-Technical（CreateTech）","zh_ai":"Create技术","zh_human":"","zh":"Create技术","status":"ai"}
+{"id":"gGx62WeX","en":"Timelord Adventures","zh_draft":"《时间领主历险记》","zh_ai":"时间领主冒险","zh_human":"","zh":"时间领主冒险","status":"ai"}
+{"id":"yKY7Fvn3","en":"Comely Adventure","zh_draft":"迷人的冒险","zh_ai":"美丽冒险","zh_human":"","zh":"美丽冒险","status":"ai"}
+{"id":"Qh8PEGov","en":"TheTimeVortex Modpack","zh_draft":"《TheTimeVortex》模组包","zh_ai":"时间漩涡模组包","zh_human":"","zh":"时间漩涡模组包","status":"ai"}
+{"id":"DostwBtw","en":"Keramika","zh_draft":"Keramika","zh_ai":"陶瓷","zh_human":"","zh":"陶瓷","status":"ai"}
+{"id":"TP2Bu3k4","en":"Hardcore Alchemy","zh_draft":"硬核炼金术","zh_ai":"极限炼金术","zh_human":"","zh":"极限炼金术","status":"ai"}
+{"id":"WyGpIlgw","en":"Apocalyptic Resistance","zh_draft":"《末日抵抗》","zh_ai":"末日抵抗","zh_human":"","zh":"末日抵抗","status":"ai"}
+{"id":"n8XIwA0x","en":"Tango Modded","zh_draft":"Tango 修改版","zh_ai":"探戈模组化","zh_human":"","zh":"探戈模组化","status":"ai"}
+{"id":"8Lulmk8M","en":"Solas SMP QOL Modpack","zh_draft":"Solas SMP 生活质量模组包","zh_ai":"Solas极限生存QOL模组包","zh_human":"","zh":"Solas极限生存QOL模组包","status":"ai"}
+{"id":"DlAYGmaI","en":"FROZEN APOCALYPSE","zh_draft":"冰封末日","zh_ai":"冰封末日","zh_human":"","zh":"冰封末日","status":"ai"}
+{"id":"HeLBS3Zq","en":"devcraft","zh_draft":"devcraft","zh_ai":"开发工坊","zh_human":"","zh":"开发工坊","status":"ai"}
+{"id":"uSoMxDcd","en":"ORIGINS SMP S2","zh_draft":"ORIGINS SMP S2","zh_ai":"起源极限生存S2","zh_human":"","zh":"起源极限生存S2","status":"ai"}
+{"id":"2oFeDZEL","en":"Nova’s Perfected","zh_draft":"《Nova》的臻于完美","zh_ai":"诺瓦的完美","zh_human":"","zh":"诺瓦的完美","status":"ai"}
+{"id":"4BvPZOIL","en":"Holapack","zh_draft":"Holapack","zh_ai":"霍拉包","zh_human":"","zh":"霍拉包","status":"ai"}
+{"id":"vcHANb0O","en":"ImagineFun Add-Ons","zh_draft":"ImagineFun 扩展功能","zh_ai":"ImagineFun附加组件","zh_human":"","zh":"ImagineFun附加组件","status":"ai"}
+{"id":"AUOnuVb0","en":"All you need: Horror","zh_draft":"你所需要的：恐怖","zh_ai":"你需要的一切：恐怖","zh_human":"","zh":"你需要的一切：恐怖","status":"ai"}
+{"id":"EJJfApPn","en":"True: Calamity","zh_draft":"《真相：灾难》","zh_ai":"真实：灾难","zh_human":"","zh":"真实：灾难","status":"ai"}
+{"id":"QZGnuwRK","en":"VRCraft","zh_draft":"VRCraft","zh_ai":"VR工坊","zh_human":"","zh":"VR工坊","status":"ai"}
+{"id":"ATAuWnEZ","en":"InteritusCraft","zh_draft":"InteritusCraft","zh_ai":"InteritusCraft","zh_human":"","zh":"InteritusCraft","status":"ai"}
+{"id":"VvLAbbPp","en":"Horror: Perfected","zh_draft":"恐怖：臻于完美","zh_ai":"恐怖：完美","zh_human":"","zh":"恐怖：完美","status":"ai"}
+{"id":"GrHJ84fF","en":"Aeroworks","zh_draft":"Aeroworks","zh_ai":"航空工坊","zh_human":"","zh":"航空工坊","status":"ai"}
+{"id":"Zvyw87v3","en":"MCSMD-Java","zh_draft":"MCSMD-Java","zh_ai":"MCSMD-Java","zh_human":"","zh":"MCSMD-Java","status":"ai"}
+{"id":"aGkDzX1O","en":"cubesdufutur","zh_draft":"cubesdufutur","zh_ai":"cubesdufutur","zh_human":"","zh":"cubesdufutur","status":"ai"}
+{"id":"rBVqF3J8","en":"WysternCraft","zh_draft":"WysternCraft","zh_ai":"WysternCraft","zh_human":"","zh":"WysternCraft","status":"ai"}
+{"id":"vXl0v3x6","en":"Create: Skies & Beyond","zh_draft":"创作：天空与更远之处","zh_ai":"Create：天空之上","zh_human":"","zh":"Create：天空之上","status":"ai"}
+{"id":"wjirDytO","en":"WONDERVERSE PRIME","zh_draft":"WONDERVERSE PRIME","zh_ai":"WONDERVERSE PRIME","zh_human":"","zh":"WONDERVERSE PRIME","status":"ai"}
+{"id":"ZippRRkw","en":"Piratecraft Modpack","zh_draft":"《海盗工艺》模组包","zh_ai":"海盗工艺整合包","zh_human":"","zh":"海盗工艺整合包","status":"ai"}
+{"id":"x3hbp8Wz","en":"TFC Extended","zh_draft":"TFC 扩展版","zh_ai":"TFC扩展","zh_human":"","zh":"TFC扩展","status":"ai"}
+{"id":"OwTcTHUI","en":"Create: Bliss","zh_draft":"创作：Bliss","zh_ai":"机械动力：极乐","zh_human":"","zh":"机械动力：极乐","status":"ai"}
+{"id":"Edix9086","en":"SeniorLegend FPS Boost - Mobile Edition","zh_draft":"SeniorLegend FPS Boost - 移动版","zh_ai":"SeniorLegend帧率优化-移动版","zh_human":"","zh":"SeniorLegend帧率优化-移动版","status":"ai"}
+{"id":"GA1ha0jT","en":"Bedrock Edition: Legacy","zh_draft":"基岩版：经典版","zh_ai":"基岩版：经典","zh_human":"","zh":"基岩版：经典","status":"ai"}
+{"id":"KkpB1FwG","en":"Everything Modrinth","zh_draft":"关于莫德林斯的一切","zh_ai":"Modrinth全模组","zh_human":"","zh":"Modrinth全模组","status":"ai"}
+{"id":"iPrr52jv","en":"The OW Nerds' Modpack","zh_draft":"OW Nerds 的模组包","zh_ai":"OW极客整合包","zh_human":"","zh":"OW极客整合包","status":"ai"}
+{"id":"ZVaQmaEC","en":"DBobbyClient","zh_draft":"DBobbyClient","zh_ai":"DBobby客户端","zh_human":"","zh":"DBobby客户端","status":"ai"}
+{"id":"zCJ606t6","en":"Tillage","zh_draft":"耕作","zh_ai":"耕作","zh_human":"","zh":"耕作","status":"ai"}
+{"id":"68FlS3RJ","en":"KonoSuba: God's Blessing on This Wonderful World","zh_draft":"《这个美妙的世界，愿神保佑》","zh_ai":"为美好的世界献上祝福","zh_human":"","zh":"为美好的世界献上祝福","status":"ai"}
+{"id":"HVjlzo2y","en":"Snowbound","zh_draft":"大雪封路","zh_ai":"雪域","zh_human":"","zh":"雪域","status":"ai"}
+{"id":"jzcCrOrR","en":"Trailer Edition","zh_draft":"预告片版","zh_ai":"预告片版","zh_human":"","zh":"预告片版","status":"ai"}
+{"id":"muYTTFnZ","en":"ToadOdyssey","zh_draft":"ToadOdyssey","zh_ai":"蟾蜍奥德赛","zh_human":"","zh":"蟾蜍奥德赛","status":"ai"}
+{"id":"RDIYfJae","en":"All the Things!","zh_draft":"所有东西！","zh_ai":"万物","zh_human":"","zh":"万物","status":"ai"}
+{"id":"pl3jzHBI","en":"Ebrius Pack","zh_draft":"埃布里乌斯套装","zh_ai":"Ebrius包","zh_human":"","zh":"Ebrius包","status":"ai"}
+{"id":"LMudvydf","en":"Magic, Medieval and Mythics","zh_draft":"魔法、中世纪与神话","zh_ai":"魔法、中世纪与神话","zh_human":"","zh":"魔法、中世纪与神话","status":"ai"}
+{"id":"9biDVU4u","en":"Realistically Irritatingly Difficult","zh_draft":"现实中令人恼火的难度","zh_ai":"真实且令人抓狂的困难","zh_human":"","zh":"真实且令人抓狂的困难","status":"ai"}
+{"id":"l2L6GCPn","en":"Winter Horrorscape","zh_draft":"冬日恐怖景观","zh_ai":"冬日恐怖景观","zh_human":"","zh":"冬日恐怖景观","status":"ai"}
+{"id":"2tYxJAZo","en":"Cobblemon Create RPG","zh_draft":"《Cobblemon Create RPG》","zh_ai":"宝可梦机械动力RPG","zh_human":"","zh":"宝可梦机械动力RPG","status":"ai"}
+{"id":"X5uy3rtT","en":"Train City Craft","zh_draft":"火车城市工坊","zh_ai":"火车城市工艺","zh_human":"","zh":"火车城市工艺","status":"ai"}
+{"id":"dowmdJEZ","en":"Legends - RPG Dungeons","zh_draft":"《传奇》——角色扮演类地牢游戏","zh_ai":"传说-RPG地牢","zh_human":"","zh":"传说-RPG地牢","status":"ai"}
+{"id":"eYGxt98x","en":"MCC Island Unlocked","zh_draft":"解锁MCC岛","zh_ai":"MCC岛屿解锁","zh_human":"","zh":"MCC岛屿解锁","status":"ai"}
+{"id":"Zxyaa2WY","en":"FPS MAX+","zh_draft":"FPS MAX+","zh_ai":"FPS MAX+","zh_human":"","zh":"FPS MAX+","status":"ai"}
+{"id":"zHeoAkBq","en":"EjThePvP'S PvP Pack","zh_draft":"EjThePvP 的 PvP 包","zh_ai":"EjThePvP的PVP包","zh_human":"","zh":"EjThePvP的PVP包","status":"ai"}
+{"id":"vdslakyU","en":"The Golden Days","zh_draft":"黄金岁月","zh_ai":"黄金岁月","zh_human":"","zh":"黄金岁月","status":"ai"}
+{"id":"3bZGMxNC","en":"Dino dance pack","zh_draft":"恐龙舞蹈包","zh_ai":"恐龙舞包","zh_human":"","zh":"恐龙舞包","status":"ai"}
+{"id":"sckmsbqT","en":"Sp worlds","zh_draft":"Sp 世界","zh_ai":"生存世界","zh_human":"","zh":"生存世界","status":"ai"}
+{"id":"1q5BdPZj","en":"Create: Rethinked","zh_draft":"《Create：重新构想》","zh_ai":"机械动力：重思","zh_human":"","zh":"机械动力：重思","status":"ai"}
+{"id":"NWqc1pJm","en":"BlockCraft CrystalPVP (CPVP)","zh_draft":"BlockCraft CrystalPVP (CPVP)","zh_ai":"方块工艺水晶PVP","zh_human":"","zh":"方块工艺水晶PVP","status":"ai"}
+{"id":"Xah4jynk","en":"The MegaFaresX Modpack","zh_draft":"MegaFaresX 模组包","zh_ai":"MegaFaresX整合包","zh_human":"","zh":"MegaFaresX整合包","status":"ai"}
+{"id":"lF6XcleQ","en":"KRILLKRAFT","zh_draft":"KRILLKRAFT","zh_ai":"磷虾工艺","zh_human":"","zh":"磷虾工艺","status":"ai"}
+{"id":"glNdDRI0","en":"Pookie","zh_draft":"Pookie","zh_ai":"Pookie","zh_human":"","zh":"Pookie","status":"ai"}
+{"id":"wL7kgJnU","en":"StormWatchers: Emergency","zh_draft":"《风暴观察者：紧急情况》","zh_ai":"风暴守望者：紧急","zh_human":"","zh":"风暴守望者：紧急","status":"ai"}
+{"id":"fonVaqdH","en":"Vanilla QoL","zh_draft":"Vanilla QoL","zh_ai":"原版体验优化","zh_human":"","zh":"原版体验优化","status":"ai"}
+{"id":"2CjqTxJV","en":"Impact","zh_draft":"影响","zh_ai":"冲击","zh_human":"","zh":"冲击","status":"ai"}
+{"id":"DjY4vwWO","en":"Breathful: An Atmospheric Journey","zh_draft":"《Breathful：一场充满氛围感的旅程》","zh_ai":"呼吸之旅：氛围体验","zh_human":"","zh":"呼吸之旅：氛围体验","status":"ai"}
+{"id":"WCQwA4kA","en":"Farmers Craft","zh_draft":"农家手工艺","zh_ai":"农夫工艺","zh_human":"","zh":"农夫工艺","status":"ai"}
+{"id":"qLbWAkIE","en":"Forge+Optimized","zh_draft":"Forge+优化版","zh_ai":"Forge优化版","zh_human":"","zh":"Forge优化版","status":"ai"}
+{"id":"GqBN9Gze","en":"Riptidium","zh_draft":"Riptidium","zh_ai":"激流","zh_human":"","zh":"激流","status":"ai"}
+{"id":"vYDdkxEM","en":"Not Enough Guns","zh_draft":"枪支不足","zh_ai":"枪械不够","zh_human":"","zh":"枪械不够","status":"ai"}
+{"id":"4ajlLwPF","en":"ultra optimization on vulkan","zh_draft":"Vulkan 的深度优化","zh_ai":"Vulkan极致优化","zh_human":"","zh":"Vulkan极致优化","status":"ai"}
+{"id":"63jcdCqn","en":"Starfell: The Second Knight","zh_draft":"《星落：第二骑士》","zh_ai":"星落：第二骑士","zh_human":"","zh":"星落：第二骑士","status":"ai"}
+{"id":"rAuiq0eg","en":"KimetsuCraftModpack","zh_draft":"KimetsuCraftModpack","zh_ai":"鬼灭模组包","zh_human":"","zh":"鬼灭模组包","status":"ai"}
+{"id":"2o8ZNr3u","en":"Lag Slayer: FPS Edition","zh_draft":"《延迟终结者：FPS版》","zh_ai":"卡顿杀手：FPS版","zh_human":"","zh":"卡顿杀手：FPS版","status":"ai"}
+{"id":"45TPUd5Q","en":"FurryRPG","zh_draft":"FurryRPG","zh_ai":"兽人RPG","zh_human":"","zh":"兽人RPG","status":"ai"}
+{"id":"rG2LlAtJ","en":"Better Minecraft Custom","zh_draft":"更好的《我的世界》模组","zh_ai":"自定义更佳我的世界","zh_human":"","zh":"自定义更佳我的世界","status":"ai"}
+{"id":"dm9a6Tly","en":"Stranded","zh_draft":"受困","zh_ai":"荒岛求生","zh_human":"","zh":"荒岛求生","status":"ai"}
+{"id":"aZBCmWEa","en":"Legend's Creator Essentials","zh_draft":"《Legend》创作者必备指南","zh_ai":"传说创造者基础包","zh_human":"","zh":"传说创造者基础包","status":"ai"}
+{"id":"DM08xSnr","en":"Men play Skyblock (Lite)","zh_draft":"男性玩家玩《Skyblock（Lite）》","zh_ai":"男子玩空岛（精简版）","zh_human":"","zh":"男子玩空岛（精简版）","status":"ai"}
+{"id":"RQXO09r0","en":"The Useful Pack","zh_draft":"实用套装","zh_ai":"实用模组包","zh_human":"","zh":"实用模组包","status":"ai"}
+{"id":"K4knSn41","en":"Cobblemon and Gears","zh_draft":"科布尔蒙和齿轮","zh_ai":"精灵与齿轮","zh_human":"","zh":"精灵与齿轮","status":"ai"}
+{"id":"e3v4PZPD","en":"Demon Slayer #DS","zh_draft":"鬼灭之刃 #DS","zh_ai":"鬼灭之刃 #DS","zh_human":"","zh":"鬼灭之刃 #DS","status":"ai"}
+{"id":"6ez8zbhp","en":"garetcraft SMP","zh_draft":"garetcraft SMP","zh_ai":"加雷特工艺SMP","zh_human":"","zh":"加雷特工艺SMP","status":"ai"}
+{"id":"CUQscRgH","en":"The Sculk Horde - Modpack","zh_draft":"《Sculk Horde》——模组包","zh_ai":"潜匿兽军团 - 模组包","zh_human":"","zh":"潜匿兽军团 - 模组包","status":"ai"}
+{"id":"HQMdevcC","en":"Portal Craft","zh_draft":"《Portal Craft》","zh_ai":"传送门工艺","zh_human":"","zh":"传送门工艺","status":"ai"}
+{"id":"WwXJjmbe","en":"ImmersiveMC - IMC1","zh_draft":"ImmersiveMC - IMC1","zh_ai":"沉浸我的世界 - IMC1","zh_human":"","zh":"沉浸我的世界 - IMC1","status":"ai"}
+{"id":"8zrkfiWU","en":"NeoIndustrial","zh_draft":"新工业","zh_ai":"新工业","zh_human":"","zh":"新工业","status":"ai"}
+{"id":"9db71uUF","en":"Project Create 2","zh_draft":"“创造”项目 2","zh_ai":"机械动力计划2","zh_human":"","zh":"机械动力计划2","status":"ai"}
+{"id":"FlQzGto5","en":"Ratcraft","zh_draft":"Ratcraft","zh_ai":"鼠族工艺","zh_human":"","zh":"鼠族工艺","status":"ai"}
+{"id":"JHXddQMO","en":"SkyChunk Resurfaced","zh_draft":"《SkyChunk》重磅回归","zh_ai":"空岛区块重制","zh_human":"","zh":"空岛区块重制","status":"ai"}
+{"id":"hjLPC6G9","en":"Dungeons and Towns","zh_draft":"地牢与城镇","zh_ai":"地牢与城镇","zh_human":"","zh":"地牢与城镇","status":"ai"}
+{"id":"VX9aSdcO","en":"Foxy's Stone Saga","zh_draft":"《福克西的石头传奇》","zh_ai":"狐狐的石之传奇","zh_human":"","zh":"狐狐的石之传奇","status":"ai"}
+{"id":"bFbhyiVs","en":"ESMP - Standard","zh_draft":"ESMP - 标准版","zh_ai":"ESMP - 标准版","zh_human":"","zh":"ESMP - 标准版","status":"ai"}
+{"id":"uMwLQPEC","en":"Ignacia SMP","zh_draft":"伊格纳西亚 SMP","zh_ai":"伊格纳西娅SMP","zh_human":"","zh":"伊格纳西娅SMP","status":"ai"}
+{"id":"iKp2IdJv","en":"Arcane Dragons [NEOFORGE]","zh_draft":"奥术巨龙 [NEOFORGE]","zh_ai":"奥术龙 [NEOFORGE]","zh_human":"","zh":"奥术龙 [NEOFORGE]","status":"ai"}
+{"id":"WFsEAqJr","en":"asphyxia mods","zh_draft":"窒息模组","zh_ai":"窒息模组","zh_human":"","zh":"窒息模组","status":"ai"}
+{"id":"gGe8drPG","en":"Forge Optimized","zh_draft":"Forge 优化版","zh_ai":"Forge优化版","zh_human":"","zh":"Forge优化版","status":"ai"}
+{"id":"Y4ABUjyV","en":"Dracium Create Edition","zh_draft":"Dracium 创作版","zh_ai":"德拉修姆机械版","zh_human":"","zh":"德拉修姆机械版","status":"ai"}
+{"id":"a3gYmuZx","en":"Visual","zh_draft":"视觉","zh_ai":"视觉","zh_human":"","zh":"视觉","status":"ai"}
+{"id":"MlPTcgQ5","en":"Vinderland - Rift","zh_draft":"文德兰 - 裂隙","zh_ai":"温德兰 - 裂隙","zh_human":"","zh":"温德兰 - 裂隙","status":"ai"}
+{"id":"iN1kI4g0","en":"Damine optimized","zh_draft":"Damine 已优化","zh_ai":"达米内优化","zh_human":"","zh":"达米内优化","status":"ai"}
+{"id":"2tLIG9M7","en":"PAFB Pack","zh_draft":"PAFB 套装","zh_ai":"PAFB模组包","zh_human":"","zh":"PAFB模组包","status":"ai"}
+{"id":"RAcFUHMi","en":"t0gp smp","zh_draft":"t0gp smp","zh_ai":"t0gp smp","zh_human":"","zh":"t0gp smp","status":"ai"}
+{"id":"V4cePEPy","en":"A Very Bad Modpack","zh_draft":"一个非常糟糕的模组包","zh_ai":"非常糟糕的模组包","zh_human":"","zh":"非常糟糕的模组包","status":"ai"}
+{"id":"p45F4XFa","en":"VisualCraft by Moizoref","zh_draft":"Moizoref 创作的《VisualCraft》","zh_ai":"Moizoref视觉工艺","zh_human":"","zh":"Moizoref视觉工艺","status":"ai"}
+{"id":"2R5k8Ht5","en":"Dino's Kingdom","zh_draft":"迪诺的王国","zh_ai":"恐龙王国","zh_human":"","zh":"恐龙王国","status":"ai"}
+{"id":"3PLawDWI","en":"Insanity","zh_draft":"疯狂","zh_ai":"疯狂","zh_human":"","zh":"疯狂","status":"ai"}
+{"id":"QKgzaVmn","en":"Above the cloud","zh_draft":"云之上","zh_ai":"云端之上","zh_human":"","zh":"云端之上","status":"ai"}
+{"id":"RBoGlRxY","en":"Unimaginative Speed","zh_draft":"缺乏想象力的速度","zh_ai":"非想象速度","zh_human":"","zh":"非想象速度","status":"ai"}
+{"id":"5jBhJ9eA","en":"Just Vanilla Things","zh_draft":"纯粹的普通事物","zh_ai":"原版事物","zh_human":"","zh":"原版事物","status":"ai"}
+{"id":"7GXtoBk6","en":"Militaryism","zh_draft":"军国主义","zh_ai":"军国主义","zh_human":"","zh":"军国主义","status":"ai"}
+{"id":"UHJt1qgO","en":"Adventure Overhaul+","zh_draft":"《冒险大翻新+》","zh_ai":"冒险重制+","zh_human":"","zh":"冒险重制+","status":"ai"}
+{"id":"RW1aoEBh","en":"Melody","zh_draft":"梅洛迪","zh_ai":"旋律","zh_human":"","zh":"旋律","status":"ai"}
+{"id":"IsNu5zcX","en":"Vanilla Enhance","zh_draft":"香草增强版","zh_ai":"原版增强","zh_human":"","zh":"原版增强","status":"ai"}
+{"id":"4pKSSmRE","en":"Perfection Pack","zh_draft":"完美套装","zh_ai":"完美整合包","zh_human":"","zh":"完美整合包","status":"ai"}
+{"id":"KYc83XcM","en":"Builder's Delight","zh_draft":"建筑师的乐趣","zh_ai":"建筑工之悦","zh_human":"","zh":"建筑工之悦","status":"ai"}
+{"id":"ZbOkX4VO","en":"Simple Client Mods","zh_draft":"简单的客户端模组","zh_ai":"简易客户端模组","zh_human":"","zh":"简易客户端模组","status":"ai"}
+{"id":"2y0pNYma","en":"Multiversal Vanilla","zh_draft":"多元宇宙原味","zh_ai":"多元宇宙原版","zh_human":"","zh":"多元宇宙原版","status":"ai"}
+{"id":"8PvD5tbt","en":"Create Industrial Complex","zh_draft":"创建工业园区","zh_ai":"机械动力工业综合体","zh_human":"","zh":"机械动力工业综合体","status":"ai"}
+{"id":"cWKAqncT","en":"Creation Exploring the Road of","zh_draft":"创作：探索……之路","zh_ai":"创造探索之路","zh_human":"","zh":"创造探索之路","status":"ai"}
+{"id":"EzrerBaK","en":"Thread","zh_draft":"主题","zh_ai":"线","zh_human":"","zh":"线","status":"ai"}
+{"id":"AEzpMzqp","en":"Enchantment Attack!","zh_draft":"魔法攻击！","zh_ai":"附魔攻击!","zh_human":"","zh":"附魔攻击!","status":"ai"}
+{"id":"qlWTfrFr","en":"Invincible","zh_draft":"无敌","zh_ai":"无敌","zh_human":"","zh":"无敌","status":"ai"}
+{"id":"jjSAREq0","en":"PokeCubed","zh_draft":"PokeCubed","zh_ai":"宝可梦立方","zh_human":"","zh":"宝可梦立方","status":"ai"}
+{"id":"3pVcvlKy","en":"VhyperCraft","zh_draft":"VhyperCraft","zh_ai":"VyperCraft","zh_human":"","zh":"VyperCraft","status":"ai"}
+{"id":"5ckORlgY","en":"Cobble Cove QOL Modpack","zh_draft":"Cobble Cove 生活质量模组包","zh_ai":"鹅卵石湾生活质量整合包","zh_human":"","zh":"鹅卵石湾生活质量整合包","status":"ai"}
+{"id":"VnFLK6YI","en":"CraftyCrew","zh_draft":"CraftyCrew","zh_ai":"工匠小队","zh_human":"","zh":"工匠小队","status":"ai"}
+{"id":"RjsX1M8N","en":"Essence","zh_draft":"精髓","zh_ai":"精华","zh_human":"","zh":"精华","status":"ai"}
+{"id":"W09VXJGP","en":"MCCI Utilities and Optimization Pack [Unofficial]","zh_draft":"MCCI 实用工具与优化包 [非官方版]","zh_ai":"MCCI工具与优化包[非官方]","zh_human":"","zh":"MCCI工具与优化包[非官方]","status":"ai"}
+{"id":"GMSvVIpM","en":"MC: Unknown","zh_draft":"MC：未知","zh_ai":"MC: 未知","zh_human":"","zh":"MC: 未知","status":"ai"}
+{"id":"ZQs1g4OA","en":"Overly Vulkan","zh_draft":"Overly Vulkan","zh_ai":"过度Vulkan","zh_human":"","zh":"过度Vulkan","status":"ai"}
+{"id":"4VSZRQni","en":"Aetherial Airships","zh_draft":"以太飞艇","zh_ai":"以太飞艇","zh_human":"","zh":"以太飞艇","status":"ai"}
+{"id":"4gHmRCCG","en":"Glass Optimized","zh_draft":"针对玻璃进行了优化","zh_ai":"玻璃优化","zh_human":"","zh":"玻璃优化","status":"ai"}
+{"id":"deGexWyQ","en":"Creat(e)ing Baumland","zh_draft":"创造“鲍姆兰”","zh_ai":"创造巴姆兰","zh_human":"","zh":"创造巴姆兰","status":"ai"}
+{"id":"mgPh800Z","en":"CPVP Performance+","zh_draft":"CPVP Performance+","zh_ai":"CPVP性能+","zh_human":"","zh":"CPVP性能+","status":"ai"}
+{"id":"Uz1YOyAm","en":"Xtremely Optimized","zh_draft":"极致优化","zh_ai":"极致优化","zh_human":"","zh":"极致优化","status":"ai"}
+{"id":"YNRWzxYr","en":"lelMc","zh_draft":"lelMc","zh_ai":"lelMc","zh_human":"","zh":"lelMc","status":"ai"}
+{"id":"ZTsYVIjP","en":"Reach SMP","zh_draft":"联系 SMP","zh_ai":"极限生存服务器","zh_human":"","zh":"极限生存服务器","status":"ai"}
+{"id":"YJKnnYSA","en":"Furry Fruit Basket","zh_draft":"毛茸茸的水果篮","zh_ai":"兽人水果篮","zh_human":"","zh":"兽人水果篮","status":"ai"}
+{"id":"AVCLVTSZ","en":"Optimized & Stuff","zh_draft":"优化及其他","zh_ai":"优化及其他","zh_human":"","zh":"优化及其他","status":"ai"}
+{"id":"kM7oWBqX","en":"SuperYosh's PVP Client","zh_draft":"SuperYosh的PVP客户端","zh_ai":"SuperYosh的PVP客户端","zh_human":"","zh":"SuperYosh的PVP客户端","status":"ai"}
+{"id":"cbZ2jlsv","en":"Cube Cavern Recrafted +","zh_draft":"《立方洞穴：重制版》+","zh_ai":"方块洞穴重制+","zh_human":"","zh":"方块洞穴重制+","status":"ai"}
+{"id":"kp67VIB3","en":"Vanilla: Reforged","zh_draft":"《Vanilla：重铸》","zh_ai":"原版：重铸","zh_human":"","zh":"原版：重铸","status":"ai"}
+{"id":"5lDIaXk1","en":"create aeronautics (update) modpack","zh_draft":"创建航空（更新版）模组包","zh_ai":"机械航空(更新)整合包","zh_human":"","zh":"机械航空(更新)整合包","status":"ai"}
+{"id":"1sVj1UgU","en":"ATOMLAND Optimized","zh_draft":"ATOMLAND 优化版","zh_ai":"原子岛优化","zh_human":"","zh":"原子岛优化","status":"ai"}
+{"id":"UqAIdvco","en":"Simonuwu Fabric Project","zh_draft":"西蒙乌布料项目","zh_ai":"Simonuwu Fabric项目","zh_human":"","zh":"Simonuwu Fabric项目","status":"ai"}
+{"id":"KiXSuFix","en":"ExtraFPS","zh_draft":"ExtraFPS","zh_ai":"额外帧率","zh_human":"","zh":"额外帧率","status":"ai"}
+{"id":"f1kbmNgz","en":"Create Warium","zh_draft":"创建 Warium","zh_ai":"机械动力战争合金","zh_human":"","zh":"机械动力战争合金","status":"ai"}
+{"id":"qAJSW83M","en":"Isaac's Optimized Horizons","zh_draft":"艾萨克的优化视野","zh_ai":"艾萨克优化地平线","zh_human":"","zh":"艾萨克优化地平线","status":"ai"}
+{"id":"rtiQSL7d","en":"FPSTODOMOON Sodium Edition","zh_draft":"FPSTODOMOON 钠版","zh_ai":"FPS冲向月亮钠版","zh_human":"","zh":"FPS冲向月亮钠版","status":"ai"}
+{"id":"2DCKPGVX","en":"VsBase","zh_draft":"VsBase","zh_ai":"Vs基础包","zh_human":"","zh":"Vs基础包","status":"ai"}
+{"id":"A0GlgfGi","en":"Ultimate Modpack by Trijjy","zh_draft":"Trijjy 制作的《终极模组包》","zh_ai":"Trijjy终极整合包","zh_human":"","zh":"Trijjy终极整合包","status":"ai"}
+{"id":"Ifq5BXkY","en":"PMX","zh_draft":"PMX","zh_ai":"PMX","zh_human":"","zh":"PMX","status":"ai"}
+{"id":"TK4qUxXZ","en":"Hardest Core","zh_draft":"最硬的核心","zh_ai":"硬核极限","zh_human":"","zh":"硬核极限","status":"ai"}
+{"id":"eLpTmZEi","en":"MineClient","zh_draft":"MineClient","zh_ai":"MineClient客户端","zh_human":"","zh":"MineClient客户端","status":"ai"}
+{"id":"pY6mXsC8","en":"Minecaft: Story Mode [Retold]","zh_draft":"《我的世界》：故事模式 [重述版]","zh_ai":"我的世界：故事模式[重述]","zh_human":"","zh":"我的世界：故事模式[重述]","status":"ai"}
+{"id":"r2vkeHpG","en":"KeegCraft","zh_draft":"KeegCraft","zh_ai":"KeegCraft","zh_human":"","zh":"KeegCraft","status":"ai"}
+{"id":"JJefcRgX","en":"T.O.M","zh_draft":"T.O.M","zh_ai":"T.O.M","zh_human":"","zh":"T.O.M","status":"ai"}
+{"id":"QiDWCyw0","en":"Sitrus Cobblemon - [MOBILE]","zh_draft":"西特鲁斯·科布尔蒙 - [手机版]","zh_ai":"Sitrus宝可梦[移动端]","zh_human":"","zh":"Sitrus宝可梦[移动端]","status":"ai"}
+{"id":"eAK8AOn6","en":"PvP Modpack","zh_draft":"PvP 模组包","zh_ai":"PvP整合包","zh_human":"","zh":"PvP整合包","status":"ai"}
+{"id":"pqwhFxwV","en":"Wonderfully Optimized","zh_draft":"优化得恰到好处","zh_ai":"极致优化","zh_human":"","zh":"极致优化","status":"ai"}
+{"id":"6M5Ttc1e","en":"Minecraft Better Mode","zh_draft":"《我的世界》Better Mode","zh_ai":"更好模式","zh_human":"","zh":"更好模式","status":"ai"}
+{"id":"Dt30muso","en":"CreateVerse Modpack","zh_draft":"CreateVerse 模组包","zh_ai":"机械动力宇宙整合包","zh_human":"","zh":"机械动力宇宙整合包","status":"ai"}
+{"id":"IaajDIEI","en":"Modern Mods","zh_draft":"现代改装","zh_ai":"现代模组","zh_human":"","zh":"现代模组","status":"ai"}
+{"id":"wtB5QZQD","en":"On Ancient Ground","zh_draft":"在古老的土地上","zh_ai":"远古之地","zh_human":"","zh":"远古之地","status":"ai"}
+{"id":"zVNVGgPM","en":"Create + Optimization","zh_draft":"创建 + 优化","zh_ai":"机械动力+优化","zh_human":"","zh":"机械动力+优化","status":"ai"}
+{"id":"QsL8Wj6D","en":"Wandering Beta: Legacy","zh_draft":"《流浪贝塔：传承》","zh_ai":"流浪Beta：遗产","zh_human":"","zh":"流浪Beta：遗产","status":"ai"}
+{"id":"kOewKYln","en":"PSYclown's tech mod","zh_draft":"PSYclown 的技术模组","zh_ai":"PSYclown科技模组","zh_human":"","zh":"PSYclown科技模组","status":"ai"}
+{"id":"Hmjo06Nq","en":"Journey's End Vanilla","zh_draft":"《旅程终点》香草味","zh_ai":"旅途终点原版","zh_human":"","zh":"旅途终点原版","status":"ai"}
+{"id":"5DwW61mf","en":"Optimized for PVP","zh_draft":"针对PVP进行了优化","zh_ai":"PvP优化版","zh_human":"","zh":"PvP优化版","status":"ai"}
+{"id":"84lVzYAW","en":"Vanilla World","zh_draft":"香草世界","zh_ai":"原版世界","zh_human":"","zh":"原版世界","status":"ai"}
+{"id":"luoDBxco","en":"Enhanced Weather!","zh_draft":"增强版天气！","zh_ai":"增强天气!","zh_human":"","zh":"增强天气!","status":"ai"}
+{"id":"w9rRdudK","en":"Build with Botania and Create Lite","zh_draft":"使用 Botania 和 Create Lite 进行开发","zh_ai":"Botania与轻量机械动力建造","zh_human":"","zh":"Botania与轻量机械动力建造","status":"ai"}
+{"id":"Tt9sh4yJ","en":"Miracle-Monde","zh_draft":"Miracle-Monde","zh_ai":"奇迹世界","zh_human":"","zh":"奇迹世界","status":"ai"}
+{"id":"IEKuWlfa","en":"Oakleaf","zh_draft":"橡叶","zh_ai":"橡树叶","zh_human":"","zh":"橡树叶","status":"ai"}
+{"id":"jmN1F4rG","en":"Spyro Modpack","zh_draft":"《斯派罗》模组包","zh_ai":"小龙斯派罗整合包","zh_human":"","zh":"小龙斯派罗整合包","status":"ai"}
+{"id":"rgPTlYca","en":"Visual Vanilla","zh_draft":"Visual Vanilla","zh_ai":"视觉原版","zh_human":"","zh":"视觉原版","status":"ai"}
+{"id":"z6rscZMU","en":"Fabulous MC","zh_draft":"超棒的主持人","zh_ai":"精彩MC","zh_human":"","zh":"精彩MC","status":"ai"}
+{"id":"K9pFEuri","en":"NMD Survival","zh_draft":"《NMD Survival》","zh_ai":"NMD生存","zh_human":"","zh":"NMD生存","status":"ai"}
+{"id":"lyGR26rH","en":"Vanilla Beta","zh_draft":"Vanilla Beta","zh_ai":"原版Beta","zh_human":"","zh":"原版Beta","status":"ai"}
+{"id":"Rw1m1T4m","en":"Muoh Optimize Modpack (Pojav + Pc)","zh_draft":"Muoh 优化模组包（Pojav + Pc）","zh_ai":"Muoh优化整合包(Pojav+PC)","zh_human":"","zh":"Muoh优化整合包(Pojav+PC)","status":"ai"}
+{"id":"TGeOrJNs","en":"Past to future","zh_draft":"从过去到未来","zh_ai":"从过去到未来","zh_human":"","zh":"从过去到未来","status":"ai"}
+{"id":"e1vk4Ch1","en":"In The West","zh_draft":"在西方","zh_ai":"西部之旅","zh_human":"","zh":"西部之旅","status":"ai"}
+{"id":"8BlioeRk","en":"Boat Racing","zh_draft":"赛艇","zh_ai":"赛船会","zh_human":"","zh":"赛船会","status":"ai"}
+{"id":"LZXyhWkI","en":"Conflict","zh_draft":"冲突","zh_ai":"冲突","zh_human":"","zh":"冲突","status":"ai"}
+{"id":"bNn50P6g","en":"NarcoleTweaks","zh_draft":"NarcoleTweaks","zh_ai":"NarcoleTweaks","zh_human":"","zh":"NarcoleTweaks","status":"ai"}
+{"id":"aUPUGvyw","en":"Dysphoric's VR Modpack","zh_draft":"Dysphoric 的 VR 模组包","zh_ai":"Dysphoric的VR整合包","zh_human":"","zh":"Dysphoric的VR整合包","status":"ai"}
+{"id":"UXCGs5Ez","en":"Lightweight RPG","zh_draft":"轻量级角色扮演游戏","zh_ai":"轻量RPG","zh_human":"","zh":"轻量RPG","status":"ai"}
+{"id":"mdy38CVY","en":"QQT´s Optimine","zh_draft":"QQT的Optimine","zh_ai":"QQT优化","zh_human":"","zh":"QQT优化","status":"ai"}
+{"id":"Cn2yHzck","en":"Wynncraft Reimagined","zh_draft":"Wynncraft 焕新诠释","zh_ai":"重塑Wynncraft","zh_human":"","zh":"重塑Wynncraft","status":"ai"}
 {"id":"IeNF1cVF","en":"PvP Remaked","zh_draft":"《PvP Remaked》","zh_ai":"","zh_human":"","zh":"《PvP Remaked》","status":"pending"}
 {"id":"grFbG22e","en":"The Wither Chronicles - Modpack","zh_draft":"《凋零编年史》——模组包","zh_ai":"","zh_human":"","zh":"《凋零编年史》——模组包","status":"pending"}
 {"id":"ccYQOriP","en":"RedstoneToolkit","zh_draft":"RedstoneToolkit","zh_ai":"","zh_human":"","zh":"RedstoneToolkit","status":"pending"}
