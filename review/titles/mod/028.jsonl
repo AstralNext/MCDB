@@ -1271,246 +1271,246 @@
 {"id":"1u1wdmwn","en":"SMP Status","zh_draft":"SMP状态","zh_ai":"SMP状态","zh_human":"","zh":"SMP状态","status":"ai"}
 {"id":"2C0ixlUm","en":"re-ShieldStun","zh_draft":"re-ShieldStun","zh_ai":"重制盾牌硬直","zh_human":"","zh":"重制盾牌硬直","status":"ai"}
 {"id":"2eddxIPy","en":"DuckCodes","zh_draft":"DuckCodes","zh_ai":"DuckCodes","zh_human":"","zh":"DuckCodes","status":"ai"}
-{"id":"35KnEbyi","en":"BlockUpdateDisabler","zh_draft":"区块更新禁用器","zh_ai":"","zh_human":"","zh":"区块更新禁用器","status":"pending"}
-{"id":"3JBZehHF","en":"NamVelocityBlockVersion","zh_draft":"NamvelocityBlock版本","zh_ai":"","zh_human":"","zh":"NamvelocityBlock版本","status":"pending"}
-{"id":"3Uo9USTK","en":"TS3-Bridge","zh_draft":"TS 3-桥","zh_ai":"","zh_human":"","zh":"TS 3-桥","status":"pending"}
-{"id":"3h3qRYSa","en":"Lepton","zh_draft":"轻子","zh_ai":"","zh_human":"","zh":"轻子","status":"pending"}
-{"id":"4BPClMpo","en":"Frog Corruption","zh_draft":"青蛙腐败","zh_ai":"","zh_human":"","zh":"青蛙腐败","status":"pending"}
-{"id":"4GuTNw7C","en":"death screen coordinates","zh_draft":"死亡屏幕坐标","zh_ai":"","zh_human":"","zh":"死亡屏幕坐标","status":"pending"}
-{"id":"4fTdcqeu","en":"AutoSaveMod","zh_draft":"AutoSaveMod","zh_ai":"","zh_human":"","zh":"AutoSaveMod","status":"pending"}
-{"id":"5Li61VeC","en":"Debug Stick (Folia)","zh_draft":"除臭棒（Folia）","zh_ai":"","zh_human":"","zh":"除臭棒（Folia）","status":"pending"}
-{"id":"5M5j6Um1","en":"TurtlesAndMore","zh_draft":"海龟和更多","zh_ai":"","zh_human":"","zh":"海龟和更多","status":"pending"}
-{"id":"5oWOIt7y","en":"Withering Wanderers","zh_draft":"枯萎的流浪者","zh_ai":"","zh_human":"","zh":"枯萎的流浪者","status":"pending"}
-{"id":"5tcJdGxs","en":"Bottle O' Fire","zh_draft":"O ' Fire瓶","zh_ai":"","zh_human":"","zh":"O ' Fire瓶","status":"pending"}
-{"id":"5wBueqhU","en":"Explosive Cubes","zh_draft":"爆炸立方体","zh_ai":"","zh_human":"","zh":"爆炸立方体","status":"pending"}
-{"id":"6Lc5z1LT","en":"feralspawns","zh_draft":"野生产卵","zh_ai":"","zh_human":"","zh":"野生产卵","status":"pending"}
-{"id":"6QqmzEWE","en":"AutoFishing MITE","zh_draft":"自动钓鱼螨虫","zh_ai":"","zh_human":"","zh":"自动钓鱼螨虫","status":"pending"}
-{"id":"6W0bO0Lw","en":"AirRepair","zh_draft":"航空维修","zh_ai":"","zh_human":"","zh":"航空维修","status":"pending"}
-{"id":"6vfWOTTX","en":"KyuLib","zh_draft":"KyuLib","zh_ai":"","zh_human":"","zh":"KyuLib","status":"pending"}
-{"id":"6xWv0Va8","en":"XPbar[+]","zh_draft":"XPbar [+]","zh_ai":"","zh_human":"","zh":"XPbar [+]","status":"pending"}
-{"id":"6zALpg0X","en":"Do you know the muffin man?","zh_draft":"你认识松饼人吗？","zh_ai":"","zh_human":"","zh":"你认识松饼人吗？","status":"pending"}
-{"id":"702tB24G","en":"ProgressionEnchant","zh_draft":"进步魅力","zh_ai":"","zh_human":"","zh":"进步魅力","status":"pending"}
-{"id":"71IicLJY","en":"GhostMode","zh_draft":"GhostMode","zh_ai":"","zh_human":"","zh":"GhostMode","status":"pending"}
-{"id":"7K1GyHJX","en":"BreweryXRecipes","zh_draft":"啤酒X食谱","zh_ai":"","zh_human":"","zh":"啤酒X食谱","status":"pending"}
-{"id":"7Rww8nyu","en":"Ultra Hardcore by DWizard","zh_draft":"DWizard的Ultra Hardcore","zh_ai":"","zh_human":"","zh":"DWizard的Ultra Hardcore","status":"pending"}
-{"id":"7lnTL7j3","en":"Hanging Potato Recipes","zh_draft":"挂土豆食谱","zh_ai":"","zh_human":"","zh":"挂土豆食谱","status":"pending"}
-{"id":"8GY3fZQv","en":"OrjusBlockStats","zh_draft":"OrjusBlockStats","zh_ai":"","zh_human":"","zh":"OrjusBlockStats","status":"pending"}
-{"id":"8dTyFuj5","en":"PhysicsToggle","zh_draft":"物理切换","zh_ai":"","zh_human":"","zh":"物理切换","status":"pending"}
-{"id":"92noMe5I","en":"Monsterwalll's Bosses And Stuff","zh_draft":"怪物沃尔的老板和东西","zh_ai":"","zh_human":"","zh":"怪物沃尔的老板和东西","status":"pending"}
-{"id":"9RNRS4gf","en":"FakePlayersPack","zh_draft":"假玩家包","zh_ai":"","zh_human":"","zh":"假玩家包","status":"pending"}
-{"id":"9qucTuQP","en":"Drop Me a Vine","zh_draft":"Drop Me a Vine","zh_ai":"","zh_human":"","zh":"Drop Me a Vine","status":"pending"}
-{"id":"A03iT1A2","en":"GiveMeYourHead","zh_draft":"给我你的头","zh_ai":"","zh_human":"","zh":"给我你的头","status":"pending"}
-{"id":"A8FxINUa","en":"Ayume Core","zh_draft":"Aynomial Core","zh_ai":"","zh_human":"","zh":"Aynomial Core","status":"pending"}
-{"id":"AN7CVNh1","en":"Quantics Elytra Swap","zh_draft":"Quantics Elytra Swap","zh_ai":"","zh_human":"","zh":"Quantics Elytra Swap","status":"pending"}
-{"id":"AQJD00L4","en":"McFormatter","zh_draft":"麦克福马特","zh_ai":"","zh_human":"","zh":"麦克福马特","status":"pending"}
-{"id":"AdkwXo1Q","en":"BountyHunt","zh_draft":"赏金猎人","zh_ai":"","zh_human":"","zh":"赏金猎人","status":"pending"}
-{"id":"AifKyw4S","en":"Byte Module API","zh_draft":"字节模块API","zh_ai":"","zh_human":"","zh":"字节模块API","status":"pending"}
-{"id":"Aw2QcPSW","en":"Identica-CommandBlocker","zh_draft":"Identica-CommandBlocker","zh_ai":"","zh_human":"","zh":"Identica-CommandBlocker","status":"pending"}
-{"id":"BBhfJ1ZM","en":"Item Frame","zh_draft":"项帧","zh_ai":"","zh_human":"","zh":"项帧","status":"pending"}
-{"id":"BPyjfaZv","en":"Dynamic Discord UM+ ( Uptime Monitor )","zh_draft":"动态Discord UM+（正常运行时间监视器）","zh_ai":"","zh_human":"","zh":"动态Discord UM+（正常运行时间监视器）","status":"pending"}
-{"id":"BXM2oT46","en":"New Advancements - Creative Edition","zh_draft":"新进展-创意版","zh_ai":"","zh_human":"","zh":"新进展-创意版","status":"pending"}
-{"id":"BlE0BnTA","en":"SejioMedia","zh_draft":"时代媒体","zh_ai":"","zh_human":"","zh":"时代媒体","status":"pending"}
-{"id":"CA9lU3YS","en":"DorokeiGame","zh_draft":"多罗凯伊游戏","zh_ai":"","zh_human":"","zh":"多罗凯伊游戏","status":"pending"}
-{"id":"CBFCPIAL","en":"SqueakyFeatures","zh_draft":"吱吱作响的特征","zh_ai":"","zh_human":"","zh":"吱吱作响的特征","status":"pending"}
-{"id":"CJog667M","en":"Wiley Border","zh_draft":"威利边界","zh_ai":"","zh_human":"","zh":"威利边界","status":"pending"}
-{"id":"CKHKlr8b","en":"MasterLeaderboard","zh_draft":"主排行榜","zh_ai":"","zh_human":"","zh":"主排行榜","status":"pending"}
-{"id":"CNDzDGvq","en":"Mob Nudge","zh_draft":"暴民轻推","zh_ai":"","zh_human":"","zh":"暴民轻推","status":"pending"}
-{"id":"CeBBZ7DJ","en":"Coords & Days","zh_draft":"坐标和天数","zh_ai":"","zh_human":"","zh":"坐标和天数","status":"pending"}
-{"id":"CpuLwLEv","en":"RestrictMob","zh_draft":"限制暴民","zh_ai":"","zh_human":"","zh":"限制暴民","status":"pending"}
-{"id":"DU9lOF1R","en":"Unique Happy Ghasts","zh_draft":"独特的快乐幽灵","zh_ai":"","zh_human":"","zh":"独特的快乐幽灵","status":"pending"}
-{"id":"DYLKqxNM","en":"ZelLib","zh_draft":"泽尔利布","zh_ai":"","zh_human":"","zh":"泽尔利布","status":"pending"}
-{"id":"DYVxf7rs","en":"Little Advance Crafting","zh_draft":"小小的提前制作","zh_ai":"","zh_human":"","zh":"小小的提前制作","status":"pending"}
-{"id":"EfMrwdAV","en":"Mint","zh_draft":"薄荷","zh_ai":"","zh_human":"","zh":"薄荷","status":"pending"}
-{"id":"F6OVBYUB","en":"SytexLanguage","zh_draft":"SytexLanguage","zh_ai":"","zh_human":"","zh":"SytexLanguage","status":"pending"}
-{"id":"FfBzmteq","en":"ProxyPrefix","zh_draft":"代理前置","zh_ai":"","zh_human":"","zh":"代理前置","status":"pending"}
-{"id":"GC4mp5Eh","en":"SpyGlassMeData","zh_draft":"SpyGlassMeData","zh_ai":"","zh_human":"","zh":"SpyGlassMeData","status":"pending"}
-{"id":"GG2dxAOg","en":"Backlist","zh_draft":"Backlist","zh_ai":"","zh_human":"","zh":"Backlist","status":"pending"}
-{"id":"GNcwOrHA","en":"Minipurge:Yellow","zh_draft":"迷你冲动：黄色","zh_ai":"","zh_human":"","zh":"迷你冲动：黄色","status":"pending"}
-{"id":"GSufqTyQ","en":"BreakWarn","zh_draft":"打破警告","zh_ai":"","zh_human":"","zh":"打破警告","status":"pending"}
-{"id":"GWSqy4ad","en":"Extra Enchants","zh_draft":"额外的魔法","zh_ai":"","zh_human":"","zh":"额外的魔法","status":"pending"}
-{"id":"GodGZ0CK","en":"Notematic Player","zh_draft":"笔记型球员","zh_ai":"","zh_human":"","zh":"笔记型球员","status":"pending"}
-{"id":"Gwec8GCc","en":"APEX utilitys","zh_draft":"APEX公用事业","zh_ai":"","zh_human":"","zh":"APEX公用事业","status":"pending"}
-{"id":"GyaLRUNL","en":"MashAuraSystem","zh_draft":"MashAura系统","zh_ai":"","zh_human":"","zh":"MashAura系统","status":"pending"}
-{"id":"H4Ntye0C","en":"World Change","zh_draft":"世界改变","zh_ai":"","zh_human":"","zh":"世界改变","status":"pending"}
-{"id":"HHpXP4pg","en":"To The Peak","zh_draft":"到峰值","zh_ai":"","zh_human":"","zh":"到峰值","status":"pending"}
-{"id":"HOtTSJ7l","en":"Ulterlands: Worlds Apart","zh_draft":"终极之地：世界分离","zh_ai":"","zh_human":"","zh":"终极之地：世界分离","status":"pending"}
-{"id":"HQ2YeE1m","en":"VClickBlockCommand","zh_draft":"VClick Block命令","zh_ai":"","zh_human":"","zh":"VClick Block命令","status":"pending"}
-{"id":"HXDAXgL6","en":"SmpUtilities","zh_draft":"SmpUtilities","zh_ai":"","zh_human":"","zh":"SmpUtilities","status":"pending"}
-{"id":"Ha3m5IOU","en":"MintTokens","zh_draft":"薄荷代币","zh_ai":"","zh_human":"","zh":"薄荷代币","status":"pending"}
-{"id":"HpyZZVGs","en":"Loquat Madness","zh_draft":"疯狂的相思","zh_ai":"","zh_human":"","zh":"疯狂的相思","status":"pending"}
-{"id":"HzzEikc8","en":"Protein Shake","zh_draft":"蛋白质奶昔","zh_ai":"","zh_human":"","zh":"蛋白质奶昔","status":"pending"}
-{"id":"IMnFfUXW","en":"Two special tools and many blocks","zh_draft":"两个特殊工具和许多块","zh_ai":"","zh_human":"","zh":"两个特殊工具和许多块","status":"pending"}
-{"id":"IUP7oiAv","en":"ZenithHome","zh_draft":"ZenithHome","zh_ai":"","zh_human":"","zh":"ZenithHome","status":"pending"}
-{"id":"IXONpbLK","en":"Legacy Bed Recipe","zh_draft":"传统床食谱","zh_ai":"","zh_human":"","zh":"传统床食谱","status":"pending"}
-{"id":"IqabaZzM","en":"Population Control","zh_draft":"人口控制","zh_ai":"","zh_human":"","zh":"人口控制","status":"pending"}
-{"id":"IrqBp83Q","en":"Aloria World Gen","zh_draft":"阿洛里亚世界世代","zh_ai":"","zh_human":"","zh":"阿洛里亚世界世代","status":"pending"}
-{"id":"J4AP5XsP","en":"Heart of Life Additions","zh_draft":"生命之心附加","zh_ai":"","zh_human":"","zh":"生命之心附加","status":"pending"}
-{"id":"JMKKyDHx","en":"PalladiumX","zh_draft":"Palladium X","zh_ai":"","zh_human":"","zh":"Palladium X","status":"pending"}
-{"id":"JOpAaejn","en":"FellowFinder Light","zh_draft":"同胞之光","zh_ai":"","zh_human":"","zh":"同胞之光","status":"pending"}
-{"id":"JRo5jVI5","en":"Still life Mangrove fix","zh_draft":"静物红树林修复","zh_ai":"","zh_human":"","zh":"静物红树林修复","status":"pending"}
-{"id":"Jl4ZndcD","en":"strengthhoney","zh_draft":"力量蜂蜜","zh_ai":"","zh_human":"","zh":"力量蜂蜜","status":"pending"}
-{"id":"K0xZIBhh","en":"RemoveElytras","zh_draft":"删除Elytras","zh_ai":"","zh_human":"","zh":"删除Elytras","status":"pending"}
-{"id":"K6uNJOw5","en":"Vine Clipper","zh_draft":"藤蔓快船","zh_ai":"","zh_human":"","zh":"藤蔓快船","status":"pending"}
-{"id":"K9220D1b","en":"Decorative + Invisible Sulfur Cubes","zh_draft":"装饰性+隐形硫方块","zh_ai":"","zh_human":"","zh":"装饰性+隐形硫方块","status":"pending"}
-{"id":"KLVuMrHr","en":"Sniffer Egg Fall Block","zh_draft":"嗅探蛋坠落块","zh_ai":"","zh_human":"","zh":"嗅探蛋坠落块","status":"pending"}
-{"id":"KkWAt7lH","en":"Dynamic Pathways","zh_draft":"动态路径","zh_ai":"","zh_human":"","zh":"动态路径","status":"pending"}
-{"id":"KmBRCYT8","en":"Aegis Combat","zh_draft":"神盾战","zh_ai":"","zh_human":"","zh":"神盾战","status":"pending"}
-{"id":"LD5QV4Vi","en":"MegaEnderChest","zh_draft":"MegaEnderChest","zh_ai":"","zh_human":"","zh":"MegaEnderChest","status":"pending"}
-{"id":"LDrNPPeg","en":"MultiVerse-Protocol","zh_draft":"多版本协议","zh_ai":"","zh_human":"","zh":"多版本协议","status":"pending"}
-{"id":"LGjS181c","en":"timerpluginmutils","zh_draft":"定时器爆炸","zh_ai":"","zh_human":"","zh":"定时器爆炸","status":"pending"}
-{"id":"LaJo5O7U","en":"Smart Sleep","zh_draft":"智能睡眠","zh_ai":"","zh_human":"","zh":"智能睡眠","status":"pending"}
-{"id":"LqTU1siQ","en":"Enderite Update","zh_draft":"Enderite更新","zh_ai":"","zh_human":"","zh":"Enderite更新","status":"pending"}
-{"id":"LuXXsr8m","en":"Eagles More Ores!","zh_draft":"老鹰更多的矿石！","zh_ai":"","zh_human":"","zh":"老鹰更多的矿石！","status":"pending"}
-{"id":"MD2Z29Ri","en":"Golden Dandelion Suspicious Stew","zh_draft":"金蒲公英可疑炖菜","zh_ai":"","zh_human":"","zh":"金蒲公英可疑炖菜","status":"pending"}
-{"id":"Mf5SnpGT","en":"Instant Oxygen Refill","zh_draft":"即时氧气补充","zh_ai":"","zh_human":"","zh":"即时氧气补充","status":"pending"}
-{"id":"MjcgyuuZ","en":"AntiSlime","zh_draft":"反粘液","zh_ai":"","zh_human":"","zh":"反粘液","status":"pending"}
-{"id":"NJUrtgJD","en":"TRAuctions","zh_draft":"创伤","zh_ai":"","zh_human":"","zh":"创伤","status":"pending"}
-{"id":"NMSwIw8c","en":"Touchy Spawners","zh_draft":"敏感的生育者","zh_ai":"","zh_human":"","zh":"敏感的生育者","status":"pending"}
-{"id":"NP8gKMC5","en":"Chaotic Sulfur","zh_draft":"混沌硫磺","zh_ai":"","zh_human":"","zh":"混沌硫磺","status":"pending"}
-{"id":"NW4Hcvuy","en":"Prospector Potion","zh_draft":"探矿者药剂","zh_ai":"","zh_human":"","zh":"探矿者药剂","status":"pending"}
-{"id":"NYKr1sai","en":"Hopper Stats","zh_draft":"料斗统计","zh_ai":"","zh_human":"","zh":"料斗统计","status":"pending"}
-{"id":"NmC4gGNc","en":"RPGLoot","zh_draft":"RPGLoot","zh_ai":"","zh_human":"","zh":"RPGLoot","status":"pending"}
-{"id":"Nxce93Im","en":"Quin's weird mod","zh_draft":"奎因的奇怪模组","zh_ai":"","zh_human":"","zh":"奎因的奇怪模组","status":"pending"}
-{"id":"O0iv6jEx","en":"Dynamically Whitelist","zh_draft":"动态白名单","zh_ai":"","zh_human":"","zh":"动态白名单","status":"pending"}
-{"id":"O1ynEIeb","en":"Dying Balanced","zh_draft":"平衡地死去","zh_ai":"","zh_human":"","zh":"平衡地死去","status":"pending"}
-{"id":"O5dRc5LO","en":"Investigate","zh_draft":"探讨","zh_ai":"","zh_human":"","zh":"探讨","status":"pending"}
-{"id":"O7hhGoWf","en":"CustomEyesLib","zh_draft":"定制眼睛库","zh_ai":"","zh_human":"","zh":"定制眼睛库","status":"pending"}
-{"id":"Oqg9DIyG","en":"Disenchant On Anvil","zh_draft":"消除铁槌上的痴迷","zh_ai":"","zh_human":"","zh":"消除铁槌上的痴迷","status":"pending"}
-{"id":"PDd4CS8S","en":"BWhiteListView","zh_draft":"B怀特列表视图","zh_ai":"","zh_human":"","zh":"B怀特列表视图","status":"pending"}
-{"id":"PO3BiCuz","en":"VelocityWakeUp","zh_draft":"速度唤醒","zh_ai":"","zh_human":"","zh":"速度唤醒","status":"pending"}
-{"id":"PS8sTFvS","en":"Multispawns","zh_draft":"多繁殖","zh_ai":"","zh_human":"","zh":"多繁殖","status":"pending"}
-{"id":"PSp2DiqG","en":"Sky Book","zh_draft":"天书","zh_ai":"","zh_human":"","zh":"天书","status":"pending"}
-{"id":"Q8RziLxY","en":"Unstable Portals","zh_draft":"不稳定的门户","zh_ai":"","zh_human":"","zh":"不稳定的门户","status":"pending"}
-{"id":"QGdTkFZ1","en":"学!(Learn)","zh_draft":"学！（学习）","zh_ai":"","zh_human":"","zh":"学！（学习）","status":"pending"}
-{"id":"QM3WvOlP","en":"AlphaFix","zh_draft":"AlphaFix","zh_ai":"","zh_human":"","zh":"AlphaFix","status":"pending"}
-{"id":"QgwauFWJ","en":"BlackCat's Food Mod","zh_draft":"黑猫的食物模式","zh_ai":"","zh_human":"","zh":"黑猫的食物模式","status":"pending"}
-{"id":"Qt8izx0v","en":"NoChargedCreepers","zh_draft":"无充电爬行者","zh_ai":"","zh_human":"","zh":"无充电爬行者","status":"pending"}
-{"id":"R0j7rhrG","en":"Server Tweaks","zh_draft":"服务器调整","zh_ai":"","zh_human":"","zh":"服务器调整","status":"pending"}
-{"id":"RCj2qLRU","en":"Balanced Crates Quark Sorting","zh_draft":"平衡板条箱Quark排序","zh_ai":"","zh_human":"","zh":"平衡板条箱Quark排序","status":"pending"}
-{"id":"RNXohnsX","en":"PacketTrigger","zh_draft":"PacketTrigger","zh_ai":"","zh_human":"","zh":"PacketTrigger","status":"pending"}
-{"id":"Rlm4D07z","en":"Wrenchable Computers","zh_draft":"可扳式电脑","zh_ai":"","zh_human":"","zh":"可扳式电脑","status":"pending"}
-{"id":"Ro5k3f0u","en":"Opa Pa Displacement Of Realities","zh_draft":"奥帕帕取代现实","zh_ai":"","zh_human":"","zh":"奥帕帕取代现实","status":"pending"}
-{"id":"RsfrOUSh","en":"Health Overflow Fix","zh_draft":"健康溢出修复","zh_ai":"","zh_human":"","zh":"健康溢出修复","status":"pending"}
-{"id":"TGLx5xC3","en":"SpyHunts","zh_draft":"间谍狩猎","zh_ai":"","zh_human":"","zh":"间谍狩猎","status":"pending"}
-{"id":"UPTAX1z2","en":"Pickless","zh_draft":"皮卡利斯","zh_ai":"","zh_human":"","zh":"皮卡利斯","status":"pending"}
-{"id":"UWB3SfVn","en":"Craftable Bucket of Sulfur Cube(Simple)","zh_draft":"硫磺方块手工桶（简单）","zh_ai":"","zh_human":"","zh":"硫磺方块手工桶（简单）","status":"pending"}
-{"id":"UWIo1Ry1","en":"Kill Block","zh_draft":"杀死块","zh_ai":"","zh_human":"","zh":"杀死块","status":"pending"}
-{"id":"UuX76Y7m","en":"Cheaper Trapdoors","zh_draft":"更便宜的陷阱门","zh_ai":"","zh_human":"","zh":"更便宜的陷阱门","status":"pending"}
-{"id":"VACx8OcQ","en":"LegitiUtilities","zh_draft":"合法公用事业","zh_ai":"","zh_human":"","zh":"合法公用事业","status":"pending"}
-{"id":"VCVnGOAe","en":"FoChatGames","zh_draft":"FoChatGames","zh_ai":"","zh_human":"","zh":"FoChatGames","status":"pending"}
-{"id":"VM31fZ9L","en":"Echo Announcements","zh_draft":"Echo公告","zh_ai":"","zh_human":"","zh":"Echo公告","status":"pending"}
-{"id":"VMyjBTo9","en":"ICNT","zh_draft":"ICNT","zh_ai":"","zh_human":"","zh":"ICNT","status":"pending"}
-{"id":"Ve25uMhN","en":"Discord folders","zh_draft":"不和文件夹","zh_ai":"","zh_human":"","zh":"不和文件夹","status":"pending"}
-{"id":"Vq8XGTiT","en":"ClickNametags","zh_draft":"单击名称标签","zh_ai":"","zh_human":"","zh":"单击名称标签","status":"pending"}
-{"id":"W2cFUZZh","en":"RTP-premium","zh_draft":"RTP溢价","zh_ai":"","zh_human":"","zh":"RTP溢价","status":"pending"}
-{"id":"WNG8E2Ki","en":"XRush","zh_draft":"XRush","zh_ai":"","zh_human":"","zh":"XRush","status":"pending"}
-{"id":"WULP856X","en":"UpVotes","zh_draft":"UpVotes","zh_ai":"","zh_human":"","zh":"UpVotes","status":"pending"}
-{"id":"WXK8vc6O","en":"Totem Assist","zh_draft":"图腾辅助","zh_ai":"","zh_human":"","zh":"图腾辅助","status":"pending"}
-{"id":"WYF40vmB","en":"Mindset","zh_draft":"心态","zh_ai":"","zh_human":"","zh":"心态","status":"pending"}
-{"id":"WjrVPJPU","en":"Create: Cultivation Craft (Patch)","zh_draft":"创建：修行工艺（补丁）","zh_ai":"","zh_human":"","zh":"创建：修行工艺（补丁）","status":"pending"}
-{"id":"Xz5eBqLb","en":"Replace Elytra with Max HP","zh_draft":"用Max HP替换Elytra","zh_ai":"","zh_human":"","zh":"用Max HP替换Elytra","status":"pending"}
-{"id":"Y8efNDGP","en":"Biomes o crazy","zh_draft":"疯狂的生物学家","zh_ai":"","zh_human":"","zh":"疯狂的生物学家","status":"pending"}
-{"id":"Y9cu3A2S","en":"flight toggle","zh_draft":"航班切换","zh_ai":"","zh_human":"","zh":"航班切换","status":"pending"}
-{"id":"YQe4zgqk","en":"Server-Statistics","zh_draft":"服务器统计","zh_ai":"","zh_human":"","zh":"服务器统计","status":"pending"}
-{"id":"Yp0m0JIW","en":"Stripelands Viewer","zh_draft":"Stripelands查看器","zh_ai":"","zh_human":"","zh":"Stripelands查看器","status":"pending"}
-{"id":"Z50WBoQK","en":"555 Lobotomy Project","zh_draft":"555脑白质切除术项目","zh_ai":"","zh_human":"","zh":"555脑白质切除术项目","status":"pending"}
-{"id":"ZGO6yHJf","en":"Boiled Eggs","zh_draft":"煮鸡蛋","zh_ai":"","zh_human":"","zh":"煮鸡蛋","status":"pending"}
-{"id":"ZJdezt6n","en":"Easy Jump Pad","zh_draft":"轻松跳跃垫","zh_ai":"","zh_human":"","zh":"轻松跳跃垫","status":"pending"}
-{"id":"ZRNgfEAX","en":"Survivor's Delight AFC","zh_draft":"幸存者快乐AFC","zh_ai":"","zh_human":"","zh":"幸存者快乐AFC","status":"pending"}
-{"id":"aNYhkrx2","en":"ForceResourcePack","zh_draft":"部队资源包","zh_ai":"","zh_human":"","zh":"部队资源包","status":"pending"}
-{"id":"aVh3GMqq","en":"QuickEnchant","zh_draft":"快速魅力","zh_ai":"","zh_human":"","zh":"快速魅力","status":"pending"}
-{"id":"aYpjOZoy","en":"Reworld (Fabric)","zh_draft":"重新世界（织物）","zh_ai":"","zh_human":"","zh":"重新世界（织物）","status":"pending"}
-{"id":"aoyOrNmj","en":"Cat Retaliation","zh_draft":"猫报复","zh_ai":"","zh_human":"","zh":"猫报复","status":"pending"}
-{"id":"b88q25hv","en":"Freeze Tag","zh_draft":"冻结标记","zh_ai":"","zh_human":"","zh":"冻结标记","status":"pending"}
-{"id":"bCvXwM6U","en":"Iron Arrow Recipe","zh_draft":"铁箭食谱","zh_ai":"","zh_human":"","zh":"铁箭食谱","status":"pending"}
-{"id":"bFr6CDos","en":"Claim Yours","zh_draft":"声称你的","zh_ai":"","zh_human":"","zh":"声称你的","status":"pending"}
-{"id":"bIC64kUf","en":"NameMCAPI","zh_draft":"姓名MCAPI","zh_ai":"","zh_human":"","zh":"姓名MCAPI","status":"pending"}
-{"id":"bYcCwfwa","en":"Dimension World Spawn","zh_draft":"维度世界繁衍","zh_ai":"","zh_human":"","zh":"维度世界繁衍","status":"pending"}
-{"id":"bpnkLhej","en":"TPA100","zh_draft":"TPA 100","zh_ai":"","zh_human":"","zh":"TPA 100","status":"pending"}
-{"id":"bv5xp4WN","en":"FallPredict","zh_draft":"跌倒预测","zh_ai":"","zh_human":"","zh":"跌倒预测","status":"pending"}
-{"id":"c8NqSmdj","en":"QOL for MC 1.0","zh_draft":"MC 1.0的QOL","zh_ai":"","zh_human":"","zh":"MC 1.0的QOL","status":"pending"}
-{"id":"cNI18HjT","en":"SlotSwap","zh_draft":"SlotSwap","zh_ai":"","zh_human":"","zh":"SlotSwap","status":"pending"}
-{"id":"cSGeIjSG","en":"QuickShop-Hikari-Dialog","zh_draft":"QuickShop-Hikari-Dialogue","zh_ai":"","zh_human":"","zh":"QuickShop-Hikari-Dialogue","status":"pending"}
-{"id":"cv0LIc31","en":"VeloraSafeTeleport","zh_draft":"VeloraSafeTeleport","zh_ai":"","zh_human":"","zh":"VeloraSafeTeleport","status":"pending"}
-{"id":"dSUMW51F","en":"End Expanse","zh_draft":"结束扩展","zh_ai":"","zh_human":"","zh":"结束扩展","status":"pending"}
-{"id":"dWfyHRIy","en":"WorldsgenUtils","zh_draft":"Worldsgen Utils","zh_ai":"","zh_human":"","zh":"Worldsgen Utils","status":"pending"}
-{"id":"eCaykBcd","en":"Void Evolution Origin","zh_draft":"虚空进化起源","zh_ai":"","zh_human":"","zh":"虚空进化起源","status":"pending"}
-{"id":"eLQZUcBj","en":"Moress","zh_draft":"莫雷斯","zh_ai":"","zh_human":"","zh":"莫雷斯","status":"pending"}
-{"id":"eM2Lunct","en":"SpyWebSocket","zh_draft":"间谍网络插座","zh_ai":"","zh_human":"","zh":"间谍网络插座","status":"pending"}
-{"id":"fMTb1gvg","en":"items-retrieval","zh_draft":"项目检索","zh_ai":"","zh_human":"","zh":"项目检索","status":"pending"}
-{"id":"fO3syqkO","en":"ExplodingEntities","zh_draft":"爆炸实体","zh_ai":"","zh_human":"","zh":"爆炸实体","status":"pending"}
-{"id":"fwEmoolv","en":"Red Sand Concrete Powder","zh_draft":"红砂混凝土粉","zh_ai":"","zh_human":"","zh":"红砂混凝土粉","status":"pending"}
-{"id":"fyUnni6f","en":"Albumize","zh_draft":"分类","zh_ai":"","zh_human":"","zh":"分类","status":"pending"}
-{"id":"g15J7GTk","en":"CommandBlockerX","zh_draft":"CommandBlockerX","zh_ai":"","zh_human":"","zh":"CommandBlockerX","status":"pending"}
-{"id":"g30roCyZ","en":"VizualChat","zh_draft":"VizualChat","zh_ai":"","zh_human":"","zh":"VizualChat","status":"pending"}
-{"id":"gHtA5m47","en":"CoreHealth","zh_draft":"核心健康","zh_ai":"","zh_human":"","zh":"核心健康","status":"pending"}
-{"id":"gWusOZVc","en":"Hardcore meat","zh_draft":"铁杆肉","zh_ai":"","zh_human":"","zh":"铁杆肉","status":"pending"}
-{"id":"gZfKk6Gp","en":"Cinnabar Crafting","zh_draft":"朱砂工艺","zh_ai":"","zh_human":"","zh":"朱砂工艺","status":"pending"}
-{"id":"gjz0LQyG","en":"Easy netherite","zh_draft":"易石","zh_ai":"","zh_human":"","zh":"易石","status":"pending"}
-{"id":"hMjCslOo","en":"No Player No Day Cycle","zh_draft":"没有球员没有日周期","zh_ai":"","zh_human":"","zh":"没有球员没有日周期","status":"pending"}
-{"id":"hq1FzmQA","en":"MIP","zh_draft":"MIP","zh_ai":"","zh_human":"","zh":"MIP","status":"pending"}
-{"id":"huBBXcvr","en":"Smelter's Pickaxe","zh_draft":"冶炼厂的镐","zh_ai":"","zh_human":"","zh":"冶炼厂的镐","status":"pending"}
-{"id":"hwIT9DaU","en":"Cheap TnT","zh_draft":"廉价TnT","zh_ai":"","zh_human":"","zh":"廉价TnT","status":"pending"}
-{"id":"hwmE5PpU","en":"cobweb to 9 string","zh_draft":"蜘蛛网到9串","zh_ai":"","zh_human":"","zh":"蜘蛛网到9串","status":"pending"}
-{"id":"iOexKZsE","en":"Pwn's Skin Fix","zh_draft":"Pwn的皮肤修复","zh_ai":"","zh_human":"","zh":"Pwn的皮肤修复","status":"pending"}
-{"id":"imUcJDlc","en":"Faceless Void Origin","zh_draft":"无面虚空本源","zh_ai":"","zh_human":"","zh":"无面虚空本源","status":"pending"}
-{"id":"j0AtCeg0","en":"Jade Block Hider","zh_draft":"玉块隐藏者","zh_ai":"","zh_human":"","zh":"玉块隐藏者","status":"pending"}
-{"id":"jCy5r3kY","en":"Distant Dread","zh_draft":"遥远的恐惧","zh_ai":"","zh_human":"","zh":"遥远的恐惧","status":"pending"}
-{"id":"jLF6CQ6X","en":"PannHarvestEngine","zh_draft":"PannHarvestEngine","zh_ai":"","zh_human":"","zh":"PannHarvestEngine","status":"pending"}
-{"id":"jWCyojAJ","en":"Additional Netherite Armors","zh_draft":"额外的尼德兰装甲","zh_ai":"","zh_human":"","zh":"额外的尼德兰装甲","status":"pending"}
-{"id":"jd6JLrv6","en":"BetterCrafter","zh_draft":"更好的工匠","zh_ai":"","zh_human":"","zh":"更好的工匠","status":"pending"}
-{"id":"jqkv6eE8","en":"Renewable Ores & Minerals","zh_draft":"可再生矿产","zh_ai":"","zh_human":"","zh":"可再生矿产","status":"pending"}
-{"id":"ki9Ztaf9","en":"Litematica Chunk Lag Fix","zh_draft":"Litematica大块滞后修复","zh_ai":"","zh_human":"","zh":"Litematica大块滞后修复","status":"pending"}
-{"id":"kl7CmxmW","en":"BiomeAdvancements","zh_draft":"BiomeAdvancements","zh_ai":"","zh_human":"","zh":"BiomeAdvancements","status":"pending"}
-{"id":"kn6zvz7X","en":"ReviveAnnounce","zh_draft":"复兴公告","zh_ai":"","zh_human":"","zh":"复兴公告","status":"pending"}
-{"id":"kpFevv4D","en":"Big John Machine","zh_draft":"约翰机器","zh_ai":"","zh_human":"","zh":"约翰机器","status":"pending"}
-{"id":"kpxVPNNT","en":"craftable deepslate/cobbeled deepslate","zh_draft":"坚固的深板岩/鹅卵石带的深板岩","zh_ai":"","zh_human":"","zh":"坚固的深板岩/鹅卵石带的深板岩","status":"pending"}
-{"id":"kwBpscpP","en":"Void Kiwi","zh_draft":"虚空猕猴桃","zh_ai":"","zh_human":"","zh":"虚空猕猴桃","status":"pending"}
-{"id":"lGztZMkg","en":"Chat Optimizer","zh_draft":"聊天优化器","zh_ai":"","zh_human":"","zh":"聊天优化器","status":"pending"}
-{"id":"lQeX8OfE","en":"VoteForCommand","zh_draft":"投票支持命令","zh_ai":"","zh_human":"","zh":"投票支持命令","status":"pending"}
-{"id":"liNwuUcQ","en":"simpledeathmessages","zh_draft":"简单的死亡消息","zh_ai":"","zh_human":"","zh":"简单的死亡消息","status":"pending"}
-{"id":"llEqHjzi","en":"The Complete Drop Randomizer, Shuffler & Multiplier","zh_draft":"完整的丢弃随机发生器、洗牌器和乘数","zh_ai":"","zh_human":"","zh":"完整的丢弃随机发生器、洗牌器和乘数","status":"pending"}
-{"id":"lsAhJMfK","en":"A Means to an End","zh_draft":"达到目的的手段","zh_ai":"","zh_human":"","zh":"达到目的的手段","status":"pending"}
-{"id":"m1kdUMCz","en":"Head of Exit","zh_draft":"出口主管","zh_ai":"","zh_human":"","zh":"出口主管","status":"pending"}
-{"id":"m3j0A8ug","en":"LoDuels","zh_draft":"洛决斗","zh_ai":"","zh_human":"","zh":"洛决斗","status":"pending"}
-{"id":"mEnQjJQ8","en":"Such Nick Minecraft Mod","zh_draft":"尼克·我的世界莫德","zh_ai":"","zh_human":"","zh":"尼克·我的世界莫德","status":"pending"}
-{"id":"mTMZ8rTx","en":"SecPlayer","zh_draft":"SecPlayer","zh_ai":"","zh_human":"","zh":"SecPlayer","status":"pending"}
-{"id":"mYDOPhMb","en":"An Incredible Extension","zh_draft":"令人难以置信的扩展","zh_ai":"","zh_human":"","zh":"令人难以置信的扩展","status":"pending"}
-{"id":"mdDOISAm","en":"[Origin] Rush","zh_draft":"[起源]拉什","zh_ai":"","zh_human":"","zh":"[起源]拉什","status":"pending"}
-{"id":"n1A9D1Lt","en":"IP Bind Guard","zh_draft":"IP绑定保护","zh_ai":"","zh_human":"","zh":"IP绑定保护","status":"pending"}
-{"id":"nT9LJFpl","en":"Builders Wand Lite","zh_draft":"建筑师Wand Lite","zh_ai":"","zh_human":"","zh":"建筑师Wand Lite","status":"pending"}
-{"id":"nd5cxSJH","en":"Minecraft but fishing teleports you randomly","zh_draft":"我的世界，但钓鱼随机传送您","zh_ai":"","zh_human":"","zh":"我的世界，但钓鱼随机传送您","status":"pending"}
-{"id":"nidkh5Ke","en":"Smart Portal","zh_draft":"智能门户","zh_ai":"","zh_human":"","zh":"智能门户","status":"pending"}
-{"id":"oIoPe1pY","en":"MCOmniSight","zh_draft":"MCOmniSight","zh_ai":"","zh_human":"","zh":"MCOmniSight","status":"pending"}
-{"id":"oOfgOhgS","en":"BuddyMod","zh_draft":"BuddyMod","zh_ai":"","zh_human":"","zh":"BuddyMod","status":"pending"}
-{"id":"pB8NY6PC","en":"Extra Coal Ore Drop","zh_draft":"额外的煤炭矿石下降","zh_ai":"","zh_human":"","zh":"额外的煤炭矿石下降","status":"pending"}
-{"id":"pJRODOHt","en":"Blossom","zh_draft":"开花","zh_ai":"","zh_human":"","zh":"开花","status":"pending"}
-{"id":"pfZa6rGn","en":"Happy Ghast: Speed Upgrades","zh_draft":"快乐的惊喜：快速升级","zh_ai":"","zh_human":"","zh":"快乐的惊喜：快速升级","status":"pending"}
-{"id":"pp5P5hJG","en":"epgrab","zh_draft":"epgrag","zh_ai":"","zh_human":"","zh":"epgrag","status":"pending"}
-{"id":"qChOFwPe","en":"Progressive Text Display","zh_draft":"渐进文本显示","zh_ai":"","zh_human":"","zh":"渐进文本显示","status":"pending"}
-{"id":"qGRI5TOc","en":"Seva ya Enchantment Rewamps","zh_draft":"Seva ya Enchantment Rewamps","zh_ai":"","zh_human":"","zh":"Seva ya Enchantment Rewamps","status":"pending"}
-{"id":"qcOdXPZA","en":"Deathmatch","zh_draft":"死亡竞赛","zh_ai":"","zh_human":"","zh":"死亡竞赛","status":"pending"}
-{"id":"qrvAGIcM","en":"Netheroreoverlay","zh_draft":"内瑟罗覆盖层","zh_ai":"","zh_human":"","zh":"内瑟罗覆盖层","status":"pending"}
-{"id":"qzz8ssod","en":"P_TopJogadores","zh_draft":"P_TopJogadores","zh_ai":"","zh_human":"","zh":"P_TopJogadores","status":"pending"}
-{"id":"r82f3EuJ","en":"Fishbowl Helmet","zh_draft":"鱼缸头盔","zh_ai":"","zh_human":"","zh":"鱼缸头盔","status":"pending"}
-{"id":"rBRFX0l5","en":"Object Impermanence","zh_draft":"物体无常","zh_ai":"","zh_human":"","zh":"物体无常","status":"pending"}
-{"id":"rKtjpJqB","en":"Advancement Bingo","zh_draft":"进步宾果","zh_ai":"","zh_human":"","zh":"进步宾果","status":"pending"}
-{"id":"s0cUY0vi","en":"RuinedCollections","zh_draft":"被毁的收藏","zh_ai":"","zh_human":"","zh":"被毁的收藏","status":"pending"}
-{"id":"sJGNd6ih","en":"DndRoll","zh_draft":"DndRoll","zh_ai":"","zh_human":"","zh":"DndRoll","status":"pending"}
-{"id":"sT2v3gYx","en":"Player Drops","zh_draft":"球员掉落","zh_ai":"","zh_human":"","zh":"球员掉落","status":"pending"}
-{"id":"spmUpMEJ","en":"TreeExcavator","zh_draft":"树木挖掘机","zh_ai":"","zh_human":"","zh":"树木挖掘机","status":"pending"}
-{"id":"swXIaujN","en":"SimpleCrossChat","zh_draft":"SimpleCrossChat","zh_ai":"","zh_human":"","zh":"SimpleCrossChat","status":"pending"}
-{"id":"tDdLDQZW","en":"Common-Freeze","zh_draft":"共同冻结","zh_ai":"","zh_human":"","zh":"共同冻结","status":"pending"}
-{"id":"tGYdpRro","en":"csLagExplainer","zh_draft":"csLagExplainer","zh_ai":"","zh_human":"","zh":"csLagExplainer","status":"pending"}
-{"id":"tK24T8Vg","en":"OpenInGame","zh_draft":"OpenInGame","zh_ai":"","zh_human":"","zh":"OpenInGame","status":"pending"}
-{"id":"tqt0MpYn","en":"Interesting Potions","zh_draft":"有趣的药剂","zh_ai":"","zh_human":"","zh":"有趣的药剂","status":"pending"}
-{"id":"uLrd39rv","en":"Vivid Zenith","zh_draft":"生动的Zenith","zh_ai":"","zh_human":"","zh":"生动的Zenith","status":"pending"}
-{"id":"uNqqR9i7","en":"MysticRealm - Pinokio","zh_draft":"神秘领域-皮诺乔","zh_ai":"","zh_human":"","zh":"神秘领域-皮诺乔","status":"pending"}
-{"id":"uWBEQdO5","en":"Mae's Progression 'N' Stuff","zh_draft":"梅的进步“N”东西","zh_ai":"","zh_human":"","zh":"梅的进步“N”东西","status":"pending"}
-{"id":"unKAC83w","en":"Nightmare Mobs AI","zh_draft":"噩梦暴徒人工智能","zh_ai":"","zh_human":"","zh":"噩梦暴徒人工智能","status":"pending"}
-{"id":"vkAZ5jf4","en":"Qezuu - Reviving","zh_draft":"Qezuu -复兴","zh_ai":"","zh_human":"","zh":"Qezuu -复兴","status":"pending"}
-{"id":"vvAOIxs2","en":"First Join Message Button","zh_draft":"第一个加入消息按钮","zh_ai":"","zh_human":"","zh":"第一个加入消息按钮","status":"pending"}
-{"id":"wArHEg9T","en":"Reflect Upon Yourself","zh_draft":"反思自己","zh_ai":"","zh_human":"","zh":"反思自己","status":"pending"}
+{"id":"35KnEbyi","en":"BlockUpdateDisabler","zh_draft":"区块更新禁用器","zh_ai":"方块更新禁用器","zh_human":"","zh":"方块更新禁用器","status":"ai"}
+{"id":"3JBZehHF","en":"NamVelocityBlockVersion","zh_draft":"NamvelocityBlock版本","zh_ai":"纳姆速度方块版本","zh_human":"","zh":"纳姆速度方块版本","status":"ai"}
+{"id":"3Uo9USTK","en":"TS3-Bridge","zh_draft":"TS 3-桥","zh_ai":"TS3 桥接器","zh_human":"","zh":"TS3 桥接器","status":"ai"}
+{"id":"3h3qRYSa","en":"Lepton","zh_draft":"轻子","zh_ai":"莱普顿","zh_human":"","zh":"莱普顿","status":"ai"}
+{"id":"4BPClMpo","en":"Frog Corruption","zh_draft":"青蛙腐败","zh_ai":"青蛙腐化","zh_human":"","zh":"青蛙腐化","status":"ai"}
+{"id":"4GuTNw7C","en":"death screen coordinates","zh_draft":"死亡屏幕坐标","zh_ai":"死亡界面坐标","zh_human":"","zh":"死亡界面坐标","status":"ai"}
+{"id":"4fTdcqeu","en":"AutoSaveMod","zh_draft":"AutoSaveMod","zh_ai":"自动保存模组","zh_human":"","zh":"自动保存模组","status":"ai"}
+{"id":"5Li61VeC","en":"Debug Stick (Folia)","zh_draft":"除臭棒（Folia）","zh_ai":"调试棒（Folia）","zh_human":"","zh":"调试棒（Folia）","status":"ai"}
+{"id":"5M5j6Um1","en":"TurtlesAndMore","zh_draft":"海龟和更多","zh_ai":"海龟更多","zh_human":"","zh":"海龟更多","status":"ai"}
+{"id":"5oWOIt7y","en":"Withering Wanderers","zh_draft":"枯萎的流浪者","zh_ai":"凋零流浪者","zh_human":"","zh":"凋零流浪者","status":"ai"}
+{"id":"5tcJdGxs","en":"Bottle O' Fire","zh_draft":"O ' Fire瓶","zh_ai":"火焰瓶","zh_human":"","zh":"火焰瓶","status":"ai"}
+{"id":"5wBueqhU","en":"Explosive Cubes","zh_draft":"爆炸立方体","zh_ai":"爆炸方块","zh_human":"","zh":"爆炸方块","status":"ai"}
+{"id":"6Lc5z1LT","en":"feralspawns","zh_draft":"野生产卵","zh_ai":"野性生物孵化器","zh_human":"","zh":"野性生物孵化器","status":"ai"}
+{"id":"6QqmzEWE","en":"AutoFishing MITE","zh_draft":"自动钓鱼螨虫","zh_ai":"自动钓鱼 MITE","zh_human":"","zh":"自动钓鱼 MITE","status":"ai"}
+{"id":"6W0bO0Lw","en":"AirRepair","zh_draft":"航空维修","zh_ai":"空气修复","zh_human":"","zh":"空气修复","status":"ai"}
+{"id":"6vfWOTTX","en":"KyuLib","zh_draft":"KyuLib","zh_ai":"Kyu 库","zh_human":"","zh":"Kyu 库","status":"ai"}
+{"id":"6xWv0Va8","en":"XPbar[+]","zh_draft":"XPbar [+]","zh_ai":"经验条[+]","zh_human":"","zh":"经验条[+]","status":"ai"}
+{"id":"6zALpg0X","en":"Do you know the muffin man?","zh_draft":"你认识松饼人吗？","zh_ai":"你知道松饼人吗？","zh_human":"","zh":"你知道松饼人吗？","status":"ai"}
+{"id":"702tB24G","en":"ProgressionEnchant","zh_draft":"进步魅力","zh_ai":"进阶附魔","zh_human":"","zh":"进阶附魔","status":"ai"}
+{"id":"71IicLJY","en":"GhostMode","zh_draft":"GhostMode","zh_ai":"幽灵模式","zh_human":"","zh":"幽灵模式","status":"ai"}
+{"id":"7K1GyHJX","en":"BreweryXRecipes","zh_draft":"啤酒X食谱","zh_ai":"酿酒厂X食谱","zh_human":"","zh":"酿酒厂X食谱","status":"ai"}
+{"id":"7Rww8nyu","en":"Ultra Hardcore by DWizard","zh_draft":"DWizard的Ultra Hardcore","zh_ai":"DWizard 极限生存","zh_human":"","zh":"DWizard 极限生存","status":"ai"}
+{"id":"7lnTL7j3","en":"Hanging Potato Recipes","zh_draft":"挂土豆食谱","zh_ai":"悬挂土豆食谱","zh_human":"","zh":"悬挂土豆食谱","status":"ai"}
+{"id":"8GY3fZQv","en":"OrjusBlockStats","zh_draft":"OrjusBlockStats","zh_ai":"Orjus 块统计","zh_human":"","zh":"Orjus 块统计","status":"ai"}
+{"id":"8dTyFuj5","en":"PhysicsToggle","zh_draft":"物理切换","zh_ai":"物理开关","zh_human":"","zh":"物理开关","status":"ai"}
+{"id":"92noMe5I","en":"Monsterwalll's Bosses And Stuff","zh_draft":"怪物沃尔的老板和东西","zh_ai":"Monsterwalll 的Boss和物品","zh_human":"","zh":"Monsterwalll 的Boss和物品","status":"ai"}
+{"id":"9RNRS4gf","en":"FakePlayersPack","zh_draft":"假玩家包","zh_ai":"假玩家包","zh_human":"","zh":"假玩家包","status":"ai"}
+{"id":"9qucTuQP","en":"Drop Me a Vine","zh_draft":"Drop Me a Vine","zh_ai":"给我扔个藤蔓","zh_human":"","zh":"给我扔个藤蔓","status":"ai"}
+{"id":"A03iT1A2","en":"GiveMeYourHead","zh_draft":"给我你的头","zh_ai":"给你头","zh_human":"","zh":"给你头","status":"ai"}
+{"id":"A8FxINUa","en":"Ayume Core","zh_draft":"Aynomial Core","zh_ai":"Ayume 核心","zh_human":"","zh":"Ayume 核心","status":"ai"}
+{"id":"AN7CVNh1","en":"Quantics Elytra Swap","zh_draft":"Quantics Elytra Swap","zh_ai":"Quantics 翅膀交换","zh_human":"","zh":"Quantics 翅膀交换","status":"ai"}
+{"id":"AQJD00L4","en":"McFormatter","zh_draft":"麦克福马特","zh_ai":"Minecraft 格式化工具","zh_human":"","zh":"Minecraft 格式化工具","status":"ai"}
+{"id":"AdkwXo1Q","en":"BountyHunt","zh_draft":"赏金猎人","zh_ai":"赏金猎人","zh_human":"","zh":"赏金猎人","status":"ai"}
+{"id":"AifKyw4S","en":"Byte Module API","zh_draft":"字节模块API","zh_ai":"字节模块API","zh_human":"","zh":"字节模块API","status":"ai"}
+{"id":"Aw2QcPSW","en":"Identica-CommandBlocker","zh_draft":"Identica-CommandBlocker","zh_ai":"Identica-命令阻止器","zh_human":"","zh":"Identica-命令阻止器","status":"ai"}
+{"id":"BBhfJ1ZM","en":"Item Frame","zh_draft":"项帧","zh_ai":"物品框架","zh_human":"","zh":"物品框架","status":"ai"}
+{"id":"BPyjfaZv","en":"Dynamic Discord UM+ ( Uptime Monitor )","zh_draft":"动态Discord UM+（正常运行时间监视器）","zh_ai":"动态 Discord UM+（在线监控）","zh_human":"","zh":"动态 Discord UM+（在线监控）","status":"ai"}
+{"id":"BXM2oT46","en":"New Advancements - Creative Edition","zh_draft":"新进展-创意版","zh_ai":"新成就 - 创造模式","zh_human":"","zh":"新成就 - 创造模式","status":"ai"}
+{"id":"BlE0BnTA","en":"SejioMedia","zh_draft":"时代媒体","zh_ai":"Sejio 媒体","zh_human":"","zh":"Sejio 媒体","status":"ai"}
+{"id":"CA9lU3YS","en":"DorokeiGame","zh_draft":"多罗凯伊游戏","zh_ai":"Dorokei 游戏","zh_human":"","zh":"Dorokei 游戏","status":"ai"}
+{"id":"CBFCPIAL","en":"SqueakyFeatures","zh_draft":"吱吱作响的特征","zh_ai":"吱吱功能","zh_human":"","zh":"吱吱功能","status":"ai"}
+{"id":"CJog667M","en":"Wiley Border","zh_draft":"威利边界","zh_ai":"威利边界","zh_human":"","zh":"威利边界","status":"ai"}
+{"id":"CKHKlr8b","en":"MasterLeaderboard","zh_draft":"主排行榜","zh_ai":"大师排行榜","zh_human":"","zh":"大师排行榜","status":"ai"}
+{"id":"CNDzDGvq","en":"Mob Nudge","zh_draft":"暴民轻推","zh_ai":"生物推动","zh_human":"","zh":"生物推动","status":"ai"}
+{"id":"CeBBZ7DJ","en":"Coords & Days","zh_draft":"坐标和天数","zh_ai":"坐标与日期","zh_human":"","zh":"坐标与日期","status":"ai"}
+{"id":"CpuLwLEv","en":"RestrictMob","zh_draft":"限制暴民","zh_ai":"限制生物","zh_human":"","zh":"限制生物","status":"ai"}
+{"id":"DU9lOF1R","en":"Unique Happy Ghasts","zh_draft":"独特的快乐幽灵","zh_ai":"独特快乐骷髅","zh_human":"","zh":"独特快乐骷髅","status":"ai"}
+{"id":"DYLKqxNM","en":"ZelLib","zh_draft":"泽尔利布","zh_ai":"Zel库","zh_human":"","zh":"Zel库","status":"ai"}
+{"id":"DYVxf7rs","en":"Little Advance Crafting","zh_draft":"小小的提前制作","zh_ai":"小进阶合成","zh_human":"","zh":"小进阶合成","status":"ai"}
+{"id":"EfMrwdAV","en":"Mint","zh_draft":"薄荷","zh_ai":"薄荷","zh_human":"","zh":"薄荷","status":"ai"}
+{"id":"F6OVBYUB","en":"SytexLanguage","zh_draft":"SytexLanguage","zh_ai":"Sytex语言","zh_human":"","zh":"Sytex语言","status":"ai"}
+{"id":"FfBzmteq","en":"ProxyPrefix","zh_draft":"代理前置","zh_ai":"代理前缀","zh_human":"","zh":"代理前缀","status":"ai"}
+{"id":"GC4mp5Eh","en":"SpyGlassMeData","zh_draft":"SpyGlassMeData","zh_ai":"间谍镜数据","zh_human":"","zh":"间谍镜数据","status":"ai"}
+{"id":"GG2dxAOg","en":"Backlist","zh_draft":"Backlist","zh_ai":"黑名单","zh_human":"","zh":"黑名单","status":"ai"}
+{"id":"GNcwOrHA","en":"Minipurge:Yellow","zh_draft":"迷你冲动：黄色","zh_ai":"小净化：黄色","zh_human":"","zh":"小净化：黄色","status":"ai"}
+{"id":"GSufqTyQ","en":"BreakWarn","zh_draft":"打破警告","zh_ai":"破坏警告","zh_human":"","zh":"破坏警告","status":"ai"}
+{"id":"GWSqy4ad","en":"Extra Enchants","zh_draft":"额外的魔法","zh_ai":"额外附魔","zh_human":"","zh":"额外附魔","status":"ai"}
+{"id":"GodGZ0CK","en":"Notematic Player","zh_draft":"笔记型球员","zh_ai":"笔记玩家","zh_human":"","zh":"笔记玩家","status":"ai"}
+{"id":"Gwec8GCc","en":"APEX utilitys","zh_draft":"APEX公用事业","zh_ai":"APEX工具","zh_human":"","zh":"APEX工具","status":"ai"}
+{"id":"GyaLRUNL","en":"MashAuraSystem","zh_draft":"MashAura系统","zh_ai":"融合光环系统","zh_human":"","zh":"融合光环系统","status":"ai"}
+{"id":"H4Ntye0C","en":"World Change","zh_draft":"世界改变","zh_ai":"世界变化","zh_human":"","zh":"世界变化","status":"ai"}
+{"id":"HHpXP4pg","en":"To The Peak","zh_draft":"到峰值","zh_ai":"达到顶峰","zh_human":"","zh":"达到顶峰","status":"ai"}
+{"id":"HOtTSJ7l","en":"Ulterlands: Worlds Apart","zh_draft":"终极之地：世界分离","zh_ai":"乌尔特兰：世界之隔","zh_human":"","zh":"乌尔特兰：世界之隔","status":"ai"}
+{"id":"HQ2YeE1m","en":"VClickBlockCommand","zh_draft":"VClick Block命令","zh_ai":"V点击方块命令","zh_human":"","zh":"V点击方块命令","status":"ai"}
+{"id":"HXDAXgL6","en":"SmpUtilities","zh_draft":"SmpUtilities","zh_ai":"Smp工具","zh_human":"","zh":"Smp工具","status":"ai"}
+{"id":"Ha3m5IOU","en":"MintTokens","zh_draft":"薄荷代币","zh_ai":"薄荷代币","zh_human":"","zh":"薄荷代币","status":"ai"}
+{"id":"HpyZZVGs","en":"Loquat Madness","zh_draft":"疯狂的相思","zh_ai":"无花果疯狂","zh_human":"","zh":"无花果疯狂","status":"ai"}
+{"id":"HzzEikc8","en":"Protein Shake","zh_draft":"蛋白质奶昔","zh_ai":"蛋白奶昔","zh_human":"","zh":"蛋白奶昔","status":"ai"}
+{"id":"IMnFfUXW","en":"Two special tools and many blocks","zh_draft":"两个特殊工具和许多块","zh_ai":"两把特殊工具和许多方块","zh_human":"","zh":"两把特殊工具和许多方块","status":"ai"}
+{"id":"IUP7oiAv","en":"ZenithHome","zh_draft":"ZenithHome","zh_ai":"天顶之家","zh_human":"","zh":"天顶之家","status":"ai"}
+{"id":"IXONpbLK","en":"Legacy Bed Recipe","zh_draft":"传统床食谱","zh_ai":"遗产床配方","zh_human":"","zh":"遗产床配方","status":"ai"}
+{"id":"IqabaZzM","en":"Population Control","zh_draft":"人口控制","zh_ai":"人口控制","zh_human":"","zh":"人口控制","status":"ai"}
+{"id":"IrqBp83Q","en":"Aloria World Gen","zh_draft":"阿洛里亚世界世代","zh_ai":"阿洛里亚世界生成","zh_human":"","zh":"阿洛里亚世界生成","status":"ai"}
+{"id":"J4AP5XsP","en":"Heart of Life Additions","zh_draft":"生命之心附加","zh_ai":"生命之心附加","zh_human":"","zh":"生命之心附加","status":"ai"}
+{"id":"JMKKyDHx","en":"PalladiumX","zh_draft":"Palladium X","zh_ai":"钯金X","zh_human":"","zh":"钯金X","status":"ai"}
+{"id":"JOpAaejn","en":"FellowFinder Light","zh_draft":"同胞之光","zh_ai":"同伴寻找之光","zh_human":"","zh":"同伴寻找之光","status":"ai"}
+{"id":"JRo5jVI5","en":"Still life Mangrove fix","zh_draft":"静物红树林修复","zh_ai":"静物红树林修复","zh_human":"","zh":"静物红树林修复","status":"ai"}
+{"id":"Jl4ZndcD","en":"strengthhoney","zh_draft":"力量蜂蜜","zh_ai":"力量蜂蜜","zh_human":"","zh":"力量蜂蜜","status":"ai"}
+{"id":"K0xZIBhh","en":"RemoveElytras","zh_draft":"删除Elytras","zh_ai":"移除鞘翅","zh_human":"","zh":"移除鞘翅","status":"ai"}
+{"id":"K6uNJOw5","en":"Vine Clipper","zh_draft":"藤蔓快船","zh_ai":"藤蔓剪枝器","zh_human":"","zh":"藤蔓剪枝器","status":"ai"}
+{"id":"K9220D1b","en":"Decorative + Invisible Sulfur Cubes","zh_draft":"装饰性+隐形硫方块","zh_ai":"装饰隐形硫立方体","zh_human":"","zh":"装饰隐形硫立方体","status":"ai"}
+{"id":"KLVuMrHr","en":"Sniffer Egg Fall Block","zh_draft":"嗅探蛋坠落块","zh_ai":"嗅探蛋掉落方块","zh_human":"","zh":"嗅探蛋掉落方块","status":"ai"}
+{"id":"KkWAt7lH","en":"Dynamic Pathways","zh_draft":"动态路径","zh_ai":"动态路径","zh_human":"","zh":"动态路径","status":"ai"}
+{"id":"KmBRCYT8","en":"Aegis Combat","zh_draft":"神盾战","zh_ai":"神盾战斗","zh_human":"","zh":"神盾战斗","status":"ai"}
+{"id":"LD5QV4Vi","en":"MegaEnderChest","zh_draft":"MegaEnderChest","zh_ai":"巨型末影箱","zh_human":"","zh":"巨型末影箱","status":"ai"}
+{"id":"LDrNPPeg","en":"MultiVerse-Protocol","zh_draft":"多版本协议","zh_ai":"多维协议","zh_human":"","zh":"多维协议","status":"ai"}
+{"id":"LGjS181c","en":"timerpluginmutils","zh_draft":"定时器爆炸","zh_ai":"计时插件工具","zh_human":"","zh":"计时插件工具","status":"ai"}
+{"id":"LaJo5O7U","en":"Smart Sleep","zh_draft":"智能睡眠","zh_ai":"智能睡眠","zh_human":"","zh":"智能睡眠","status":"ai"}
+{"id":"LqTU1siQ","en":"Enderite Update","zh_draft":"Enderite更新","zh_ai":"末影合金更新","zh_human":"","zh":"末影合金更新","status":"ai"}
+{"id":"LuXXsr8m","en":"Eagles More Ores!","zh_draft":"老鹰更多的矿石！","zh_ai":"雄鹰更多矿石","zh_human":"","zh":"雄鹰更多矿石","status":"ai"}
+{"id":"MD2Z29Ri","en":"Golden Dandelion Suspicious Stew","zh_draft":"金蒲公英可疑炖菜","zh_ai":"金盏可疑炖菜","zh_human":"","zh":"金盏可疑炖菜","status":"ai"}
+{"id":"Mf5SnpGT","en":"Instant Oxygen Refill","zh_draft":"即时氧气补充","zh_ai":"瞬间氧气补充","zh_human":"","zh":"瞬间氧气补充","status":"ai"}
+{"id":"MjcgyuuZ","en":"AntiSlime","zh_draft":"反粘液","zh_ai":"反史莱姆","zh_human":"","zh":"反史莱姆","status":"ai"}
+{"id":"NJUrtgJD","en":"TRAuctions","zh_draft":"创伤","zh_ai":"TRA语音包","zh_human":"","zh":"TRA语音包","status":"ai"}
+{"id":"NMSwIw8c","en":"Touchy Spawners","zh_draft":"敏感的生育者","zh_ai":"敏感刷怪笼","zh_human":"","zh":"敏感刷怪笼","status":"ai"}
+{"id":"NP8gKMC5","en":"Chaotic Sulfur","zh_draft":"混沌硫磺","zh_ai":"混沌硫磺","zh_human":"","zh":"混沌硫磺","status":"ai"}
+{"id":"NW4Hcvuy","en":"Prospector Potion","zh_draft":"探矿者药剂","zh_ai":"勘探药水","zh_human":"","zh":"勘探药水","status":"ai"}
+{"id":"NYKr1sai","en":"Hopper Stats","zh_draft":"料斗统计","zh_ai":"漏斗统计","zh_human":"","zh":"漏斗统计","status":"ai"}
+{"id":"NmC4gGNc","en":"RPGLoot","zh_draft":"RPGLoot","zh_ai":"RPG战利品","zh_human":"","zh":"RPG战利品","status":"ai"}
+{"id":"Nxce93Im","en":"Quin's weird mod","zh_draft":"奎因的奇怪模组","zh_ai":"奎因的奇怪模组","zh_human":"","zh":"奎因的奇怪模组","status":"ai"}
+{"id":"O0iv6jEx","en":"Dynamically Whitelist","zh_draft":"动态白名单","zh_ai":"动态白名单","zh_human":"","zh":"动态白名单","status":"ai"}
+{"id":"O1ynEIeb","en":"Dying Balanced","zh_draft":"平衡地死去","zh_ai":"平衡死亡","zh_human":"","zh":"平衡死亡","status":"ai"}
+{"id":"O5dRc5LO","en":"Investigate","zh_draft":"探讨","zh_ai":"调查","zh_human":"","zh":"调查","status":"ai"}
+{"id":"O7hhGoWf","en":"CustomEyesLib","zh_draft":"定制眼睛库","zh_ai":"自定义眼睛库","zh_human":"","zh":"自定义眼睛库","status":"ai"}
+{"id":"Oqg9DIyG","en":"Disenchant On Anvil","zh_draft":"消除铁槌上的痴迷","zh_ai":"铁砧附魔解除","zh_human":"","zh":"铁砧附魔解除","status":"ai"}
+{"id":"PDd4CS8S","en":"BWhiteListView","zh_draft":"B怀特列表视图","zh_ai":"B白名单视图","zh_human":"","zh":"B白名单视图","status":"ai"}
+{"id":"PO3BiCuz","en":"VelocityWakeUp","zh_draft":"速度唤醒","zh_ai":"速度唤醒","zh_human":"","zh":"速度唤醒","status":"ai"}
+{"id":"PS8sTFvS","en":"Multispawns","zh_draft":"多繁殖","zh_ai":"多重出生点","zh_human":"","zh":"多重出生点","status":"ai"}
+{"id":"PSp2DiqG","en":"Sky Book","zh_draft":"天书","zh_ai":"天空之书","zh_human":"","zh":"天空之书","status":"ai"}
+{"id":"Q8RziLxY","en":"Unstable Portals","zh_draft":"不稳定的门户","zh_ai":"不稳定传送门","zh_human":"","zh":"不稳定传送门","status":"ai"}
+{"id":"QGdTkFZ1","en":"学!(Learn)","zh_draft":"学！（学习）","zh_ai":"学!","zh_human":"","zh":"学!","status":"ai"}
+{"id":"QM3WvOlP","en":"AlphaFix","zh_draft":"AlphaFix","zh_ai":"Alpha修复","zh_human":"","zh":"Alpha修复","status":"ai"}
+{"id":"QgwauFWJ","en":"BlackCat's Food Mod","zh_draft":"黑猫的食物模式","zh_ai":"黑猫食物模组","zh_human":"","zh":"黑猫食物模组","status":"ai"}
+{"id":"Qt8izx0v","en":"NoChargedCreepers","zh_draft":"无充电爬行者","zh_ai":"无带电苦力怕","zh_human":"","zh":"无带电苦力怕","status":"ai"}
+{"id":"R0j7rhrG","en":"Server Tweaks","zh_draft":"服务器调整","zh_ai":"服务器微调","zh_human":"","zh":"服务器微调","status":"ai"}
+{"id":"RCj2qLRU","en":"Balanced Crates Quark Sorting","zh_draft":"平衡板条箱Quark排序","zh_ai":"平衡箱子Quark排序","zh_human":"","zh":"平衡箱子Quark排序","status":"ai"}
+{"id":"RNXohnsX","en":"PacketTrigger","zh_draft":"PacketTrigger","zh_ai":"数据包触发器","zh_human":"","zh":"数据包触发器","status":"ai"}
+{"id":"Rlm4D07z","en":"Wrenchable Computers","zh_draft":"可扳式电脑","zh_ai":"可扳手电脑","zh_human":"","zh":"可扳手电脑","status":"ai"}
+{"id":"Ro5k3f0u","en":"Opa Pa Displacement Of Realities","zh_draft":"奥帕帕取代现实","zh_ai":"现实置换","zh_human":"","zh":"现实置换","status":"ai"}
+{"id":"RsfrOUSh","en":"Health Overflow Fix","zh_draft":"健康溢出修复","zh_ai":"生命值溢出修复","zh_human":"","zh":"生命值溢出修复","status":"ai"}
+{"id":"TGLx5xC3","en":"SpyHunts","zh_draft":"间谍狩猎","zh_ai":"间谍狩猎","zh_human":"","zh":"间谍狩猎","status":"ai"}
+{"id":"UPTAX1z2","en":"Pickless","zh_draft":"皮卡利斯","zh_ai":"无镐挖掘","zh_human":"","zh":"无镐挖掘","status":"ai"}
+{"id":"UWB3SfVn","en":"Craftable Bucket of Sulfur Cube(Simple)","zh_draft":"硫磺方块手工桶（简单）","zh_ai":"可制作硫磺方块桶(简易)","zh_human":"","zh":"可制作硫磺方块桶(简易)","status":"ai"}
+{"id":"UWIo1Ry1","en":"Kill Block","zh_draft":"杀死块","zh_ai":"击杀方块","zh_human":"","zh":"击杀方块","status":"ai"}
+{"id":"UuX76Y7m","en":"Cheaper Trapdoors","zh_draft":"更便宜的陷阱门","zh_ai":"廉价活板门","zh_human":"","zh":"廉价活板门","status":"ai"}
+{"id":"VACx8OcQ","en":"LegitiUtilities","zh_draft":"合法公用事业","zh_ai":"合法工具包","zh_human":"","zh":"合法工具包","status":"ai"}
+{"id":"VCVnGOAe","en":"FoChatGames","zh_draft":"FoChatGames","zh_ai":"聊天室游戏","zh_human":"","zh":"聊天室游戏","status":"ai"}
+{"id":"VM31fZ9L","en":"Echo Announcements","zh_draft":"Echo公告","zh_ai":"回声公告","zh_human":"","zh":"回声公告","status":"ai"}
+{"id":"VMyjBTo9","en":"ICNT","zh_draft":"ICNT","zh_ai":"我不知道","zh_human":"","zh":"我不知道","status":"ai"}
+{"id":"Ve25uMhN","en":"Discord folders","zh_draft":"不和文件夹","zh_ai":"Discord文件夹","zh_human":"","zh":"Discord文件夹","status":"ai"}
+{"id":"Vq8XGTiT","en":"ClickNametags","zh_draft":"单击名称标签","zh_ai":"点击标签","zh_human":"","zh":"点击标签","status":"ai"}
+{"id":"W2cFUZZh","en":"RTP-premium","zh_draft":"RTP溢价","zh_ai":"随机传送-高级版","zh_human":"","zh":"随机传送-高级版","status":"ai"}
+{"id":"WNG8E2Ki","en":"XRush","zh_draft":"XRush","zh_ai":"极速冲刺","zh_human":"","zh":"极速冲刺","status":"ai"}
+{"id":"WULP856X","en":"UpVotes","zh_draft":"UpVotes","zh_ai":"点赞数","zh_human":"","zh":"点赞数","status":"ai"}
+{"id":"WXK8vc6O","en":"Totem Assist","zh_draft":"图腾辅助","zh_ai":"图腾辅助","zh_human":"","zh":"图腾辅助","status":"ai"}
+{"id":"WYF40vmB","en":"Mindset","zh_draft":"心态","zh_ai":"思维模式","zh_human":"","zh":"思维模式","status":"ai"}
+{"id":"WjrVPJPU","en":"Create: Cultivation Craft (Patch)","zh_draft":"创建：修行工艺（补丁）","zh_ai":"机械动力：农耕工艺(补丁)","zh_human":"","zh":"机械动力：农耕工艺(补丁)","status":"ai"}
+{"id":"Xz5eBqLb","en":"Replace Elytra with Max HP","zh_draft":"用Max HP替换Elytra","zh_ai":"用最大生命值替换鞘翅","zh_human":"","zh":"用最大生命值替换鞘翅","status":"ai"}
+{"id":"Y8efNDGP","en":"Biomes o crazy","zh_draft":"疯狂的生物学家","zh_ai":"疯狂生物群系","zh_human":"","zh":"疯狂生物群系","status":"ai"}
+{"id":"Y9cu3A2S","en":"flight toggle","zh_draft":"航班切换","zh_ai":"飞行切换","zh_human":"","zh":"飞行切换","status":"ai"}
+{"id":"YQe4zgqk","en":"Server-Statistics","zh_draft":"服务器统计","zh_ai":"服务器统计","zh_human":"","zh":"服务器统计","status":"ai"}
+{"id":"Yp0m0JIW","en":"Stripelands Viewer","zh_draft":"Stripelands查看器","zh_ai":"条纹之地查看器","zh_human":"","zh":"条纹之地查看器","status":"ai"}
+{"id":"Z50WBoQK","en":"555 Lobotomy Project","zh_draft":"555脑白质切除术项目","zh_ai":"555 脑叶计划","zh_human":"","zh":"555 脑叶计划","status":"ai"}
+{"id":"ZGO6yHJf","en":"Boiled Eggs","zh_draft":"煮鸡蛋","zh_ai":"煮鸡蛋","zh_human":"","zh":"煮鸡蛋","status":"ai"}
+{"id":"ZJdezt6n","en":"Easy Jump Pad","zh_draft":"轻松跳跃垫","zh_ai":"简易弹跳垫","zh_human":"","zh":"简易弹跳垫","status":"ai"}
+{"id":"ZRNgfEAX","en":"Survivor's Delight AFC","zh_draft":"幸存者快乐AFC","zh_ai":"幸存者之悦 AFC","zh_human":"","zh":"幸存者之悦 AFC","status":"ai"}
+{"id":"aNYhkrx2","en":"ForceResourcePack","zh_draft":"部队资源包","zh_ai":"强制资源包","zh_human":"","zh":"强制资源包","status":"ai"}
+{"id":"aVh3GMqq","en":"QuickEnchant","zh_draft":"快速魅力","zh_ai":"快速附魔","zh_human":"","zh":"快速附魔","status":"ai"}
+{"id":"aYpjOZoy","en":"Reworld (Fabric)","zh_draft":"重新世界（织物）","zh_ai":"新世界(Fabric)","zh_human":"","zh":"新世界(Fabric)","status":"ai"}
+{"id":"aoyOrNmj","en":"Cat Retaliation","zh_draft":"猫报复","zh_ai":"猫咪反击","zh_human":"","zh":"猫咪反击","status":"ai"}
+{"id":"b88q25hv","en":"Freeze Tag","zh_draft":"冻结标记","zh_ai":"冰冻触身","zh_human":"","zh":"冰冻触身","status":"ai"}
+{"id":"bCvXwM6U","en":"Iron Arrow Recipe","zh_draft":"铁箭食谱","zh_ai":"铁箭配方","zh_human":"","zh":"铁箭配方","status":"ai"}
+{"id":"bFr6CDos","en":"Claim Yours","zh_draft":"声称你的","zh_ai":"认领你的领地","zh_human":"","zh":"认领你的领地","status":"ai"}
+{"id":"bIC64kUf","en":"NameMCAPI","zh_draft":"姓名MCAPI","zh_ai":"名称MCAPI","zh_human":"","zh":"名称MCAPI","status":"ai"}
+{"id":"bYcCwfwa","en":"Dimension World Spawn","zh_draft":"维度世界繁衍","zh_ai":"维度世界出生点","zh_human":"","zh":"维度世界出生点","status":"ai"}
+{"id":"bpnkLhej","en":"TPA100","zh_draft":"TPA 100","zh_ai":"TPA100","zh_human":"","zh":"TPA100","status":"ai"}
+{"id":"bv5xp4WN","en":"FallPredict","zh_draft":"跌倒预测","zh_ai":"坠落预测","zh_human":"","zh":"坠落预测","status":"ai"}
+{"id":"c8NqSmdj","en":"QOL for MC 1.0","zh_draft":"MC 1.0的QOL","zh_ai":"MC 1.0 生活质量优化","zh_human":"","zh":"MC 1.0 生活质量优化","status":"ai"}
+{"id":"cNI18HjT","en":"SlotSwap","zh_draft":"SlotSwap","zh_ai":"快捷栏互换","zh_human":"","zh":"快捷栏互换","status":"ai"}
+{"id":"cSGeIjSG","en":"QuickShop-Hikari-Dialog","zh_draft":"QuickShop-Hikari-Dialogue","zh_ai":"快速商店-Hikari对话框","zh_human":"","zh":"快速商店-Hikari对话框","status":"ai"}
+{"id":"cv0LIc31","en":"VeloraSafeTeleport","zh_draft":"VeloraSafeTeleport","zh_ai":"维洛拉安全传送","zh_human":"","zh":"维洛拉安全传送","status":"ai"}
+{"id":"dSUMW51F","en":"End Expanse","zh_draft":"结束扩展","zh_ai":"末地扩张","zh_human":"","zh":"末地扩张","status":"ai"}
+{"id":"dWfyHRIy","en":"WorldsgenUtils","zh_draft":"Worldsgen Utils","zh_ai":"世界生成工具","zh_human":"","zh":"世界生成工具","status":"ai"}
+{"id":"eCaykBcd","en":"Void Evolution Origin","zh_draft":"虚空进化起源","zh_ai":"虚空进化起源","zh_human":"","zh":"虚空进化起源","status":"ai"}
+{"id":"eLQZUcBj","en":"Moress","zh_draft":"莫雷斯","zh_ai":"莫雷斯","zh_human":"","zh":"莫雷斯","status":"ai"}
+{"id":"eM2Lunct","en":"SpyWebSocket","zh_draft":"间谍网络插座","zh_ai":"间谍WebSocket","zh_human":"","zh":"间谍WebSocket","status":"ai"}
+{"id":"fMTb1gvg","en":"items-retrieval","zh_draft":"项目检索","zh_ai":"物品检索","zh_human":"","zh":"物品检索","status":"ai"}
+{"id":"fO3syqkO","en":"ExplodingEntities","zh_draft":"爆炸实体","zh_ai":"实体爆炸","zh_human":"","zh":"实体爆炸","status":"ai"}
+{"id":"fwEmoolv","en":"Red Sand Concrete Powder","zh_draft":"红砂混凝土粉","zh_ai":"红沙混凝土粉末","zh_human":"","zh":"红沙混凝土粉末","status":"ai"}
+{"id":"fyUnni6f","en":"Albumize","zh_draft":"分类","zh_ai":"相册化","zh_human":"","zh":"相册化","status":"ai"}
+{"id":"g15J7GTk","en":"CommandBlockerX","zh_draft":"CommandBlockerX","zh_ai":"命令方块拦截器X","zh_human":"","zh":"命令方块拦截器X","status":"ai"}
+{"id":"g30roCyZ","en":"VizualChat","zh_draft":"VizualChat","zh_ai":"可视化聊天","zh_human":"","zh":"可视化聊天","status":"ai"}
+{"id":"gHtA5m47","en":"CoreHealth","zh_draft":"核心健康","zh_ai":"核心生命","zh_human":"","zh":"核心生命","status":"ai"}
+{"id":"gWusOZVc","en":"Hardcore meat","zh_draft":"铁杆肉","zh_ai":"极限生存肉类","zh_human":"","zh":"极限生存肉类","status":"ai"}
+{"id":"gZfKk6Gp","en":"Cinnabar Crafting","zh_draft":"朱砂工艺","zh_ai":"朱砂合成","zh_human":"","zh":"朱砂合成","status":"ai"}
+{"id":"gjz0LQyG","en":"Easy netherite","zh_draft":"易石","zh_ai":"简易下界合金","zh_human":"","zh":"简易下界合金","status":"ai"}
+{"id":"hMjCslOo","en":"No Player No Day Cycle","zh_draft":"没有球员没有日周期","zh_ai":"无人无昼夜循环","zh_human":"","zh":"无人无昼夜循环","status":"ai"}
+{"id":"hq1FzmQA","en":"MIP","zh_draft":"MIP","zh_ai":"MIP","zh_human":"","zh":"MIP","status":"ai"}
+{"id":"huBBXcvr","en":"Smelter's Pickaxe","zh_draft":"冶炼厂的镐","zh_ai":"冶炼工镐","zh_human":"","zh":"冶炼工镐","status":"ai"}
+{"id":"hwIT9DaU","en":"Cheap TnT","zh_draft":"廉价TnT","zh_ai":"廉价TNT","zh_human":"","zh":"廉价TNT","status":"ai"}
+{"id":"hwmE5PpU","en":"cobweb to 9 string","zh_draft":"蜘蛛网到9串","zh_ai":"蛛网分解为9线","zh_human":"","zh":"蛛网分解为9线","status":"ai"}
+{"id":"iOexKZsE","en":"Pwn's Skin Fix","zh_draft":"Pwn的皮肤修复","zh_ai":"Pwn皮肤修复","zh_human":"","zh":"Pwn皮肤修复","status":"ai"}
+{"id":"imUcJDlc","en":"Faceless Void Origin","zh_draft":"无面虚空本源","zh_ai":"无面虚空起源","zh_human":"","zh":"无面虚空起源","status":"ai"}
+{"id":"j0AtCeg0","en":"Jade Block Hider","zh_draft":"玉块隐藏者","zh_ai":"翡翠块隐藏","zh_human":"","zh":"翡翠块隐藏","status":"ai"}
+{"id":"jCy5r3kY","en":"Distant Dread","zh_draft":"遥远的恐惧","zh_ai":"遥远恐惧","zh_human":"","zh":"遥远恐惧","status":"ai"}
+{"id":"jLF6CQ6X","en":"PannHarvestEngine","zh_draft":"PannHarvestEngine","zh_ai":"潘恩收割引擎","zh_human":"","zh":"潘恩收割引擎","status":"ai"}
+{"id":"jWCyojAJ","en":"Additional Netherite Armors","zh_draft":"额外的尼德兰装甲","zh_ai":"额外下界合金护甲","zh_human":"","zh":"额外下界合金护甲","status":"ai"}
+{"id":"jd6JLrv6","en":"BetterCrafter","zh_draft":"更好的工匠","zh_ai":"更佳合成","zh_human":"","zh":"更佳合成","status":"ai"}
+{"id":"jqkv6eE8","en":"Renewable Ores & Minerals","zh_draft":"可再生矿产","zh_ai":"可再生矿石与矿物","zh_human":"","zh":"可再生矿石与矿物","status":"ai"}
+{"id":"ki9Ztaf9","en":"Litematica Chunk Lag Fix","zh_draft":"Litematica大块滞后修复","zh_ai":"Litematica区块卡顿修复","zh_human":"","zh":"Litematica区块卡顿修复","status":"ai"}
+{"id":"kl7CmxmW","en":"BiomeAdvancements","zh_draft":"BiomeAdvancements","zh_ai":"生物群系进度","zh_human":"","zh":"生物群系进度","status":"ai"}
+{"id":"kn6zvz7X","en":"ReviveAnnounce","zh_draft":"复兴公告","zh_ai":"复活公告","zh_human":"","zh":"复活公告","status":"ai"}
+{"id":"kpFevv4D","en":"Big John Machine","zh_draft":"约翰机器","zh_ai":"大约翰机器","zh_human":"","zh":"大约翰机器","status":"ai"}
+{"id":"kpxVPNNT","en":"craftable deepslate/cobbeled deepslate","zh_draft":"坚固的深板岩/鹅卵石带的深板岩","zh_ai":"可合成深板岩/深板岩圆石","zh_human":"","zh":"可合成深板岩/深板岩圆石","status":"ai"}
+{"id":"kwBpscpP","en":"Void Kiwi","zh_draft":"虚空猕猴桃","zh_ai":"虚空猕猴桃","zh_human":"","zh":"虚空猕猴桃","status":"ai"}
+{"id":"lGztZMkg","en":"Chat Optimizer","zh_draft":"聊天优化器","zh_ai":"聊天优化器","zh_human":"","zh":"聊天优化器","status":"ai"}
+{"id":"lQeX8OfE","en":"VoteForCommand","zh_draft":"投票支持命令","zh_ai":"投票指令","zh_human":"","zh":"投票指令","status":"ai"}
+{"id":"liNwuUcQ","en":"simpledeathmessages","zh_draft":"简单的死亡消息","zh_ai":"简易死亡消息","zh_human":"","zh":"简易死亡消息","status":"ai"}
+{"id":"llEqHjzi","en":"The Complete Drop Randomizer, Shuffler & Multiplier","zh_draft":"完整的丢弃随机发生器、洗牌器和乘数","zh_ai":"掉落随机、洗牌与倍增","zh_human":"","zh":"掉落随机、洗牌与倍增","status":"ai"}
+{"id":"lsAhJMfK","en":"A Means to an End","zh_draft":"达到目的的手段","zh_ai":"达成目的的手段","zh_human":"","zh":"达成目的的手段","status":"ai"}
+{"id":"m1kdUMCz","en":"Head of Exit","zh_draft":"出口主管","zh_ai":"离服头颅","zh_human":"","zh":"离服头颅","status":"ai"}
+{"id":"m3j0A8ug","en":"LoDuels","zh_draft":"洛决斗","zh_ai":"决斗","zh_human":"","zh":"决斗","status":"ai"}
+{"id":"mEnQjJQ8","en":"Such Nick Minecraft Mod","zh_draft":"尼克·我的世界莫德","zh_ai":"SuchNick","zh_human":"","zh":"SuchNick","status":"ai"}
+{"id":"mTMZ8rTx","en":"SecPlayer","zh_draft":"SecPlayer","zh_ai":"SecPlayer","zh_human":"","zh":"SecPlayer","status":"ai"}
+{"id":"mYDOPhMb","en":"An Incredible Extension","zh_draft":"令人难以置信的扩展","zh_ai":"惊人扩展","zh_human":"","zh":"惊人扩展","status":"ai"}
+{"id":"mdDOISAm","en":"[Origin] Rush","zh_draft":"[起源]拉什","zh_ai":"起源冲刺","zh_human":"","zh":"起源冲刺","status":"ai"}
+{"id":"n1A9D1Lt","en":"IP Bind Guard","zh_draft":"IP绑定保护","zh_ai":"IP绑定保护","zh_human":"","zh":"IP绑定保护","status":"ai"}
+{"id":"nT9LJFpl","en":"Builders Wand Lite","zh_draft":"建筑师Wand Lite","zh_ai":"建筑师法杖 Lite","zh_human":"","zh":"建筑师法杖 Lite","status":"ai"}
+{"id":"nd5cxSJH","en":"Minecraft but fishing teleports you randomly","zh_draft":"我的世界，但钓鱼随机传送您","zh_ai":"但钓鱼会随机传送","zh_human":"","zh":"但钓鱼会随机传送","status":"ai"}
+{"id":"nidkh5Ke","en":"Smart Portal","zh_draft":"智能门户","zh_ai":"智能传送门","zh_human":"","zh":"智能传送门","status":"ai"}
+{"id":"oIoPe1pY","en":"MCOmniSight","zh_draft":"MCOmniSight","zh_ai":"全视之眼","zh_human":"","zh":"全视之眼","status":"ai"}
+{"id":"oOfgOhgS","en":"BuddyMod","zh_draft":"BuddyMod","zh_ai":"伙伴模组","zh_human":"","zh":"伙伴模组","status":"ai"}
+{"id":"pB8NY6PC","en":"Extra Coal Ore Drop","zh_draft":"额外的煤炭矿石下降","zh_ai":"额外煤炭掉落","zh_human":"","zh":"额外煤炭掉落","status":"ai"}
+{"id":"pJRODOHt","en":"Blossom","zh_draft":"开花","zh_ai":"繁花","zh_human":"","zh":"繁花","status":"ai"}
+{"id":"pfZa6rGn","en":"Happy Ghast: Speed Upgrades","zh_draft":"快乐的惊喜：快速升级","zh_ai":"快乐恶魂：速度升级","zh_human":"","zh":"快乐恶魂：速度升级","status":"ai"}
+{"id":"pp5P5hJG","en":"epgrab","zh_draft":"epgrag","zh_ai":"epgrab","zh_human":"","zh":"epgrab","status":"ai"}
+{"id":"qChOFwPe","en":"Progressive Text Display","zh_draft":"渐进文本显示","zh_ai":"渐进文本显示","zh_human":"","zh":"渐进文本显示","status":"ai"}
+{"id":"qGRI5TOc","en":"Seva ya Enchantment Rewamps","zh_draft":"Seva ya Enchantment Rewamps","zh_ai":"附魔重做","zh_human":"","zh":"附魔重做","status":"ai"}
+{"id":"qcOdXPZA","en":"Deathmatch","zh_draft":"死亡竞赛","zh_ai":"死亡竞赛","zh_human":"","zh":"死亡竞赛","status":"ai"}
+{"id":"qrvAGIcM","en":"Netheroreoverlay","zh_draft":"内瑟罗覆盖层","zh_ai":"下界矿石提示","zh_human":"","zh":"下界矿石提示","status":"ai"}
+{"id":"qzz8ssod","en":"P_TopJogadores","zh_draft":"P_TopJogadores","zh_ai":"玩家排行","zh_human":"","zh":"玩家排行","status":"ai"}
+{"id":"r82f3EuJ","en":"Fishbowl Helmet","zh_draft":"鱼缸头盔","zh_ai":"鱼缸头盔","zh_human":"","zh":"鱼缸头盔","status":"ai"}
+{"id":"rBRFX0l5","en":"Object Impermanence","zh_draft":"物体无常","zh_ai":"万物无常","zh_human":"","zh":"万物无常","status":"ai"}
+{"id":"rKtjpJqB","en":"Advancement Bingo","zh_draft":"进步宾果","zh_ai":"进度宾果","zh_human":"","zh":"进度宾果","status":"ai"}
+{"id":"s0cUY0vi","en":"RuinedCollections","zh_draft":"被毁的收藏","zh_ai":"废墟收藏","zh_human":"","zh":"废墟收藏","status":"ai"}
+{"id":"sJGNd6ih","en":"DndRoll","zh_draft":"DndRoll","zh_ai":"DND掷骰","zh_human":"","zh":"DND掷骰","status":"ai"}
+{"id":"sT2v3gYx","en":"Player Drops","zh_draft":"球员掉落","zh_ai":"玩家掉落物","zh_human":"","zh":"玩家掉落物","status":"ai"}
+{"id":"spmUpMEJ","en":"TreeExcavator","zh_draft":"树木挖掘机","zh_ai":"树木挖掘器","zh_human":"","zh":"树木挖掘器","status":"ai"}
+{"id":"swXIaujN","en":"SimpleCrossChat","zh_draft":"SimpleCrossChat","zh_ai":"简易跨服聊天","zh_human":"","zh":"简易跨服聊天","status":"ai"}
+{"id":"tDdLDQZW","en":"Common-Freeze","zh_draft":"共同冻结","zh_ai":"通用冻结","zh_human":"","zh":"通用冻结","status":"ai"}
+{"id":"tGYdpRro","en":"csLagExplainer","zh_draft":"csLagExplainer","zh_ai":"延迟解析器","zh_human":"","zh":"延迟解析器","status":"ai"}
+{"id":"tK24T8Vg","en":"OpenInGame","zh_draft":"OpenInGame","zh_ai":"游戏内开启","zh_human":"","zh":"游戏内开启","status":"ai"}
+{"id":"tqt0MpYn","en":"Interesting Potions","zh_draft":"有趣的药剂","zh_ai":"趣味药水","zh_human":"","zh":"趣味药水","status":"ai"}
+{"id":"uLrd39rv","en":"Vivid Zenith","zh_draft":"生动的Zenith","zh_ai":"璀璨天顶","zh_human":"","zh":"璀璨天顶","status":"ai"}
+{"id":"uNqqR9i7","en":"MysticRealm - Pinokio","zh_draft":"神秘领域-皮诺乔","zh_ai":"神秘领域 - 匹诺曹","zh_human":"","zh":"神秘领域 - 匹诺曹","status":"ai"}
+{"id":"uWBEQdO5","en":"Mae's Progression 'N' Stuff","zh_draft":"梅的进步“N”东西","zh_ai":"Mae的进度与附加内容","zh_human":"","zh":"Mae的进度与附加内容","status":"ai"}
+{"id":"unKAC83w","en":"Nightmare Mobs AI","zh_draft":"噩梦暴徒人工智能","zh_ai":"梦魇生物AI","zh_human":"","zh":"梦魇生物AI","status":"ai"}
+{"id":"vkAZ5jf4","en":"Qezuu - Reviving","zh_draft":"Qezuu -复兴","zh_ai":"Qezuu 复活","zh_human":"","zh":"Qezuu 复活","status":"ai"}
+{"id":"vvAOIxs2","en":"First Join Message Button","zh_draft":"第一个加入消息按钮","zh_ai":"首入消息按钮","zh_human":"","zh":"首入消息按钮","status":"ai"}
+{"id":"wArHEg9T","en":"Reflect Upon Yourself","zh_draft":"反思自己","zh_ai":"映照自身","zh_human":"","zh":"映照自身","status":"ai"}
 {"id":"wJsOaUfo","en":"New Useful Recipe","zh_draft":"新的有用食谱","zh_ai":"","zh_human":"","zh":"新的有用食谱","status":"pending"}
 {"id":"wOwk1eoe","en":"Stake of Undying","zh_draft":"不死之份","zh_ai":"","zh_human":"","zh":"不死之份","status":"pending"}
 {"id":"x4U6dJKC","en":"UpgradeFurnaces","zh_draft":"升级课程","zh_ai":"","zh_human":"","zh":"升级课程","status":"pending"}
