@@ -2991,10 +2991,10 @@
 {"id":"Rsie8r8T","en":"CatChest","zh_draft":"猫箱","zh_ai":"猫咪箱子","zh_human":"","zh":"猫咪箱子","status":"ai"}
 {"id":"RyU8vGS2","en":"[Origins]: Uravity","zh_draft":"【起源】：Uravity","zh_ai":"[起源]: 丽日御茶子","zh_human":"","zh":"[起源]: 丽日御茶子","status":"ai"}
 {"id":"S1H9BwWr","en":"Chest Finder","zh_draft":"胸部按摩","zh_ai":"箱子查找器","zh_human":"","zh":"箱子查找器","status":"ai"}
-{"id":"SfC5Tsb5","en":"Ancient City Map","zh_draft":"古城地图","zh_ai":"","zh_human":"","zh":"古城地图","status":"pending"}
-{"id":"T555Ptg9","en":"Bart's funnies","zh_draft":"巴特的滑稽剧","zh_ai":"","zh_human":"","zh":"巴特的滑稽剧","status":"pending"}
-{"id":"T6eFyHKf","en":"Frontier Guard Beta","zh_draft":"边防警卫测试版","zh_ai":"","zh_human":"","zh":"边防警卫测试版","status":"pending"}
-{"id":"TE2jkAMT","en":"SmartChat","zh_draft":"智能聊天","zh_ai":"","zh_human":"","zh":"智能聊天","status":"pending"}
-{"id":"TT5IPxXT","en":"OverWatch-ML","zh_draft":"OverWatch-ML","zh_ai":"","zh_human":"","zh":"OverWatch-ML","status":"pending"}
-{"id":"TlQTXGcI","en":"CommandFee","zh_draft":"命令费","zh_ai":"","zh_human":"","zh":"命令费","status":"pending"}
-{"id":"TxZlyV8x","en":"Simple Pancakes","zh_draft":"简单煎饼","zh_ai":"","zh_human":"","zh":"简单煎饼","status":"pending"}
+{"id":"SfC5Tsb5","en":"Ancient City Map","zh_draft":"古城地图","zh_ai":"古城地图","zh_human":"","zh":"古城地图","status":"ai"}
+{"id":"T555Ptg9","en":"Bart's funnies","zh_draft":"巴特的滑稽剧","zh_ai":"巴特的趣事","zh_human":"","zh":"巴特的趣事","status":"ai"}
+{"id":"T6eFyHKf","en":"Frontier Guard Beta","zh_draft":"边防警卫测试版","zh_ai":"边境守卫测试版","zh_human":"","zh":"边境守卫测试版","status":"ai"}
+{"id":"TE2jkAMT","en":"SmartChat","zh_draft":"智能聊天","zh_ai":"智能聊天","zh_human":"","zh":"智能聊天","status":"ai"}
+{"id":"TT5IPxXT","en":"OverWatch-ML","zh_draft":"OverWatch-ML","zh_ai":"守望先锋-ML","zh_human":"","zh":"守望先锋-ML","status":"ai"}
+{"id":"TlQTXGcI","en":"CommandFee","zh_draft":"命令费","zh_ai":"命令费用","zh_human":"","zh":"命令费用","status":"ai"}
+{"id":"TxZlyV8x","en":"Simple Pancakes","zh_draft":"简单煎饼","zh_ai":"简单煎饼","zh_human":"","zh":"简单煎饼","status":"ai"}
