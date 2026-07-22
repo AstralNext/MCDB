@@ -2976,25 +2976,25 @@
 {"id":"DBOAgtp6","en":"Feed All","zh_draft":"养活所有","zh_ai":"全部喂食","zh_human":"","zh":"全部喂食","status":"ai"}
 {"id":"ErBQHhIT","en":"[ORIGINS] Dweller From the Deep","zh_draft":"[起源]来自深海的居民","zh_ai":"起源：深渊居民","zh_human":"","zh":"起源：深渊居民","status":"ai"}
 {"id":"GoiD2rab","en":"Simple Disenchant","zh_draft":"简单祛魅","zh_ai":"简单解除附魔","zh_human":"","zh":"简单解除附魔","status":"ai"}
-{"id":"JRRA5CiL","en":"Craftable Wither Skull","zh_draft":"精雕细琢的枯萎骷髅","zh_ai":"","zh_human":"","zh":"精雕细琢的枯萎骷髅","status":"pending"}
-{"id":"KNFBnUnH","en":"JayTAK Repair","zh_draft":"JayTEK维修","zh_ai":"","zh_human":"","zh":"JayTEK维修","status":"pending"}
-{"id":"LOzadJRH","en":"RocketLauncher","zh_draft":"火箭发射器","zh_ai":"","zh_human":"","zh":"火箭发射器","status":"pending"}
-{"id":"MY3rsTlE","en":"Extra Item Uses","zh_draft":"额外物品用途","zh_ai":"","zh_human":"","zh":"额外物品用途","status":"pending"}
-{"id":"OITkrHZP","en":"Infinite Gluttony","zh_draft":"无限暴食","zh_ai":"","zh_human":"","zh":"无限暴食","status":"pending"}
-{"id":"OcMiWbsZ","en":"Respawning Pets","zh_draft":"复活宠物","zh_ai":"","zh_human":"","zh":"复活宠物","status":"pending"}
-{"id":"OfNmHqeP","en":"Biome Vote","zh_draft":"生物群落投票","zh_ai":"","zh_human":"","zh":"生物群落投票","status":"pending"}
-{"id":"PBZ08xXL","en":"One Piece Grand Line Adventures","zh_draft":"海贼王大线冒险","zh_ai":"","zh_human":"","zh":"海贼王大线冒险","status":"pending"}
-{"id":"QNIRTvJq","en":"Wait A Second [BTW Addon]","zh_draft":"等一下[顺便说一句Addon]","zh_ai":"","zh_human":"","zh":"等一下[顺便说一句Addon]","status":"pending"}
-{"id":"QmDyU2C9","en":"Stackable Potions + Stackable duration time","zh_draft":"可堆叠药剂+可堆叠持续时间","zh_ai":"","zh_human":"","zh":"可堆叠药剂+可堆叠持续时间","status":"pending"}
-{"id":"QnhZ4R4y","en":"AREPEEGEE (RPG), an Origins Addon","zh_draft":"AREPEEGEE（RPG），Origins Addon","zh_ai":"","zh_human":"","zh":"AREPEEGEE（RPG），Origins Addon","status":"pending"}
-{"id":"R637j5E3","en":"Laicaps","zh_draft":"莱卡普斯","zh_ai":"","zh_human":"","zh":"莱卡普斯","status":"pending"}
-{"id":"T9qT2ACR","en":"KcBloodEffect","zh_draft":"KcBlood效应","zh_ai":"","zh_human":"","zh":"KcBlood效应","status":"pending"}
-{"id":"U7q586SB","en":"My Ghost Animal","zh_draft":"我的幽灵动物","zh_ai":"","zh_human":"","zh":"我的幽灵动物","status":"pending"}
-{"id":"Uyr2PHrh","en":"Extra Ore Mod","zh_draft":"额外的矿石模块","zh_ai":"","zh_human":"","zh":"额外的矿石模块","status":"pending"}
-{"id":"VXTybSXT","en":"Villagers Drop Emeralds on Death [Datapack]","zh_draft":"村民在死亡时扔下翡翠[数据包]","zh_ai":"","zh_human":"","zh":"村民在死亡时扔下翡翠[数据包]","status":"pending"}
-{"id":"XTFYg3Sy","en":"ElytraBlocker","zh_draft":"ElytraBlocker","zh_ai":"","zh_human":"","zh":"ElytraBlocker","status":"pending"}
-{"id":"Z2O2KJW0","en":"duckmod","zh_draft":"鸭子莫德","zh_ai":"","zh_human":"","zh":"鸭子莫德","status":"pending"}
-{"id":"Z6b4kPco","en":"Consulars' Cup Of Java","zh_draft":"爪哇领事杯","zh_ai":"","zh_human":"","zh":"爪哇领事杯","status":"pending"}
-{"id":"a0kyVF7E","en":"Better warden loot","zh_draft":"更好的典狱长战利品","zh_ai":"","zh_human":"","zh":"更好的典狱长战利品","status":"pending"}
-{"id":"bDln3DAY","en":"ClientID","zh_draft":"clientId","zh_ai":"","zh_human":"","zh":"clientId","status":"pending"}
-{"id":"cA73JIVK","en":"Enchant Golden Apple","zh_draft":"附魔金苹果","zh_ai":"","zh_human":"","zh":"附魔金苹果","status":"pending"}
+{"id":"JRRA5CiL","en":"Craftable Wither Skull","zh_draft":"精雕细琢的枯萎骷髅","zh_ai":"可制作凋灵头颅","zh_human":"","zh":"可制作凋灵头颅","status":"ai"}
+{"id":"KNFBnUnH","en":"JayTAK Repair","zh_draft":"JayTEK维修","zh_ai":"JayTAK 维修","zh_human":"","zh":"JayTAK 维修","status":"ai"}
+{"id":"LOzadJRH","en":"RocketLauncher","zh_draft":"火箭发射器","zh_ai":"火箭发射器","zh_human":"","zh":"火箭发射器","status":"ai"}
+{"id":"MY3rsTlE","en":"Extra Item Uses","zh_draft":"额外物品用途","zh_ai":"额外物品使用","zh_human":"","zh":"额外物品使用","status":"ai"}
+{"id":"OITkrHZP","en":"Infinite Gluttony","zh_draft":"无限暴食","zh_ai":"无尽贪食","zh_human":"","zh":"无尽贪食","status":"ai"}
+{"id":"OcMiWbsZ","en":"Respawning Pets","zh_draft":"复活宠物","zh_ai":"重生宠物","zh_human":"","zh":"重生宠物","status":"ai"}
+{"id":"OfNmHqeP","en":"Biome Vote","zh_draft":"生物群落投票","zh_ai":"生物群系投票","zh_human":"","zh":"生物群系投票","status":"ai"}
+{"id":"PBZ08xXL","en":"One Piece Grand Line Adventures","zh_draft":"海贼王大线冒险","zh_ai":"一拳开天冒险","zh_human":"","zh":"一拳开天冒险","status":"ai"}
+{"id":"QNIRTvJq","en":"Wait A Second [BTW Addon]","zh_draft":"等一下[顺便说一句Addon]","zh_ai":"稍等一下 [BTW 扩展]","zh_human":"","zh":"稍等一下 [BTW 扩展]","status":"ai"}
+{"id":"QmDyU2C9","en":"Stackable Potions + Stackable duration time","zh_draft":"可堆叠药剂+可堆叠持续时间","zh_ai":"可叠加药水 + 可叠加持续时间","zh_human":"","zh":"可叠加药水 + 可叠加持续时间","status":"ai"}
+{"id":"QnhZ4R4y","en":"AREPEEGEE (RPG), an Origins Addon","zh_draft":"AREPEEGEE（RPG），Origins Addon","zh_ai":"AREPEEGEE (RPG)，起源扩展","zh_human":"","zh":"AREPEEGEE (RPG)，起源扩展","status":"ai"}
+{"id":"R637j5E3","en":"Laicaps","zh_draft":"莱卡普斯","zh_ai":"Laicaps","zh_human":"","zh":"Laicaps","status":"ai"}
+{"id":"T9qT2ACR","en":"KcBloodEffect","zh_draft":"KcBlood效应","zh_ai":"Kc血效果","zh_human":"","zh":"Kc血效果","status":"ai"}
+{"id":"U7q586SB","en":"My Ghost Animal","zh_draft":"我的幽灵动物","zh_ai":"我的幽灵动物","zh_human":"","zh":"我的幽灵动物","status":"ai"}
+{"id":"Uyr2PHrh","en":"Extra Ore Mod","zh_draft":"额外的矿石模块","zh_ai":"额外矿石模组","zh_human":"","zh":"额外矿石模组","status":"ai"}
+{"id":"VXTybSXT","en":"Villagers Drop Emeralds on Death [Datapack]","zh_draft":"村民在死亡时扔下翡翠[数据包]","zh_ai":"村民死亡掉落绿宝石 [数据包]","zh_human":"","zh":"村民死亡掉落绿宝石 [数据包]","status":"ai"}
+{"id":"XTFYg3Sy","en":"ElytraBlocker","zh_draft":"ElytraBlocker","zh_ai":"翼盾阻止器","zh_human":"","zh":"翼盾阻止器","status":"ai"}
+{"id":"Z2O2KJW0","en":"duckmod","zh_draft":"鸭子莫德","zh_ai":"duckmod","zh_human":"","zh":"duckmod","status":"ai"}
+{"id":"Z6b4kPco","en":"Consulars' Cup Of Java","zh_draft":"爪哇领事杯","zh_ai":"顾问的Java杯","zh_human":"","zh":"顾问的Java杯","status":"ai"}
+{"id":"a0kyVF7E","en":"Better warden loot","zh_draft":"更好的典狱长战利品","zh_ai":"更好的守卫战利品","zh_human":"","zh":"更好的守卫战利品","status":"ai"}
+{"id":"bDln3DAY","en":"ClientID","zh_draft":"clientId","zh_ai":"客户端ID","zh_human":"","zh":"客户端ID","status":"ai"}
+{"id":"cA73JIVK","en":"Enchant Golden Apple","zh_draft":"附魔金苹果","zh_ai":"附魔金苹果","zh_human":"","zh":"附魔金苹果","status":"ai"}
