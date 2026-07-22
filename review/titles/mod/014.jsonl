@@ -2976,25 +2976,25 @@
 {"id":"RGY7pxkj","en":"Tango Web API","zh_draft":"Tango Web API","zh_ai":"探戈网络API","zh_human":"","zh":"探戈网络API","status":"ai"}
 {"id":"Rpqs2rJ1","en":"Stop Mob Spawn Hostile Only","zh_draft":"停止暴徒繁殖敌对只","zh_ai":"仅阻止敌对生物生成","zh_human":"","zh":"仅阻止敌对生物生成","status":"ai"}
 {"id":"fvyU8lF3","en":"RealCarry Plugin","zh_draft":"RealCarry插件","zh_ai":"真实携带插件","zh_human":"","zh":"真实携带插件","status":"ai"}
-{"id":"gvJykpwY","en":"Mouth & Tooth","zh_draft":"口腔和牙齿","zh_ai":"","zh_human":"","zh":"口腔和牙齿","status":"pending"}
-{"id":"h2fO3xv9","en":"SplitServerList","zh_draft":"SplitServerList","zh_ai":"","zh_human":"","zh":"SplitServerList","status":"pending"}
-{"id":"knYDp0yY","en":"Mismatched Chests","zh_draft":"胸部不匹配","zh_ai":"","zh_human":"","zh":"胸部不匹配","status":"pending"}
-{"id":"kpb2S1vg","en":"Steak's Pvp Toggle","zh_draft":"牛排的Pvp切换","zh_ai":"","zh_human":"","zh":"牛排的Pvp切换","status":"pending"}
-{"id":"kt2bD7HD","en":"Custom Totems!","zh_draft":"自定义图腾！","zh_ai":"","zh_human":"","zh":"自定义图腾！","status":"pending"}
-{"id":"pvj1xMn2","en":"Zombies Break Glass","zh_draft":"僵尸打破玻璃","zh_ai":"","zh_human":"","zh":"僵尸打破玻璃","status":"pending"}
-{"id":"qX60PbiS","en":"Modernized Future 32x","zh_draft":"现代化的未来32 x","zh_ai":"","zh_human":"","zh":"现代化的未来32 x","status":"pending"}
-{"id":"qiafmQ5X","en":"Large Ore Veins: Create Compat","zh_draft":"大矿脉：创造Compat","zh_ai":"","zh_human":"","zh":"大矿脉：创造Compat","status":"pending"}
-{"id":"revZbJQP","en":"Better Recipes","zh_draft":"更好的食谱","zh_ai":"","zh_human":"","zh":"更好的食谱","status":"pending"}
-{"id":"wAveHNq2","en":"JoinJail","zh_draft":"加入监狱","zh_ai":"","zh_human":"","zh":"加入监狱","status":"pending"}
-{"id":"xORwmJLh","en":"Adorable Dolls","zh_draft":"可爱的娃娃","zh_ai":"","zh_human":"","zh":"可爱的娃娃","status":"pending"}
-{"id":"1zp71RF9","en":"Mob Freeze","zh_draft":"暴徒冻结","zh_ai":"","zh_human":"","zh":"暴徒冻结","status":"pending"}
-{"id":"2NJKwgXC","en":"Teams API","zh_draft":"团队API","zh_ai":"","zh_human":"","zh":"团队API","status":"pending"}
-{"id":"9DeBk37X","en":"Nautilus Shell Advancement","zh_draft":"鹦鹉螺壳牌进展","zh_ai":"","zh_human":"","zh":"鹦鹉螺壳牌进展","status":"pending"}
-{"id":"BURCJb3B","en":"Craftable Nametag","zh_draft":"精心制作的姓名标签","zh_ai":"","zh_human":"","zh":"精心制作的姓名标签","status":"pending"}
-{"id":"EzKUMz1I","en":"Project: Drynox","zh_draft":"项目：Drynox","zh_ai":"","zh_human":"","zh":"项目：Drynox","status":"pending"}
-{"id":"FQ1niEPe","en":"ForgeTowns","zh_draft":"Forge Towns","zh_ai":"","zh_human":"","zh":"Forge Towns","status":"pending"}
-{"id":"IIF1a1Sy","en":"SimpleCraft","zh_draft":"简单工艺","zh_ai":"","zh_human":"","zh":"简单工艺","status":"pending"}
-{"id":"J3UzdaSC","en":"No Dried Ghast Crafting Recipe","zh_draft":"没有干的鬼制作食谱","zh_ai":"","zh_human":"","zh":"没有干的鬼制作食谱","status":"pending"}
-{"id":"KRHJKg1u","en":"Legends Awaken","zh_draft":"传奇觉醒","zh_ai":"","zh_human":"","zh":"传奇觉醒","status":"pending"}
-{"id":"LL8MjxJr","en":"Origins Legacy: NeoForged","zh_draft":"起源遗产：NeoForged","zh_ai":"","zh_human":"","zh":"起源遗产：NeoForged","status":"pending"}
-{"id":"MHMRKed0","en":"Designer Modeling","zh_draft":"设计师建模","zh_ai":"","zh_human":"","zh":"设计师建模","status":"pending"}
+{"id":"gvJykpwY","en":"Mouth & Tooth","zh_draft":"口腔和牙齿","zh_ai":"嘴与牙","zh_human":"","zh":"嘴与牙","status":"ai"}
+{"id":"h2fO3xv9","en":"SplitServerList","zh_draft":"SplitServerList","zh_ai":"分服列表","zh_human":"","zh":"分服列表","status":"ai"}
+{"id":"knYDp0yY","en":"Mismatched Chests","zh_draft":"胸部不匹配","zh_ai":"不匹配的箱子","zh_human":"","zh":"不匹配的箱子","status":"ai"}
+{"id":"kpb2S1vg","en":"Steak's Pvp Toggle","zh_draft":"牛排的Pvp切换","zh_ai":"牛排的PvP开关","zh_human":"","zh":"牛排的PvP开关","status":"ai"}
+{"id":"kt2bD7HD","en":"Custom Totems!","zh_draft":"自定义图腾！","zh_ai":"自定义图腾！","zh_human":"","zh":"自定义图腾！","status":"ai"}
+{"id":"pvj1xMn2","en":"Zombies Break Glass","zh_draft":"僵尸打破玻璃","zh_ai":"僵尸破碎玻璃","zh_human":"","zh":"僵尸破碎玻璃","status":"ai"}
+{"id":"qX60PbiS","en":"Modernized Future 32x","zh_draft":"现代化的未来32 x","zh_ai":"现代化未来32倍","zh_human":"","zh":"现代化未来32倍","status":"ai"}
+{"id":"qiafmQ5X","en":"Large Ore Veins: Create Compat","zh_draft":"大矿脉：创造Compat","zh_ai":"大型矿石脉：Create 兼容","zh_human":"","zh":"大型矿石脉：Create 兼容","status":"ai"}
+{"id":"revZbJQP","en":"Better Recipes","zh_draft":"更好的食谱","zh_ai":"更好的配方","zh_human":"","zh":"更好的配方","status":"ai"}
+{"id":"wAveHNq2","en":"JoinJail","zh_draft":"加入监狱","zh_ai":"加入监狱","zh_human":"","zh":"加入监狱","status":"ai"}
+{"id":"xORwmJLh","en":"Adorable Dolls","zh_draft":"可爱的娃娃","zh_ai":"可爱的娃娃","zh_human":"","zh":"可爱的娃娃","status":"ai"}
+{"id":"1zp71RF9","en":"Mob Freeze","zh_draft":"暴徒冻结","zh_ai":"怪物冻结","zh_human":"","zh":"怪物冻结","status":"ai"}
+{"id":"2NJKwgXC","en":"Teams API","zh_draft":"团队API","zh_ai":"队伍API","zh_human":"","zh":"队伍API","status":"ai"}
+{"id":"9DeBk37X","en":"Nautilus Shell Advancement","zh_draft":"鹦鹉螺壳牌进展","zh_ai":"鹦鹉螺壳进阶","zh_human":"","zh":"鹦鹉螺壳进阶","status":"ai"}
+{"id":"BURCJb3B","en":"Craftable Nametag","zh_draft":"精心制作的姓名标签","zh_ai":"可制作的标签","zh_human":"","zh":"可制作的标签","status":"ai"}
+{"id":"EzKUMz1I","en":"Project: Drynox","zh_draft":"项目：Drynox","zh_ai":"项目：Drynox","zh_human":"","zh":"项目：Drynox","status":"ai"}
+{"id":"FQ1niEPe","en":"ForgeTowns","zh_draft":"Forge Towns","zh_ai":"Forge城镇","zh_human":"","zh":"Forge城镇","status":"ai"}
+{"id":"IIF1a1Sy","en":"SimpleCraft","zh_draft":"简单工艺","zh_ai":"简单工艺","zh_human":"","zh":"简单工艺","status":"ai"}
+{"id":"J3UzdaSC","en":"No Dried Ghast Crafting Recipe","zh_draft":"没有干的鬼制作食谱","zh_ai":"无干尸合成配方","zh_human":"","zh":"无干尸合成配方","status":"ai"}
+{"id":"KRHJKg1u","en":"Legends Awaken","zh_draft":"传奇觉醒","zh_ai":"传说苏醒","zh_human":"","zh":"传说苏醒","status":"ai"}
+{"id":"LL8MjxJr","en":"Origins Legacy: NeoForged","zh_draft":"起源遗产：NeoForged","zh_ai":"起源传说：Neo锻造","zh_human":"","zh":"起源传说：Neo锻造","status":"ai"}
+{"id":"MHMRKed0","en":"Designer Modeling","zh_draft":"设计师建模","zh_ai":"设计师建模","zh_human":"","zh":"设计师建模","status":"ai"}
