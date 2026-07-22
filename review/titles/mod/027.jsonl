@@ -2991,10 +2991,10 @@
 {"id":"gmwSlDiK","en":"Essence","zh_draft":"本质","zh_ai":"精华","zh_human":"","zh":"精华","status":"ai"}
 {"id":"hANnzNGd","en":"Collector","zh_draft":"收集器","zh_ai":"收集者","zh_human":"","zh":"收集者","status":"ai"}
 {"id":"hF2OB2qY","en":"H_Chunks","zh_draft":"H_块","zh_ai":"超大区块","zh_human":"","zh":"超大区块","status":"ai"}
-{"id":"hRLFdx8l","en":"BetterElevator","zh_draft":"更好的电梯","zh_ai":"","zh_human":"","zh":"更好的电梯","status":"pending"}
-{"id":"hvrefm8l","en":"summoners","zh_draft":"召唤师","zh_ai":"","zh_human":"","zh":"召唤师","status":"pending"}
-{"id":"i1J8jfPF","en":"Dangerous Daggers","zh_draft":"危险的匕首","zh_ai":"","zh_human":"","zh":"危险的匕首","status":"pending"}
-{"id":"iHDrpRR5","en":"DonutTab+","zh_draft":"DonutTab+","zh_ai":"","zh_human":"","zh":"DonutTab+","status":"pending"}
-{"id":"iUtpgEJ1","en":"ExpeditionCraft","zh_draft":"ExpeditionCraft","zh_ai":"","zh_human":"","zh":"ExpeditionCraft","status":"pending"}
-{"id":"iXmWUK7c","en":"Nickname","zh_draft":"绰号","zh_ai":"","zh_human":"","zh":"绰号","status":"pending"}
-{"id":"io0mUBIu","en":"Tomato Craft","zh_draft":"番茄工艺","zh_ai":"","zh_human":"","zh":"番茄工艺","status":"pending"}
+{"id":"hRLFdx8l","en":"BetterElevator","zh_draft":"更好的电梯","zh_ai":"高级电梯","zh_human":"","zh":"高级电梯","status":"ai"}
+{"id":"hvrefm8l","en":"summoners","zh_draft":"召唤师","zh_ai":"召唤师","zh_human":"","zh":"召唤师","status":"ai"}
+{"id":"i1J8jfPF","en":"Dangerous Daggers","zh_draft":"危险的匕首","zh_ai":"危险匕首","zh_human":"","zh":"危险匕首","status":"ai"}
+{"id":"iHDrpRR5","en":"DonutTab+","zh_draft":"DonutTab+","zh_ai":"甜甜圈标签+","zh_human":"","zh":"甜甜圈标签+","status":"ai"}
+{"id":"iUtpgEJ1","en":"ExpeditionCraft","zh_draft":"ExpeditionCraft","zh_ai":"探险工坊","zh_human":"","zh":"探险工坊","status":"ai"}
+{"id":"iXmWUK7c","en":"Nickname","zh_draft":"绰号","zh_ai":"昵称","zh_human":"","zh":"昵称","status":"ai"}
+{"id":"io0mUBIu","en":"Tomato Craft","zh_draft":"番茄工艺","zh_ai":"番茄工坊","zh_human":"","zh":"番茄工坊","status":"ai"}
