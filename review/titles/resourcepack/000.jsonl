@@ -1,26 +1,26 @@
-{"id":"50dA9Sha","en":"Fresh Animations","zh_draft":"新鲜动画","zh_ai":"","zh_human":"","zh":"新鲜动画","status":"pending"}
-{"id":"yfDziwn1","en":"Translations for Sodium","zh_draft":"钠的翻译","zh_ai":"","zh_human":"","zh":"钠的翻译","status":"pending"}
-{"id":"uvpymuxq","en":"Motschen's Better Leaves","zh_draft":"莫岑的《更好的叶子》","zh_ai":"","zh_human":"","zh":"莫岑的《更好的叶子》","status":"pending"}
-{"id":"tN4E9NfV","en":"Chat Reporting Helper","zh_draft":"聊天举报助手","zh_ai":"","zh_human":"","zh":"聊天举报助手","status":"pending"}
-{"id":"slufHzC2","en":"Fresh Moves","zh_draft":"新动作","zh_ai":"","zh_human":"","zh":"新动作","status":"pending"}
-{"id":"RRxvWKNC","en":"Low On Fire","zh_draft":"火焰低迷","zh_ai":"","zh_human":"","zh":"火焰低迷","status":"pending"}
-{"id":"dspVZXKP","en":"Fast Better Grass","zh_draft":"快草更好","zh_ai":"","zh_human":"","zh":"快草更好","status":"pending"}
-{"id":"ItHr72Fy","en":"Fullbright UB","zh_draft":"满天大","zh_ai":"","zh_human":"","zh":"满天大","status":"pending"}
-{"id":"2YyNMled","en":"Dramatic Skys","zh_draft":"激荡的天空","zh_ai":"","zh_human":"","zh":"激荡的天空","status":"pending"}
-{"id":"YAVTU8mK","en":"Fresh Animations: Extensions","zh_draft":"新鲜动画：扩展","zh_ai":"","zh_human":"","zh":"新鲜动画：扩展","status":"pending"}
-{"id":"gfiYlQU0","en":"Cobblemon Interface","zh_draft":"Cobblemon接口","zh_ai":"","zh_human":"","zh":"Cobblemon接口","status":"pending"}
-{"id":"rox3U8B6","en":"Bare Bones","zh_draft":"最简陋的","zh_ai":"","zh_human":"","zh":"最简陋的","status":"pending"}
-{"id":"Va3BanZa","en":"E19 - Cobblemon Minimap Icons","zh_draft":"E19 - Cobblemon 小地图图标","zh_ai":"","zh_human":"","zh":"E19 - Cobblemon 小地图图标","status":"pending"}
-{"id":"h6zxsNVF","en":"Mandala's GUI - Dark mode","zh_draft":"曼陀罗的图形界面——暗黑模式","zh_ai":"","zh_human":"","zh":"曼陀罗的图形界面——暗黑模式","status":"pending"}
-{"id":"UGEVQ6t9","en":"(Bee's) Fancy Crops","zh_draft":"（Bee's）精美作物","zh_ai":"","zh_human":"","zh":"（Bee's）精美作物","status":"pending"}
-{"id":"6SLU7tS5","en":"Default Dark Mode","zh_draft":"默认暗模式","zh_ai":"","zh_human":"","zh":"默认暗模式","status":"pending"}
-{"id":"r4GILswZ","en":"Faithful 64x","zh_draft":"忠诚64倍","zh_ai":"","zh_human":"","zh":"忠诚64倍","status":"pending"}
-{"id":"d1nRD7RG","en":"Programmer Art Fix","zh_draft":"程序员艺术修复","zh_ai":"","zh_human":"","zh":"程序员艺术修复","status":"pending"}
-{"id":"oL18adaQ","en":"New Glowing Ores","zh_draft":"新发光矿石","zh_ai":"","zh_human":"","zh":"新发光矿石","status":"pending"}
-{"id":"1jZGHJ05","en":"Low Fire","zh_draft":"低射","zh_ai":"","zh_human":"","zh":"低射","status":"pending"}
-{"id":"ti9KkMHm","en":"Simple Grass Flowers","zh_draft":"简单草花","zh_ai":"","zh_human":"","zh":"简单草花","status":"pending"}
-{"id":"orfTV6nk","en":"Default HD 128x","zh_draft":"默认HD 128x","zh_ai":"","zh_human":"","zh":"默认HD 128x","status":"pending"}
-{"id":"5DF3hBIs","en":"Cobblemon Interface: Modded","zh_draft":"Cobblemon 界面：模组","zh_ai":"","zh_human":"","zh":"Cobblemon 界面：模组","status":"pending"}
+{"id":"50dA9Sha","en":"Fresh Animations","zh_draft":"新鲜动画","zh_ai":"清新动画","zh_human":"","zh":"清新动画","status":"ai"}
+{"id":"yfDziwn1","en":"Translations for Sodium","zh_draft":"钠的翻译","zh_ai":"Sodium 翻译","zh_human":"","zh":"Sodium 翻译","status":"ai"}
+{"id":"uvpymuxq","en":"Motschen's Better Leaves","zh_draft":"莫岑的《更好的叶子》","zh_ai":"Motschen 的更好树叶","zh_human":"","zh":"Motschen 的更好树叶","status":"ai"}
+{"id":"tN4E9NfV","en":"Chat Reporting Helper","zh_draft":"聊天举报助手","zh_ai":"聊天举报助手","zh_human":"","zh":"聊天举报助手","status":"ai"}
+{"id":"slufHzC2","en":"Fresh Moves","zh_draft":"新动作","zh_ai":"清新动作","zh_human":"","zh":"清新动作","status":"ai"}
+{"id":"RRxvWKNC","en":"Low On Fire","zh_draft":"火焰低迷","zh_ai":"低火","zh_human":"","zh":"低火","status":"ai"}
+{"id":"dspVZXKP","en":"Fast Better Grass","zh_draft":"快草更好","zh_ai":"快速优化草地","zh_human":"","zh":"快速优化草地","status":"ai"}
+{"id":"ItHr72Fy","en":"Fullbright UB","zh_draft":"满天大","zh_ai":"全亮 UB","zh_human":"","zh":"全亮 UB","status":"ai"}
+{"id":"2YyNMled","en":"Dramatic Skys","zh_draft":"激荡的天空","zh_ai":"戏剧性天空","zh_human":"","zh":"戏剧性天空","status":"ai"}
+{"id":"YAVTU8mK","en":"Fresh Animations: Extensions","zh_draft":"新鲜动画：扩展","zh_ai":"清新动画：扩展","zh_human":"","zh":"清新动画：扩展","status":"ai"}
+{"id":"gfiYlQU0","en":"Cobblemon Interface","zh_draft":"Cobblemon接口","zh_ai":"宝可梦界面","zh_human":"","zh":"宝可梦界面","status":"ai"}
+{"id":"rox3U8B6","en":"Bare Bones","zh_draft":"最简陋的","zh_ai":"极简主义","zh_human":"","zh":"极简主义","status":"ai"}
+{"id":"Va3BanZa","en":"E19 - Cobblemon Minimap Icons","zh_draft":"E19 - Cobblemon 小地图图标","zh_ai":"E19 - 宝可梦小地图图标","zh_human":"","zh":"E19 - 宝可梦小地图图标","status":"ai"}
+{"id":"h6zxsNVF","en":"Mandala's GUI - Dark mode","zh_draft":"曼陀罗的图形界面——暗黑模式","zh_ai":"Mandala 的图形界面 - 暗色模式","zh_human":"","zh":"Mandala 的图形界面 - 暗色模式","status":"ai"}
+{"id":"UGEVQ6t9","en":"(Bee's) Fancy Crops","zh_draft":"（Bee's）精美作物","zh_ai":"(蜜蜂的) 精美作物","zh_human":"","zh":"(蜜蜂的) 精美作物","status":"ai"}
+{"id":"6SLU7tS5","en":"Default Dark Mode","zh_draft":"默认暗模式","zh_ai":"默认暗色模式","zh_human":"","zh":"默认暗色模式","status":"ai"}
+{"id":"r4GILswZ","en":"Faithful 64x","zh_draft":"忠诚64倍","zh_ai":"Faithful 64x","zh_human":"","zh":"Faithful 64x","status":"ai"}
+{"id":"d1nRD7RG","en":"Programmer Art Fix","zh_draft":"程序员艺术修复","zh_ai":"程序员艺术修复","zh_human":"","zh":"程序员艺术修复","status":"ai"}
+{"id":"oL18adaQ","en":"New Glowing Ores","zh_draft":"新发光矿石","zh_ai":"新发光矿石","zh_human":"","zh":"新发光矿石","status":"ai"}
+{"id":"1jZGHJ05","en":"Low Fire","zh_draft":"低射","zh_ai":"低火","zh_human":"","zh":"低火","status":"ai"}
+{"id":"ti9KkMHm","en":"Simple Grass Flowers","zh_draft":"简单草花","zh_ai":"简单草地花朵","zh_human":"","zh":"简单草地花朵","status":"ai"}
+{"id":"orfTV6nk","en":"Default HD 128x","zh_draft":"默认HD 128x","zh_ai":"默认高清 128x","zh_human":"","zh":"默认高清 128x","status":"ai"}
+{"id":"5DF3hBIs","en":"Cobblemon Interface: Modded","zh_draft":"Cobblemon 界面：模组","zh_ai":"宝可梦界面：模组化","zh_human":"","zh":"宝可梦界面：模组化","status":"ai"}
 {"id":"ARGDWSQq","en":"Radical Cobblemon Trainer Textures Plus","zh_draft":"Radical Cobblemon Trainer Textures Plus","zh_ai":"","zh_human":"","zh":"Radical Cobblemon Trainer Textures Plus","status":"pending"}
 {"id":"6vhHOIKw","en":"Enchant Icons","zh_draft":"附魔图标","zh_ai":"","zh_human":"","zh":"附魔图标","status":"pending"}
 {"id":"6udpuGCH","en":"Even Better Enchants","zh_draft":"更棒的附魔","zh_ai":"","zh_human":"","zh":"更棒的附魔","status":"pending"}
