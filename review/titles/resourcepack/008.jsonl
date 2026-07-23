@@ -2976,25 +2976,25 @@
 {"id":"2051FUUe","en":"Bare Bones x Spiderbat","zh_draft":"裸骨x蜘蛛蝙蝠","zh_ai":"极简主义 x 蜘蛛蝙蝠","zh_human":"","zh":"极简主义 x 蜘蛛蝙蝠","status":"ai"}
 {"id":"2E7uM1zx","en":"Sprite Beds","zh_draft":"雪碧床","zh_ai":"精灵床","zh_human":"","zh":"精灵床","status":"ai"}
 {"id":"3KiamxT8","en":"Snapshot Ores","zh_draft":"快照矿石","zh_ai":"快照矿石","zh_human":"","zh":"快照矿石","status":"ai"}
-{"id":"3j19V23A","en":"Beamy´s animated totem of undying","zh_draft":"比米的不朽动画图腾","zh_ai":"","zh_human":"","zh":"比米的不朽动画图腾","status":"pending"}
-{"id":"5HwYO86t","en":"Stormilla + Trailier Tales compat","zh_draft":"Stormilla + Trailier Tales compat","zh_ai":"","zh_human":"","zh":"Stormilla + Trailier Tales compat","status":"pending"}
-{"id":"78KAxCAl","en":"Old but Symmetrical Diamonds","zh_draft":"古老但对称的钻石","zh_ai":"","zh_human":"","zh":"古老但对称的钻石","status":"pending"}
-{"id":"8KYTGcp5","en":"DE→AT • Clean","zh_draft":"DE-AT ·清洁","zh_ai":"","zh_human":"","zh":"DE-AT ·清洁","status":"pending"}
-{"id":"8ljci45M","en":"F1 2012 Boat","zh_draft":"F1 2012游艇","zh_ai":"","zh_human":"","zh":"F1 2012游艇","status":"pending"}
-{"id":"AvZGHrwY","en":"Lazur's Ores [Darq]","zh_draft":"拉泽尔的矿石[达克]","zh_ai":"","zh_human":"","zh":"拉泽尔的矿石[达克]","status":"pending"}
-{"id":"CGsduOWC","en":"Hatchsons Pvp Pack","zh_draft":"海奇森Pvp Pack","zh_ai":"","zh_human":"","zh":"海奇森Pvp Pack","status":"pending"}
-{"id":"CNWOhvr6","en":"crapper explosion","zh_draft":"便便爆炸","zh_ai":"","zh_human":"","zh":"便便爆炸","status":"pending"}
-{"id":"CpyRn1YA","en":"no text font","zh_draft":"没有文本字体","zh_ai":"","zh_human":"","zh":"没有文本字体","status":"pending"}
-{"id":"Cu8PTayL","en":"U.P.E. Addon - Neither Portal","zh_draft":"UPE Addon -两者都不是门户","zh_ai":"","zh_human":"","zh":"UPE Addon -两者都不是门户","status":"pending"}
-{"id":"Cugdii7y","en":"Prince Clah royale","zh_draft":"克拉王子皇家","zh_ai":"","zh_human":"","zh":"克拉王子皇家","status":"pending"}
-{"id":"DMxCGKAz","en":"Gnome Totem","zh_draft":"地精图腾","zh_ai":"","zh_human":"","zh":"地精图腾","status":"pending"}
-{"id":"DvhrAF2o","en":"Beacon Beam Remover","zh_draft":"Beacon光束移除器","zh_ai":"","zh_human":"","zh":"Beacon光束移除器","status":"pending"}
-{"id":"FVvZS8Ol","en":"mat totem","zh_draft":"垫图腾","zh_ai":"","zh_human":"","zh":"垫图腾","status":"pending"}
-{"id":"FupnObFD","en":"shadow the resource packhog","zh_draft":"跟踪资源掠夺者","zh_ai":"","zh_human":"","zh":"跟踪资源掠夺者","status":"pending"}
-{"id":"Hc1igtfY","en":"Solid Glass PAck","zh_draft":"实心玻璃包装","zh_ai":"","zh_human":"","zh":"实心玻璃包装","status":"pending"}
-{"id":"ILpz9jPI","en":"Lava Chicken to Rick Astley","zh_draft":"熔岩鸡致里克·阿斯特利","zh_ai":"","zh_human":"","zh":"熔岩鸡致里克·阿斯特利","status":"pending"}
-{"id":"IhClD6w5","en":"Galactus PvP Pack","zh_draft":"Galactus PvP Pack","zh_ai":"","zh_human":"","zh":"Galactus PvP Pack","status":"pending"}
-{"id":"ImMG0CSA","en":"Bowtie's Bundles","zh_draft":"鲍蒂的捆绑包","zh_ai":"","zh_human":"","zh":"鲍蒂的捆绑包","status":"pending"}
-{"id":"JEA0ApAS","en":"Vanillesque Variants","zh_draft":"香草风格的变体","zh_ai":"","zh_human":"","zh":"香草风格的变体","status":"pending"}
-{"id":"JvF89Fkf","en":"Prototype Tutorial World Panorama","zh_draft":"原型收件箱世界全景","zh_ai":"","zh_human":"","zh":"原型收件箱世界全景","status":"pending"}
-{"id":"KN6Ia5EM","en":"upscale x4 (slopcraft)","zh_draft":"高档x4（slopcraft）","zh_ai":"","zh_human":"","zh":"高档x4（slopcraft）","status":"pending"}
+{"id":"3j19V23A","en":"Beamy´s animated totem of undying","zh_draft":"比米的不朽动画图腾","zh_ai":"不灭图腾动画","zh_human":"","zh":"不灭图腾动画","status":"ai"}
+{"id":"5HwYO86t","en":"Stormilla + Trailier Tales compat","zh_draft":"Stormilla + Trailier Tales compat","zh_ai":"风暴+拖车故事兼容","zh_human":"","zh":"风暴+拖车故事兼容","status":"ai"}
+{"id":"78KAxCAl","en":"Old but Symmetrical Diamonds","zh_draft":"古老但对称的钻石","zh_ai":"古老但对称钻石","zh_human":"","zh":"古老但对称钻石","status":"ai"}
+{"id":"8KYTGcp5","en":"DE→AT • Clean","zh_draft":"DE-AT ·清洁","zh_ai":"德→奥•清洁","zh_human":"","zh":"德→奥•清洁","status":"ai"}
+{"id":"8ljci45M","en":"F1 2012 Boat","zh_draft":"F1 2012游艇","zh_ai":"F1 2012 船","zh_human":"","zh":"F1 2012 船","status":"ai"}
+{"id":"AvZGHrwY","en":"Lazur's Ores [Darq]","zh_draft":"拉泽尔的矿石[达克]","zh_ai":"拉祖尔矿石[暗影]","zh_human":"","zh":"拉祖尔矿石[暗影]","status":"ai"}
+{"id":"CGsduOWC","en":"Hatchsons Pvp Pack","zh_draft":"海奇森Pvp Pack","zh_ai":"哈奇森斯 PVP 包","zh_human":"","zh":"哈奇森斯 PVP 包","status":"ai"}
+{"id":"CNWOhvr6","en":"crapper explosion","zh_draft":"便便爆炸","zh_ai":"马桶爆炸","zh_human":"","zh":"马桶爆炸","status":"ai"}
+{"id":"CpyRn1YA","en":"no text font","zh_draft":"没有文本字体","zh_ai":"无文字字体","zh_human":"","zh":"无文字字体","status":"ai"}
+{"id":"Cu8PTayL","en":"U.P.E. Addon - Neither Portal","zh_draft":"UPE Addon -两者都不是门户","zh_ai":"U.P.E. 扩展 - 既不是传送门","zh_human":"","zh":"U.P.E. 扩展 - 既不是传送门","status":"ai"}
+{"id":"Cugdii7y","en":"Prince Clah royale","zh_draft":"克拉王子皇家","zh_ai":"克拉王子皇家","zh_human":"","zh":"克拉王子皇家","status":"ai"}
+{"id":"DMxCGKAz","en":"Gnome Totem","zh_draft":"地精图腾","zh_ai":"地精图腾","zh_human":"","zh":"地精图腾","status":"ai"}
+{"id":"DvhrAF2o","en":"Beacon Beam Remover","zh_draft":"Beacon光束移除器","zh_ai":"信标光束移除器","zh_human":"","zh":"信标光束移除器","status":"ai"}
+{"id":"FVvZS8Ol","en":"mat totem","zh_draft":"垫图腾","zh_ai":"垫子图腾","zh_human":"","zh":"垫子图腾","status":"ai"}
+{"id":"FupnObFD","en":"shadow the resource packhog","zh_draft":"跟踪资源掠夺者","zh_ai":"阴影资源猪","zh_human":"","zh":"阴影资源猪","status":"ai"}
+{"id":"Hc1igtfY","en":"Solid Glass PAck","zh_draft":"实心玻璃包装","zh_ai":"实心玻璃包","zh_human":"","zh":"实心玻璃包","status":"ai"}
+{"id":"ILpz9jPI","en":"Lava Chicken to Rick Astley","zh_draft":"熔岩鸡致里克·阿斯特利","zh_ai":"熔岩鸡到瑞克·阿斯特利","zh_human":"","zh":"熔岩鸡到瑞克·阿斯特利","status":"ai"}
+{"id":"IhClD6w5","en":"Galactus PvP Pack","zh_draft":"Galactus PvP Pack","zh_ai":"盖勒特斯 PVP 包","zh_human":"","zh":"盖勒特斯 PVP 包","status":"ai"}
+{"id":"ImMG0CSA","en":"Bowtie's Bundles","zh_draft":"鲍蒂的捆绑包","zh_ai":"蝴蝶结包","zh_human":"","zh":"蝴蝶结包","status":"ai"}
+{"id":"JEA0ApAS","en":"Vanillesque Variants","zh_draft":"香草风格的变体","zh_ai":"香草变体","zh_human":"","zh":"香草变体","status":"ai"}
+{"id":"JvF89Fkf","en":"Prototype Tutorial World Panorama","zh_draft":"原型收件箱世界全景","zh_ai":"原型教程世界全景","zh_human":"","zh":"原型教程世界全景","status":"ai"}
+{"id":"KN6Ia5EM","en":"upscale x4 (slopcraft)","zh_draft":"高档x4（slopcraft）","zh_ai":"放大 x4 (斜坡工艺)","zh_human":"","zh":"放大 x4 (斜坡工艺)","status":"ai"}
