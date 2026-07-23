@@ -2657,10 +2657,10 @@
 {"id":"zgx1bWAq","en":"Ray's Better Mace","zh_draft":"雷的“更强”防狼喷雾","zh_ai":"雷的改进流星锤","zh_human":"","zh":"雷的改进流星锤","status":"ai"}
 {"id":"OnSLlpzu","en":"Phanta's 3D Katanas","zh_draft":"Phanta的3D武士刀","zh_ai":"范塔的3D武士刀","zh_human":"","zh":"范塔的3D武士刀","status":"ai"}
 {"id":"mEDYuNNP","en":"Dev's Better Armor Icons - Netherite Edition","zh_draft":"Dev 的增强版护甲图标 - 奈瑟合金版","zh_ai":"Dev的改进护甲图标-下界合金版","zh_human":"","zh":"Dev的改进护甲图标-下界合金版","status":"ai"}
-{"id":"dtV8rDa1","en":"No Freeze","zh_draft":"不冻结","zh_ai":"","zh_human":"","zh":"不冻结","status":"pending"}
-{"id":"g5pGlfGT","en":"Massive Black Hole Sun","zh_draft":"巨大的黑洞太阳","zh_ai":"","zh_human":"","zh":"巨大的黑洞太阳","status":"pending"}
-{"id":"E0y7YVhB","en":"Pink Quartz & Beige Iron Trims","zh_draft":"粉色石英与米色铁质饰条","zh_ai":"","zh_human":"","zh":"粉色石英与米色铁质饰条","status":"pending"}
-{"id":"oF52lfC8","en":"Sharp PVP Sword","zh_draft":"锋利的PVP剑","zh_ai":"","zh_human":"","zh":"锋利的PVP剑","status":"pending"}
+{"id":"dtV8rDa1","en":"No Freeze","zh_draft":"不冻结","zh_ai":"无冻结","zh_human":"","zh":"无冻结","status":"ai"}
+{"id":"g5pGlfGT","en":"Massive Black Hole Sun","zh_draft":"巨大的黑洞太阳","zh_ai":"超大黑洞太阳","zh_human":"","zh":"超大黑洞太阳","status":"ai"}
+{"id":"E0y7YVhB","en":"Pink Quartz & Beige Iron Trims","zh_draft":"粉色石英与米色铁质饰条","zh_ai":"粉色石英与米色铁边条","zh_human":"","zh":"粉色石英与米色铁边条","status":"ai"}
+{"id":"oF52lfC8","en":"Sharp PVP Sword","zh_draft":"锋利的PVP剑","zh_ai":"锐利PVP剑","zh_human":"","zh":"锐利PVP剑","status":"ai"}
 {"id":"7OiO2MEh","en":"Modern Dark Hotbar Connected","zh_draft":"现代暗黑风格快捷栏已连接","zh_ai":"现代深色快捷栏连接","zh_human":"","zh":"现代深色快捷栏连接","status":"ai"}
 {"id":"nVZ0MlPS","en":"Solar Flare [32x]","zh_draft":"太阳耀斑 [32x]","zh_ai":"太阳耀斑 [32倍]","zh_human":"","zh":"太阳耀斑 [32倍]","status":"ai"}
 {"id":"bEYCa7hT","en":"VeinMine Resourcepack","zh_draft":"VeinMine 资源包","zh_ai":"VeinMine资源包","zh_human":"","zh":"VeinMine资源包","status":"ai"}
@@ -2781,220 +2781,220 @@
 {"id":"G8ky85JO","en":"Glitch Anime Girls Sky Overlay","zh_draft":"故障风格动漫女孩天空叠加图","zh_ai":"故障动画女孩天空叠加","zh_human":"","zh":"故障动画女孩天空叠加","status":"ai"}
 {"id":"5fqQz1Vp","en":"tiny sword","zh_draft":"小剑","zh_ai":"小剑","zh_human":"","zh":"小剑","status":"ai"}
 {"id":"tA2n6VmZ","en":"RedStone Power Level indicator","zh_draft":"RedStone 功率电平指示器","zh_ai":"红石电力等级指示器","zh_human":"","zh":"红石电力等级指示器","status":"ai"}
-{"id":"xeqX6g8g","en":"MPLOCmods","zh_draft":"MPLOCmods","zh_ai":"","zh_human":"","zh":"MPLOCmods","status":"pending"}
-{"id":"5p132Izz","en":"Better Skies","zh_draft":"更美好的天空","zh_ai":"","zh_human":"","zh":"更美好的天空","status":"pending"}
-{"id":"pNenh7yc","en":"Shorter Elytra","zh_draft":"《Shorter Elytra》","zh_ai":"","zh_human":"","zh":"《Shorter Elytra》","status":"pending"}
-{"id":"K9iuJt0Z","en":"TNT Barrels","zh_draft":"TNT 枪管","zh_ai":"","zh_human":"","zh":"TNT 枪管","status":"pending"}
-{"id":"OEuu8weV","en":"[MTR4] JR Kyushu 305 Series | JR九州305系","zh_draft":"[MTR4] JR九州305系 | JR九州305系","zh_ai":"","zh_human":"","zh":"[MTR4] JR九州305系 | JR九州305系","status":"pending"}
-{"id":"3k3hiGoP","en":"mistxrage-2d-skin-totem","zh_draft":"mistxrage-2d-皮肤-图腾","zh_ai":"","zh_human":"","zh":"mistxrage-2d-皮肤-图腾","status":"pending"}
-{"id":"8PfStSeo","en":"OliverPack","zh_draft":"OliverPack","zh_ai":"","zh_human":"","zh":"OliverPack","status":"pending"}
-{"id":"HqAFMiqr","en":"Fresh Animations: Emissive labPBR","zh_draft":"全新动画：发光实验室PBR","zh_ai":"","zh_human":"","zh":"全新动画：发光实验室PBR","status":"pending"}
-{"id":"mKURGhev","en":"Faithful Serif","zh_draft":"Faithful Serif","zh_ai":"","zh_human":"","zh":"Faithful Serif","status":"pending"}
-{"id":"GVrcruYE","en":"No Blindness","zh_draft":"无失明","zh_ai":"","zh_human":"","zh":"无失明","status":"pending"}
-{"id":"N5Z6XD09","en":"Cabbage Glasses","zh_draft":"卷心菜眼镜","zh_ai":"","zh_human":"","zh":"卷心菜眼镜","status":"pending"}
-{"id":"p3PzE7jT","en":"Louder steps","zh_draft":"脚步声越来越响","zh_ai":"","zh_human":"","zh":"脚步声越来越响","status":"pending"}
-{"id":"p1No7pNS","en":"Old Water","zh_draft":"老水","zh_ai":"","zh_human":"","zh":"老水","status":"pending"}
-{"id":"UXOr3WpA","en":"Azu's Enhanced Zombie Variants & Fresh  Animations","zh_draft":"Azu的增强型僵尸变种与全新动画","zh_ai":"","zh_human":"","zh":"Azu的增强型僵尸变种与全新动画","status":"pending"}
-{"id":"uIuaBRCf","en":"End Portal Ender Chests","zh_draft":"末地传送门 末影箱","zh_ai":"","zh_human":"","zh":"末地传送门 末影箱","status":"pending"}
-{"id":"3Qby3x6b","en":"LET SKELETONS HAVE HANDS (67 edition)","zh_draft":"让骷髅也有手吧（第67版）","zh_ai":"","zh_human":"","zh":"让骷髅也有手吧（第67版）","status":"pending"}
-{"id":"8XgN9jS1","en":"Tiramisu PvP Blue","zh_draft":"提拉米苏 PvP 蓝色","zh_ai":"","zh_human":"","zh":"提拉米苏 PvP 蓝色","status":"pending"}
-{"id":"YyPEUuwg","en":"AXE PVP PACK","zh_draft":"AXE PVP 套装","zh_ai":"","zh_human":"","zh":"AXE PVP 套装","status":"pending"}
-{"id":"IRNtsn1R","en":"Small daggers","zh_draft":"小匕首","zh_ai":"","zh_human":"","zh":"小匕首","status":"pending"}
-{"id":"VBHC0LTN","en":"Yellow XP","zh_draft":"黄色 XP","zh_ai":"","zh_human":"","zh":"黄色 XP","status":"pending"}
-{"id":"WoHBPzkI","en":"Redd's Modded Barebones Addons","zh_draft":"Redd 的改装裸机扩展组件","zh_ai":"","zh_human":"","zh":"Redd 的改装裸机扩展组件","status":"pending"}
-{"id":"dp00tbAC","en":"Tokyu 3000 Series | 東急3000系","zh_draft":"东急3000系 | Tokyu 3000 Series","zh_ai":"","zh_human":"","zh":"东急3000系 | Tokyu 3000 Series","status":"pending"}
-{"id":"SuJ8zxjT","en":"Enchantment Modifiers","zh_draft":"附魔修饰符","zh_ai":"","zh_human":"","zh":"附魔修饰符","status":"pending"}
-{"id":"V5g7yzhN","en":"Pastebeds","zh_draft":"Pastebeds","zh_ai":"","zh_human":"","zh":"Pastebeds","status":"pending"}
-{"id":"2yjoUWVJ","en":"Vanitas","zh_draft":"《凡尼塔斯》","zh_ai":"","zh_human":"","zh":"《凡尼塔斯》","status":"pending"}
-{"id":"g1GLAnqm","en":"Minecraft Dungeons Emerald Pickup Sound","zh_draft":"《我的世界：地牢》翡翠拾取音效","zh_ai":"","zh_human":"","zh":"《我的世界：地牢》翡翠拾取音效","status":"pending"}
-{"id":"yasGoff4","en":"[MTR4] 서울교통공사 3000호대 초퍼제어 전동차|Seoul Metro 3000 series (Chopper)","zh_draft":"[MTR4] 首尔交通公社 3000 号系列斩波控制电车|首尔地铁 3000 系列（斩波控制）","zh_ai":"","zh_human":"","zh":"[MTR4] 首尔交通公社 3000 号系列斩波控制电车|首尔地铁 3000 系列（斩波控制）","status":"pending"}
-{"id":"YRCdXFoN","en":"Colorful Coral","zh_draft":"绚丽的珊瑚","zh_ai":"","zh_human":"","zh":"绚丽的珊瑚","status":"pending"}
-{"id":"ha5GBdf7","en":"Cursed Music Discs","zh_draft":"被诅咒的音乐光盘","zh_ai":"","zh_human":"","zh":"被诅咒的音乐光盘","status":"pending"}
-{"id":"90UsVVqZ","en":"High contrast ores","zh_draft":"高对比度矿石","zh_ai":"","zh_human":"","zh":"高对比度矿石","status":"pending"}
-{"id":"kWNcDqbj","en":"prism - indigo","zh_draft":"棱镜 - 靛蓝","zh_ai":"","zh_human":"","zh":"棱镜 - 靛蓝","status":"pending"}
-{"id":"KG6eyqJs","en":"Better Wither Effect Hearts","zh_draft":"更佳的枯萎效果之心","zh_ai":"","zh_human":"","zh":"更佳的枯萎效果之心","status":"pending"}
-{"id":"h2hwubQr","en":"Smooth-Bedwars","zh_draft":"《Smooth-Bedwars》","zh_ai":"","zh_human":"","zh":"《Smooth-Bedwars》","status":"pending"}
-{"id":"fRNVDNQp","en":"Monochrome High Contrast UI","zh_draft":"单色高对比度用户界面","zh_ai":"","zh_human":"","zh":"单色高对比度用户界面","status":"pending"}
-{"id":"QEbXybEE","en":"Dye Textures Backport","zh_draft":"Dye 纹理回溯移植","zh_ai":"","zh_human":"","zh":"Dye 纹理回溯移植","status":"pending"}
-{"id":"eMRcSIti","en":"Scythe-Able Mace","zh_draft":"可挥舞的战锤","zh_ai":"","zh_human":"","zh":"可挥舞的战锤","status":"pending"}
-{"id":"OOSyMY0k","en":"Xbox 360 Advancement SFX","zh_draft":"Xbox 360 进度音效","zh_ai":"","zh_human":"","zh":"Xbox 360 进度音效","status":"pending"}
-{"id":"GkSuTem3","en":"2004A","zh_draft":"2004A","zh_ai":"","zh_human":"","zh":"2004A","status":"pending"}
-{"id":"OUulthv3","en":"Vanilla Blooming Blocks","zh_draft":"香草绽放积木","zh_ai":"","zh_human":"","zh":"香草绽放积木","status":"pending"}
-{"id":"xeEtmAR0","en":"[MTR3/4] 回転寿司 | Conveyor Belt Sushi","zh_draft":"[MTR3/4] 旋转寿司 | 传送带寿司","zh_ai":"","zh_human":"","zh":"[MTR3/4] 旋转寿司 | 传送带寿司","status":"pending"}
-{"id":"E086Fpel","en":"YegsPack","zh_draft":"YegsPack","zh_ai":"","zh_human":"","zh":"YegsPack","status":"pending"}
-{"id":"WgpMEvZz","en":"Numeric Ping","zh_draft":"数值Ping","zh_ai":"","zh_human":"","zh":"数值Ping","status":"pending"}
-{"id":"iCeZ9FQv","en":"Medium Crosshair 2","zh_draft":"中等准星 2","zh_ai":"","zh_human":"","zh":"中等准星 2","status":"pending"}
-{"id":"9SO3epSJ","en":"CraftGlow Shield","zh_draft":"CraftGlow 护盾","zh_ai":"","zh_human":"","zh":"CraftGlow 护盾","status":"pending"}
-{"id":"sIunvxZt","en":"SillyCat cat","zh_draft":"SillyCat 猫","zh_ai":"","zh_human":"","zh":"SillyCat 猫","status":"pending"}
-{"id":"HmhGO449","en":"Nuclear TNT","zh_draft":"核级TNT","zh_ai":"","zh_human":"","zh":"核级TNT","status":"pending"}
-{"id":"oOBZGVmz","en":"Modilla Texture Pack","zh_draft":"Modilla 纹理包","zh_ai":"","zh_human":"","zh":"Modilla 纹理包","status":"pending"}
-{"id":"yPvLPAau","en":"Complementary Music","zh_draft":"配套音乐","zh_ai":"","zh_human":"","zh":"配套音乐","status":"pending"}
-{"id":"7ZZqpAOR","en":"ONYX PvP Essentials","zh_draft":"ONYX PvP 必备指南","zh_ai":"","zh_human":"","zh":"ONYX PvP 必备指南","status":"pending"}
-{"id":"yEN7s87o","en":"Reimagined Tool Breaking","zh_draft":"重新构想的刀具断裂","zh_ai":"","zh_human":"","zh":"重新构想的刀具断裂","status":"pending"}
-{"id":"o2YHzaOz","en":"LeoTweaks Enderpearl Highlight","zh_draft":"LeoTweaks 末影珍珠高亮效果","zh_ai":"","zh_human":"","zh":"LeoTweaks 末影珍珠高亮效果","status":"pending"}
-{"id":"6m2pLIz2","en":"[MTR] MVV Addon","zh_draft":"[MTR] MVV 扩展包","zh_ai":"","zh_human":"","zh":"[MTR] MVV 扩展包","status":"pending"}
-{"id":"2ipoFWyX","en":"Silly Moves: Tester","zh_draft":"傻气动作：测试者","zh_ai":"","zh_human":"","zh":"傻气动作：测试者","status":"pending"}
-{"id":"YRbFfgBS","en":"OOF damage sound","zh_draft":"OOF 伤害音效","zh_ai":"","zh_human":"","zh":"OOF 伤害音效","status":"pending"}
-{"id":"IR6CAxHX","en":"Pure UI","zh_draft":"纯UI","zh_ai":"","zh_human":"","zh":"纯UI","status":"pending"}
-{"id":"XG4Z3946","en":"Blitzfire's Visual Fireworks","zh_draft":"Blitzfire的视觉烟花秀","zh_ai":"","zh_human":"","zh":"Blitzfire的视觉烟花秀","status":"pending"}
-{"id":"K9LOZz9n","en":"AxeFactor","zh_draft":"AxeFactor","zh_ai":"","zh_human":"","zh":"AxeFactor","status":"pending"}
-{"id":"iJta5pUk","en":"Bare Bones x Weskerson's 3D Items","zh_draft":"Bare Bones × Weskerson 的 3D 产品","zh_ai":"","zh_human":"","zh":"Bare Bones × Weskerson 的 3D 产品","status":"pending"}
-{"id":"zQZPYWzp","en":"RetroRevive","zh_draft":"RetroRevive","zh_ai":"","zh_human":"","zh":"RetroRevive","status":"pending"}
-{"id":"VPIKU9vK","en":"SmallTotemPack","zh_draft":"SmallTotemPack","zh_ai":"","zh_human":"","zh":"SmallTotemPack","status":"pending"}
-{"id":"gKVbRGN9","en":"Dark HUD / Healtbars & Other","zh_draft":"深色HUD / 生命条及其他","zh_ai":"","zh_human":"","zh":"深色HUD / 生命条及其他","status":"pending"}
-{"id":"zzh3Y6f4","en":"Glacial Indifference","zh_draft":"冰冷的漠然","zh_ai":"","zh_human":"","zh":"冰冷的漠然","status":"pending"}
-{"id":"FnoyGQ4F","en":"Purple Pack","zh_draft":"紫色套装","zh_ai":"","zh_human":"","zh":"紫色套装","status":"pending"}
-{"id":"Kf3iHPJY","en":"Visual Goat Horns","zh_draft":"视觉山羊角","zh_ai":"","zh_human":"","zh":"视觉山羊角","status":"pending"}
-{"id":"M30Zw57N","en":"FullBright Dark-GUI Supreme","zh_draft":"FullBright Dark-GUI Supreme","zh_ai":"","zh_human":"","zh":"FullBright Dark-GUI Supreme","status":"pending"}
-{"id":"bF8BQeQN","en":"Tactical PDA - FTB quests new Book","zh_draft":"战术PDA——FTB任务新书","zh_ai":"","zh_human":"","zh":"战术PDA——FTB任务新书","status":"pending"}
-{"id":"7ZCTAyxA","en":"Facu's Resourcepack","zh_draft":"Facu 的资源包","zh_ai":"","zh_human":"","zh":"Facu 的资源包","status":"pending"}
-{"id":"SSiqwDba","en":"No Weather","zh_draft":"无天气","zh_ai":"","zh_human":"","zh":"无天气","status":"pending"}
-{"id":"b7iBpLFa","en":"Satisfying Sounds","zh_draft":"令人心满意足的声音","zh_ai":"","zh_human":"","zh":"令人心满意足的声音","status":"pending"}
-{"id":"ytoyPae0","en":"[MTR] 500 Series Shinkansen","zh_draft":"[MTR] 500系新干线","zh_ai":"","zh_human":"","zh":"[MTR] 500系新干线","status":"pending"}
-{"id":"w9SxsTSQ","en":"Bare Bones Icons","zh_draft":"简约图标","zh_ai":"","zh_human":"","zh":"简约图标","status":"pending"}
-{"id":"eRt7L1uS","en":"I am placin' blocks 'cause I'm in Minecraft","zh_draft":"我正在放方块，因为我在玩《我的世界》","zh_ai":"","zh_human":"","zh":"我正在放方块，因为我在玩《我的世界》","status":"pending"}
-{"id":"WZApfMCm","en":"Better Glass","zh_draft":"更优质的玻璃","zh_ai":"","zh_human":"","zh":"更优质的玻璃","status":"pending"}
-{"id":"kjvde7Jw","en":"Bright ores","zh_draft":"亮矿石","zh_ai":"","zh_human":"","zh":"亮矿石","status":"pending"}
-{"id":"aOFEYQih","en":"3D Market Gardener","zh_draft":"3D 菜农","zh_ai":"","zh_human":"","zh":"3D 菜农","status":"pending"}
-{"id":"y3xe9ONo","en":"Red String","zh_draft":"红线","zh_ai":"","zh_human":"","zh":"红线","status":"pending"}
-{"id":"qs9C0v36","en":"Bare Bones x Cinderscapes","zh_draft":"Bare Bones × Cinderscapes","zh_ai":"","zh_human":"","zh":"Bare Bones × Cinderscapes","status":"pending"}
-{"id":"C3kShjcz","en":"BetterMiniSword","zh_draft":"BetterMiniSword","zh_ai":"","zh_human":"","zh":"BetterMiniSword","status":"pending"}
-{"id":"o9MqMnAp","en":"SwordSabers","zh_draft":"SwordSabers","zh_ai":"","zh_human":"","zh":"SwordSabers","status":"pending"}
-{"id":"7o5IpZzC","en":"Heavy Rain","zh_draft":"暴雨","zh_ai":"","zh_human":"","zh":"暴雨","status":"pending"}
-{"id":"reaAcYAP","en":"Mace Enchant Indicator - Breach and Density","zh_draft":"战锤附魔指示器——穿透与密度","zh_ai":"","zh_human":"","zh":"战锤附魔指示器——穿透与密度","status":"pending"}
-{"id":"vsmmVgpk","en":"ore border","zh_draft":"矿石边界","zh_ai":"","zh_human":"","zh":"矿石边界","status":"pending"}
-{"id":"wc6ZdqTy","en":"Better Trims","zh_draft":"更佳的内饰","zh_ai":"","zh_human":"","zh":"更佳的内饰","status":"pending"}
-{"id":"4Dg1DEy1","en":"The Vervada","zh_draft":"《维尔瓦达》","zh_ai":"","zh_human":"","zh":"《维尔瓦达》","status":"pending"}
-{"id":"aDFs6dxg","en":"Spook","zh_draft":"幽灵","zh_ai":"","zh_human":"","zh":"幽灵","status":"pending"}
-{"id":"DL2jrTFs","en":"Nel's Crosshair","zh_draft":"内尔的准星","zh_ai":"","zh_human":"","zh":"内尔的准星","status":"pending"}
-{"id":"jr95PdBb","en":"Lifesteal X PvP + FPS Boost","zh_draft":"吸血 X PvP + 提升FPS","zh_ai":"","zh_human":"","zh":"吸血 X PvP + 提升FPS","status":"pending"}
-{"id":"2IdCxPVG","en":"Mickey Joe's CIT Namables (outdated OptiFine dependent pack)","zh_draft":"Mickey Joe 的 CIT Namables（已过时的、依赖 OptiFine 的模组包）","zh_ai":"","zh_human":"","zh":"Mickey Joe 的 CIT Namables（已过时的、依赖 OptiFine 的模组包）","status":"pending"}
-{"id":"ylYKTFZW","en":"Potion Recipes: Pixels Reforged Edition!","zh_draft":"魔药配方：像素重制版！","zh_ai":"","zh_human":"","zh":"魔药配方：像素重制版！","status":"pending"}
-{"id":"32lz9TyT","en":"SubtlePBR","zh_draft":"SubtlePBR","zh_ai":"","zh_human":"","zh":"SubtlePBR","status":"pending"}
-{"id":"QYRJEdeQ","en":"Bare Bones 3D Mace Wind Burst Effect","zh_draft":"简易版 3D 梅斯·温德 爆风特效","zh_ai":"","zh_human":"","zh":"简易版 3D 梅斯·温德 爆风特效","status":"pending"}
-{"id":"bmXYfnCK","en":"K1rbeFire","zh_draft":"K1rbeFire","zh_ai":"","zh_human":"","zh":"K1rbeFire","status":"pending"}
-{"id":"9r3mH8aJ","en":"Misti's Battle Axes","zh_draft":"米斯蒂的战斧","zh_ai":"","zh_human":"","zh":"米斯蒂的战斧","status":"pending"}
-{"id":"IzJIBSBV","en":"Prehistoria","zh_draft":"史前史","zh_ai":"","zh_human":"","zh":"史前史","status":"pending"}
-{"id":"xgIN5POm","en":"Torrezx-Trims tools","zh_draft":"Torrezx-Trims 工具","zh_ai":"","zh_human":"","zh":"Torrezx-Trims 工具","status":"pending"}
-{"id":"8xZIKKfz","en":"JJ_Default_Edit","zh_draft":"JJ_默认_编辑","zh_ai":"","zh_human":"","zh":"JJ_默认_编辑","status":"pending"}
-{"id":"PeAY2PBb","en":"[32x] Eating animation","zh_draft":"[32x] 进食动画","zh_ai":"","zh_human":"","zh":"[32x] 进食动画","status":"pending"}
-{"id":"q9FRsr7c","en":"Hurkledurkles Light Blue Enchant Glint","zh_draft":"赫克莱德克莱斯 浅蓝色 魔力闪光","zh_ai":"","zh_human":"","zh":"赫克莱德克莱斯 浅蓝色 魔力闪光","status":"pending"}
-{"id":"CMeb2aq8","en":"Glowstone Lamp","zh_draft":"发光石灯","zh_ai":"","zh_human":"","zh":"发光石灯","status":"pending"}
-{"id":"RJY0EzVU","en":"Alex's Caves X Woodworks/FD","zh_draft":"亚历克斯洞穴 X 木艺/FD","zh_ai":"","zh_human":"","zh":"亚历克斯洞穴 X 木艺/FD","status":"pending"}
-{"id":"DRXeojXc","en":"Fresh Animations Details + Minecraft Earth","zh_draft":"最新动画详情 + 《我的世界：地球》","zh_ai":"","zh_human":"","zh":"最新动画详情 + 《我的世界：地球》","status":"pending"}
-{"id":"H7p5WBYv","en":"No Bedrockk","zh_draft":"没有Bedrockk","zh_ai":"","zh_human":"","zh":"没有Bedrockk","status":"pending"}
-{"id":"7CEfLvD5","en":"Pink Textrure Pack","zh_draft":"粉色纹理包","zh_ai":"","zh_human":"","zh":"粉色纹理包","status":"pending"}
-{"id":"Irs3kQep","en":"Fresh Dwarf","zh_draft":"新鲜矮人","zh_ai":"","zh_human":"","zh":"新鲜矮人","status":"pending"}
-{"id":"ScxwaXQI","en":"Winter GUI Pack","zh_draft":"冬季界面包","zh_ai":"","zh_human":"","zh":"冬季界面包","status":"pending"}
-{"id":"MFvO5X05","en":"Side Bow","zh_draft":"侧弓","zh_ai":"","zh_human":"","zh":"侧弓","status":"pending"}
-{"id":"d6oJr6UJ","en":"White World","zh_draft":"白色世界","zh_ai":"","zh_human":"","zh":"白色世界","status":"pending"}
-{"id":"VdMvxFhV","en":"Magex's Shelf-Shrooms","zh_draft":"Magex的“货架蘑菇”","zh_ai":"","zh_human":"","zh":"Magex的“货架蘑菇”","status":"pending"}
-{"id":"slhhIHUu","en":"Christmas Hat 🎅🎄","zh_draft":"圣诞帽 🎅🎄","zh_ai":"","zh_human":"","zh":"圣诞帽 🎅🎄","status":"pending"}
-{"id":"eK9yQLpt","en":"Deeper MC","zh_draft":"Deeper MC","zh_ai":"","zh_human":"","zh":"Deeper MC","status":"pending"}
-{"id":"D3HqgFGP","en":"Better 3D Swords","zh_draft":"更出色的3D剑","zh_ai":"","zh_human":"","zh":"更出色的3D剑","status":"pending"}
-{"id":"mdBvgTLC","en":"Pool and Billiards Resourcepack","zh_draft":"台球资源包","zh_ai":"","zh_human":"","zh":"台球资源包","status":"pending"}
-{"id":"5iCLHtXA","en":"DUCK","zh_draft":"DUCK","zh_ai":"","zh_human":"","zh":"DUCK","status":"pending"}
-{"id":"nGGxzxcf","en":"Alternative Shader","zh_draft":"替代着色器","zh_ai":"","zh_human":"","zh":"替代着色器","status":"pending"}
-{"id":"g3vPCkxT","en":"Create Katana","zh_draft":"创建“Katana”","zh_ai":"","zh_human":"","zh":"创建“Katana”","status":"pending"}
-{"id":"gfFDpOJU","en":"Transparent Leaves","zh_draft":"透明的叶子","zh_ai":"","zh_human":"","zh":"透明的叶子","status":"pending"}
-{"id":"22iv8mYu","en":"No Wind Charge & Explosion Effects","zh_draft":"无风力效果及爆炸效果","zh_ai":"","zh_human":"","zh":"无风力效果及爆炸效果","status":"pending"}
-{"id":"Azq2X1Eh","en":"src3453's Kemomimi Girls!","zh_draft":"src3453的《猫耳女孩！》","zh_ai":"","zh_human":"","zh":"src3453的《猫耳女孩！》","status":"pending"}
-{"id":"JS1ifmBz","en":"Biomes Wandering Traders with Fresh Animations","zh_draft":"《生物群系》中的“流浪商人”新增了动态效果","zh_ai":"","zh_human":"","zh":"《生物群系》中的“流浪商人”新增了动态效果","status":"pending"}
-{"id":"RA1QUHEt","en":"Waifu for You","zh_draft":"《为你而来的老婆》","zh_ai":"","zh_human":"","zh":"《为你而来的老婆》","status":"pending"}
-{"id":"bef271ct","en":"darkout","zh_draft":"停电","zh_ai":"","zh_human":"","zh":"停电","status":"pending"}
-{"id":"vocdiyzm","en":"Emissive Ore Borders","zh_draft":"发光矿石边界","zh_ai":"","zh_human":"","zh":"发光矿石边界","status":"pending"}
-{"id":"4ybFHHkB","en":"Low Contrast Resin","zh_draft":"低对比度树脂","zh_ai":"","zh_human":"","zh":"低对比度树脂","status":"pending"}
-{"id":"bOc0RZy5","en":"Tianyicraft","zh_draft":"Tianyicraft","zh_ai":"","zh_human":"","zh":"Tianyicraft","status":"pending"}
-{"id":"KzR2KgOg","en":"London Overground Class 345/710","zh_draft":"伦敦地上铁345/710型列车","zh_ai":"","zh_human":"","zh":"伦敦地上铁345/710型列车","status":"pending"}
-{"id":"SLWI8kC3","en":"Lucipo's Hoplite PvP Pack - Cosmic Pink","zh_draft":"Lucipo 的重装步兵 PvP 套装——宇宙粉","zh_ai":"","zh_human":"","zh":"Lucipo 的重装步兵 PvP 套装——宇宙粉","status":"pending"}
-{"id":"Ggg85fVc","en":"Demon Slayer Cosmetics","zh_draft":"《鬼灭之刃》美妆系列","zh_ai":"","zh_human":"","zh":"《鬼灭之刃》美妆系列","status":"pending"}
-{"id":"onLBrw8W","en":"Chrome Yellow Gradient Enchant Glint","zh_draft":"铬黄渐变魔光","zh_ai":"","zh_human":"","zh":"铬黄渐变魔光","status":"pending"}
-{"id":"GyH95hxB","en":"Totem of Undying Gojo","zh_draft":"不朽戈乔的图腾","zh_ai":"","zh_human":"","zh":"不朽戈乔的图腾","status":"pending"}
-{"id":"aG78N9Bx","en":"Dark Loading Screen - Creeper Edition","zh_draft":"黑暗加载界面—— Creeper 版","zh_ai":"","zh_human":"","zh":"黑暗加载界面—— Creeper 版","status":"pending"}
-{"id":"NYG4x7zr","en":"TaTe's Custom Armors and Elytras","zh_draft":"TaTe的定制护甲和翼甲","zh_ai":"","zh_human":"","zh":"TaTe的定制护甲和翼甲","status":"pending"}
-{"id":"bWFMjFo8","en":"Modded Swords x Punchy! v2","zh_draft":"《Modded Swords x Punchy!》v2","zh_ai":"","zh_human":"","zh":"《Modded Swords x Punchy!》v2","status":"pending"}
-{"id":"dMkNUKdd","en":"Useott's Ocean HUD","zh_draft":"Useott 的海洋 HUD","zh_ai":"","zh_human":"","zh":"Useott 的海洋 HUD","status":"pending"}
-{"id":"7gRT4xv2","en":"Daydream Tools","zh_draft":"Daydream Tools","zh_ai":"","zh_human":"","zh":"Daydream Tools","status":"pending"}
-{"id":"v56xtWVN","en":"Waystones Resprite","zh_draft":"Waystones 重绘版","zh_ai":"","zh_human":"","zh":"Waystones 重绘版","status":"pending"}
-{"id":"3XsJv0iZ","en":"SMP Overlay","zh_draft":"SMP 覆盖层","zh_ai":"","zh_human":"","zh":"SMP 覆盖层","status":"pending"}
-{"id":"jhcxni9d","en":"No More Modern Names+","zh_draft":"不再使用现代名字+","zh_ai":"","zh_human":"","zh":"不再使用现代名字+","status":"pending"}
-{"id":"kz9g0sRD","en":"3D Firework Rocket","zh_draft":"3D烟花火箭","zh_ai":"","zh_human":"","zh":"3D烟花火箭","status":"pending"}
-{"id":"8DXgxYaX","en":"Ashen + EMI Compatibility","zh_draft":"Ashen 与 EMI 的兼容性","zh_ai":"","zh_human":"","zh":"Ashen 与 EMI 的兼容性","status":"pending"}
-{"id":"v9NKv92p","en":"Bare Bones Grass Flowers PBR","zh_draft":"《Bare Bones Grass Flowers》PBR","zh_ai":"","zh_human":"","zh":"《Bare Bones Grass Flowers》PBR","status":"pending"}
-{"id":"8kdwbnGi","en":"Fire and Ice","zh_draft":"火与冰","zh_ai":"","zh_human":"","zh":"火与冰","status":"pending"}
-{"id":"iiESLHPz","en":"Create: Fresh Items","zh_draft":"创建：新鲜商品","zh_ai":"","zh_human":"","zh":"创建：新鲜商品","status":"pending"}
-{"id":"5NzlF7JM","en":"Uncontrolled Grass","zh_draft":"杂草丛生","zh_ai":"","zh_human":"","zh":"杂草丛生","status":"pending"}
-{"id":"HJSpOXRo","en":"Sodium Japanese Localization","zh_draft":"钠的日语本地化","zh_ai":"","zh_human":"","zh":"钠的日语本地化","status":"pending"}
-{"id":"ae1aYKVA","en":"Compact UI","zh_draft":"紧凑型用户界面","zh_ai":"","zh_human":"","zh":"紧凑型用户界面","status":"pending"}
-{"id":"ehmBdpnW","en":"Wither Storm Panorama!","zh_draft":"《凋零风暴全景图》！","zh_ai":"","zh_human":"","zh":"《凋零风暴全景图》！","status":"pending"}
-{"id":"qFxZMecs","en":"SHC Magic Archery","zh_draft":"SHC 魔幻射箭","zh_ai":"","zh_human":"","zh":"SHC 魔幻射箭","status":"pending"}
-{"id":"vMnBC5Re","en":"K2D Font","zh_draft":"K2D 字体","zh_ai":"","zh_human":"","zh":"K2D 字体","status":"pending"}
-{"id":"18nN6zRK","en":"cew pink","zh_draft":"cew 粉色","zh_ai":"","zh_human":"","zh":"cew 粉色","status":"pending"}
-{"id":"61cEzhtU","en":"Noah's better grass","zh_draft":"诺亚的优质牧草","zh_ai":"","zh_human":"","zh":"诺亚的优质牧草","status":"pending"}
-{"id":"aI69qcEW","en":"Aonorai's 3D Wings","zh_draft":"阿诺拉伊的3D翅膀","zh_ai":"","zh_human":"","zh":"阿诺拉伊的3D翅膀","status":"pending"}
-{"id":"s6eUpBD2","en":"Modern Glass Hotbar","zh_draft":"现代玻璃热吧","zh_ai":"","zh_human":"","zh":"现代玻璃热吧","status":"pending"}
-{"id":"9bFOj6fJ","en":"OverAllPVP","zh_draft":"OverAllPVP","zh_ai":"","zh_human":"","zh":"OverAllPVP","status":"pending"}
-{"id":"yuaFoww2","en":"Connected Bricks (Fusion)","zh_draft":"互联积木（Fusion）","zh_ai":"","zh_human":"","zh":"互联积木（Fusion）","status":"pending"}
-{"id":"6TWRbRP5","en":"PvP Pack - Unified","zh_draft":"PvP 包 - 统一版","zh_ai":"","zh_human":"","zh":"PvP 包 - 统一版","status":"pending"}
-{"id":"Fdg2zJMs","en":"Mine Co. Renewed","zh_draft":"矿业公司续约","zh_ai":"","zh_human":"","zh":"矿业公司续约","status":"pending"}
-{"id":"pajuXEy1","en":"Flame Swing","zh_draft":"火焰秋千","zh_ai":"","zh_human":"","zh":"火焰秋千","status":"pending"}
-{"id":"cI7yzLEo","en":"Adarsh's cpvp Essentials","zh_draft":"阿达什的CPVP精要","zh_ai":"","zh_human":"","zh":"阿达什的CPVP精要","status":"pending"}
-{"id":"z0OMvC0Q","en":"Bare Bones x Storage Drawers","zh_draft":"简约风格 x 储物抽屉","zh_ai":"","zh_human":"","zh":"简约风格 x 储物抽屉","status":"pending"}
-{"id":"od1U2W5w","en":"3D Ladders & Rails","zh_draft":"3D 梯子与扶手","zh_ai":"","zh_human":"","zh":"3D 梯子与扶手","status":"pending"}
-{"id":"xraGYjWs","en":"HomeoPatrix","zh_draft":"HomeoPatrix","zh_ai":"","zh_human":"","zh":"HomeoPatrix","status":"pending"}
-{"id":"Yx3mfoFC","en":"3D Crystals","zh_draft":"3D水晶","zh_ai":"","zh_human":"","zh":"3D水晶","status":"pending"}
-{"id":"xstBA7Bt","en":"Clean Bedrock-Style Cursors","zh_draft":"简洁的基岩风格光标","zh_ai":"","zh_human":"","zh":"简洁的基岩风格光标","status":"pending"}
-{"id":"zktVA7WT","en":"Midnight Gotham Sky","zh_draft":"午夜的哥谭夜空","zh_ai":"","zh_human":"","zh":"午夜的哥谭夜空","status":"pending"}
-{"id":"WmKoOaax","en":"Guns AK-47","zh_draft":"枪支 AK-47","zh_ai":"","zh_human":"","zh":"枪支 AK-47","status":"pending"}
-{"id":"IYC3Td2j","en":"Animated Ores","zh_draft":"会动的矿石","zh_ai":"","zh_human":"","zh":"会动的矿石","status":"pending"}
-{"id":"taIMJGm2","en":"Better Vanilla Horses & Donkeys","zh_draft":"更优质的香草马和驴","zh_ai":"","zh_human":"","zh":"更优质的香草马和驴","status":"pending"}
-{"id":"SWSauWGl","en":"Ore Outlines Revamped","zh_draft":"《Ore》改版概要","zh_ai":"","zh_human":"","zh":"《Ore》改版概要","status":"pending"}
-{"id":"oISma7OC","en":"OCSMP Title Screen","zh_draft":"OCSMP 标题画面","zh_ai":"","zh_human":"","zh":"OCSMP 标题画面","status":"pending"}
-{"id":"mcIWCh8z","en":"Fresh wood","zh_draft":"新鲜木材","zh_ai":"","zh_human":"","zh":"新鲜木材","status":"pending"}
-{"id":"BO6KD5p9","en":"No Mod Armor / Invisible Mod Armor","zh_draft":"无模组护甲 / 隐形模组护甲","zh_ai":"","zh_human":"","zh":"无模组护甲 / 隐形模组护甲","status":"pending"}
-{"id":"cdVR6TTS","en":"Water Sounds pack","zh_draft":"“水声”音效包","zh_ai":"","zh_human":"","zh":"“水声”音效包","status":"pending"}
-{"id":"6lWGLYft","en":"Enhanced Visuals","zh_draft":"增强的视觉效果","zh_ai":"","zh_human":"","zh":"增强的视觉效果","status":"pending"}
-{"id":"Bsshb4we","en":"Bloody Slashes","zh_draft":"血腥的划痕","zh_ai":"","zh_human":"","zh":"血腥的划痕","status":"pending"}
-{"id":"NE7KTXh5","en":"Better Small Items+","zh_draft":"更优质的小物件+","zh_ai":"","zh_human":"","zh":"更优质的小物件+","status":"pending"}
-{"id":"QBoz8p3Y","en":"Animated World","zh_draft":"动画世界","zh_ai":"","zh_human":"","zh":"动画世界","status":"pending"}
-{"id":"ffhnUwgB","en":"Go Fish","zh_draft":"去钓鱼","zh_ai":"","zh_human":"","zh":"去钓鱼","status":"pending"}
-{"id":"loL7ybDa","en":"helmets become crowns","zh_draft":"头盔化作王冠","zh_ai":"","zh_human":"","zh":"头盔化作王冠","status":"pending"}
-{"id":"hPQOcC0s","en":"MCSM enchantment glint","zh_draft":"MCSM 魔力闪光","zh_ai":"","zh_human":"","zh":"MCSM 魔力闪光","status":"pending"}
-{"id":"ccLsdrfd","en":"Purple Tooltip (Split Monochrome Background/Frame)","zh_draft":"紫色工具提示（分割式单色背景/边框）","zh_ai":"","zh_human":"","zh":"紫色工具提示（分割式单色背景/边框）","status":"pending"}
-{"id":"eenFYIoe","en":"Light Blue Migrator Elytra","zh_draft":"浅蓝色迁徙者前翅","zh_ai":"","zh_human":"","zh":"浅蓝色迁徙者前翅","status":"pending"}
-{"id":"GKeHEz5o","en":"Nostalgia Goggles","zh_draft":"怀旧眼镜","zh_ai":"","zh_human":"","zh":"怀旧眼镜","status":"pending"}
-{"id":"QOppKa5M","en":"IShowSpeed Moon","zh_draft":"IShowSpeed Moon","zh_ai":"","zh_human":"","zh":"IShowSpeed Moon","status":"pending"}
-{"id":"ySoJkCUE","en":"Background Cherry Shaded","zh_draft":"背景：樱桃色阴影","zh_ai":"","zh_human":"","zh":"背景：樱桃色阴影","status":"pending"}
-{"id":"nPR8UkAn","en":"Green enchanted Glint","zh_draft":"绿色的魔幻闪光","zh_ai":"","zh_human":"","zh":"绿色的魔幻闪光","status":"pending"}
-{"id":"kUpMICQW","en":"CrossAttack Symmetry","zh_draft":"交叉攻击对称性","zh_ai":"","zh_human":"","zh":"交叉攻击对称性","status":"pending"}
-{"id":"35KSP2Ir","en":"Totem of Rigby","zh_draft":"里格比的图腾","zh_ai":"","zh_human":"","zh":"里格比的图腾","status":"pending"}
-{"id":"dTR1jR14","en":"Ice's Karts","zh_draft":"Ice的卡丁车","zh_ai":"","zh_human":"","zh":"Ice的卡丁车","status":"pending"}
-{"id":"JHDlxdcJ","en":"[MTR] ETR 470","zh_draft":"[MTR] ETR 470","zh_ai":"","zh_human":"","zh":"[MTR] ETR 470","status":"pending"}
-{"id":"gUUamNBG","en":"EnhancedVisuals - Pixelated 2.0","zh_draft":"EnhancedVisuals - 像素化 2.0","zh_ai":"","zh_human":"","zh":"EnhancedVisuals - 像素化 2.0","status":"pending"}
-{"id":"Yd8KEm1R","en":"Bare Bones - 3D Tools","zh_draft":"Bare Bones - 3D 工具","zh_ai":"","zh_human":"","zh":"Bare Bones - 3D 工具","status":"pending"}
-{"id":"IeMqElwO","en":"Totem Verity","zh_draft":"图腾·维瑞蒂","zh_ai":"","zh_human":"","zh":"图腾·维瑞蒂","status":"pending"}
-{"id":"PvbqTMhC","en":"Iconic Items","zh_draft":"标志性单品","zh_ai":"","zh_human":"","zh":"标志性单品","status":"pending"}
-{"id":"tTmz0iEA","en":"Whimscape Better Containers GUI","zh_draft":"Whimscape 更佳容器图形用户界面","zh_ai":"","zh_human":"","zh":"Whimscape 更佳容器图形用户界面","status":"pending"}
-{"id":"HN1XckCY","en":"Blocky 3D Ladder","zh_draft":"方块状3D梯子","zh_ai":"","zh_human":"","zh":"方块状3D梯子","status":"pending"}
-{"id":"cfVLLTFO","en":"[MTR4] Zhongtong EuroZT18 - Metro Mondego","zh_draft":"[MTR4] 中通 EuroZT18 - 蒙德戈地铁","zh_ai":"","zh_human":"","zh":"[MTR4] 中通 EuroZT18 - 蒙德戈地铁","status":"pending"}
-{"id":"s0I16leB","en":"Apple Hunger Bar","zh_draft":"苹果饥饿条","zh_ai":"","zh_human":"","zh":"苹果饥饿条","status":"pending"}
-{"id":"BblHOxDY","en":"Hello Kitty HUD","zh_draft":"凯蒂猫HUD","zh_ai":"","zh_human":"","zh":"凯蒂猫HUD","status":"pending"}
-{"id":"XQ7UVQw3","en":"More Readable Settings","zh_draft":"更易于阅读的设置","zh_ai":"","zh_human":"","zh":"更易于阅读的设置","status":"pending"}
-{"id":"ztv0hUDB","en":"Sun & Moon Paw","zh_draft":"太阳与月亮爪","zh_ai":"","zh_human":"","zh":"太阳与月亮爪","status":"pending"}
-{"id":"fJX2kVpP","en":"Sculk Totem","zh_draft":"斯库克图腾","zh_ai":"","zh_human":"","zh":"斯库克图腾","status":"pending"}
-{"id":"rVYHhvNR","en":"Bare Bones x Default Dark Mode","zh_draft":"Bare Bones × 默认深色模式","zh_ai":"","zh_human":"","zh":"Bare Bones × 默认深色模式","status":"pending"}
-{"id":"x4CX4dJN","en":"zMezo's Punchy","zh_draft":"zMezo的《Punchy》","zh_ai":"","zh_human":"","zh":"zMezo的《Punchy》","status":"pending"}
-{"id":"sQ3FtjXp","en":"Total Light✨","zh_draft":"总光量✨","zh_ai":"","zh_human":"","zh":"总光量✨","status":"pending"}
-{"id":"anqcrIQM","en":"Cherry Blossom Hearts","zh_draft":"樱花之心","zh_ai":"","zh_human":"","zh":"樱花之心","status":"pending"}
-{"id":"UjE2wg24","en":"uzbek tili","zh_draft":"乌兹别克语","zh_ai":"","zh_human":"","zh":"乌兹别克语","status":"pending"}
-{"id":"OWvT0GEK","en":"Deltarune font","zh_draft":"Deltarune 字体","zh_ai":"","zh_human":"","zh":"Deltarune 字体","status":"pending"}
-{"id":"hbANNST3","en":"Villager Language - Extension","zh_draft":"村民语言 - 扩展","zh_ai":"","zh_human":"","zh":"村民语言 - 扩展","status":"pending"}
-{"id":"M3L1TCLO","en":"Holy-Demonic PvP Pack","zh_draft":"圣魔PvP套装","zh_ai":"","zh_human":"","zh":"圣魔PvP套装","status":"pending"}
-{"id":"GCRCE6Vs","en":"Vpvp","zh_draft":"Vpvp","zh_ai":"","zh_human":"","zh":"Vpvp","status":"pending"}
-{"id":"Mu5hF5fZ","en":"White Darkness","zh_draft":"白色黑暗","zh_ai":"","zh_human":"","zh":"白色黑暗","status":"pending"}
-{"id":"bT939gMt","en":"Russian serified font","zh_draft":"俄语衬线体","zh_ai":"","zh_human":"","zh":"俄语衬线体","status":"pending"}
-{"id":"nL1IgKbU","en":"Hytale Font","zh_draft":"Hytale 字体","zh_ai":"","zh_human":"","zh":"Hytale 字体","status":"pending"}
-{"id":"oXWbKEHS","en":"Torrezx-Better Mace","zh_draft":"Torrezx-更强力的梅斯","zh_ai":"","zh_human":"","zh":"Torrezx-更强力的梅斯","status":"pending"}
-{"id":"qTLd4BcN","en":"Yippee Silverfish","zh_draft":"耶！银鱼","zh_ai":"","zh_human":"","zh":"耶！银鱼","status":"pending"}
-{"id":"eGMrSUkB","en":"Ez Totem","zh_draft":"Ez Totem","zh_ai":"","zh_human":"","zh":"Ez Totem","status":"pending"}
-{"id":"p9a61Nxd","en":"Simple TexturePack","zh_draft":"简约纹理包","zh_ai":"","zh_human":"","zh":"简约纹理包","status":"pending"}
+{"id":"xeqX6g8g","en":"MPLOCmods","zh_draft":"MPLOCmods","zh_ai":"MPLOC模组","zh_human":"","zh":"MPLOC模组","status":"ai"}
+{"id":"5p132Izz","en":"Better Skies","zh_draft":"更美好的天空","zh_ai":"更好的天空","zh_human":"","zh":"更好的天空","status":"ai"}
+{"id":"pNenh7yc","en":"Shorter Elytra","zh_draft":"《Shorter Elytra》","zh_ai":"更短的翅膀","zh_human":"","zh":"更短的翅膀","status":"ai"}
+{"id":"K9iuJt0Z","en":"TNT Barrels","zh_draft":"TNT 枪管","zh_ai":"TNT桶","zh_human":"","zh":"TNT桶","status":"ai"}
+{"id":"OEuu8weV","en":"[MTR4] JR Kyushu 305 Series | JR九州305系","zh_draft":"[MTR4] JR九州305系 | JR九州305系","zh_ai":"MTR4 JR九州305系列","zh_human":"","zh":"MTR4 JR九州305系列","status":"ai"}
+{"id":"3k3hiGoP","en":"mistxrage-2d-skin-totem","zh_draft":"mistxrage-2d-皮肤-图腾","zh_ai":"mistxrage 2D皮肤图腾","zh_human":"","zh":"mistxrage 2D皮肤图腾","status":"ai"}
+{"id":"8PfStSeo","en":"OliverPack","zh_draft":"OliverPack","zh_ai":"Oliver包","zh_human":"","zh":"Oliver包","status":"ai"}
+{"id":"HqAFMiqr","en":"Fresh Animations: Emissive labPBR","zh_draft":"全新动画：发光实验室PBR","zh_ai":"新鲜动画：自发光labPBR","zh_human":"","zh":"新鲜动画：自发光labPBR","status":"ai"}
+{"id":"mKURGhev","en":"Faithful Serif","zh_draft":"Faithful Serif","zh_ai":"忠实粗体","zh_human":"","zh":"忠实粗体","status":"ai"}
+{"id":"GVrcruYE","en":"No Blindness","zh_draft":"无失明","zh_ai":"无失明","zh_human":"","zh":"无失明","status":"ai"}
+{"id":"N5Z6XD09","en":"Cabbage Glasses","zh_draft":"卷心菜眼镜","zh_ai":"卷心菜眼镜","zh_human":"","zh":"卷心菜眼镜","status":"ai"}
+{"id":"p3PzE7jT","en":"Louder steps","zh_draft":"脚步声越来越响","zh_ai":"更大的脚步声","zh_human":"","zh":"更大的脚步声","status":"ai"}
+{"id":"p1No7pNS","en":"Old Water","zh_draft":"老水","zh_ai":"旧水","zh_human":"","zh":"旧水","status":"ai"}
+{"id":"UXOr3WpA","en":"Azu's Enhanced Zombie Variants & Fresh  Animations","zh_draft":"Azu的增强型僵尸变种与全新动画","zh_ai":"Azu增强僵尸变体与新鲜动画","zh_human":"","zh":"Azu增强僵尸变体与新鲜动画","status":"ai"}
+{"id":"uIuaBRCf","en":"End Portal Ender Chests","zh_draft":"末地传送门 末影箱","zh_ai":"末地传送门宝箱","zh_human":"","zh":"末地传送门宝箱","status":"ai"}
+{"id":"3Qby3x6b","en":"LET SKELETONS HAVE HANDS (67 edition)","zh_draft":"让骷髅也有手吧（第67版）","zh_ai":"让骷髅有手（67版）","zh_human":"","zh":"让骷髅有手（67版）","status":"ai"}
+{"id":"8XgN9jS1","en":"Tiramisu PvP Blue","zh_draft":"提拉米苏 PvP 蓝色","zh_ai":"提拉米苏PvP蓝","zh_human":"","zh":"提拉米苏PvP蓝","status":"ai"}
+{"id":"YyPEUuwg","en":"AXE PVP PACK","zh_draft":"AXE PVP 套装","zh_ai":"AXE PVP包","zh_human":"","zh":"AXE PVP包","status":"ai"}
+{"id":"IRNtsn1R","en":"Small daggers","zh_draft":"小匕首","zh_ai":"小匕首","zh_human":"","zh":"小匕首","status":"ai"}
+{"id":"VBHC0LTN","en":"Yellow XP","zh_draft":"黄色 XP","zh_ai":"黄色经验","zh_human":"","zh":"黄色经验","status":"ai"}
+{"id":"WoHBPzkI","en":"Redd's Modded Barebones Addons","zh_draft":"Redd 的改装裸机扩展组件","zh_ai":"Redd的修改版基础插件","zh_human":"","zh":"Redd的修改版基础插件","status":"ai"}
+{"id":"dp00tbAC","en":"Tokyu 3000 Series | 東急3000系","zh_draft":"东急3000系 | Tokyu 3000 Series","zh_ai":"东急3000系列","zh_human":"","zh":"东急3000系列","status":"ai"}
+{"id":"SuJ8zxjT","en":"Enchantment Modifiers","zh_draft":"附魔修饰符","zh_ai":"附魔修改器","zh_human":"","zh":"附魔修改器","status":"ai"}
+{"id":"V5g7yzhN","en":"Pastebeds","zh_draft":"Pastebeds","zh_ai":"粘土床","zh_human":"","zh":"粘土床","status":"ai"}
+{"id":"2yjoUWVJ","en":"Vanitas","zh_draft":"《凡尼塔斯》","zh_ai":"虚荣","zh_human":"","zh":"虚荣","status":"ai"}
+{"id":"g1GLAnqm","en":"Minecraft Dungeons Emerald Pickup Sound","zh_draft":"《我的世界：地牢》翡翠拾取音效","zh_ai":"我的世界地下城翡翠拾取音效","zh_human":"","zh":"我的世界地下城翡翠拾取音效","status":"ai"}
+{"id":"yasGoff4","en":"[MTR4] 서울교통공사 3000호대 초퍼제어 전동차|Seoul Metro 3000 series (Chopper)","zh_draft":"[MTR4] 首尔交通公社 3000 号系列斩波控制电车|首尔地铁 3000 系列（斩波控制）","zh_ai":"MTR4 首尔交通公社3000系列电动列车（Chopper）","zh_human":"","zh":"MTR4 首尔交通公社3000系列电动列车（Chopper）","status":"ai"}
+{"id":"YRCdXFoN","en":"Colorful Coral","zh_draft":"绚丽的珊瑚","zh_ai":"彩色珊瑚","zh_human":"","zh":"彩色珊瑚","status":"ai"}
+{"id":"ha5GBdf7","en":"Cursed Music Discs","zh_draft":"被诅咒的音乐光盘","zh_ai":"诅咒音乐唱片","zh_human":"","zh":"诅咒音乐唱片","status":"ai"}
+{"id":"90UsVVqZ","en":"High contrast ores","zh_draft":"高对比度矿石","zh_ai":"高对比度矿石","zh_human":"","zh":"高对比度矿石","status":"ai"}
+{"id":"kWNcDqbj","en":"prism - indigo","zh_draft":"棱镜 - 靛蓝","zh_ai":"棱镜-靛蓝","zh_human":"","zh":"棱镜-靛蓝","status":"ai"}
+{"id":"KG6eyqJs","en":"Better Wither Effect Hearts","zh_draft":"更佳的枯萎效果之心","zh_ai":"更好的凋零效果心","zh_human":"","zh":"更好的凋零效果心","status":"ai"}
+{"id":"h2hwubQr","en":"Smooth-Bedwars","zh_draft":"《Smooth-Bedwars》","zh_ai":"平滑Bedwars","zh_human":"","zh":"平滑Bedwars","status":"ai"}
+{"id":"fRNVDNQp","en":"Monochrome High Contrast UI","zh_draft":"单色高对比度用户界面","zh_ai":"单色高对比度UI","zh_human":"","zh":"单色高对比度UI","status":"ai"}
+{"id":"QEbXybEE","en":"Dye Textures Backport","zh_draft":"Dye 纹理回溯移植","zh_ai":"染料纹理回滚","zh_human":"","zh":"染料纹理回滚","status":"ai"}
+{"id":"eMRcSIti","en":"Scythe-Able Mace","zh_draft":"可挥舞的战锤","zh_ai":"镰刀-可用的锤子","zh_human":"","zh":"镰刀-可用的锤子","status":"ai"}
+{"id":"OOSyMY0k","en":"Xbox 360 Advancement SFX","zh_draft":"Xbox 360 进度音效","zh_ai":"Xbox 360 进阶音效","zh_human":"","zh":"Xbox 360 进阶音效","status":"ai"}
+{"id":"GkSuTem3","en":"2004A","zh_draft":"2004A","zh_ai":"2004A","zh_human":"","zh":"2004A","status":"ai"}
+{"id":"OUulthv3","en":"Vanilla Blooming Blocks","zh_draft":"香草绽放积木","zh_ai":"原版盛开方块","zh_human":"","zh":"原版盛开方块","status":"ai"}
+{"id":"xeEtmAR0","en":"[MTR3/4] 回転寿司 | Conveyor Belt Sushi","zh_draft":"[MTR3/4] 旋转寿司 | 传送带寿司","zh_ai":"旋转寿司 | 传送带寿司","zh_human":"","zh":"旋转寿司 | 传送带寿司","status":"ai"}
+{"id":"E086Fpel","en":"YegsPack","zh_draft":"YegsPack","zh_ai":"YegsPack","zh_human":"","zh":"YegsPack","status":"ai"}
+{"id":"WgpMEvZz","en":"Numeric Ping","zh_draft":"数值Ping","zh_ai":"数字 ping","zh_human":"","zh":"数字 ping","status":"ai"}
+{"id":"iCeZ9FQv","en":"Medium Crosshair 2","zh_draft":"中等准星 2","zh_ai":"中等十字准 2","zh_human":"","zh":"中等十字准 2","status":"ai"}
+{"id":"9SO3epSJ","en":"CraftGlow Shield","zh_draft":"CraftGlow 护盾","zh_ai":"CraftGlow 盾","zh_human":"","zh":"CraftGlow 盾","status":"ai"}
+{"id":"sIunvxZt","en":"SillyCat cat","zh_draft":"SillyCat 猫","zh_ai":"SillyCat 猫","zh_human":"","zh":"SillyCat 猫","status":"ai"}
+{"id":"HmhGO449","en":"Nuclear TNT","zh_draft":"核级TNT","zh_ai":"核 TNT","zh_human":"","zh":"核 TNT","status":"ai"}
+{"id":"oOBZGVmz","en":"Modilla Texture Pack","zh_draft":"Modilla 纹理包","zh_ai":"Modilla 贴图包","zh_human":"","zh":"Modilla 贴图包","status":"ai"}
+{"id":"yPvLPAau","en":"Complementary Music","zh_draft":"配套音乐","zh_ai":"补充音乐","zh_human":"","zh":"补充音乐","status":"ai"}
+{"id":"7ZZqpAOR","en":"ONYX PvP Essentials","zh_draft":"ONYX PvP 必备指南","zh_ai":"ONYX PvP 精要","zh_human":"","zh":"ONYX PvP 精要","status":"ai"}
+{"id":"yEN7s87o","en":"Reimagined Tool Breaking","zh_draft":"重新构想的刀具断裂","zh_ai":"重新想象工具破坏","zh_human":"","zh":"重新想象工具破坏","status":"ai"}
+{"id":"o2YHzaOz","en":"LeoTweaks Enderpearl Highlight","zh_draft":"LeoTweaks 末影珍珠高亮效果","zh_ai":"LeoTweaks 端午珍珠高亮","zh_human":"","zh":"LeoTweaks 端午珍珠高亮","status":"ai"}
+{"id":"6m2pLIz2","en":"[MTR] MVV Addon","zh_draft":"[MTR] MVV 扩展包","zh_ai":"[MTR] MVV 扩展","zh_human":"","zh":"[MTR] MVV 扩展","status":"ai"}
+{"id":"2ipoFWyX","en":"Silly Moves: Tester","zh_draft":"傻气动作：测试者","zh_ai":"愚蠢动作：测试者","zh_human":"","zh":"愚蠢动作：测试者","status":"ai"}
+{"id":"YRbFfgBS","en":"OOF damage sound","zh_draft":"OOF 伤害音效","zh_ai":"OOF 伤害音效","zh_human":"","zh":"OOF 伤害音效","status":"ai"}
+{"id":"IR6CAxHX","en":"Pure UI","zh_draft":"纯UI","zh_ai":"纯净 UI","zh_human":"","zh":"纯净 UI","status":"ai"}
+{"id":"XG4Z3946","en":"Blitzfire's Visual Fireworks","zh_draft":"Blitzfire的视觉烟花秀","zh_ai":"Blitzfire 的视觉烟花","zh_human":"","zh":"Blitzfire 的视觉烟花","status":"ai"}
+{"id":"K9LOZz9n","en":"AxeFactor","zh_draft":"AxeFactor","zh_ai":"斧头因子","zh_human":"","zh":"斧头因子","status":"ai"}
+{"id":"iJta5pUk","en":"Bare Bones x Weskerson's 3D Items","zh_draft":"Bare Bones × Weskerson 的 3D 产品","zh_ai":"Bare Bones x Weskerson 的 3D 项目","zh_human":"","zh":"Bare Bones x Weskerson 的 3D 项目","status":"ai"}
+{"id":"zQZPYWzp","en":"RetroRevive","zh_draft":"RetroRevive","zh_ai":"复古复兴","zh_human":"","zh":"复古复兴","status":"ai"}
+{"id":"VPIKU9vK","en":"SmallTotemPack","zh_draft":"SmallTotemPack","zh_ai":"小型图腾包","zh_human":"","zh":"小型图腾包","status":"ai"}
+{"id":"gKVbRGN9","en":"Dark HUD / Healtbars & Other","zh_draft":"深色HUD / 生命条及其他","zh_ai":"暗色 HUD / 健康栏及其他","zh_human":"","zh":"暗色 HUD / 健康栏及其他","status":"ai"}
+{"id":"zzh3Y6f4","en":"Glacial Indifference","zh_draft":"冰冷的漠然","zh_ai":"冰川冷漠","zh_human":"","zh":"冰川冷漠","status":"ai"}
+{"id":"FnoyGQ4F","en":"Purple Pack","zh_draft":"紫色套装","zh_ai":"紫色包","zh_human":"","zh":"紫色包","status":"ai"}
+{"id":"Kf3iHPJY","en":"Visual Goat Horns","zh_draft":"视觉山羊角","zh_ai":"视觉山羊角","zh_human":"","zh":"视觉山羊角","status":"ai"}
+{"id":"M30Zw57N","en":"FullBright Dark-GUI Supreme","zh_draft":"FullBright Dark-GUI Supreme","zh_ai":"全亮暗色 GUI 至尊","zh_human":"","zh":"全亮暗色 GUI 至尊","status":"ai"}
+{"id":"bF8BQeQN","en":"Tactical PDA - FTB quests new Book","zh_draft":"战术PDA——FTB任务新书","zh_ai":"战术 PDA - FTB 任务新书","zh_human":"","zh":"战术 PDA - FTB 任务新书","status":"ai"}
+{"id":"7ZCTAyxA","en":"Facu's Resourcepack","zh_draft":"Facu 的资源包","zh_ai":"Facu 的资源包","zh_human":"","zh":"Facu 的资源包","status":"ai"}
+{"id":"SSiqwDba","en":"No Weather","zh_draft":"无天气","zh_ai":"无天气","zh_human":"","zh":"无天气","status":"ai"}
+{"id":"b7iBpLFa","en":"Satisfying Sounds","zh_draft":"令人心满意足的声音","zh_ai":"令人满意的音效","zh_human":"","zh":"令人满意的音效","status":"ai"}
+{"id":"ytoyPae0","en":"[MTR] 500 Series Shinkansen","zh_draft":"[MTR] 500系新干线","zh_ai":"[MTR] 500 系列新干线","zh_human":"","zh":"[MTR] 500 系列新干线","status":"ai"}
+{"id":"w9SxsTSQ","en":"Bare Bones Icons","zh_draft":"简约图标","zh_ai":"Bare Bones 图标","zh_human":"","zh":"Bare Bones 图标","status":"ai"}
+{"id":"eRt7L1uS","en":"I am placin' blocks 'cause I'm in Minecraft","zh_draft":"我正在放方块，因为我在玩《我的世界》","zh_ai":"我在放置方块，因为我玩 Minecraft","zh_human":"","zh":"我在放置方块，因为我玩 Minecraft","status":"ai"}
+{"id":"WZApfMCm","en":"Better Glass","zh_draft":"更优质的玻璃","zh_ai":"更好的玻璃","zh_human":"","zh":"更好的玻璃","status":"ai"}
+{"id":"kjvde7Jw","en":"Bright ores","zh_draft":"亮矿石","zh_ai":"明亮的矿石","zh_human":"","zh":"明亮的矿石","status":"ai"}
+{"id":"aOFEYQih","en":"3D Market Gardener","zh_draft":"3D 菜农","zh_ai":"3D 市场园丁","zh_human":"","zh":"3D 市场园丁","status":"ai"}
+{"id":"y3xe9ONo","en":"Red String","zh_draft":"红线","zh_ai":"红线","zh_human":"","zh":"红线","status":"ai"}
+{"id":"qs9C0v36","en":"Bare Bones x Cinderscapes","zh_draft":"Bare Bones × Cinderscapes","zh_ai":"基础模组 x 灰烬之地","zh_human":"","zh":"基础模组 x 灰烬之地","status":"ai"}
+{"id":"C3kShjcz","en":"BetterMiniSword","zh_draft":"BetterMiniSword","zh_ai":"更优迷你剑","zh_human":"","zh":"更优迷你剑","status":"ai"}
+{"id":"o9MqMnAp","en":"SwordSabers","zh_draft":"SwordSabers","zh_ai":"剑之舞者","zh_human":"","zh":"剑之舞者","status":"ai"}
+{"id":"7o5IpZzC","en":"Heavy Rain","zh_draft":"暴雨","zh_ai":"暴雨","zh_human":"","zh":"暴雨","status":"ai"}
+{"id":"reaAcYAP","en":"Mace Enchant Indicator - Breach and Density","zh_draft":"战锤附魔指示器——穿透与密度","zh_ai":"战锤附魔指示器 - 突破与密度","zh_human":"","zh":"战锤附魔指示器 - 突破与密度","status":"ai"}
+{"id":"vsmmVgpk","en":"ore border","zh_draft":"矿石边界","zh_ai":"矿石边界","zh_human":"","zh":"矿石边界","status":"ai"}
+{"id":"wc6ZdqTy","en":"Better Trims","zh_draft":"更佳的内饰","zh_ai":"更优装饰","zh_human":"","zh":"更优装饰","status":"ai"}
+{"id":"4Dg1DEy1","en":"The Vervada","zh_draft":"《维尔瓦达》","zh_ai":"维瓦达","zh_human":"","zh":"维瓦达","status":"ai"}
+{"id":"aDFs6dxg","en":"Spook","zh_draft":"幽灵","zh_ai":"幽灵","zh_human":"","zh":"幽灵","status":"ai"}
+{"id":"DL2jrTFs","en":"Nel's Crosshair","zh_draft":"内尔的准星","zh_ai":"Nel 的准星","zh_human":"","zh":"Nel 的准星","status":"ai"}
+{"id":"jr95PdBb","en":"Lifesteal X PvP + FPS Boost","zh_draft":"吸血 X PvP + 提升FPS","zh_ai":"吸血 X PvP + FPS 提升器","zh_human":"","zh":"吸血 X PvP + FPS 提升器","status":"ai"}
+{"id":"2IdCxPVG","en":"Mickey Joe's CIT Namables (outdated OptiFine dependent pack)","zh_draft":"Mickey Joe 的 CIT Namables（已过时的、依赖 OptiFine 的模组包）","zh_ai":"米基乔的 CIT 可命名物品（过时 OptiFine 依赖包）","zh_human":"","zh":"米基乔的 CIT 可命名物品（过时 OptiFine 依赖包）","status":"ai"}
+{"id":"ylYKTFZW","en":"Potion Recipes: Pixels Reforged Edition!","zh_draft":"魔药配方：像素重制版！","zh_ai":"药水配方：像素重铸版！","zh_human":"","zh":"药水配方：像素重铸版！","status":"ai"}
+{"id":"32lz9TyT","en":"SubtlePBR","zh_draft":"SubtlePBR","zh_ai":"微妙 PBR","zh_human":"","zh":"微妙 PBR","status":"ai"}
+{"id":"QYRJEdeQ","en":"Bare Bones 3D Mace Wind Burst Effect","zh_draft":"简易版 3D 梅斯·温德 爆风特效","zh_ai":"基础模组 3D 战锤风击效果","zh_human":"","zh":"基础模组 3D 战锤风击效果","status":"ai"}
+{"id":"bmXYfnCK","en":"K1rbeFire","zh_draft":"K1rbeFire","zh_ai":"K1rbe 火焰","zh_human":"","zh":"K1rbe 火焰","status":"ai"}
+{"id":"9r3mH8aJ","en":"Misti's Battle Axes","zh_draft":"米斯蒂的战斧","zh_ai":"Misti 的战斧","zh_human":"","zh":"Misti 的战斧","status":"ai"}
+{"id":"IzJIBSBV","en":"Prehistoria","zh_draft":"史前史","zh_ai":"史前时代","zh_human":"","zh":"史前时代","status":"ai"}
+{"id":"xgIN5POm","en":"Torrezx-Trims tools","zh_draft":"Torrezx-Trims 工具","zh_ai":"Torrezx-装饰工具","zh_human":"","zh":"Torrezx-装饰工具","status":"ai"}
+{"id":"8xZIKKfz","en":"JJ_Default_Edit","zh_draft":"JJ_默认_编辑","zh_ai":"JJ 默认编辑","zh_human":"","zh":"JJ 默认编辑","status":"ai"}
+{"id":"PeAY2PBb","en":"[32x] Eating animation","zh_draft":"[32x] 进食动画","zh_ai":"[32x] 咀嚼动画","zh_human":"","zh":"[32x] 咀嚼动画","status":"ai"}
+{"id":"q9FRsr7c","en":"Hurkledurkles Light Blue Enchant Glint","zh_draft":"赫克莱德克莱斯 浅蓝色 魔力闪光","zh_ai":"Hurkledurkles 亮蓝色附魔闪光","zh_human":"","zh":"Hurkledurkles 亮蓝色附魔闪光","status":"ai"}
+{"id":"CMeb2aq8","en":"Glowstone Lamp","zh_draft":"发光石灯","zh_ai":"发光石灯","zh_human":"","zh":"发光石灯","status":"ai"}
+{"id":"RJY0EzVU","en":"Alex's Caves X Woodworks/FD","zh_draft":"亚历克斯洞穴 X 木艺/FD","zh_ai":"亚历克斯的洞穴 X 木工/FD","zh_human":"","zh":"亚历克斯的洞穴 X 木工/FD","status":"ai"}
+{"id":"DRXeojXc","en":"Fresh Animations Details + Minecraft Earth","zh_draft":"最新动画详情 + 《我的世界：地球》","zh_ai":"新鲜动画细节 + 地球 Minecraft","zh_human":"","zh":"新鲜动画细节 + 地球 Minecraft","status":"ai"}
+{"id":"H7p5WBYv","en":"No Bedrockk","zh_draft":"没有Bedrockk","zh_ai":"无基岩","zh_human":"","zh":"无基岩","status":"ai"}
+{"id":"7CEfLvD5","en":"Pink Textrure Pack","zh_draft":"粉色纹理包","zh_ai":"粉色纹理包","zh_human":"","zh":"粉色纹理包","status":"ai"}
+{"id":"Irs3kQep","en":"Fresh Dwarf","zh_draft":"新鲜矮人","zh_ai":"新鲜矮人","zh_human":"","zh":"新鲜矮人","status":"ai"}
+{"id":"ScxwaXQI","en":"Winter GUI Pack","zh_draft":"冬季界面包","zh_ai":"冬季 GUI 包","zh_human":"","zh":"冬季 GUI 包","status":"ai"}
+{"id":"MFvO5X05","en":"Side Bow","zh_draft":"侧弓","zh_ai":"侧弓","zh_human":"","zh":"侧弓","status":"ai"}
+{"id":"d6oJr6UJ","en":"White World","zh_draft":"白色世界","zh_ai":"白色世界","zh_human":"","zh":"白色世界","status":"ai"}
+{"id":"VdMvxFhV","en":"Magex's Shelf-Shrooms","zh_draft":"Magex的“货架蘑菇”","zh_ai":"Magex 的架子-蘑菇","zh_human":"","zh":"Magex 的架子-蘑菇","status":"ai"}
+{"id":"slhhIHUu","en":"Christmas Hat 🎅🎄","zh_draft":"圣诞帽 🎅🎄","zh_ai":"圣诞帽 🎅🎄","zh_human":"","zh":"圣诞帽 🎅🎄","status":"ai"}
+{"id":"eK9yQLpt","en":"Deeper MC","zh_draft":"Deeper MC","zh_ai":"更深层的 MC","zh_human":"","zh":"更深层的 MC","status":"ai"}
+{"id":"D3HqgFGP","en":"Better 3D Swords","zh_draft":"更出色的3D剑","zh_ai":"更优 3D 剑","zh_human":"","zh":"更优 3D 剑","status":"ai"}
+{"id":"mdBvgTLC","en":"Pool and Billiards Resourcepack","zh_draft":"台球资源包","zh_ai":"台球资源包","zh_human":"","zh":"台球资源包","status":"ai"}
+{"id":"5iCLHtXA","en":"DUCK","zh_draft":"DUCK","zh_ai":"DUCK","zh_human":"","zh":"DUCK","status":"ai"}
+{"id":"nGGxzxcf","en":"Alternative Shader","zh_draft":"替代着色器","zh_ai":"替代着色器","zh_human":"","zh":"替代着色器","status":"ai"}
+{"id":"g3vPCkxT","en":"Create Katana","zh_draft":"创建“Katana”","zh_ai":"Create 刀剑","zh_human":"","zh":"Create 刀剑","status":"ai"}
+{"id":"gfFDpOJU","en":"Transparent Leaves","zh_draft":"透明的叶子","zh_ai":"透明树叶","zh_human":"","zh":"透明树叶","status":"ai"}
+{"id":"22iv8mYu","en":"No Wind Charge & Explosion Effects","zh_draft":"无风力效果及爆炸效果","zh_ai":"无风充能与爆炸效果","zh_human":"","zh":"无风充能与爆炸效果","status":"ai"}
+{"id":"Azq2X1Eh","en":"src3453's Kemomimi Girls!","zh_draft":"src3453的《猫耳女孩！》","zh_ai":"src3453的音萌少女！","zh_human":"","zh":"src3453的音萌少女！","status":"ai"}
+{"id":"JS1ifmBz","en":"Biomes Wandering Traders with Fresh Animations","zh_draft":"《生物群系》中的“流浪商人”新增了动态效果","zh_ai":"带有新动画的荒野商人","zh_human":"","zh":"带有新动画的荒野商人","status":"ai"}
+{"id":"RA1QUHEt","en":"Waifu for You","zh_draft":"《为你而来的老婆》","zh_ai":"你的老婆","zh_human":"","zh":"你的老婆","status":"ai"}
+{"id":"bef271ct","en":"darkout","zh_draft":"停电","zh_ai":"暗黑","zh_human":"","zh":"暗黑","status":"ai"}
+{"id":"vocdiyzm","en":"Emissive Ore Borders","zh_draft":"发光矿石边界","zh_ai":"自发光矿石边界","zh_human":"","zh":"自发光矿石边界","status":"ai"}
+{"id":"4ybFHHkB","en":"Low Contrast Resin","zh_draft":"低对比度树脂","zh_ai":"低对比度树脂","zh_human":"","zh":"低对比度树脂","status":"ai"}
+{"id":"bOc0RZy5","en":"Tianyicraft","zh_draft":"Tianyicraft","zh_ai":"天翼","zh_human":"","zh":"天翼","status":"ai"}
+{"id":"KzR2KgOg","en":"London Overground Class 345/710","zh_draft":"伦敦地上铁345/710型列车","zh_ai":"伦敦地面345/710列车","zh_human":"","zh":"伦敦地面345/710列车","status":"ai"}
+{"id":"SLWI8kC3","en":"Lucipo's Hoplite PvP Pack - Cosmic Pink","zh_draft":"Lucipo 的重装步兵 PvP 套装——宇宙粉","zh_ai":"Lucipo的重装步兵PvP包 - 宇宙粉","zh_human":"","zh":"Lucipo的重装步兵PvP包 - 宇宙粉","status":"ai"}
+{"id":"Ggg85fVc","en":"Demon Slayer Cosmetics","zh_draft":"《鬼灭之刃》美妆系列","zh_ai":"鬼灭之刃外观","zh_human":"","zh":"鬼灭之刃外观","status":"ai"}
+{"id":"onLBrw8W","en":"Chrome Yellow Gradient Enchant Glint","zh_draft":"铬黄渐变魔光","zh_ai":"铬黄色渐变附魔闪光","zh_human":"","zh":"铬黄色渐变附魔闪光","status":"ai"}
+{"id":"GyH95hxB","en":"Totem of Undying Gojo","zh_draft":"不朽戈乔的图腾","zh_ai":"不死鸟图腾","zh_human":"","zh":"不死鸟图腾","status":"ai"}
+{"id":"aG78N9Bx","en":"Dark Loading Screen - Creeper Edition","zh_draft":"黑暗加载界面—— Creeper 版","zh_ai":"暗黑加载界面 - 僵尸版","zh_human":"","zh":"暗黑加载界面 - 僵尸版","status":"ai"}
+{"id":"NYG4x7zr","en":"TaTe's Custom Armors and Elytras","zh_draft":"TaTe的定制护甲和翼甲","zh_ai":"TaTe的定制盔甲和翼鞘","zh_human":"","zh":"TaTe的定制盔甲和翼鞘","status":"ai"}
+{"id":"bWFMjFo8","en":"Modded Swords x Punchy! v2","zh_draft":"《Modded Swords x Punchy!》v2","zh_ai":"魔改剑 x Punchy! v2","zh_human":"","zh":"魔改剑 x Punchy! v2","status":"ai"}
+{"id":"dMkNUKdd","en":"Useott's Ocean HUD","zh_draft":"Useott 的海洋 HUD","zh_ai":"Useott的海洋HUD","zh_human":"","zh":"Useott的海洋HUD","status":"ai"}
+{"id":"7gRT4xv2","en":"Daydream Tools","zh_draft":"Daydream Tools","zh_ai":"白日梦工具","zh_human":"","zh":"白日梦工具","status":"ai"}
+{"id":"v56xtWVN","en":"Waystones Resprite","zh_draft":"Waystones 重绘版","zh_ai":"传送石重绘","zh_human":"","zh":"传送石重绘","status":"ai"}
+{"id":"3XsJv0iZ","en":"SMP Overlay","zh_draft":"SMP 覆盖层","zh_ai":"生存模式叠加","zh_human":"","zh":"生存模式叠加","status":"ai"}
+{"id":"jhcxni9d","en":"No More Modern Names+","zh_draft":"不再使用现代名字+","zh_ai":"不再有现代名字+","zh_human":"","zh":"不再有现代名字+","status":"ai"}
+{"id":"kz9g0sRD","en":"3D Firework Rocket","zh_draft":"3D烟花火箭","zh_ai":"3D烟花火箭","zh_human":"","zh":"3D烟花火箭","status":"ai"}
+{"id":"8DXgxYaX","en":"Ashen + EMI Compatibility","zh_draft":"Ashen 与 EMI 的兼容性","zh_ai":"灰烬 + EMI 兼容性","zh_human":"","zh":"灰烬 + EMI 兼容性","status":"ai"}
+{"id":"v9NKv92p","en":"Bare Bones Grass Flowers PBR","zh_draft":"《Bare Bones Grass Flowers》PBR","zh_ai":"骨架草花PBR","zh_human":"","zh":"骨架草花PBR","status":"ai"}
+{"id":"8kdwbnGi","en":"Fire and Ice","zh_draft":"火与冰","zh_ai":"火与冰","zh_human":"","zh":"火与冰","status":"ai"}
+{"id":"iiESLHPz","en":"Create: Fresh Items","zh_draft":"创建：新鲜商品","zh_ai":"创造：新物品","zh_human":"","zh":"创造：新物品","status":"ai"}
+{"id":"5NzlF7JM","en":"Uncontrolled Grass","zh_draft":"杂草丛生","zh_ai":"失控草","zh_human":"","zh":"失控草","status":"ai"}
+{"id":"HJSpOXRo","en":"Sodium Japanese Localization","zh_draft":"钠的日语本地化","zh_ai":"钠日文本地化","zh_human":"","zh":"钠日文本地化","status":"ai"}
+{"id":"ae1aYKVA","en":"Compact UI","zh_draft":"紧凑型用户界面","zh_ai":"紧凑型UI","zh_human":"","zh":"紧凑型UI","status":"ai"}
+{"id":"ehmBdpnW","en":"Wither Storm Panorama!","zh_draft":"《凋零风暴全景图》！","zh_ai":"凋零风暴全景！","zh_human":"","zh":"凋零风暴全景！","status":"ai"}
+{"id":"qFxZMecs","en":"SHC Magic Archery","zh_draft":"SHC 魔幻射箭","zh_ai":"SHC魔法射箭","zh_human":"","zh":"SHC魔法射箭","status":"ai"}
+{"id":"vMnBC5Re","en":"K2D Font","zh_draft":"K2D 字体","zh_ai":"K2D字体","zh_human":"","zh":"K2D字体","status":"ai"}
+{"id":"18nN6zRK","en":"cew pink","zh_draft":"cew 粉色","zh_ai":"cew粉","zh_human":"","zh":"cew粉","status":"ai"}
+{"id":"61cEzhtU","en":"Noah's better grass","zh_draft":"诺亚的优质牧草","zh_ai":"诺亚的更好草","zh_human":"","zh":"诺亚的更好草","status":"ai"}
+{"id":"aI69qcEW","en":"Aonorai's 3D Wings","zh_draft":"阿诺拉伊的3D翅膀","zh_ai":"Aonorai的3D翅膀","zh_human":"","zh":"Aonorai的3D翅膀","status":"ai"}
+{"id":"s6eUpBD2","en":"Modern Glass Hotbar","zh_draft":"现代玻璃热吧","zh_ai":"现代玻璃热键栏","zh_human":"","zh":"现代玻璃热键栏","status":"ai"}
+{"id":"9bFOj6fJ","en":"OverAllPVP","zh_draft":"OverAllPVP","zh_ai":"全面PVP","zh_human":"","zh":"全面PVP","status":"ai"}
+{"id":"yuaFoww2","en":"Connected Bricks (Fusion)","zh_draft":"互联积木（Fusion）","zh_ai":"连接砖块（融合）","zh_human":"","zh":"连接砖块（融合）","status":"ai"}
+{"id":"6TWRbRP5","en":"PvP Pack - Unified","zh_draft":"PvP 包 - 统一版","zh_ai":"PvP包 - 统一","zh_human":"","zh":"PvP包 - 统一","status":"ai"}
+{"id":"Fdg2zJMs","en":"Mine Co. Renewed","zh_draft":"矿业公司续约","zh_ai":"矿工公司更新版","zh_human":"","zh":"矿工公司更新版","status":"ai"}
+{"id":"pajuXEy1","en":"Flame Swing","zh_draft":"火焰秋千","zh_ai":"火焰挥砍","zh_human":"","zh":"火焰挥砍","status":"ai"}
+{"id":"cI7yzLEo","en":"Adarsh's cpvp Essentials","zh_draft":"阿达什的CPVP精要","zh_ai":"Adarsh的cpvp核心","zh_human":"","zh":"Adarsh的cpvp核心","status":"ai"}
+{"id":"z0OMvC0Q","en":"Bare Bones x Storage Drawers","zh_draft":"简约风格 x 储物抽屉","zh_ai":"Bare Bones与储物抽屉整合","zh_human":"","zh":"Bare Bones与储物抽屉整合","status":"ai"}
+{"id":"od1U2W5w","en":"3D Ladders & Rails","zh_draft":"3D 梯子与扶手","zh_ai":"3D梯子与轨道","zh_human":"","zh":"3D梯子与轨道","status":"ai"}
+{"id":"xraGYjWs","en":"HomeoPatrix","zh_draft":"HomeoPatrix","zh_ai":"HomeoPatrix","zh_human":"","zh":"HomeoPatrix","status":"ai"}
+{"id":"Yx3mfoFC","en":"3D Crystals","zh_draft":"3D水晶","zh_ai":"3D水晶","zh_human":"","zh":"3D水晶","status":"ai"}
+{"id":"xstBA7Bt","en":"Clean Bedrock-Style Cursors","zh_draft":"简洁的基岩风格光标","zh_ai":"纯净基岩风格光标","zh_human":"","zh":"纯净基岩风格光标","status":"ai"}
+{"id":"zktVA7WT","en":"Midnight Gotham Sky","zh_draft":"午夜的哥谭夜空","zh_ai":"午夜哥谭天空","zh_human":"","zh":"午夜哥谭天空","status":"ai"}
+{"id":"WmKoOaax","en":"Guns AK-47","zh_draft":"枪支 AK-47","zh_ai":"AK-47枪械","zh_human":"","zh":"AK-47枪械","status":"ai"}
+{"id":"IYC3Td2j","en":"Animated Ores","zh_draft":"会动的矿石","zh_ai":"动态矿石","zh_human":"","zh":"动态矿石","status":"ai"}
+{"id":"taIMJGm2","en":"Better Vanilla Horses & Donkeys","zh_draft":"更优质的香草马和驴","zh_ai":"更好的原版马与驴","zh_human":"","zh":"更好的原版马与驴","status":"ai"}
+{"id":"SWSauWGl","en":"Ore Outlines Revamped","zh_draft":"《Ore》改版概要","zh_ai":"重制矿石轮廓","zh_human":"","zh":"重制矿石轮廓","status":"ai"}
+{"id":"oISma7OC","en":"OCSMP Title Screen","zh_draft":"OCSMP 标题画面","zh_ai":"OCSMP标题界面","zh_human":"","zh":"OCSMP标题界面","status":"ai"}
+{"id":"mcIWCh8z","en":"Fresh wood","zh_draft":"新鲜木材","zh_ai":"新鲜木材","zh_human":"","zh":"新鲜木材","status":"ai"}
+{"id":"BO6KD5p9","en":"No Mod Armor / Invisible Mod Armor","zh_draft":"无模组护甲 / 隐形模组护甲","zh_ai":"无模组护甲/隐形模组护甲","zh_human":"","zh":"无模组护甲/隐形模组护甲","status":"ai"}
+{"id":"cdVR6TTS","en":"Water Sounds pack","zh_draft":"“水声”音效包","zh_ai":"水流音效包","zh_human":"","zh":"水流音效包","status":"ai"}
+{"id":"6lWGLYft","en":"Enhanced Visuals","zh_draft":"增强的视觉效果","zh_ai":"增强视觉效果","zh_human":"","zh":"增强视觉效果","status":"ai"}
+{"id":"Bsshb4we","en":"Bloody Slashes","zh_draft":"血腥的划痕","zh_ai":"血腥斩击","zh_human":"","zh":"血腥斩击","status":"ai"}
+{"id":"NE7KTXh5","en":"Better Small Items+","zh_draft":"更优质的小物件+","zh_ai":"更好的小物品+","zh_human":"","zh":"更好的小物品+","status":"ai"}
+{"id":"QBoz8p3Y","en":"Animated World","zh_draft":"动画世界","zh_ai":"动态世界","zh_human":"","zh":"动态世界","status":"ai"}
+{"id":"ffhnUwgB","en":"Go Fish","zh_draft":"去钓鱼","zh_ai":"钓鱼","zh_human":"","zh":"钓鱼","status":"ai"}
+{"id":"loL7ybDa","en":"helmets become crowns","zh_draft":"头盔化作王冠","zh_ai":"头盔变皇冠","zh_human":"","zh":"头盔变皇冠","status":"ai"}
+{"id":"hPQOcC0s","en":"MCSM enchantment glint","zh_draft":"MCSM 魔力闪光","zh_ai":"MCSM附魔光泽","zh_human":"","zh":"MCSM附魔光泽","status":"ai"}
+{"id":"ccLsdrfd","en":"Purple Tooltip (Split Monochrome Background/Frame)","zh_draft":"紫色工具提示（分割式单色背景/边框）","zh_ai":"紫色提示框（分色黑白背景/边框）","zh_human":"","zh":"紫色提示框（分色黑白背景/边框）","status":"ai"}
+{"id":"eenFYIoe","en":"Light Blue Migrator Elytra","zh_draft":"浅蓝色迁徙者前翅","zh_ai":"浅蓝迁徙者鞘翅","zh_human":"","zh":"浅蓝迁徙者鞘翅","status":"ai"}
+{"id":"GKeHEz5o","en":"Nostalgia Goggles","zh_draft":"怀旧眼镜","zh_ai":"怀旧护目镜","zh_human":"","zh":"怀旧护目镜","status":"ai"}
+{"id":"QOppKa5M","en":"IShowSpeed Moon","zh_draft":"IShowSpeed Moon","zh_ai":"IShowSpeed月球","zh_human":"","zh":"IShowSpeed月球","status":"ai"}
+{"id":"ySoJkCUE","en":"Background Cherry Shaded","zh_draft":"背景：樱桃色阴影","zh_ai":"背景樱桃阴影","zh_human":"","zh":"背景樱桃阴影","status":"ai"}
+{"id":"nPR8UkAn","en":"Green enchanted Glint","zh_draft":"绿色的魔幻闪光","zh_ai":"绿色附魔光泽","zh_human":"","zh":"绿色附魔光泽","status":"ai"}
+{"id":"kUpMICQW","en":"CrossAttack Symmetry","zh_draft":"交叉攻击对称性","zh_ai":"十字攻击对称","zh_human":"","zh":"十字攻击对称","status":"ai"}
+{"id":"35KSP2Ir","en":"Totem of Rigby","zh_draft":"里格比的图腾","zh_ai":"瑞比图腾","zh_human":"","zh":"瑞比图腾","status":"ai"}
+{"id":"dTR1jR14","en":"Ice's Karts","zh_draft":"Ice的卡丁车","zh_ai":"Ice的卡丁车","zh_human":"","zh":"Ice的卡丁车","status":"ai"}
+{"id":"JHDlxdcJ","en":"[MTR] ETR 470","zh_draft":"[MTR] ETR 470","zh_ai":"[MTR] ETR 470列车","zh_human":"","zh":"[MTR] ETR 470列车","status":"ai"}
+{"id":"gUUamNBG","en":"EnhancedVisuals - Pixelated 2.0","zh_draft":"EnhancedVisuals - 像素化 2.0","zh_ai":"EnhancedVisuals-像素化2.0","zh_human":"","zh":"EnhancedVisuals-像素化2.0","status":"ai"}
+{"id":"Yd8KEm1R","en":"Bare Bones - 3D Tools","zh_draft":"Bare Bones - 3D 工具","zh_ai":"Bare Bones-3D工具","zh_human":"","zh":"Bare Bones-3D工具","status":"ai"}
+{"id":"IeMqElwO","en":"Totem Verity","zh_draft":"图腾·维瑞蒂","zh_ai":"Totem Verity","zh_human":"","zh":"Totem Verity","status":"ai"}
+{"id":"PvbqTMhC","en":"Iconic Items","zh_draft":"标志性单品","zh_ai":"标志性物品","zh_human":"","zh":"标志性物品","status":"ai"}
+{"id":"tTmz0iEA","en":"Whimscape Better Containers GUI","zh_draft":"Whimscape 更佳容器图形用户界面","zh_ai":"Whimscape更好的容器GUI","zh_human":"","zh":"Whimscape更好的容器GUI","status":"ai"}
+{"id":"HN1XckCY","en":"Blocky 3D Ladder","zh_draft":"方块状3D梯子","zh_ai":"方块风3D梯子","zh_human":"","zh":"方块风3D梯子","status":"ai"}
+{"id":"cfVLLTFO","en":"[MTR4] Zhongtong EuroZT18 - Metro Mondego","zh_draft":"[MTR4] 中通 EuroZT18 - 蒙德戈地铁","zh_ai":"[MTR4] 中通EuroZT18-Metro Mondego","zh_human":"","zh":"[MTR4] 中通EuroZT18-Metro Mondego","status":"ai"}
+{"id":"s0I16leB","en":"Apple Hunger Bar","zh_draft":"苹果饥饿条","zh_ai":"苹果饥饿条","zh_human":"","zh":"苹果饥饿条","status":"ai"}
+{"id":"BblHOxDY","en":"Hello Kitty HUD","zh_draft":"凯蒂猫HUD","zh_ai":"凯蒂猫HUD","zh_human":"","zh":"凯蒂猫HUD","status":"ai"}
+{"id":"XQ7UVQw3","en":"More Readable Settings","zh_draft":"更易于阅读的设置","zh_ai":"更易读的设置","zh_human":"","zh":"更易读的设置","status":"ai"}
+{"id":"ztv0hUDB","en":"Sun & Moon Paw","zh_draft":"太阳与月亮爪","zh_ai":"日月爪印","zh_human":"","zh":"日月爪印","status":"ai"}
+{"id":"fJX2kVpP","en":"Sculk Totem","zh_draft":"斯库克图腾","zh_ai":"幽匿图腾","zh_human":"","zh":"幽匿图腾","status":"ai"}
+{"id":"rVYHhvNR","en":"Bare Bones x Default Dark Mode","zh_draft":"Bare Bones × 默认深色模式","zh_ai":"极简骨架深色模式","zh_human":"","zh":"极简骨架深色模式","status":"ai"}
+{"id":"x4CX4dJN","en":"zMezo's Punchy","zh_draft":"zMezo的《Punchy》","zh_ai":"zMezo的打击感","zh_human":"","zh":"zMezo的打击感","status":"ai"}
+{"id":"sQ3FtjXp","en":"Total Light✨","zh_draft":"总光量✨","zh_ai":"全光照✨","zh_human":"","zh":"全光照✨","status":"ai"}
+{"id":"anqcrIQM","en":"Cherry Blossom Hearts","zh_draft":"樱花之心","zh_ai":"樱花心形","zh_human":"","zh":"樱花心形","status":"ai"}
+{"id":"UjE2wg24","en":"uzbek tili","zh_draft":"乌兹别克语","zh_ai":"乌兹别克语","zh_human":"","zh":"乌兹别克语","status":"ai"}
+{"id":"OWvT0GEK","en":"Deltarune font","zh_draft":"Deltarune 字体","zh_ai":"三角符文字体","zh_human":"","zh":"三角符文字体","status":"ai"}
+{"id":"hbANNST3","en":"Villager Language - Extension","zh_draft":"村民语言 - 扩展","zh_ai":"村民语言扩展","zh_human":"","zh":"村民语言扩展","status":"ai"}
+{"id":"M3L1TCLO","en":"Holy-Demonic PvP Pack","zh_draft":"圣魔PvP套装","zh_ai":"神圣恶魔PVP包","zh_human":"","zh":"神圣恶魔PVP包","status":"ai"}
+{"id":"GCRCE6Vs","en":"Vpvp","zh_draft":"Vpvp","zh_ai":"Vpvp","zh_human":"","zh":"Vpvp","status":"ai"}
+{"id":"Mu5hF5fZ","en":"White Darkness","zh_draft":"白色黑暗","zh_ai":"白色黑暗","zh_human":"","zh":"白色黑暗","status":"ai"}
+{"id":"bT939gMt","en":"Russian serified font","zh_draft":"俄语衬线体","zh_ai":"俄语衬线字体","zh_human":"","zh":"俄语衬线字体","status":"ai"}
+{"id":"nL1IgKbU","en":"Hytale Font","zh_draft":"Hytale 字体","zh_ai":"海塔莱字体","zh_human":"","zh":"海塔莱字体","status":"ai"}
+{"id":"oXWbKEHS","en":"Torrezx-Better Mace","zh_draft":"Torrezx-更强力的梅斯","zh_ai":"Torrezx更好的战锤","zh_human":"","zh":"Torrezx更好的战锤","status":"ai"}
+{"id":"qTLd4BcN","en":"Yippee Silverfish","zh_draft":"耶！银鱼","zh_ai":"银鱼跃动","zh_human":"","zh":"银鱼跃动","status":"ai"}
+{"id":"eGMrSUkB","en":"Ez Totem","zh_draft":"Ez Totem","zh_ai":"简易图腾","zh_human":"","zh":"简易图腾","status":"ai"}
+{"id":"p9a61Nxd","en":"Simple TexturePack","zh_draft":"简约纹理包","zh_ai":"简约材质包","zh_human":"","zh":"简约材质包","status":"ai"}
