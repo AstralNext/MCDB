@@ -2779,24 +2779,24 @@
 {"id":"ki98LElS","en":"Hao Han SMP","zh_draft":"","zh_ai":"浩瀚生存","zh_human":"","zh":"浩瀚生存","status":"ai"}
 {"id":"mZKybBGK","en":"Vorpack","zh_draft":"","zh_ai":"Vorpack","zh_human":"","zh":"Vorpack","status":"ai"}
 {"id":"jaGvupAe","en":"Kevinium Cloth","zh_draft":"","zh_ai":"Kevinium 布料","zh_human":"","zh":"Kevinium 布料","status":"ai"}
-{"id":"hRNIDkzY","en":"Small Town","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Xj4q7KsK","en":"HUMANITAS","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2vMQLH3h","en":"WebDisplay-Remake","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UD5JjbN6","en":"Create and a bit more","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rcKe8yyS","en":"The İRREGULARS: Season 3","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RZOTxgtY","en":"Placeholder SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"AHkkV1rq","en":"All the ARG","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yihRbooq","en":"Your's Optimized","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"T3oKHBel","en":"Kids Military Games","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rj6ioflZ","en":"Always Updated","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3MThuCeB","en":"Guns, Wyrms, and Steam","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"R1ZGXULf","en":"Wartech","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MlT2rJ5m","en":"CobblerDonks Neo","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"itRevGSz","en":"Coffee's Create: Aeronautics SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Yg54xcoi","en":"Hyperion-PerformancePack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"A71Yeh1y","en":"VanillaFast","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6FSki6ki","en":"jonshu's structure mods!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"aZEvv0tS","en":"OG Optimized","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"h6U22P7b","en":"Create Adventure Time","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wyuHlRo8","en":"Vanilla Multiplayer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"N0P9hDaD","en":"Kevinium Nvidium","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"hRNIDkzY","en":"Small Town","zh_draft":"","zh_ai":"小镇","zh_human":"","zh":"小镇","status":"ai"}
+{"id":"Xj4q7KsK","en":"HUMANITAS","zh_draft":"","zh_ai":"人类","zh_human":"","zh":"人类","status":"ai"}
+{"id":"2vMQLH3h","en":"WebDisplay-Remake","zh_draft":"","zh_ai":"网页显示重制版","zh_human":"","zh":"网页显示重制版","status":"ai"}
+{"id":"UD5JjbN6","en":"Create and a bit more","zh_draft":"","zh_ai":"机械动力与更多","zh_human":"","zh":"机械动力与更多","status":"ai"}
+{"id":"rcKe8yyS","en":"The İRREGULARS: Season 3","zh_draft":"","zh_ai":"不规则者：第三季","zh_human":"","zh":"不规则者：第三季","status":"ai"}
+{"id":"RZOTxgtY","en":"Placeholder SMP","zh_draft":"","zh_ai":"占位符多人生存","zh_human":"","zh":"占位符多人生存","status":"ai"}
+{"id":"AHkkV1rq","en":"All the ARG","zh_draft":"","zh_ai":"全部ARG","zh_human":"","zh":"全部ARG","status":"ai"}
+{"id":"yihRbooq","en":"Your's Optimized","zh_draft":"","zh_ai":"你的优化版","zh_human":"","zh":"你的优化版","status":"ai"}
+{"id":"T3oKHBel","en":"Kids Military Games","zh_draft":"","zh_ai":"儿童军事游戏","zh_human":"","zh":"儿童军事游戏","status":"ai"}
+{"id":"rj6ioflZ","en":"Always Updated","zh_draft":"","zh_ai":"始终更新","zh_human":"","zh":"始终更新","status":"ai"}
+{"id":"3MThuCeB","en":"Guns, Wyrms, and Steam","zh_draft":"","zh_ai":"枪械、巨龙与蒸汽","zh_human":"","zh":"枪械、巨龙与蒸汽","status":"ai"}
+{"id":"R1ZGXULf","en":"Wartech","zh_draft":"","zh_ai":"战争科技","zh_human":"","zh":"战争科技","status":"ai"}
+{"id":"MlT2rJ5m","en":"CobblerDonks Neo","zh_draft":"","zh_ai":"CobblerDonks Neo","zh_human":"","zh":"CobblerDonks Neo","status":"ai"}
+{"id":"itRevGSz","en":"Coffee's Create: Aeronautics SMP","zh_draft":"","zh_ai":"咖啡的机械动力：航空多人生存","zh_human":"","zh":"咖啡的机械动力：航空多人生存","status":"ai"}
+{"id":"Yg54xcoi","en":"Hyperion-PerformancePack","zh_draft":"","zh_ai":"Hyperion性能包","zh_human":"","zh":"Hyperion性能包","status":"ai"}
+{"id":"A71Yeh1y","en":"VanillaFast","zh_draft":"","zh_ai":"原版快速","zh_human":"","zh":"原版快速","status":"ai"}
+{"id":"6FSki6ki","en":"jonshu's structure mods!","zh_draft":"","zh_ai":"jonshu的结构模组","zh_human":"","zh":"jonshu的结构模组","status":"ai"}
+{"id":"aZEvv0tS","en":"OG Optimized","zh_draft":"","zh_ai":"经典优化","zh_human":"","zh":"经典优化","status":"ai"}
+{"id":"h6U22P7b","en":"Create Adventure Time","zh_draft":"","zh_ai":"机械动力冒险时光","zh_human":"","zh":"机械动力冒险时光","status":"ai"}
+{"id":"wyuHlRo8","en":"Vanilla Multiplayer","zh_draft":"","zh_ai":"原版多人","zh_human":"","zh":"原版多人","status":"ai"}
+{"id":"N0P9hDaD","en":"Kevinium Nvidium","zh_draft":"","zh_ai":"Kevinium Nvidium","zh_human":"","zh":"Kevinium Nvidium","status":"ai"}
