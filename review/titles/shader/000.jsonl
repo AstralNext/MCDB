@@ -223,326 +223,326 @@
 {"id":"ueSyHBpg","en":"Pumpkin","zh_draft":"南瓜","zh_ai":"南瓜","zh_human":"","zh":"南瓜","status":"ai"}
 {"id":"2PnKv7fI","en":"Aeon","zh_draft":"永恒","zh_ai":"永恒","zh_human":"","zh":"永恒","status":"ai"}
 {"id":"XcwivM4z","en":"Phial","zh_draft":"小瓶","zh_ai":"小瓶","zh_human":"","zh":"小瓶","status":"ai"}
-{"id":"dPBtZ5Ry","en":"Water Shader Alpha","zh_draft":"水着色器 Alpha","zh_ai":"","zh_human":"","zh":"水着色器 Alpha","status":"pending"}
-{"id":"NPKlYU6I","en":"Krpmon Lite","zh_draft":"Krpmon Lite","zh_ai":"","zh_human":"","zh":"Krpmon Lite","status":"pending"}
-{"id":"KiDl1F9o","en":"Rose's New Shades","zh_draft":"罗斯的新色号","zh_ai":"","zh_human":"","zh":"罗斯的新色号","status":"pending"}
-{"id":"fkGPS2gb","en":"Wispy Shader","zh_draft":"Wispy 着色器","zh_ai":"","zh_human":"","zh":"Wispy 着色器","status":"pending"}
-{"id":"zrVlkYvk","en":"Screen Mirror Shader","zh_draft":"屏幕镜像着色器","zh_ai":"","zh_human":"","zh":"屏幕镜像着色器","status":"pending"}
-{"id":"sdBzRG7h","en":"TAA-Distant Horizons port","zh_draft":"TAA-Distant Horizons 端口","zh_ai":"","zh_human":"","zh":"TAA-Distant Horizons 端口","status":"pending"}
-{"id":"wwfPGOds","en":"Kefir's Flashlight","zh_draft":"凯菲尔的手电筒","zh_ai":"","zh_human":"","zh":"凯菲尔的手电筒","status":"pending"}
-{"id":"8zBs9Cbz","en":"Mist Shaders","zh_draft":"雾效果着色器","zh_ai":"","zh_human":"","zh":"雾效果着色器","status":"pending"}
-{"id":"vWdu7BRL","en":"Chippa256 shader","zh_draft":"Chippa256 着色器","zh_ai":"","zh_human":"","zh":"Chippa256 着色器","status":"pending"}
-{"id":"fw4J9UkQ","en":"Dynamic Light Shader","zh_draft":"动态光照着色器","zh_ai":"","zh_human":"","zh":"动态光照着色器","status":"pending"}
-{"id":"STXlqnTM","en":"Mathematically Unplayable","zh_draft":"从数学角度来看无法进行","zh_ai":"","zh_human":"","zh":"从数学角度来看无法进行","status":"pending"}
-{"id":"oZF2GiVu","en":"Color Splash Shaders","zh_draft":"色彩飞溅着色器","zh_ai":"","zh_human":"","zh":"色彩飞溅着色器","status":"pending"}
-{"id":"BUz1aSAh","en":"NightBloom","zh_draft":"夜之花","zh_ai":"","zh_human":"","zh":"夜之花","status":"pending"}
-{"id":"ch1yZBko","en":"Steadfast","zh_draft":"坚定不移","zh_ai":"","zh_human":"","zh":"坚定不移","status":"pending"}
-{"id":"8FCAAlLy","en":"Haste","zh_draft":"急速","zh_ai":"","zh_human":"","zh":"急速","status":"pending"}
-{"id":"k6owQqbu","en":"Legacy Console Edition Shaders","zh_draft":"经典主机版着色器","zh_ai":"","zh_human":"","zh":"经典主机版着色器","status":"pending"}
-{"id":"Rosc1kAc","en":"Lumeau","zh_draft":"卢莫","zh_ai":"","zh_human":"","zh":"卢莫","status":"pending"}
-{"id":"Uzkg6HgX","en":"Nova Reimagined","zh_draft":"《Nova》新诠释","zh_ai":"","zh_human":"","zh":"《Nova》新诠释","status":"pending"}
-{"id":"4ETindzX","en":"Breeze Flow Shaders","zh_draft":"Breeze Flow 着色器","zh_ai":"","zh_human":"","zh":"Breeze Flow 着色器","status":"pending"}
-{"id":"lOvsuZF0","en":"silly shaders","zh_draft":"傻乎乎的着色器","zh_ai":"","zh_human":"","zh":"傻乎乎的着色器","status":"pending"}
-{"id":"in4K1Xj9","en":"Lux V1: BrickCraft Edition","zh_draft":"Lux V1：BrickCraft 版","zh_ai":"","zh_human":"","zh":"Lux V1：BrickCraft 版","status":"pending"}
-{"id":"RS0cg7Op","en":"Aerie Shaders","zh_draft":"Aerie 着色器","zh_ai":"","zh_human":"","zh":"Aerie 着色器","status":"pending"}
-{"id":"wz6Mcdq6","en":"Dithering3D","zh_draft":"Dithering3D","zh_ai":"","zh_human":"","zh":"Dithering3D","status":"pending"}
-{"id":"HFpynP04","en":"CoffeeShaders","zh_draft":"CoffeeShaders","zh_ai":"","zh_human":"","zh":"CoffeeShaders","status":"pending"}
-{"id":"BuUSGd4X","en":"Loé's Night Vision","zh_draft":"洛埃的夜视","zh_ai":"","zh_human":"","zh":"洛埃的夜视","status":"pending"}
-{"id":"408flTHR","en":"Ditherpunk","zh_draft":"Ditherpunk","zh_ai":"","zh_human":"","zh":"Ditherpunk","status":"pending"}
-{"id":"C8Sy7Xye","en":"🖌️PaintBound","zh_draft":"🖌️PaintBound","zh_ai":"","zh_human":"","zh":"🖌️PaintBound","status":"pending"}
-{"id":"FyekMbZu","en":"Grey Wobbly World","zh_draft":"灰色的摇摇晃晃的世界","zh_ai":"","zh_human":"","zh":"灰色的摇摇晃晃的世界","status":"pending"}
-{"id":"nIIpn55X","en":"Dither","zh_draft":"抖动","zh_ai":"","zh_human":"","zh":"抖动","status":"pending"}
-{"id":"Ub8oXxM5","en":"missing textures","zh_draft":"缺失的纹理","zh_ai":"","zh_human":"","zh":"缺失的纹理","status":"pending"}
-{"id":"nQxAiEqd","en":"Found Footage","zh_draft":"“发现的影像”","zh_ai":"","zh_human":"","zh":"“发现的影像”","status":"pending"}
-{"id":"mzJo5Nx3","en":"Oak Shaders","zh_draft":"橡木着色器","zh_ai":"","zh_human":"","zh":"橡木着色器","status":"pending"}
-{"id":"KBmTU8ja","en":"CRT Monochrome Shaderpack","zh_draft":"CRT 单色着色器包","zh_ai":"","zh_human":"","zh":"CRT 单色着色器包","status":"pending"}
-{"id":"r80tWUPL","en":"Neon Skylines Shader","zh_draft":"霓虹天际线着色器","zh_ai":"","zh_human":"","zh":"霓虹天际线着色器","status":"pending"}
-{"id":"ZeqDZZRS","en":"minecraft CRT","zh_draft":"《我的世界》CRT","zh_ai":"","zh_human":"","zh":"《我的世界》CRT","status":"pending"}
-{"id":"SLX3kDJq","en":"Lightmap Fixer","zh_draft":"光照贴图修复器","zh_ai":"","zh_human":"","zh":"光照贴图修复器","status":"pending"}
-{"id":"BAmyLKqy","en":"Dusk","zh_draft":"黄昏","zh_ai":"","zh_human":"","zh":"黄昏","status":"pending"}
-{"id":"KiFpblnH","en":"Dithered Shader","zh_draft":"抖动着色器","zh_ai":"","zh_human":"","zh":"抖动着色器","status":"pending"}
-{"id":"ZsT2QmUU","en":"MakeUp - Breezy","zh_draft":"彩妆 - 清风","zh_ai":"","zh_human":"","zh":"彩妆 - 清风","status":"pending"}
-{"id":"WI2oOxsx","en":"Better End Portal Shader","zh_draft":"更优的端点门户着色器","zh_ai":"","zh_human":"","zh":"更优的端点门户着色器","status":"pending"}
-{"id":"kRybDuJT","en":"Negative Colors","zh_draft":"负色","zh_ai":"","zh_human":"","zh":"负色","status":"pending"}
-{"id":"bdrFWuuh","en":"Simple Shader One","zh_draft":"简单着色器一","zh_ai":"","zh_human":"","zh":"简单着色器一","status":"pending"}
-{"id":"MY37GebJ","en":"Black & White","zh_draft":"黑白","zh_ai":"","zh_human":"","zh":"黑白","status":"pending"}
-{"id":"okSXLiG4","en":"RITEG-VHS","zh_draft":"RITEG-VHS","zh_ai":"","zh_human":"","zh":"RITEG-VHS","status":"pending"}
-{"id":"3z5iC0bj","en":"Tilde","zh_draft":"波浪号","zh_ai":"","zh_human":"","zh":"波浪号","status":"pending"}
-{"id":"fn1Eae1N","en":"Wisp Shaders","zh_draft":"Wisp 着色器","zh_ai":"","zh_human":"","zh":"Wisp 着色器","status":"pending"}
-{"id":"ERzpKqiQ","en":"UltraVanilla+","zh_draft":"UltraVanilla+","zh_ai":"","zh_human":"","zh":"UltraVanilla+","status":"pending"}
-{"id":"55ENkzUx","en":"Round World","zh_draft":"环游世界","zh_ai":"","zh_human":"","zh":"环游世界","status":"pending"}
-{"id":"cAxNke99","en":"Fisheye Shaders","zh_draft":"鱼眼镜头着色器","zh_ai":"","zh_human":"","zh":"鱼眼镜头着色器","status":"pending"}
-{"id":"ccttKkIm","en":"HyShaders - Vanilla Edition","zh_draft":"HyShaders - 原版","zh_ai":"","zh_human":"","zh":"HyShaders - 原版","status":"pending"}
-{"id":"KbqQa0aB","en":"InvertColors-Shader","zh_draft":"InvertColors-着色器","zh_ai":"","zh_human":"","zh":"InvertColors-着色器","status":"pending"}
-{"id":"k8XPkDEi","en":"VHS Shader","zh_draft":"VHS 着色器","zh_ai":"","zh_human":"","zh":"VHS 着色器","status":"pending"}
-{"id":"EpUUYS1f","en":"Fullbright+ Shaders","zh_draft":"Fullbright+ 着色器","zh_ai":"","zh_human":"","zh":"Fullbright+ 着色器","status":"pending"}
-{"id":"JJENX1BH","en":"Atmospheric Shaders - NEW LOGO","zh_draft":"氛围着色器 - 新标志","zh_ai":"","zh_human":"","zh":"氛围着色器 - 新标志","status":"pending"}
-{"id":"4VA1WCa7","en":"LBD Shaders","zh_draft":"LBD 着色器","zh_ai":"","zh_human":"","zh":"LBD 着色器","status":"pending"}
-{"id":"JX18zgB7","en":"Valentine Shader","zh_draft":"Valentine 着色器","zh_ai":"","zh_human":"","zh":"Valentine 着色器","status":"pending"}
-{"id":"qMyruXtk","en":"Event Horizon","zh_draft":"《事件视界》","zh_ai":"","zh_human":"","zh":"《事件视界》","status":"pending"}
-{"id":"u2TfdM5B","en":"Vividness","zh_draft":"鲜活度","zh_ai":"","zh_human":"","zh":"鲜活度","status":"pending"}
-{"id":"buyR2SoV","en":"Gray&Black Shader","zh_draft":"灰黑渐变色","zh_ai":"","zh_human":"","zh":"灰黑渐变色","status":"pending"}
-{"id":"uYBHIcV9","en":"Image Shader","zh_draft":"图像着色器","zh_ai":"","zh_human":"","zh":"图像着色器","status":"pending"}
-{"id":"VTcl1Wzb","en":"shAIder","zh_draft":"shAIder","zh_ai":"","zh_human":"","zh":"shAIder","status":"pending"}
-{"id":"8X1QYHMa","en":"vfx-simple","zh_draft":"vfx-simple","zh_ai":"","zh_human":"","zh":"vfx-simple","status":"pending"}
-{"id":"OB25CM3Z","en":"Visual Shaders","zh_draft":"视觉着色器","zh_ai":"","zh_human":"","zh":"视觉着色器","status":"pending"}
-{"id":"Qan66rZO","en":"Retrofy","zh_draft":"Retrofy","zh_ai":"","zh_human":"","zh":"Retrofy","status":"pending"}
-{"id":"r6gSVPWY","en":"only shadows","zh_draft":"只有影子","zh_ai":"","zh_human":"","zh":"只有影子","status":"pending"}
-{"id":"z0NF17Hp","en":"AuraLite Shaders","zh_draft":"AuraLite 着色器","zh_ai":"","zh_human":"","zh":"AuraLite 着色器","status":"pending"}
-{"id":"WD4lLjK2","en":"Luxora Shaders","zh_draft":"Luxora 着色器","zh_ai":"","zh_human":"","zh":"Luxora 着色器","status":"pending"}
-{"id":"5pOVLwOB","en":"Shader_vanilla","zh_draft":"Shader_vanilla","zh_ai":"","zh_human":"","zh":"Shader_vanilla","status":"pending"}
-{"id":"THdWNh20","en":"Paranoia Shader","zh_draft":"“偏执”着色器","zh_ai":"","zh_human":"","zh":"“偏执”着色器","status":"pending"}
-{"id":"Jrz1tFDi","en":"Mini Shaders","zh_draft":"迷你着色器","zh_ai":"","zh_human":"","zh":"迷你着色器","status":"pending"}
-{"id":"EjgAf5f3","en":"AstralCore v2","zh_draft":"AstralCore v2","zh_ai":"","zh_human":"","zh":"AstralCore v2","status":"pending"}
-{"id":"j8vzmojd","en":"Terder's Potato Shader","zh_draft":"Terder 的土豆着色器","zh_ai":"","zh_human":"","zh":"Terder 的土豆着色器","status":"pending"}
-{"id":"HWoNhM9S","en":"VerdantLight Pro","zh_draft":"VerdantLight Pro","zh_ai":"","zh_human":"","zh":"VerdantLight Pro","status":"pending"}
-{"id":"cOY8vlyQ","en":"Simple Shadows","zh_draft":"简单的阴影","zh_ai":"","zh_human":"","zh":"简单的阴影","status":"pending"}
-{"id":"pFfnJU82","en":"Nostalgic Crisp","zh_draft":"怀旧脆片","zh_ai":"","zh_human":"","zh":"怀旧脆片","status":"pending"}
-{"id":"Qxdz7rmW","en":"Spirity Motion Blur","zh_draft":"灵动运动模糊","zh_ai":"","zh_human":"","zh":"灵动运动模糊","status":"pending"}
-{"id":"TUoQmbZR","en":"Better Voxels","zh_draft":"更优质的体素","zh_ai":"","zh_human":"","zh":"更优质的体素","status":"pending"}
-{"id":"Rm89Kgei","en":"Pagoda Shaders","zh_draft":"Pagoda 着色器","zh_ai":"","zh_human":"","zh":"Pagoda 着色器","status":"pending"}
-{"id":"ZPlXpCUX","en":"Am I Drunk?","zh_draft":"我喝醉了吗？","zh_ai":"","zh_human":"","zh":"我喝醉了吗？","status":"pending"}
-{"id":"6CdvxWhV","en":"Earth Shaders","zh_draft":"地球着色器","zh_ai":"","zh_human":"","zh":"地球着色器","status":"pending"}
-{"id":"dw4XHa8r","en":"LSD Sshader","zh_draft":"LSD Sshader","zh_ai":"","zh_human":"","zh":"LSD Sshader","status":"pending"}
-{"id":"jgYsD3FV","en":"Unbound Visual +","zh_draft":"Unbound Visual +","zh_ai":"","zh_human":"","zh":"Unbound Visual +","status":"pending"}
-{"id":"68C3Q6ro","en":"Fullsight","zh_draft":"Fullsight","zh_ai":"","zh_human":"","zh":"Fullsight","status":"pending"}
-{"id":"SCQuqnvO","en":"AxolotlShaders","zh_draft":"AxolotlShaders","zh_ai":"","zh_human":"","zh":"AxolotlShaders","status":"pending"}
-{"id":"xckXt4M4","en":"Eclipse Lite Cinematic","zh_draft":"Eclipse Lite 电影风格","zh_ai":"","zh_human":"","zh":"Eclipse Lite 电影风格","status":"pending"}
-{"id":"Sg7URyDE","en":"Base-Shader","zh_draft":"基础着色器","zh_ai":"","zh_human":"","zh":"基础着色器","status":"pending"}
-{"id":"kj9VuxTY","en":"Serendipity","zh_draft":"偶然的发现","zh_ai":"","zh_human":"","zh":"偶然的发现","status":"pending"}
-{"id":"cKZlPuDG","en":"Zenith's LUT Shader","zh_draft":"Zenith 的 LUT 着色器","zh_ai":"","zh_human":"","zh":"Zenith 的 LUT 着色器","status":"pending"}
-{"id":"FQST0Z8M","en":"Glint","zh_draft":"Glint","zh_ai":"","zh_human":"","zh":"Glint","status":"pending"}
-{"id":"wFfhUbYQ","en":"Black And White Shaders","zh_draft":"黑白着色器","zh_ai":"","zh_human":"","zh":"黑白着色器","status":"pending"}
-{"id":"HXicJkMZ","en":"the Next Shader","zh_draft":"下一个着色器","zh_ai":"","zh_human":"","zh":"下一个着色器","status":"pending"}
-{"id":"iQ7o7wlG","en":"NOIR","zh_draft":"NOIR","zh_ai":"","zh_human":"","zh":"NOIR","status":"pending"}
-{"id":"o86c4okd","en":"Lumora Shader","zh_draft":"Lumora 着色器","zh_ai":"","zh_human":"","zh":"Lumora 着色器","status":"pending"}
-{"id":"ovetUegn","en":"VerdantLight Lite","zh_draft":"VerdantLight Lite","zh_ai":"","zh_human":"","zh":"VerdantLight Lite","status":"pending"}
-{"id":"Jqn55RVZ","en":"3D Displacement Test Shader","zh_draft":"3D 位移测试着色器","zh_ai":"","zh_human":"","zh":"3D 位移测试着色器","status":"pending"}
-{"id":"pSjKIOBw","en":"Baseline Shader","zh_draft":"基线着色器","zh_ai":"","zh_human":"","zh":"基线着色器","status":"pending"}
-{"id":"O5m5hPLR","en":"B3-PvP","zh_draft":"B3-PvP","zh_ai":"","zh_human":"","zh":"B3-PvP","status":"pending"}
-{"id":"xulmd28Q","en":"FancyWind and Waves","zh_draft":"《奇幻风与浪》","zh_ai":"","zh_human":"","zh":"《奇幻风与浪》","status":"pending"}
-{"id":"1S4HCfve","en":"Haze Shader","zh_draft":"雾效着色器","zh_ai":"","zh_human":"","zh":"雾效着色器","status":"pending"}
-{"id":"8jikfk78","en":"Fantasy.VT","zh_draft":"Fantasy.VT","zh_ai":"","zh_human":"","zh":"Fantasy.VT","status":"pending"}
-{"id":"XK75twAh","en":"Thunder's Motion Blur","zh_draft":"雷霆的运动模糊","zh_ai":"","zh_human":"","zh":"雷霆的运动模糊","status":"pending"}
-{"id":"3eA74PuK","en":"Ultimate Nausea","zh_draft":"极度恶心","zh_ai":"","zh_human":"","zh":"极度恶心","status":"pending"}
-{"id":"85I8M36s","en":"Bad WiFi","zh_draft":"WiFi信号差","zh_ai":"","zh_human":"","zh":"WiFi信号差","status":"pending"}
-{"id":"ezzUqPd4","en":"Jooonah's Grove","zh_draft":"朱娜的林间小径","zh_ai":"","zh_human":"","zh":"朱娜的林间小径","status":"pending"}
-{"id":"MTiuNKqA","en":"Cartoonikal","zh_draft":"卡通尼卡尔","zh_ai":"","zh_human":"","zh":"卡通尼卡尔","status":"pending"}
-{"id":"RSk8bNcs","en":"HighFrames+","zh_draft":"HighFrames+","zh_ai":"","zh_human":"","zh":"HighFrames+","status":"pending"}
-{"id":"RO6afEst","en":"Focal shader","zh_draft":"焦点着色器","zh_ai":"","zh_human":"","zh":"焦点着色器","status":"pending"}
-{"id":"qCur2p1Q","en":"Principal","zh_draft":"校长","zh_ai":"","zh_human":"","zh":"校长","status":"pending"}
-{"id":"33Flu4rX","en":"EchoShift","zh_draft":"EchoShift","zh_ai":"","zh_human":"","zh":"EchoShift","status":"pending"}
-{"id":"lByWZ69q","en":"LiDAR Visualizer","zh_draft":"激光雷达可视化工具","zh_ai":"","zh_human":"","zh":"激光雷达可视化工具","status":"pending"}
-{"id":"AcfhEPbv","en":"MotionFlow","zh_draft":"MotionFlow","zh_ai":"","zh_human":"","zh":"MotionFlow","status":"pending"}
-{"id":"7VtTR53y","en":"aesyin's shaders","zh_draft":"aesyin 的着色器","zh_ai":"","zh_human":"","zh":"aesyin 的着色器","status":"pending"}
-{"id":"jk8z9NE0","en":"Javier's improved fog","zh_draft":"哈维尔改进的雾效","zh_ai":"","zh_human":"","zh":"哈维尔改进的雾效","status":"pending"}
-{"id":"MzbiKkaI","en":"FlowestShaders","zh_draft":"FlowestShaders","zh_ai":"","zh_human":"","zh":"FlowestShaders","status":"pending"}
-{"id":"ecEGgWOY","en":"Adaptive Outline","zh_draft":"自适应大纲","zh_ai":"","zh_human":"","zh":"自适应大纲","status":"pending"}
-{"id":"5s4tVLty","en":"RealisticallyOptimized","zh_draft":"基于现实的优化","zh_ai":"","zh_human":"","zh":"基于现实的优化","status":"pending"}
-{"id":"vWdKXjPs","en":"After Hours","zh_draft":"下班后","zh_ai":"","zh_human":"","zh":"下班后","status":"pending"}
-{"id":"VUMmIDj7","en":"Contour Shaders","zh_draft":"轮廓着色器","zh_ai":"","zh_human":"","zh":"轮廓着色器","status":"pending"}
-{"id":"qpA3SxtS","en":"Velocity","zh_draft":"速度","zh_ai":"","zh_human":"","zh":"速度","status":"pending"}
-{"id":"gcMD40uk","en":"Kyoko Shader's","zh_draft":"Kyoko Shader 的","zh_ai":"","zh_human":"","zh":"Kyoko Shader 的","status":"pending"}
-{"id":"wQhetBka","en":"Cinematic Vanilla","zh_draft":"电影风香草","zh_ai":"","zh_human":"","zh":"电影风香草","status":"pending"}
-{"id":"o8xggQ8S","en":"retroview","zh_draft":"回顾","zh_ai":"","zh_human":"","zh":"回顾","status":"pending"}
-{"id":"pcMKaDsV","en":"ApexShader","zh_draft":"ApexShader","zh_ai":"","zh_human":"","zh":"ApexShader","status":"pending"}
-{"id":"81Z21bW3","en":"Slight","zh_draft":"轻微的","zh_ai":"","zh_human":"","zh":"轻微的","status":"pending"}
-{"id":"X5nQ5C2A","en":"Mode 13h: MS-DOSify!","zh_draft":"模式 13h：MS-DOS 化！","zh_ai":"","zh_human":"","zh":"模式 13h：MS-DOS 化！","status":"pending"}
-{"id":"XPXWFkqK","en":"Nigthly Fix","zh_draft":"夜间修复","zh_ai":"","zh_human":"","zh":"夜间修复","status":"pending"}
-{"id":"O66zvx0c","en":"Recastional","zh_draft":"Recastional","zh_ai":"","zh_human":"","zh":"Recastional","status":"pending"}
-{"id":"TGOrCOTp","en":"TAA69","zh_draft":"TAA69","zh_ai":"","zh_human":"","zh":"TAA69","status":"pending"}
-{"id":"3JNGTF4t","en":"AquaVision-Dynamic Transparent Water","zh_draft":"AquaVision——动态透明水","zh_ai":"","zh_human":"","zh":"AquaVision——动态透明水","status":"pending"}
-{"id":"BGTvlEqB","en":"Lunacy Shaders","zh_draft":"Lunacy 着色器","zh_ai":"","zh_human":"","zh":"Lunacy 着色器","status":"pending"}
-{"id":"osD74aom","en":"Wavy World","zh_draft":"波浪世界","zh_ai":"","zh_human":"","zh":"波浪世界","status":"pending"}
-{"id":"Il6bho6B","en":"Nova's Vibrant Lite Shaders","zh_draft":"Nova 的 Vibrant Lite 着色器","zh_ai":"","zh_human":"","zh":"Nova 的 Vibrant Lite 着色器","status":"pending"}
-{"id":"q3jQXjo4","en":"bit glyphs","zh_draft":"位字符","zh_ai":"","zh_human":"","zh":"位字符","status":"pending"}
-{"id":"u6zQM13D","en":"PH_lite_shader","zh_draft":"PH_lite_shader","zh_ai":"","zh_human":"","zh":"PH_lite_shader","status":"pending"}
-{"id":"LHVsUxbi","en":"True Black & White Shader (Grayscale)","zh_draft":"真正的黑白着色器（灰度）","zh_ai":"","zh_human":"","zh":"真正的黑白着色器（灰度）","status":"pending"}
-{"id":"Ncerk8am","en":"Resident Craft","zh_draft":"居民手工艺","zh_ai":"","zh_human":"","zh":"居民手工艺","status":"pending"}
-{"id":"WuoFW8TM","en":"Globed","zh_draft":"Globed","zh_ai":"","zh_human":"","zh":"Globed","status":"pending"}
-{"id":"JZnbMbTm","en":"Bloom","zh_draft":"布鲁姆","zh_ai":"","zh_human":"","zh":"布鲁姆","status":"pending"}
-{"id":"8v0hMClR","en":"Nuar","zh_draft":"努阿尔","zh_ai":"","zh_human":"","zh":"努阿尔","status":"pending"}
-{"id":"3bRj5RLF","en":"Drift POV","zh_draft":"漂移视角","zh_ai":"","zh_human":"","zh":"漂移视角","status":"pending"}
-{"id":"cfhJEfJM","en":"ONWARD Shader","zh_draft":"ONWARD 着色器","zh_ai":"","zh_human":"","zh":"ONWARD 着色器","status":"pending"}
-{"id":"FVRDZN4u","en":"Aerosol","zh_draft":"气溶胶","zh_ai":"","zh_human":"","zh":"气溶胶","status":"pending"}
-{"id":"hdiE9YEl","en":"Pixelated Shaders","zh_draft":"像素着色器","zh_ai":"","zh_human":"","zh":"像素着色器","status":"pending"}
-{"id":"E6Jwe4Tp","en":"Retro Pixel Shader – NES Style","zh_draft":"复古像素着色器——NES风格","zh_ai":"","zh_human":"","zh":"复古像素着色器——NES风格","status":"pending"}
-{"id":"fsDxQcSJ","en":"Gradius VibrantShader","zh_draft":"Gradius VibrantShader","zh_ai":"","zh_human":"","zh":"Gradius VibrantShader","status":"pending"}
-{"id":"RI6Zer4m","en":"I Am Not Okay","zh_draft":"我不好","zh_ai":"","zh_human":"","zh":"我不好","status":"pending"}
-{"id":"3LJh38ZH","en":"Dark Fantasy Shader","zh_draft":"黑暗奇幻着色器","zh_ai":"","zh_human":"","zh":"黑暗奇幻着色器","status":"pending"}
-{"id":"rBkf9R3g","en":"DOShader","zh_draft":"DOShader","zh_ai":"","zh_human":"","zh":"DOShader","status":"pending"}
-{"id":"wF0EKl3w","en":"Retrowave Shader","zh_draft":"Retrowave 着色器","zh_ai":"","zh_human":"","zh":"Retrowave 着色器","status":"pending"}
-{"id":"EJfV67NC","en":"No Hand Shaders","zh_draft":"无手着色器","zh_ai":"","zh_human":"","zh":"无手着色器","status":"pending"}
-{"id":"8d8lkScD","en":"Full Invert Shader","zh_draft":"全反转着色器","zh_ai":"","zh_human":"","zh":"全反转着色器","status":"pending"}
-{"id":"cdZAl3l6","en":"Phero Visuals","zh_draft":"Phero Visuals","zh_ai":"","zh_human":"","zh":"Phero Visuals","status":"pending"}
-{"id":"F9FNb1av","en":"Rose World Shader","zh_draft":"玫瑰世界着色器","zh_ai":"","zh_human":"","zh":"玫瑰世界着色器","status":"pending"}
-{"id":"d6TfTZPu","en":"World Outline","zh_draft":"世界概况","zh_ai":"","zh_human":"","zh":"世界概况","status":"pending"}
-{"id":"Zi60D5U5","en":"Tachyon Shaders","zh_draft":"Tachyon 着色器","zh_ai":"","zh_human":"","zh":"Tachyon 着色器","status":"pending"}
-{"id":"mIcyuS5O","en":"Aberration","zh_draft":"像差","zh_ai":"","zh_human":"","zh":"像差","status":"pending"}
-{"id":"S4TPh39p","en":"SSRE Shader","zh_draft":"SSRE 着色器","zh_ai":"","zh_human":"","zh":"SSRE 着色器","status":"pending"}
-{"id":"Lyan9gn0","en":"LiteMc","zh_draft":"LiteMc","zh_ai":"","zh_human":"","zh":"LiteMc","status":"pending"}
-{"id":"aTLNnxX3","en":"HighFrames","zh_draft":"HighFrames","zh_ai":"","zh_human":"","zh":"HighFrames","status":"pending"}
-{"id":"efRqNWHp","en":"Simple Grayscale","zh_draft":"简单的灰度","zh_ai":"","zh_human":"","zh":"简单的灰度","status":"pending"}
-{"id":"A1wQqzrz","en":"ExShade","zh_draft":"ExShade","zh_ai":"","zh_human":"","zh":"ExShade","status":"pending"}
-{"id":"f1VMVPC1","en":"CRT-Monitor Shader","zh_draft":"CRT显示器着色器","zh_ai":"","zh_human":"","zh":"CRT显示器着色器","status":"pending"}
-{"id":"bn9xKwMe","en":"drunk-n-high","zh_draft":"醉醺醺又飘飘然","zh_ai":"","zh_human":"","zh":"醉醺醺又飘飘然","status":"pending"}
-{"id":"zoe0DSv0","en":"Datamosh","zh_draft":"Datamosh","zh_ai":"","zh_human":"","zh":"Datamosh","status":"pending"}
-{"id":"Cvgers35","en":"Colorblind Swap","zh_draft":"色盲交换","zh_ai":"","zh_human":"","zh":"色盲交换","status":"pending"}
-{"id":"g7X5NlWm","en":"Static Shader","zh_draft":"静态着色器","zh_ai":"","zh_human":"","zh":"静态着色器","status":"pending"}
-{"id":"WLkdXnId","en":"Color Cone","zh_draft":"色锥","zh_ai":"","zh_human":"","zh":"色锥","status":"pending"}
-{"id":"5taDo0oi","en":"ink-wash-shaderpack","zh_draft":"水墨着色器包","zh_ai":"","zh_human":"","zh":"水墨着色器包","status":"pending"}
-{"id":"6iApq3jH","en":"Debug View","zh_draft":"调试视图","zh_ai":"","zh_human":"","zh":"调试视图","status":"pending"}
-{"id":"tYBPpMLT","en":"JustVanilla","zh_draft":"JustVanilla","zh_ai":"","zh_human":"","zh":"JustVanilla","status":"pending"}
-{"id":"zxdgn1L8","en":"FeathC2","zh_draft":"FeathC2","zh_ai":"","zh_human":"","zh":"FeathC2","status":"pending"}
-{"id":"GOgeTOaC","en":"AxoShaders","zh_draft":"AxoShaders","zh_ai":"","zh_human":"","zh":"AxoShaders","status":"pending"}
-{"id":"6izFt5nL","en":"GlamorousSP Shaders","zh_draft":"GlamorousSP 着色器","zh_ai":"","zh_human":"","zh":"GlamorousSP 着色器","status":"pending"}
-{"id":"bLPsBvZw","en":"Upside Down Shader","zh_draft":"倒置着色器","zh_ai":"","zh_human":"","zh":"倒置着色器","status":"pending"}
-{"id":"1UhWoJiz","en":"Ranold's Better Breaking","zh_draft":"拉诺尔德的《更佳刹车技巧》","zh_ai":"","zh_human":"","zh":"拉诺尔德的《更佳刹车技巧》","status":"pending"}
-{"id":"2BCViFO0","en":"Cripe","zh_draft":"天哪","zh_ai":"","zh_human":"","zh":"天哪","status":"pending"}
-{"id":"uUbHpMiv","en":"EcoShift Lite","zh_draft":"EcoShift Lite","zh_ai":"","zh_human":"","zh":"EcoShift Lite","status":"pending"}
-{"id":"evhfSQzX","en":"EntityMask shader","zh_draft":"EntityMask 着色器","zh_ai":"","zh_human":"","zh":"EntityMask 着色器","status":"pending"}
-{"id":"k6ksw54I","en":"Real Night Vision Shader","zh_draft":"真正的夜视着色器","zh_ai":"","zh_human":"","zh":"真正的夜视着色器","status":"pending"}
-{"id":"5mmDuueM","en":"Ghibli Shaders","zh_draft":"吉卜力着色器","zh_ai":"","zh_human":"","zh":"吉卜力着色器","status":"pending"}
-{"id":"lcVBKCo1","en":"ESSENTIALS Shader","zh_draft":"ESSENTIALS 着色器","zh_ai":"","zh_human":"","zh":"ESSENTIALS 着色器","status":"pending"}
-{"id":"WjcI9P1w","en":"Cosinus Shader","zh_draft":"余弦着色器","zh_ai":"","zh_human":"","zh":"余弦着色器","status":"pending"}
-{"id":"EY0irg87","en":"Spirit Shader","zh_draft":"灵体着色器","zh_ai":"","zh_human":"","zh":"灵体着色器","status":"pending"}
-{"id":"6FPiJZxx","en":"360W","zh_draft":"360W","zh_ai":"","zh_human":"","zh":"360W","status":"pending"}
-{"id":"ACsC5xz2","en":"Panini Projection","zh_draft":"帕尼尼投影法","zh_ai":"","zh_human":"","zh":"帕尼尼投影法","status":"pending"}
-{"id":"I86gQZVu","en":"Lumavane Shaders","zh_draft":"Lumavane 着色器","zh_ai":"","zh_human":"","zh":"Lumavane 着色器","status":"pending"}
-{"id":"xCED6hZe","en":"Disco Shaders","zh_draft":"迪斯科着色器","zh_ai":"","zh_human":"","zh":"迪斯科着色器","status":"pending"}
-{"id":"6edtW5qi","en":"BitNixelet","zh_draft":"BitNixelet","zh_ai":"","zh_human":"","zh":"BitNixelet","status":"pending"}
-{"id":"LVUlY6Vc","en":"Despatra's CRT","zh_draft":"德斯帕特拉的CRT","zh_ai":"","zh_human":"","zh":"德斯帕特拉的CRT","status":"pending"}
-{"id":"NnRy8IFu","en":"Tri Valor realistic shader","zh_draft":"Tri Valor 真实感着色器","zh_ai":"","zh_human":"","zh":"Tri Valor 真实感着色器","status":"pending"}
-{"id":"xAWqMDMo","en":"HyperShader","zh_draft":"HyperShader","zh_ai":"","zh_human":"","zh":"HyperShader","status":"pending"}
-{"id":"2P0AV9FE","en":"Liminal Shader","zh_draft":"Liminal Shader","zh_ai":"","zh_human":"","zh":"Liminal Shader","status":"pending"}
-{"id":"9WnqmtbE","en":"Realistic Dark","zh_draft":"写实的黑暗","zh_ai":"","zh_human":"","zh":"写实的黑暗","status":"pending"}
-{"id":"aKaN9eOI","en":"Hyperopia","zh_draft":"远视","zh_ai":"","zh_human":"","zh":"远视","status":"pending"}
-{"id":"XxNK9TOy","en":"ImprovedVanillaLighting","zh_draft":"改进版VanillaLighting","zh_ai":"","zh_human":"","zh":"改进版VanillaLighting","status":"pending"}
-{"id":"PqPmJRFY","en":"Polaroid90s","zh_draft":"宝丽来90年代","zh_ai":"","zh_human":"","zh":"宝丽来90年代","status":"pending"}
-{"id":"JDDPVSQl","en":"Soleron","zh_draft":"索勒隆","zh_ai":"","zh_human":"","zh":"索勒隆","status":"pending"}
-{"id":"ZroHvBI3","en":"VertaLux","zh_draft":"VertaLux","zh_ai":"","zh_human":"","zh":"VertaLux","status":"pending"}
-{"id":"IncNSyyi","en":"Crumb Shaders","zh_draft":"Crumb 着色器","zh_ai":"","zh_human":"","zh":"Crumb 着色器","status":"pending"}
-{"id":"pWeVnXDz","en":"Light-Shadow","zh_draft":"光与影","zh_ai":"","zh_human":"","zh":"光与影","status":"pending"}
-{"id":"MWDxkuCc","en":"PosterizationShader","zh_draft":"PosterizationShader","zh_ai":"","zh_human":"","zh":"PosterizationShader","status":"pending"}
-{"id":"ikGRnJq1","en":"Pixel Shades","zh_draft":"像素色调","zh_ai":"","zh_human":"","zh":"像素色调","status":"pending"}
-{"id":"6UU6mdqn","en":"Pomme","zh_draft":"Pomme","zh_ai":"","zh_human":"","zh":"Pomme","status":"pending"}
-{"id":"ckF1i7G7","en":"Renderlines","zh_draft":"渲染线","zh_ai":"","zh_human":"","zh":"渲染线","status":"pending"}
-{"id":"WfX3EInm","en":"SoftShade Shader","zh_draft":"SoftShade 着色器","zh_ai":"","zh_human":"","zh":"SoftShade 着色器","status":"pending"}
-{"id":"6lhAbY7D","en":"Hologram Shader","zh_draft":"全息着色器","zh_ai":"","zh_human":"","zh":"全息着色器","status":"pending"}
-{"id":"SXup1RFh","en":"Bright Pixels","zh_draft":"明亮的像素","zh_ai":"","zh_human":"","zh":"明亮的像素","status":"pending"}
-{"id":"8bvj4q9V","en":"Kiwi Shader","zh_draft":"Kiwi Shader","zh_ai":"","zh_human":"","zh":"Kiwi Shader","status":"pending"}
-{"id":"TaHu0hxV","en":"Cozy Shader","zh_draft":"温馨着色器","zh_ai":"","zh_human":"","zh":"温馨着色器","status":"pending"}
-{"id":"GWgDfysQ","en":"Psiho shader","zh_draft":"Psiho 着色器","zh_ai":"","zh_human":"","zh":"Psiho 着色器","status":"pending"}
-{"id":"g7hFD1Qn","en":"Red And Black Shaders","zh_draft":"红色和黑色着色器","zh_ai":"","zh_human":"","zh":"红色和黑色着色器","status":"pending"}
-{"id":"8OeaZfgn","en":"Helios Shaders","zh_draft":"Helios 着色器","zh_ai":"","zh_human":"","zh":"Helios 着色器","status":"pending"}
-{"id":"V1DPLa8z","en":"VanillaX Shaders","zh_draft":"VanillaX 着色器","zh_ai":"","zh_human":"","zh":"VanillaX 着色器","status":"pending"}
-{"id":"G0xaxDsv","en":"Aalu Shaders","zh_draft":"Aalu 着色器","zh_ai":"","zh_human":"","zh":"Aalu 着色器","status":"pending"}
-{"id":"8eOqqmcr","en":"Knight Shaders","zh_draft":"骑士着色器","zh_ai":"","zh_human":"","zh":"骑士着色器","status":"pending"}
-{"id":"ksD0jjws","en":"Extraterrestrial Expanse","zh_draft":"外星疆域","zh_ai":"","zh_human":"","zh":"外星疆域","status":"pending"}
-{"id":"GTKLrTzr","en":"Zombie Horror Shader","zh_draft":"僵尸恐怖着色器","zh_ai":"","zh_human":"","zh":"僵尸恐怖着色器","status":"pending"}
-{"id":"EwxnsoQC","en":"ClearVision Shader","zh_draft":"ClearVision 着色器","zh_ai":"","zh_human":"","zh":"ClearVision 着色器","status":"pending"}
-{"id":"iZ0PwIr7","en":"VisualMC","zh_draft":"VisualMC","zh_ai":"","zh_human":"","zh":"VisualMC","status":"pending"}
-{"id":"QRSbjJqU","en":"Chara's Vibrant Shaders","zh_draft":"Chara 的鲜活着色器","zh_ai":"","zh_human":"","zh":"Chara 的鲜活着色器","status":"pending"}
-{"id":"oTF1LJqm","en":"Osh","zh_draft":"奥什","zh_ai":"","zh_human":"","zh":"奥什","status":"pending"}
-{"id":"79KuNaI2","en":"Blind Shader","zh_draft":"盲式着色器","zh_ai":"","zh_human":"","zh":"盲式着色器","status":"pending"}
-{"id":"x1ZfjCSo","en":"Baked Potato Shaders","zh_draft":"烤土豆着色器","zh_ai":"","zh_human":"","zh":"烤土豆着色器","status":"pending"}
-{"id":"wTlZuD1z","en":"Lumina Shaders","zh_draft":"Lumina 着色器","zh_ai":"","zh_human":"","zh":"Lumina 着色器","status":"pending"}
-{"id":"xLx3jnAI","en":"VHS Cord","zh_draft":"VHS 连接线","zh_ai":"","zh_human":"","zh":"VHS 连接线","status":"pending"}
-{"id":"C9RsInRE","en":"SimplyDithered","zh_draft":"SimplyDithered","zh_ai":"","zh_human":"","zh":"SimplyDithered","status":"pending"}
-{"id":"4f6gA44l","en":"SenAbyssShader","zh_draft":"SenAbyssShader","zh_ai":"","zh_human":"","zh":"SenAbyssShader","status":"pending"}
-{"id":"ARW1Jej5","en":"Polace","zh_draft":"波拉切","zh_ai":"","zh_human":"","zh":"波拉切","status":"pending"}
-{"id":"xTPEb5xp","en":"WVP Shader (Wozt Vanilla Plus Shader)","zh_draft":"WVP 着色器（Wozt Vanilla Plus 着色器）","zh_ai":"","zh_human":"","zh":"WVP 着色器（Wozt Vanilla Plus 着色器）","status":"pending"}
-{"id":"BPdXbuB3","en":"Moon Shaders","zh_draft":"月之着色器","zh_ai":"","zh_human":"","zh":"月之着色器","status":"pending"}
-{"id":"ae0XZNyw","en":"Terminator Vision Shader","zh_draft":"《终结者》视觉着色器","zh_ai":"","zh_human":"","zh":"《终结者》视觉着色器","status":"pending"}
-{"id":"DHhlDe2O","en":"Classic Sky","zh_draft":"经典天空","zh_ai":"","zh_human":"","zh":"经典天空","status":"pending"}
-{"id":"n48y4QW0","en":"RtfShader","zh_draft":"RtfShader","zh_ai":"","zh_human":"","zh":"RtfShader","status":"pending"}
-{"id":"t4bTcfYA","en":"Cartoon Dreams Shader","zh_draft":"卡通梦想着色器","zh_ai":"","zh_human":"","zh":"卡通梦想着色器","status":"pending"}
-{"id":"656zJj28","en":"True Vanilla","zh_draft":"纯正香草","zh_ai":"","zh_human":"","zh":"纯正香草","status":"pending"}
-{"id":"x2aLLcW3","en":"NoUnderwaterFog","zh_draft":"无水下雾","zh_ai":"","zh_human":"","zh":"无水下雾","status":"pending"}
-{"id":"K6uGl6ZR","en":"Animetro","zh_draft":"Animetro","zh_ai":"","zh_human":"","zh":"Animetro","status":"pending"}
-{"id":"VXl7q2GF","en":"Mist","zh_draft":"雾","zh_ai":"","zh_human":"","zh":"雾","status":"pending"}
-{"id":"Hn4UaSpH","en":"Super Halftone Shaders","zh_draft":"超级半色调着色器","zh_ai":"","zh_human":"","zh":"超级半色调着色器","status":"pending"}
-{"id":"iXjzmsNv","en":"Mist Bound","zh_draft":"《雾锁》","zh_ai":"","zh_human":"","zh":"《雾锁》","status":"pending"}
-{"id":"prKz0vtM","en":"Orion Shaders","zh_draft":"Orion 着色器","zh_ai":"","zh_human":"","zh":"Orion 着色器","status":"pending"}
-{"id":"WTBaGxsU","en":"Sublime Visuals","zh_draft":"绝美的视觉效果","zh_ai":"","zh_human":"","zh":"绝美的视觉效果","status":"pending"}
-{"id":"u8gZksyb","en":"No Blindness Shader","zh_draft":"无失明着色器","zh_ai":"","zh_human":"","zh":"无失明着色器","status":"pending"}
-{"id":"SkEg5Q6H","en":"Sculk Enchantment Glint","zh_draft":"“潜行”附魔“闪光”","zh_ai":"","zh_human":"","zh":"“潜行”附魔“闪光”","status":"pending"}
-{"id":"3rSkAqDn","en":"AuroraRT","zh_draft":"AuroraRT","zh_ai":"","zh_human":"","zh":"AuroraRT","status":"pending"}
-{"id":"ORK6TcYj","en":"HorrorCraft","zh_draft":"HorrorCraft","zh_ai":"","zh_human":"","zh":"HorrorCraft","status":"pending"}
-{"id":"nEQiCJ4G","en":"Cyberspace Shaders","zh_draft":"网络着色器","zh_ai":"","zh_human":"","zh":"网络着色器","status":"pending"}
-{"id":"h0xSmugX","en":"Select Outline","zh_draft":"选择大纲","zh_ai":"","zh_human":"","zh":"选择大纲","status":"pending"}
-{"id":"7Kv6swwn","en":"Cinnamon Shader","zh_draft":"Cinnamon 着色器","zh_ai":"","zh_human":"","zh":"Cinnamon 着色器","status":"pending"}
-{"id":"l2palkeG","en":"Solstice","zh_draft":"至日","zh_ai":"","zh_human":"","zh":"至日","status":"pending"}
-{"id":"e1d0dCQ3","en":"FSR+ Shader","zh_draft":"FSR+ 着色器","zh_ai":"","zh_human":"","zh":"FSR+ 着色器","status":"pending"}
-{"id":"OqIpNoGM","en":"The Cursed Shaders","zh_draft":"被诅咒的着色器","zh_ai":"","zh_human":"","zh":"被诅咒的着色器","status":"pending"}
-{"id":"yj8SBzO3","en":"PS2 Shader","zh_draft":"PS2 着色器","zh_ai":"","zh_human":"","zh":"PS2 着色器","status":"pending"}
-{"id":"wzXKYlbl","en":"Shoggy shader","zh_draft":"Shoggy 着色器","zh_ai":"","zh_human":"","zh":"Shoggy 着色器","status":"pending"}
-{"id":"ASwLjm7j","en":"White Noise","zh_draft":"白噪声","zh_ai":"","zh_human":"","zh":"白噪声","status":"pending"}
-{"id":"A7ZRNmxc","en":"Eerie Craft","zh_draft":"诡异的手工艺","zh_ai":"","zh_human":"","zh":"诡异的手工艺","status":"pending"}
-{"id":"6zwoOMPJ","en":"Solis Blend","zh_draft":"索利斯混合咖啡","zh_ai":"","zh_human":"","zh":"索利斯混合咖啡","status":"pending"}
-{"id":"r1EogXS7","en":"Black & White Shader","zh_draft":"黑白着色器","zh_ai":"","zh_human":"","zh":"黑白着色器","status":"pending"}
-{"id":"g3CAig6K","en":"koptiretro","zh_draft":"科普蒂罗","zh_ai":"","zh_human":"","zh":"科普蒂罗","status":"pending"}
-{"id":"iK4iV8VO","en":"SMM - Ultra Light Weight Shader","zh_draft":"JM-超轻型遮阳板","zh_ai":"","zh_human":"","zh":"JM-超轻型遮阳板","status":"pending"}
-{"id":"APwTnV72","en":"Renford Tomlinson","zh_draft":"伦福德·汤姆林森","zh_ai":"","zh_human":"","zh":"伦福德·汤姆林森","status":"pending"}
-{"id":"xUZIReLK","en":"Doruk's Shader","zh_draft":"多鲁克的着色器","zh_ai":"","zh_human":"","zh":"多鲁克的着色器","status":"pending"}
-{"id":"ceBS0tXc","en":"Demonic Possession","zh_draft":"恶魔附身","zh_ai":"","zh_human":"","zh":"恶魔附身","status":"pending"}
-{"id":"134lIeeG","en":"Chandler's Retro Shader","zh_draft":"钱德勒的复古着色器","zh_ai":"","zh_human":"","zh":"钱德勒的复古着色器","status":"pending"}
-{"id":"QOSA4rZD","en":"R-T-S","zh_draft":"R-T-S","zh_ai":"","zh_human":"","zh":"R-T-S","status":"pending"}
-{"id":"CxPou90L","en":"AlternateCraft","zh_draft":"替代工艺","zh_ai":"","zh_human":"","zh":"替代工艺","status":"pending"}
-{"id":"1sfrgEIk","en":"Haven's Inversion","zh_draft":"Haven反演","zh_ai":"","zh_human":"","zh":"Haven反演","status":"pending"}
-{"id":"8dVpKI8t","en":"FilterLite Shaders","zh_draft":"PaperLite着色器","zh_ai":"","zh_human":"","zh":"PaperLite着色器","status":"pending"}
-{"id":"aTkE1akQ","en":"Carmine","zh_draft":"胭脂","zh_ai":"","zh_human":"","zh":"胭脂","status":"pending"}
-{"id":"xhSIVWgz","en":"Aerial","zh_draft":"空中","zh_ai":"","zh_human":"","zh":"空中","status":"pending"}
-{"id":"piJlVDtP","en":"AVALux Shaders Reimagined","zh_draft":"重新想象的AVALux着色器","zh_ai":"","zh_human":"","zh":"重新想象的AVALux着色器","status":"pending"}
-{"id":"DZBnTPED","en":"SummerShaders","zh_draft":"SummerShaders","zh_ai":"","zh_human":"","zh":"SummerShaders","status":"pending"}
-{"id":"RWIrIHFp","en":"Pretty Shadows","zh_draft":"美丽的影子","zh_ai":"","zh_human":"","zh":"美丽的影子","status":"pending"}
-{"id":"6HW4InFp","en":"VoidDream","zh_draft":"虚空之梦","zh_ai":"","zh_human":"","zh":"虚空之梦","status":"pending"}
-{"id":"txGgplPN","en":"Serie","zh_draft":"系列","zh_ai":"","zh_human":"","zh":"系列","status":"pending"}
-{"id":"50bqhXaO","en":"Enhanced Vision","zh_draft":"增强视觉","zh_ai":"","zh_human":"","zh":"增强视觉","status":"pending"}
-{"id":"9VzoIcj0","en":"Velora shader turbo","zh_draft":"Velora着色器涡轮","zh_ai":"","zh_human":"","zh":"Velora着色器涡轮","status":"pending"}
-{"id":"E0TVruIL","en":"IrisDESCENT","zh_draft":"虹膜衰落","zh_ai":"","zh_human":"","zh":"虹膜衰落","status":"pending"}
-{"id":"RGf9oL5z","en":"SomeRandomPhotoShaders","zh_draft":"一些随机照片着色器","zh_ai":"","zh_human":"","zh":"一些随机照片着色器","status":"pending"}
-{"id":"yFRLQ6nx","en":"RealisticLite Shader","zh_draft":"RealisticLite着色器","zh_ai":"","zh_human":"","zh":"RealisticLite着色器","status":"pending"}
-{"id":"gEzKZOqB","en":"Daylight Shaders","zh_draft":"日光暗影者","zh_ai":"","zh_human":"","zh":"日光暗影者","status":"pending"}
-{"id":"5U9YsYYw","en":"Vanilla Shading Renewed","zh_draft":"香草着色更新","zh_ai":"","zh_human":"","zh":"香草着色更新","status":"pending"}
-{"id":"zzzZQgyq","en":"Lucidus","zh_draft":"卢西德斯","zh_ai":"","zh_human":"","zh":"卢西德斯","status":"pending"}
-{"id":"9OyoV9my","en":"noodleshader","zh_draft":"面条加工者","zh_ai":"","zh_human":"","zh":"面条加工者","status":"pending"}
-{"id":"yhAv3x3d","en":"Baunilha Shader","zh_draft":"鲍尼拉·谢德","zh_ai":"","zh_human":"","zh":"鲍尼拉·谢德","status":"pending"}
-{"id":"qxUeQ92X","en":"Nexus Unbound","zh_draft":"Nexus未绑定","zh_ai":"","zh_human":"","zh":"Nexus未绑定","status":"pending"}
-{"id":"Z1f4EvKZ","en":"Dara","zh_draft":"Dara","zh_ai":"","zh_human":"","zh":"Dara","status":"pending"}
-{"id":"kDiTN22C","en":"Galaxy shader","zh_draft":"银河着色器","zh_ai":"","zh_human":"","zh":"银河着色器","status":"pending"}
-{"id":"foEGxTnX","en":"Aragorn's Light Shader","zh_draft":"阿拉贡的光影器","zh_ai":"","zh_human":"","zh":"阿拉贡的光影器","status":"pending"}
-{"id":"jJ5VFiNe","en":"White & Black Shader","zh_draft":"黑白着色器","zh_ai":"","zh_human":"","zh":"黑白着色器","status":"pending"}
-{"id":"BWF57ln1","en":"No Rain Shader","zh_draft":"无雨遮阳器","zh_ai":"","zh_human":"","zh":"无雨遮阳器","status":"pending"}
-{"id":"QKTZDHej","en":"Ziran Shaders","zh_draft":"Ziran Shaders","zh_ai":"","zh_human":"","zh":"Ziran Shaders","status":"pending"}
-{"id":"SlZ8uzjk","en":"Refractal","zh_draft":"重分形","zh_ai":"","zh_human":"","zh":"重分形","status":"pending"}
-{"id":"zBFIWgg7","en":"Simply Shaded","zh_draft":"简单阴影","zh_ai":"","zh_human":"","zh":"简单阴影","status":"pending"}
-{"id":"xDn0BoKd","en":"DAP Shaders","zh_draft":"DAB着色器","zh_ai":"","zh_human":"","zh":"DAB着色器","status":"pending"}
-{"id":"hYmXv4lM","en":"ZigCRT","zh_draft":"ZigCPR","zh_ai":"","zh_human":"","zh":"ZigCPR","status":"pending"}
-{"id":"HeMbTkJg","en":"SerenaCore","zh_draft":"SerenaCore","zh_ai":"","zh_human":"","zh":"SerenaCore","status":"pending"}
-{"id":"XkrUGY2b","en":"Eternal Prism","zh_draft":"永恒的棱镜","zh_ai":"","zh_human":"","zh":"永恒的棱镜","status":"pending"}
-{"id":"ENtjeaoP","en":"RetroPixel","zh_draft":"RetroPixel","zh_ai":"","zh_human":"","zh":"RetroPixel","status":"pending"}
-{"id":"7iOYrro8","en":"Zero Shader","zh_draft":"零着色器","zh_ai":"","zh_human":"","zh":"零着色器","status":"pending"}
-{"id":"j8GGTDPk","en":"Colorless (Black and White)","zh_draft":"无色（黑色和白色）","zh_ai":"","zh_human":"","zh":"无色（黑色和白色）","status":"pending"}
-{"id":"5cFXIUYW","en":"DMS","zh_draft":"DMS","zh_ai":"","zh_human":"","zh":"DMS","status":"pending"}
-{"id":"MYAGpRLz","en":"Breeze Shaders","zh_draft":"微风暗影者","zh_ai":"","zh_human":"","zh":"微风暗影者","status":"pending"}
-{"id":"eU5gfXAN","en":"Refrax","zh_draft":"重制","zh_ai":"","zh_human":"","zh":"重制","status":"pending"}
-{"id":"ELveTCgO","en":"OMEGA SHADERS","zh_draft":"欧米茄阴影","zh_ai":"","zh_human":"","zh":"欧米茄阴影","status":"pending"}
-{"id":"pAYi7cOe","en":"Ultra Lite Shadows","zh_draft":"Ultra Lite Shadows","zh_ai":"","zh_human":"","zh":"Ultra Lite Shadows","status":"pending"}
-{"id":"W86n3JmN","en":"Purpliness","zh_draft":"紫色","zh_ai":"","zh_human":"","zh":"紫色","status":"pending"}
-{"id":"O4klg90P","en":"Candela Shaders","zh_draft":"粤语暗影者","zh_ai":"","zh_human":"","zh":"粤语暗影者","status":"pending"}
-{"id":"eSqJcTf7","en":"Nolantic Shader","zh_draft":"Nolantic Shader","zh_ai":"","zh_human":"","zh":"Nolantic Shader","status":"pending"}
-{"id":"wrmFZVdg","en":"Sylbobek's Shader Pack","zh_draft":"Sylbobek的着色包","zh_ai":"","zh_human":"","zh":"Sylbobek的着色包","status":"pending"}
-{"id":"BXJqEqyQ","en":"Zenith Shaders","zh_draft":"Zenith Shaders","zh_ai":"","zh_human":"","zh":"Zenith Shaders","status":"pending"}
-{"id":"3PrdwOBX","en":"Catnip Shaders","zh_draft":"猫薄荷遮光器","zh_ai":"","zh_human":"","zh":"猫薄荷遮光器","status":"pending"}
-{"id":"lCjPSSn9","en":"EzSaturation","zh_draft":"Ez饱和","zh_ai":"","zh_human":"","zh":"Ez饱和","status":"pending"}
-{"id":"Yz4HegE6","en":"A Sluggy Hike","zh_draft":"缓慢的徒步旅行","zh_ai":"","zh_human":"","zh":"缓慢的徒步旅行","status":"pending"}
-{"id":"kOyCDy3k","en":"NyxaVora","zh_draft":"尼萨沃拉","zh_ai":"","zh_human":"","zh":"尼萨沃拉","status":"pending"}
-{"id":"tKZUSGNE","en":"Perry Light","zh_draft":"Perry Light","zh_ai":"","zh_human":"","zh":"Perry Light","status":"pending"}
-{"id":"cH3CJuSr","en":"vibes2019shaders","zh_draft":"vibes 2019着色器","zh_ai":"","zh_human":"","zh":"vibes 2019着色器","status":"pending"}
-{"id":"ME1Y9Iq7","en":"Nyolxel","zh_draft":"尼奥尔塞尔","zh_ai":"","zh_human":"","zh":"尼奥尔塞尔","status":"pending"}
-{"id":"lgtDNqmQ","en":"Heliox","zh_draft":"氦氧","zh_ai":"","zh_human":"","zh":"氦氧","status":"pending"}
-{"id":"smVSwFS8","en":"Cursed Shader pack","zh_draft":"诅咒着色器包","zh_ai":"","zh_human":"","zh":"诅咒着色器包","status":"pending"}
+{"id":"dPBtZ5Ry","en":"Water Shader Alpha","zh_draft":"水着色器 Alpha","zh_ai":"水着色器 Alpha","zh_human":"","zh":"水着色器 Alpha","status":"ai"}
+{"id":"NPKlYU6I","en":"Krpmon Lite","zh_draft":"Krpmon Lite","zh_ai":"Krpmon 轻量版","zh_human":"","zh":"Krpmon 轻量版","status":"ai"}
+{"id":"KiDl1F9o","en":"Rose's New Shades","zh_draft":"罗斯的新色号","zh_ai":"罗丝的新光影","zh_human":"","zh":"罗丝的新光影","status":"ai"}
+{"id":"fkGPS2gb","en":"Wispy Shader","zh_draft":"Wispy 着色器","zh_ai":"飘逸光影","zh_human":"","zh":"飘逸光影","status":"ai"}
+{"id":"zrVlkYvk","en":"Screen Mirror Shader","zh_draft":"屏幕镜像着色器","zh_ai":"屏幕镜像光影","zh_human":"","zh":"屏幕镜像光影","status":"ai"}
+{"id":"sdBzRG7h","en":"TAA-Distant Horizons port","zh_draft":"TAA-Distant Horizons 端口","zh_ai":"TAA-远眺地平线端口","zh_human":"","zh":"TAA-远眺地平线端口","status":"ai"}
+{"id":"wwfPGOds","en":"Kefir's Flashlight","zh_draft":"凯菲尔的手电筒","zh_ai":"Kefir 的手电筒","zh_human":"","zh":"Kefir 的手电筒","status":"ai"}
+{"id":"8zBs9Cbz","en":"Mist Shaders","zh_draft":"雾效果着色器","zh_ai":"雾光影","zh_human":"","zh":"雾光影","status":"ai"}
+{"id":"vWdu7BRL","en":"Chippa256 shader","zh_draft":"Chippa256 着色器","zh_ai":"Chippa256 光影","zh_human":"","zh":"Chippa256 光影","status":"ai"}
+{"id":"fw4J9UkQ","en":"Dynamic Light Shader","zh_draft":"动态光照着色器","zh_ai":"动态光影","zh_human":"","zh":"动态光影","status":"ai"}
+{"id":"STXlqnTM","en":"Mathematically Unplayable","zh_draft":"从数学角度来看无法进行","zh_ai":"数学上不可玩","zh_human":"","zh":"数学上不可玩","status":"ai"}
+{"id":"oZF2GiVu","en":"Color Splash Shaders","zh_draft":"色彩飞溅着色器","zh_ai":"色彩喷溅光影","zh_human":"","zh":"色彩喷溅光影","status":"ai"}
+{"id":"BUz1aSAh","en":"NightBloom","zh_draft":"夜之花","zh_ai":"夜之绽放","zh_human":"","zh":"夜之绽放","status":"ai"}
+{"id":"ch1yZBko","en":"Steadfast","zh_draft":"坚定不移","zh_ai":"坚定不移","zh_human":"","zh":"坚定不移","status":"ai"}
+{"id":"8FCAAlLy","en":"Haste","zh_draft":"急速","zh_ai":"加速","zh_human":"","zh":"加速","status":"ai"}
+{"id":"k6owQqbu","en":"Legacy Console Edition Shaders","zh_draft":"经典主机版着色器","zh_ai":"经典控制台版光影","zh_human":"","zh":"经典控制台版光影","status":"ai"}
+{"id":"Rosc1kAc","en":"Lumeau","zh_draft":"卢莫","zh_ai":"Lumeau","zh_human":"","zh":"Lumeau","status":"ai"}
+{"id":"Uzkg6HgX","en":"Nova Reimagined","zh_draft":"《Nova》新诠释","zh_ai":"重新构想的 Nova","zh_human":"","zh":"重新构想的 Nova","status":"ai"}
+{"id":"4ETindzX","en":"Breeze Flow Shaders","zh_draft":"Breeze Flow 着色器","zh_ai":"微风流动光影","zh_human":"","zh":"微风流动光影","status":"ai"}
+{"id":"lOvsuZF0","en":"silly shaders","zh_draft":"傻乎乎的着色器","zh_ai":"愚蠢光影","zh_human":"","zh":"愚蠢光影","status":"ai"}
+{"id":"in4K1Xj9","en":"Lux V1: BrickCraft Edition","zh_draft":"Lux V1：BrickCraft 版","zh_ai":"Lux V1: 方块工艺版","zh_human":"","zh":"Lux V1: 方块工艺版","status":"ai"}
+{"id":"RS0cg7Op","en":"Aerie Shaders","zh_draft":"Aerie 着色器","zh_ai":"鹰光影","zh_human":"","zh":"鹰光影","status":"ai"}
+{"id":"wz6Mcdq6","en":"Dithering3D","zh_draft":"Dithering3D","zh_ai":"3D 马赛克","zh_human":"","zh":"3D 马赛克","status":"ai"}
+{"id":"HFpynP04","en":"CoffeeShaders","zh_draft":"CoffeeShaders","zh_ai":"咖啡光影","zh_human":"","zh":"咖啡光影","status":"ai"}
+{"id":"BuUSGd4X","en":"Loé's Night Vision","zh_draft":"洛埃的夜视","zh_ai":"Loé 的夜视","zh_human":"","zh":"Loé 的夜视","status":"ai"}
+{"id":"408flTHR","en":"Ditherpunk","zh_draft":"Ditherpunk","zh_ai":"马赛克朋克","zh_human":"","zh":"马赛克朋克","status":"ai"}
+{"id":"C8Sy7Xye","en":"🖌️PaintBound","zh_draft":"🖌️PaintBound","zh_ai":"绘画边界","zh_human":"","zh":"绘画边界","status":"ai"}
+{"id":"FyekMbZu","en":"Grey Wobbly World","zh_draft":"灰色的摇摇晃晃的世界","zh_ai":"灰色摇晃世界","zh_human":"","zh":"灰色摇晃世界","status":"ai"}
+{"id":"nIIpn55X","en":"Dither","zh_draft":"抖动","zh_ai":"马赛克","zh_human":"","zh":"马赛克","status":"ai"}
+{"id":"Ub8oXxM5","en":"missing textures","zh_draft":"缺失的纹理","zh_ai":"缺失纹理","zh_human":"","zh":"缺失纹理","status":"ai"}
+{"id":"nQxAiEqd","en":"Found Footage","zh_draft":"“发现的影像”","zh_ai":"发现素材","zh_human":"","zh":"发现素材","status":"ai"}
+{"id":"mzJo5Nx3","en":"Oak Shaders","zh_draft":"橡木着色器","zh_ai":"橡树光影","zh_human":"","zh":"橡树光影","status":"ai"}
+{"id":"KBmTU8ja","en":"CRT Monochrome Shaderpack","zh_draft":"CRT 单色着色器包","zh_ai":"CRT 单色光影包","zh_human":"","zh":"CRT 单色光影包","status":"ai"}
+{"id":"r80tWUPL","en":"Neon Skylines Shader","zh_draft":"霓虹天际线着色器","zh_ai":"霓虹天际光影","zh_human":"","zh":"霓虹天际光影","status":"ai"}
+{"id":"ZeqDZZRS","en":"minecraft CRT","zh_draft":"《我的世界》CRT","zh_ai":"Minecraft CRT","zh_human":"","zh":"Minecraft CRT","status":"ai"}
+{"id":"SLX3kDJq","en":"Lightmap Fixer","zh_draft":"光照贴图修复器","zh_ai":"光照图修复器","zh_human":"","zh":"光照图修复器","status":"ai"}
+{"id":"BAmyLKqy","en":"Dusk","zh_draft":"黄昏","zh_ai":"黄昏","zh_human":"","zh":"黄昏","status":"ai"}
+{"id":"KiFpblnH","en":"Dithered Shader","zh_draft":"抖动着色器","zh_ai":"马赛克光影","zh_human":"","zh":"马赛克光影","status":"ai"}
+{"id":"ZsT2QmUU","en":"MakeUp - Breezy","zh_draft":"彩妆 - 清风","zh_ai":"妆容 - 清新","zh_human":"","zh":"妆容 - 清新","status":"ai"}
+{"id":"WI2oOxsx","en":"Better End Portal Shader","zh_draft":"更优的端点门户着色器","zh_ai":"更好的末地传送门光影","zh_human":"","zh":"更好的末地传送门光影","status":"ai"}
+{"id":"kRybDuJT","en":"Negative Colors","zh_draft":"负色","zh_ai":"负色","zh_human":"","zh":"负色","status":"ai"}
+{"id":"bdrFWuuh","en":"Simple Shader One","zh_draft":"简单着色器一","zh_ai":"简单着色器一","zh_human":"","zh":"简单着色器一","status":"ai"}
+{"id":"MY37GebJ","en":"Black & White","zh_draft":"黑白","zh_ai":"黑白","zh_human":"","zh":"黑白","status":"ai"}
+{"id":"okSXLiG4","en":"RITEG-VHS","zh_draft":"RITEG-VHS","zh_ai":"RITEG-VHS","zh_human":"","zh":"RITEG-VHS","status":"ai"}
+{"id":"3z5iC0bj","en":"Tilde","zh_draft":"波浪号","zh_ai":"波浪号","zh_human":"","zh":"波浪号","status":"ai"}
+{"id":"fn1Eae1N","en":"Wisp Shaders","zh_draft":"Wisp 着色器","zh_ai":"幽灵着色器","zh_human":"","zh":"幽灵着色器","status":"ai"}
+{"id":"ERzpKqiQ","en":"UltraVanilla+","zh_draft":"UltraVanilla+","zh_ai":"超纯净+","zh_human":"","zh":"超纯净+","status":"ai"}
+{"id":"55ENkzUx","en":"Round World","zh_draft":"环游世界","zh_ai":"圆形世界","zh_human":"","zh":"圆形世界","status":"ai"}
+{"id":"cAxNke99","en":"Fisheye Shaders","zh_draft":"鱼眼镜头着色器","zh_ai":"鱼眼着色器","zh_human":"","zh":"鱼眼着色器","status":"ai"}
+{"id":"ccttKkIm","en":"HyShaders - Vanilla Edition","zh_draft":"HyShaders - 原版","zh_ai":"HyShaders - 纯净版","zh_human":"","zh":"HyShaders - 纯净版","status":"ai"}
+{"id":"KbqQa0aB","en":"InvertColors-Shader","zh_draft":"InvertColors-着色器","zh_ai":"颜色反转着色器","zh_human":"","zh":"颜色反转着色器","status":"ai"}
+{"id":"k8XPkDEi","en":"VHS Shader","zh_draft":"VHS 着色器","zh_ai":"VHS 着色器","zh_human":"","zh":"VHS 着色器","status":"ai"}
+{"id":"EpUUYS1f","en":"Fullbright+ Shaders","zh_draft":"Fullbright+ 着色器","zh_ai":"全亮+着色器","zh_human":"","zh":"全亮+着色器","status":"ai"}
+{"id":"JJENX1BH","en":"Atmospheric Shaders - NEW LOGO","zh_draft":"氛围着色器 - 新标志","zh_ai":"大气着色器 - 新标志","zh_human":"","zh":"大气着色器 - 新标志","status":"ai"}
+{"id":"4VA1WCa7","en":"LBD Shaders","zh_draft":"LBD 着色器","zh_ai":"LBD 着色器","zh_human":"","zh":"LBD 着色器","status":"ai"}
+{"id":"JX18zgB7","en":"Valentine Shader","zh_draft":"Valentine 着色器","zh_ai":"情人节着色器","zh_human":"","zh":"情人节着色器","status":"ai"}
+{"id":"qMyruXtk","en":"Event Horizon","zh_draft":"《事件视界》","zh_ai":"事件视界","zh_human":"","zh":"事件视界","status":"ai"}
+{"id":"u2TfdM5B","en":"Vividness","zh_draft":"鲜活度","zh_ai":"生动感","zh_human":"","zh":"生动感","status":"ai"}
+{"id":"buyR2SoV","en":"Gray&Black Shader","zh_draft":"灰黑渐变色","zh_ai":"灰黑着色器","zh_human":"","zh":"灰黑着色器","status":"ai"}
+{"id":"uYBHIcV9","en":"Image Shader","zh_draft":"图像着色器","zh_ai":"图像着色器","zh_human":"","zh":"图像着色器","status":"ai"}
+{"id":"VTcl1Wzb","en":"shAIder","zh_draft":"shAIder","zh_ai":"shAIder","zh_human":"","zh":"shAIder","status":"ai"}
+{"id":"8X1QYHMa","en":"vfx-simple","zh_draft":"vfx-simple","zh_ai":"vfx-简单","zh_human":"","zh":"vfx-简单","status":"ai"}
+{"id":"OB25CM3Z","en":"Visual Shaders","zh_draft":"视觉着色器","zh_ai":"视觉着色器","zh_human":"","zh":"视觉着色器","status":"ai"}
+{"id":"Qan66rZO","en":"Retrofy","zh_draft":"Retrofy","zh_ai":"复古化","zh_human":"","zh":"复古化","status":"ai"}
+{"id":"r6gSVPWY","en":"only shadows","zh_draft":"只有影子","zh_ai":"仅阴影","zh_human":"","zh":"仅阴影","status":"ai"}
+{"id":"z0NF17Hp","en":"AuraLite Shaders","zh_draft":"AuraLite 着色器","zh_ai":"AuraLite 着色器","zh_human":"","zh":"AuraLite 着色器","status":"ai"}
+{"id":"WD4lLjK2","en":"Luxora Shaders","zh_draft":"Luxora 着色器","zh_ai":"Luxora 着色器","zh_human":"","zh":"Luxora 着色器","status":"ai"}
+{"id":"5pOVLwOB","en":"Shader_vanilla","zh_draft":"Shader_vanilla","zh_ai":"Shader_纯净","zh_human":"","zh":"Shader_纯净","status":"ai"}
+{"id":"THdWNh20","en":"Paranoia Shader","zh_draft":"“偏执”着色器","zh_ai":"偏执着色器","zh_human":"","zh":"偏执着色器","status":"ai"}
+{"id":"Jrz1tFDi","en":"Mini Shaders","zh_draft":"迷你着色器","zh_ai":"迷你着色器","zh_human":"","zh":"迷你着色器","status":"ai"}
+{"id":"EjgAf5f3","en":"AstralCore v2","zh_draft":"AstralCore v2","zh_ai":"AstralCore v2","zh_human":"","zh":"AstralCore v2","status":"ai"}
+{"id":"j8vzmojd","en":"Terder's Potato Shader","zh_draft":"Terder 的土豆着色器","zh_ai":"Terder的土豆着色器","zh_human":"","zh":"Terder的土豆着色器","status":"ai"}
+{"id":"HWoNhM9S","en":"VerdantLight Pro","zh_draft":"VerdantLight Pro","zh_ai":"VerdantLight Pro","zh_human":"","zh":"VerdantLight Pro","status":"ai"}
+{"id":"cOY8vlyQ","en":"Simple Shadows","zh_draft":"简单的阴影","zh_ai":"简单阴影","zh_human":"","zh":"简单阴影","status":"ai"}
+{"id":"pFfnJU82","en":"Nostalgic Crisp","zh_draft":"怀旧脆片","zh_ai":"怀旧清晰","zh_human":"","zh":"怀旧清晰","status":"ai"}
+{"id":"Qxdz7rmW","en":"Spirity Motion Blur","zh_draft":"灵动运动模糊","zh_ai":"精神运动模糊","zh_human":"","zh":"精神运动模糊","status":"ai"}
+{"id":"TUoQmbZR","en":"Better Voxels","zh_draft":"更优质的体素","zh_ai":"更好的体素","zh_human":"","zh":"更好的体素","status":"ai"}
+{"id":"Rm89Kgei","en":"Pagoda Shaders","zh_draft":"Pagoda 着色器","zh_ai":"宝塔着色器","zh_human":"","zh":"宝塔着色器","status":"ai"}
+{"id":"ZPlXpCUX","en":"Am I Drunk?","zh_draft":"我喝醉了吗？","zh_ai":"我喝醉了吗?","zh_human":"","zh":"我喝醉了吗?","status":"ai"}
+{"id":"6CdvxWhV","en":"Earth Shaders","zh_draft":"地球着色器","zh_ai":"地球着色器","zh_human":"","zh":"地球着色器","status":"ai"}
+{"id":"dw4XHa8r","en":"LSD Sshader","zh_draft":"LSD Sshader","zh_ai":"LSD着色器","zh_human":"","zh":"LSD着色器","status":"ai"}
+{"id":"jgYsD3FV","en":"Unbound Visual +","zh_draft":"Unbound Visual +","zh_ai":"无界视觉+","zh_human":"","zh":"无界视觉+","status":"ai"}
+{"id":"68C3Q6ro","en":"Fullsight","zh_draft":"Fullsight","zh_ai":"全视界","zh_human":"","zh":"全视界","status":"ai"}
+{"id":"SCQuqnvO","en":"AxolotlShaders","zh_draft":"AxolotlShaders","zh_ai":"蝾螈着色器","zh_human":"","zh":"蝾螈着色器","status":"ai"}
+{"id":"xckXt4M4","en":"Eclipse Lite Cinematic","zh_draft":"Eclipse Lite 电影风格","zh_ai":"日食轻电影","zh_human":"","zh":"日食轻电影","status":"ai"}
+{"id":"Sg7URyDE","en":"Base-Shader","zh_draft":"基础着色器","zh_ai":"基础着色器","zh_human":"","zh":"基础着色器","status":"ai"}
+{"id":"kj9VuxTY","en":"Serendipity","zh_draft":"偶然的发现","zh_ai":"意外之喜","zh_human":"","zh":"意外之喜","status":"ai"}
+{"id":"cKZlPuDG","en":"Zenith's LUT Shader","zh_draft":"Zenith 的 LUT 着色器","zh_ai":"Zenith的LUT着色器","zh_human":"","zh":"Zenith的LUT着色器","status":"ai"}
+{"id":"FQST0Z8M","en":"Glint","zh_draft":"Glint","zh_ai":"闪光","zh_human":"","zh":"闪光","status":"ai"}
+{"id":"wFfhUbYQ","en":"Black And White Shaders","zh_draft":"黑白着色器","zh_ai":"黑白着色器","zh_human":"","zh":"黑白着色器","status":"ai"}
+{"id":"HXicJkMZ","en":"the Next Shader","zh_draft":"下一个着色器","zh_ai":"下一个着色器","zh_human":"","zh":"下一个着色器","status":"ai"}
+{"id":"iQ7o7wlG","en":"NOIR","zh_draft":"NOIR","zh_ai":"黑与白","zh_human":"","zh":"黑与白","status":"ai"}
+{"id":"o86c4okd","en":"Lumora Shader","zh_draft":"Lumora 着色器","zh_ai":"Lumora着色器","zh_human":"","zh":"Lumora着色器","status":"ai"}
+{"id":"ovetUegn","en":"VerdantLight Lite","zh_draft":"VerdantLight Lite","zh_ai":"翠绿光轻量版","zh_human":"","zh":"翠绿光轻量版","status":"ai"}
+{"id":"Jqn55RVZ","en":"3D Displacement Test Shader","zh_draft":"3D 位移测试着色器","zh_ai":"3D位移测试着色器","zh_human":"","zh":"3D位移测试着色器","status":"ai"}
+{"id":"pSjKIOBw","en":"Baseline Shader","zh_draft":"基线着色器","zh_ai":"基线着色器","zh_human":"","zh":"基线着色器","status":"ai"}
+{"id":"O5m5hPLR","en":"B3-PvP","zh_draft":"B3-PvP","zh_ai":"B3-PvP","zh_human":"","zh":"B3-PvP","status":"ai"}
+{"id":"xulmd28Q","en":"FancyWind and Waves","zh_draft":"《奇幻风与浪》","zh_ai":"花哨风浪","zh_human":"","zh":"花哨风浪","status":"ai"}
+{"id":"1S4HCfve","en":"Haze Shader","zh_draft":"雾效着色器","zh_ai":"雾霾着色器","zh_human":"","zh":"雾霾着色器","status":"ai"}
+{"id":"8jikfk78","en":"Fantasy.VT","zh_draft":"Fantasy.VT","zh_ai":"幻想.VT","zh_human":"","zh":"幻想.VT","status":"ai"}
+{"id":"XK75twAh","en":"Thunder's Motion Blur","zh_draft":"雷霆的运动模糊","zh_ai":"雷霆动态模糊","zh_human":"","zh":"雷霆动态模糊","status":"ai"}
+{"id":"3eA74PuK","en":"Ultimate Nausea","zh_draft":"极度恶心","zh_ai":"终极恶心","zh_human":"","zh":"终极恶心","status":"ai"}
+{"id":"85I8M36s","en":"Bad WiFi","zh_draft":"WiFi信号差","zh_ai":"坏WiFi","zh_human":"","zh":"坏WiFi","status":"ai"}
+{"id":"ezzUqPd4","en":"Jooonah's Grove","zh_draft":"朱娜的林间小径","zh_ai":"Jooonah的森林","zh_human":"","zh":"Jooonah的森林","status":"ai"}
+{"id":"MTiuNKqA","en":"Cartoonikal","zh_draft":"卡通尼卡尔","zh_ai":"卡通化","zh_human":"","zh":"卡通化","status":"ai"}
+{"id":"RSk8bNcs","en":"HighFrames+","zh_draft":"HighFrames+","zh_ai":"高帧率+","zh_human":"","zh":"高帧率+","status":"ai"}
+{"id":"RO6afEst","en":"Focal shader","zh_draft":"焦点着色器","zh_ai":"焦点着色器","zh_human":"","zh":"焦点着色器","status":"ai"}
+{"id":"qCur2p1Q","en":"Principal","zh_draft":"校长","zh_ai":"主要","zh_human":"","zh":"主要","status":"ai"}
+{"id":"33Flu4rX","en":"EchoShift","zh_draft":"EchoShift","zh_ai":"回声位移","zh_human":"","zh":"回声位移","status":"ai"}
+{"id":"lByWZ69q","en":"LiDAR Visualizer","zh_draft":"激光雷达可视化工具","zh_ai":"激光雷达可视化器","zh_human":"","zh":"激光雷达可视化器","status":"ai"}
+{"id":"AcfhEPbv","en":"MotionFlow","zh_draft":"MotionFlow","zh_ai":"动态流","zh_human":"","zh":"动态流","status":"ai"}
+{"id":"7VtTR53y","en":"aesyin's shaders","zh_draft":"aesyin 的着色器","zh_ai":"aesyin的着色器","zh_human":"","zh":"aesyin的着色器","status":"ai"}
+{"id":"jk8z9NE0","en":"Javier's improved fog","zh_draft":"哈维尔改进的雾效","zh_ai":"Javier改进的雾","zh_human":"","zh":"Javier改进的雾","status":"ai"}
+{"id":"MzbiKkaI","en":"FlowestShaders","zh_draft":"FlowestShaders","zh_ai":"Flowest着色器","zh_human":"","zh":"Flowest着色器","status":"ai"}
+{"id":"ecEGgWOY","en":"Adaptive Outline","zh_draft":"自适应大纲","zh_ai":"自适应轮廓","zh_human":"","zh":"自适应轮廓","status":"ai"}
+{"id":"5s4tVLty","en":"RealisticallyOptimized","zh_draft":"基于现实的优化","zh_ai":"真实优化","zh_human":"","zh":"真实优化","status":"ai"}
+{"id":"vWdKXjPs","en":"After Hours","zh_draft":"下班后","zh_ai":"下班后","zh_human":"","zh":"下班后","status":"ai"}
+{"id":"VUMmIDj7","en":"Contour Shaders","zh_draft":"轮廓着色器","zh_ai":"轮廓着色器","zh_human":"","zh":"轮廓着色器","status":"ai"}
+{"id":"qpA3SxtS","en":"Velocity","zh_draft":"速度","zh_ai":"速度","zh_human":"","zh":"速度","status":"ai"}
+{"id":"gcMD40uk","en":"Kyoko Shader's","zh_draft":"Kyoko Shader 的","zh_ai":"Kyoko着色器","zh_human":"","zh":"Kyoko着色器","status":"ai"}
+{"id":"wQhetBka","en":"Cinematic Vanilla","zh_draft":"电影风香草","zh_ai":"电影模式原版","zh_human":"","zh":"电影模式原版","status":"ai"}
+{"id":"o8xggQ8S","en":"retroview","zh_draft":"回顾","zh_ai":"复古视角","zh_human":"","zh":"复古视角","status":"ai"}
+{"id":"pcMKaDsV","en":"ApexShader","zh_draft":"ApexShader","zh_ai":"Apex着色器","zh_human":"","zh":"Apex着色器","status":"ai"}
+{"id":"81Z21bW3","en":"Slight","zh_draft":"轻微的","zh_ai":"轻微","zh_human":"","zh":"轻微","status":"ai"}
+{"id":"X5nQ5C2A","en":"Mode 13h: MS-DOSify!","zh_draft":"模式 13h：MS-DOS 化！","zh_ai":"13h模式：DOS化！","zh_human":"","zh":"13h模式：DOS化！","status":"ai"}
+{"id":"XPXWFkqK","en":"Nigthly Fix","zh_draft":"夜间修复","zh_ai":"夜间修复","zh_human":"","zh":"夜间修复","status":"ai"}
+{"id":"O66zvx0c","en":"Recastional","zh_draft":"Recastional","zh_ai":"重铸","zh_human":"","zh":"重铸","status":"ai"}
+{"id":"TGOrCOTp","en":"TAA69","zh_draft":"TAA69","zh_ai":"TAA69","zh_human":"","zh":"TAA69","status":"ai"}
+{"id":"3JNGTF4t","en":"AquaVision-Dynamic Transparent Water","zh_draft":"AquaVision——动态透明水","zh_ai":"水景视界-动态透明水","zh_human":"","zh":"水景视界-动态透明水","status":"ai"}
+{"id":"BGTvlEqB","en":"Lunacy Shaders","zh_draft":"Lunacy 着色器","zh_ai":"疯狂着色器","zh_human":"","zh":"疯狂着色器","status":"ai"}
+{"id":"osD74aom","en":"Wavy World","zh_draft":"波浪世界","zh_ai":"波浪世界","zh_human":"","zh":"波浪世界","status":"ai"}
+{"id":"Il6bho6B","en":"Nova's Vibrant Lite Shaders","zh_draft":"Nova 的 Vibrant Lite 着色器","zh_ai":"诺瓦的鲜艳轻量着色器","zh_human":"","zh":"诺瓦的鲜艳轻量着色器","status":"ai"}
+{"id":"q3jQXjo4","en":"bit glyphs","zh_draft":"位字符","zh_ai":"位图符号","zh_human":"","zh":"位图符号","status":"ai"}
+{"id":"u6zQM13D","en":"PH_lite_shader","zh_draft":"PH_lite_shader","zh_ai":"PH轻量着色器","zh_human":"","zh":"PH轻量着色器","status":"ai"}
+{"id":"LHVsUxbi","en":"True Black & White Shader (Grayscale)","zh_draft":"真正的黑白着色器（灰度）","zh_ai":"真黑白着色器（灰度）","zh_human":"","zh":"真黑白着色器（灰度）","status":"ai"}
+{"id":"Ncerk8am","en":"Resident Craft","zh_draft":"居民手工艺","zh_ai":"居民工艺","zh_human":"","zh":"居民工艺","status":"ai"}
+{"id":"WuoFW8TM","en":"Globed","zh_draft":"Globed","zh_ai":"地球仪","zh_human":"","zh":"地球仪","status":"ai"}
+{"id":"JZnbMbTm","en":"Bloom","zh_draft":"布鲁姆","zh_ai":"光晕","zh_human":"","zh":"光晕","status":"ai"}
+{"id":"8v0hMClR","en":"Nuar","zh_draft":"努阿尔","zh_ai":"Nuar","zh_human":"","zh":"Nuar","status":"ai"}
+{"id":"3bRj5RLF","en":"Drift POV","zh_draft":"漂移视角","zh_ai":"漂移视角","zh_human":"","zh":"漂移视角","status":"ai"}
+{"id":"cfhJEfJM","en":"ONWARD Shader","zh_draft":"ONWARD 着色器","zh_ai":"向前着色器","zh_human":"","zh":"向前着色器","status":"ai"}
+{"id":"FVRDZN4u","en":"Aerosol","zh_draft":"气溶胶","zh_ai":"气溶胶","zh_human":"","zh":"气溶胶","status":"ai"}
+{"id":"hdiE9YEl","en":"Pixelated Shaders","zh_draft":"像素着色器","zh_ai":"像素化着色器","zh_human":"","zh":"像素化着色器","status":"ai"}
+{"id":"E6Jwe4Tp","en":"Retro Pixel Shader – NES Style","zh_draft":"复古像素着色器——NES风格","zh_ai":"复古像素着色器 - NES风格","zh_human":"","zh":"复古像素着色器 - NES风格","status":"ai"}
+{"id":"fsDxQcSJ","en":"Gradius VibrantShader","zh_draft":"Gradius VibrantShader","zh_ai":"格莱迪乌斯鲜艳着色器","zh_human":"","zh":"格莱迪乌斯鲜艳着色器","status":"ai"}
+{"id":"RI6Zer4m","en":"I Am Not Okay","zh_draft":"我不好","zh_ai":"我不行","zh_human":"","zh":"我不行","status":"ai"}
+{"id":"3LJh38ZH","en":"Dark Fantasy Shader","zh_draft":"黑暗奇幻着色器","zh_ai":"暗黑幻想着色器","zh_human":"","zh":"暗黑幻想着色器","status":"ai"}
+{"id":"rBkf9R3g","en":"DOShader","zh_draft":"DOShader","zh_ai":"DO着色器","zh_human":"","zh":"DO着色器","status":"ai"}
+{"id":"wF0EKl3w","en":"Retrowave Shader","zh_draft":"Retrowave 着色器","zh_ai":"复古波普着色器","zh_human":"","zh":"复古波普着色器","status":"ai"}
+{"id":"EJfV67NC","en":"No Hand Shaders","zh_draft":"无手着色器","zh_ai":"无手着色器","zh_human":"","zh":"无手着色器","status":"ai"}
+{"id":"8d8lkScD","en":"Full Invert Shader","zh_draft":"全反转着色器","zh_ai":"完全反转着色器","zh_human":"","zh":"完全反转着色器","status":"ai"}
+{"id":"cdZAl3l6","en":"Phero Visuals","zh_draft":"Phero Visuals","zh_ai":"Phero视觉效果","zh_human":"","zh":"Phero视觉效果","status":"ai"}
+{"id":"F9FNb1av","en":"Rose World Shader","zh_draft":"玫瑰世界着色器","zh_ai":"玫瑰世界着色器","zh_human":"","zh":"玫瑰世界着色器","status":"ai"}
+{"id":"d6TfTZPu","en":"World Outline","zh_draft":"世界概况","zh_ai":"世界轮廓","zh_human":"","zh":"世界轮廓","status":"ai"}
+{"id":"Zi60D5U5","en":"Tachyon Shaders","zh_draft":"Tachyon 着色器","zh_ai":"超光速着色器","zh_human":"","zh":"超光速着色器","status":"ai"}
+{"id":"mIcyuS5O","en":"Aberration","zh_draft":"像差","zh_ai":"畸变","zh_human":"","zh":"畸变","status":"ai"}
+{"id":"S4TPh39p","en":"SSRE Shader","zh_draft":"SSRE 着色器","zh_ai":"SSRE着色器","zh_human":"","zh":"SSRE着色器","status":"ai"}
+{"id":"Lyan9gn0","en":"LiteMc","zh_draft":"LiteMc","zh_ai":"轻量MC","zh_human":"","zh":"轻量MC","status":"ai"}
+{"id":"aTLNnxX3","en":"HighFrames","zh_draft":"HighFrames","zh_ai":"高帧率","zh_human":"","zh":"高帧率","status":"ai"}
+{"id":"efRqNWHp","en":"Simple Grayscale","zh_draft":"简单的灰度","zh_ai":"简单灰度","zh_human":"","zh":"简单灰度","status":"ai"}
+{"id":"A1wQqzrz","en":"ExShade","zh_draft":"ExShade","zh_ai":"ExShade","zh_human":"","zh":"ExShade","status":"ai"}
+{"id":"f1VMVPC1","en":"CRT-Monitor Shader","zh_draft":"CRT显示器着色器","zh_ai":"CRT显示器着色器","zh_human":"","zh":"CRT显示器着色器","status":"ai"}
+{"id":"bn9xKwMe","en":"drunk-n-high","zh_draft":"醉醺醺又飘飘然","zh_ai":"醉与嗨","zh_human":"","zh":"醉与嗨","status":"ai"}
+{"id":"zoe0DSv0","en":"Datamosh","zh_draft":"Datamosh","zh_ai":"数据破坏","zh_human":"","zh":"数据破坏","status":"ai"}
+{"id":"Cvgers35","en":"Colorblind Swap","zh_draft":"色盲交换","zh_ai":"色盲切换","zh_human":"","zh":"色盲切换","status":"ai"}
+{"id":"g7X5NlWm","en":"Static Shader","zh_draft":"静态着色器","zh_ai":"静态噪点着色器","zh_human":"","zh":"静态噪点着色器","status":"ai"}
+{"id":"WLkdXnId","en":"Color Cone","zh_draft":"色锥","zh_ai":"色彩锥","zh_human":"","zh":"色彩锥","status":"ai"}
+{"id":"5taDo0oi","en":"ink-wash-shaderpack","zh_draft":"水墨着色器包","zh_ai":"水墨风着色包","zh_human":"","zh":"水墨风着色包","status":"ai"}
+{"id":"6iApq3jH","en":"Debug View","zh_draft":"调试视图","zh_ai":"调试视图","zh_human":"","zh":"调试视图","status":"ai"}
+{"id":"tYBPpMLT","en":"JustVanilla","zh_draft":"JustVanilla","zh_ai":"原版纯净","zh_human":"","zh":"原版纯净","status":"ai"}
+{"id":"zxdgn1L8","en":"FeathC2","zh_draft":"FeathC2","zh_ai":"FeathC2","zh_human":"","zh":"FeathC2","status":"ai"}
+{"id":"GOgeTOaC","en":"AxoShaders","zh_draft":"AxoShaders","zh_ai":"Axo着色器","zh_human":"","zh":"Axo着色器","status":"ai"}
+{"id":"6izFt5nL","en":"GlamorousSP Shaders","zh_draft":"GlamorousSP 着色器","zh_ai":"GlamorousSP着色器","zh_human":"","zh":"GlamorousSP着色器","status":"ai"}
+{"id":"bLPsBvZw","en":"Upside Down Shader","zh_draft":"倒置着色器","zh_ai":"颠倒世界着色器","zh_human":"","zh":"颠倒世界着色器","status":"ai"}
+{"id":"1UhWoJiz","en":"Ranold's Better Breaking","zh_draft":"拉诺尔德的《更佳刹车技巧》","zh_ai":"Ranold优化破坏","zh_human":"","zh":"Ranold优化破坏","status":"ai"}
+{"id":"2BCViFO0","en":"Cripe","zh_draft":"天哪","zh_ai":"Cripe","zh_human":"","zh":"Cripe","status":"ai"}
+{"id":"uUbHpMiv","en":"EcoShift Lite","zh_draft":"EcoShift Lite","zh_ai":"EcoShift精简版","zh_human":"","zh":"EcoShift精简版","status":"ai"}
+{"id":"evhfSQzX","en":"EntityMask shader","zh_draft":"EntityMask 着色器","zh_ai":"实体遮罩着色器","zh_human":"","zh":"实体遮罩着色器","status":"ai"}
+{"id":"k6ksw54I","en":"Real Night Vision Shader","zh_draft":"真正的夜视着色器","zh_ai":"真实夜视着色器","zh_human":"","zh":"真实夜视着色器","status":"ai"}
+{"id":"5mmDuueM","en":"Ghibli Shaders","zh_draft":"吉卜力着色器","zh_ai":"吉卜力着色器","zh_human":"","zh":"吉卜力着色器","status":"ai"}
+{"id":"lcVBKCo1","en":"ESSENTIALS Shader","zh_draft":"ESSENTIALS 着色器","zh_ai":"ESSENTIALS着色器","zh_human":"","zh":"ESSENTIALS着色器","status":"ai"}
+{"id":"WjcI9P1w","en":"Cosinus Shader","zh_draft":"余弦着色器","zh_ai":"Cosinus着色器","zh_human":"","zh":"Cosinus着色器","status":"ai"}
+{"id":"EY0irg87","en":"Spirit Shader","zh_draft":"灵体着色器","zh_ai":"灵魂着色器","zh_human":"","zh":"灵魂着色器","status":"ai"}
+{"id":"6FPiJZxx","en":"360W","zh_draft":"360W","zh_ai":"360全景","zh_human":"","zh":"360全景","status":"ai"}
+{"id":"ACsC5xz2","en":"Panini Projection","zh_draft":"帕尼尼投影法","zh_ai":"巴尼投影","zh_human":"","zh":"巴尼投影","status":"ai"}
+{"id":"I86gQZVu","en":"Lumavane Shaders","zh_draft":"Lumavane 着色器","zh_ai":"Lumavane着色器","zh_human":"","zh":"Lumavane着色器","status":"ai"}
+{"id":"xCED6hZe","en":"Disco Shaders","zh_draft":"迪斯科着色器","zh_ai":"迪斯科着色器","zh_human":"","zh":"迪斯科着色器","status":"ai"}
+{"id":"6edtW5qi","en":"BitNixelet","zh_draft":"BitNixelet","zh_ai":"像素碎片","zh_human":"","zh":"像素碎片","status":"ai"}
+{"id":"LVUlY6Vc","en":"Despatra's CRT","zh_draft":"德斯帕特拉的CRT","zh_ai":"Despatra的CRT","zh_human":"","zh":"Despatra的CRT","status":"ai"}
+{"id":"NnRy8IFu","en":"Tri Valor realistic shader","zh_draft":"Tri Valor 真实感着色器","zh_ai":"Tri Valor写实着色器","zh_human":"","zh":"Tri Valor写实着色器","status":"ai"}
+{"id":"xAWqMDMo","en":"HyperShader","zh_draft":"HyperShader","zh_ai":"超能着色器","zh_human":"","zh":"超能着色器","status":"ai"}
+{"id":"2P0AV9FE","en":"Liminal Shader","zh_draft":"Liminal Shader","zh_ai":"阈限空间着色器","zh_human":"","zh":"阈限空间着色器","status":"ai"}
+{"id":"9WnqmtbE","en":"Realistic Dark","zh_draft":"写实的黑暗","zh_ai":"写实暗黑","zh_human":"","zh":"写实暗黑","status":"ai"}
+{"id":"aKaN9eOI","en":"Hyperopia","zh_draft":"远视","zh_ai":"远视","zh_human":"","zh":"远视","status":"ai"}
+{"id":"XxNK9TOy","en":"ImprovedVanillaLighting","zh_draft":"改进版VanillaLighting","zh_ai":"改进原版光照","zh_human":"","zh":"改进原版光照","status":"ai"}
+{"id":"PqPmJRFY","en":"Polaroid90s","zh_draft":"宝丽来90年代","zh_ai":"90年代宝丽来","zh_human":"","zh":"90年代宝丽来","status":"ai"}
+{"id":"JDDPVSQl","en":"Soleron","zh_draft":"索勒隆","zh_ai":"Soleron","zh_human":"","zh":"Soleron","status":"ai"}
+{"id":"ZroHvBI3","en":"VertaLux","zh_draft":"VertaLux","zh_ai":"VertaLux","zh_human":"","zh":"VertaLux","status":"ai"}
+{"id":"IncNSyyi","en":"Crumb Shaders","zh_draft":"Crumb 着色器","zh_ai":"面包屑着色器","zh_human":"","zh":"面包屑着色器","status":"ai"}
+{"id":"pWeVnXDz","en":"Light-Shadow","zh_draft":"光与影","zh_ai":"光影交错","zh_human":"","zh":"光影交错","status":"ai"}
+{"id":"MWDxkuCc","en":"PosterizationShader","zh_draft":"PosterizationShader","zh_ai":"海报化着色器","zh_human":"","zh":"海报化着色器","status":"ai"}
+{"id":"ikGRnJq1","en":"Pixel Shades","zh_draft":"像素色调","zh_ai":"像素阴影","zh_human":"","zh":"像素阴影","status":"ai"}
+{"id":"6UU6mdqn","en":"Pomme","zh_draft":"Pomme","zh_ai":"苹果","zh_human":"","zh":"苹果","status":"ai"}
+{"id":"ckF1i7G7","en":"Renderlines","zh_draft":"渲染线","zh_ai":"渲染线","zh_human":"","zh":"渲染线","status":"ai"}
+{"id":"WfX3EInm","en":"SoftShade Shader","zh_draft":"SoftShade 着色器","zh_ai":"柔和阴影着色器","zh_human":"","zh":"柔和阴影着色器","status":"ai"}
+{"id":"6lhAbY7D","en":"Hologram Shader","zh_draft":"全息着色器","zh_ai":"全息着色器","zh_human":"","zh":"全息着色器","status":"ai"}
+{"id":"SXup1RFh","en":"Bright Pixels","zh_draft":"明亮的像素","zh_ai":"明亮像素","zh_human":"","zh":"明亮像素","status":"ai"}
+{"id":"8bvj4q9V","en":"Kiwi Shader","zh_draft":"Kiwi Shader","zh_ai":"奇异果着色器","zh_human":"","zh":"奇异果着色器","status":"ai"}
+{"id":"TaHu0hxV","en":"Cozy Shader","zh_draft":"温馨着色器","zh_ai":"舒适着色器","zh_human":"","zh":"舒适着色器","status":"ai"}
+{"id":"GWgDfysQ","en":"Psiho shader","zh_draft":"Psiho 着色器","zh_ai":"精神着色器","zh_human":"","zh":"精神着色器","status":"ai"}
+{"id":"g7hFD1Qn","en":"Red And Black Shaders","zh_draft":"红色和黑色着色器","zh_ai":"红黑着色器","zh_human":"","zh":"红黑着色器","status":"ai"}
+{"id":"8OeaZfgn","en":"Helios Shaders","zh_draft":"Helios 着色器","zh_ai":"赫利俄斯着色器","zh_human":"","zh":"赫利俄斯着色器","status":"ai"}
+{"id":"V1DPLa8z","en":"VanillaX Shaders","zh_draft":"VanillaX 着色器","zh_ai":"原版X着色器","zh_human":"","zh":"原版X着色器","status":"ai"}
+{"id":"G0xaxDsv","en":"Aalu Shaders","zh_draft":"Aalu 着色器","zh_ai":"阿卢着色器","zh_human":"","zh":"阿卢着色器","status":"ai"}
+{"id":"8eOqqmcr","en":"Knight Shaders","zh_draft":"骑士着色器","zh_ai":"骑士着色器","zh_human":"","zh":"骑士着色器","status":"ai"}
+{"id":"ksD0jjws","en":"Extraterrestrial Expanse","zh_draft":"外星疆域","zh_ai":"外星疆域","zh_human":"","zh":"外星疆域","status":"ai"}
+{"id":"GTKLrTzr","en":"Zombie Horror Shader","zh_draft":"僵尸恐怖着色器","zh_ai":"僵尸恐怖着色器","zh_human":"","zh":"僵尸恐怖着色器","status":"ai"}
+{"id":"EwxnsoQC","en":"ClearVision Shader","zh_draft":"ClearVision 着色器","zh_ai":"清晰视野着色器","zh_human":"","zh":"清晰视野着色器","status":"ai"}
+{"id":"iZ0PwIr7","en":"VisualMC","zh_draft":"VisualMC","zh_ai":"视觉MC","zh_human":"","zh":"视觉MC","status":"ai"}
+{"id":"QRSbjJqU","en":"Chara's Vibrant Shaders","zh_draft":"Chara 的鲜活着色器","zh_ai":"查拉的活力着色器","zh_human":"","zh":"查拉的活力着色器","status":"ai"}
+{"id":"oTF1LJqm","en":"Osh","zh_draft":"奥什","zh_ai":"Osh","zh_human":"","zh":"Osh","status":"ai"}
+{"id":"79KuNaI2","en":"Blind Shader","zh_draft":"盲式着色器","zh_ai":"盲视着色器","zh_human":"","zh":"盲视着色器","status":"ai"}
+{"id":"x1ZfjCSo","en":"Baked Potato Shaders","zh_draft":"烤土豆着色器","zh_ai":"烤土豆着色器","zh_human":"","zh":"烤土豆着色器","status":"ai"}
+{"id":"wTlZuD1z","en":"Lumina Shaders","zh_draft":"Lumina 着色器","zh_ai":"卢米纳着色器","zh_human":"","zh":"卢米纳着色器","status":"ai"}
+{"id":"xLx3jnAI","en":"VHS Cord","zh_draft":"VHS 连接线","zh_ai":"VHS线缆","zh_human":"","zh":"VHS线缆","status":"ai"}
+{"id":"C9RsInRE","en":"SimplyDithered","zh_draft":"SimplyDithered","zh_ai":"简单抖动","zh_human":"","zh":"简单抖动","status":"ai"}
+{"id":"4f6gA44l","en":"SenAbyssShader","zh_draft":"SenAbyssShader","zh_ai":"森深渊着色器","zh_human":"","zh":"森深渊着色器","status":"ai"}
+{"id":"ARW1Jej5","en":"Polace","zh_draft":"波拉切","zh_ai":"波拉切","zh_human":"","zh":"波拉切","status":"ai"}
+{"id":"xTPEb5xp","en":"WVP Shader (Wozt Vanilla Plus Shader)","zh_draft":"WVP 着色器（Wozt Vanilla Plus 着色器）","zh_ai":"WVP着色器","zh_human":"","zh":"WVP着色器","status":"ai"}
+{"id":"BPdXbuB3","en":"Moon Shaders","zh_draft":"月之着色器","zh_ai":"月亮着色器","zh_human":"","zh":"月亮着色器","status":"ai"}
+{"id":"ae0XZNyw","en":"Terminator Vision Shader","zh_draft":"《终结者》视觉着色器","zh_ai":"终结者视野着色器","zh_human":"","zh":"终结者视野着色器","status":"ai"}
+{"id":"DHhlDe2O","en":"Classic Sky","zh_draft":"经典天空","zh_ai":"经典天空","zh_human":"","zh":"经典天空","status":"ai"}
+{"id":"n48y4QW0","en":"RtfShader","zh_draft":"RtfShader","zh_ai":"Rtf着色器","zh_human":"","zh":"Rtf着色器","status":"ai"}
+{"id":"t4bTcfYA","en":"Cartoon Dreams Shader","zh_draft":"卡通梦想着色器","zh_ai":"卡通梦境着色器","zh_human":"","zh":"卡通梦境着色器","status":"ai"}
+{"id":"656zJj28","en":"True Vanilla","zh_draft":"纯正香草","zh_ai":"真实原版","zh_human":"","zh":"真实原版","status":"ai"}
+{"id":"x2aLLcW3","en":"NoUnderwaterFog","zh_draft":"无水下雾","zh_ai":"无水下雾","zh_human":"","zh":"无水下雾","status":"ai"}
+{"id":"K6uGl6ZR","en":"Animetro","zh_draft":"Animetro","zh_ai":"动画地铁","zh_human":"","zh":"动画地铁","status":"ai"}
+{"id":"VXl7q2GF","en":"Mist","zh_draft":"雾","zh_ai":"薄雾","zh_human":"","zh":"薄雾","status":"ai"}
+{"id":"Hn4UaSpH","en":"Super Halftone Shaders","zh_draft":"超级半色调着色器","zh_ai":"超级半色调着色器","zh_human":"","zh":"超级半色调着色器","status":"ai"}
+{"id":"iXjzmsNv","en":"Mist Bound","zh_draft":"《雾锁》","zh_ai":"迷雾边界","zh_human":"","zh":"迷雾边界","status":"ai"}
+{"id":"prKz0vtM","en":"Orion Shaders","zh_draft":"Orion 着色器","zh_ai":"猎户座光影","zh_human":"","zh":"猎户座光影","status":"ai"}
+{"id":"WTBaGxsU","en":"Sublime Visuals","zh_draft":"绝美的视觉效果","zh_ai":"崇高视觉","zh_human":"","zh":"崇高视觉","status":"ai"}
+{"id":"u8gZksyb","en":"No Blindness Shader","zh_draft":"无失明着色器","zh_ai":"无失明光影","zh_human":"","zh":"无失明光影","status":"ai"}
+{"id":"SkEg5Q6H","en":"Sculk Enchantment Glint","zh_draft":"“潜行”附魔“闪光”","zh_ai":"幽匿附魔光效","zh_human":"","zh":"幽匿附魔光效","status":"ai"}
+{"id":"3rSkAqDn","en":"AuroraRT","zh_draft":"AuroraRT","zh_ai":"极光RT","zh_human":"","zh":"极光RT","status":"ai"}
+{"id":"ORK6TcYj","en":"HorrorCraft","zh_draft":"HorrorCraft","zh_ai":"恐怖工艺","zh_human":"","zh":"恐怖工艺","status":"ai"}
+{"id":"nEQiCJ4G","en":"Cyberspace Shaders","zh_draft":"网络着色器","zh_ai":"赛博空间光影","zh_human":"","zh":"赛博空间光影","status":"ai"}
+{"id":"h0xSmugX","en":"Select Outline","zh_draft":"选择大纲","zh_ai":"选中轮廓","zh_human":"","zh":"选中轮廓","status":"ai"}
+{"id":"7Kv6swwn","en":"Cinnamon Shader","zh_draft":"Cinnamon 着色器","zh_ai":"肉桂光影","zh_human":"","zh":"肉桂光影","status":"ai"}
+{"id":"l2palkeG","en":"Solstice","zh_draft":"至日","zh_ai":"至日","zh_human":"","zh":"至日","status":"ai"}
+{"id":"e1d0dCQ3","en":"FSR+ Shader","zh_draft":"FSR+ 着色器","zh_ai":"FSR+光影","zh_human":"","zh":"FSR+光影","status":"ai"}
+{"id":"OqIpNoGM","en":"The Cursed Shaders","zh_draft":"被诅咒的着色器","zh_ai":"诅咒光影","zh_human":"","zh":"诅咒光影","status":"ai"}
+{"id":"yj8SBzO3","en":"PS2 Shader","zh_draft":"PS2 着色器","zh_ai":"PS2光影","zh_human":"","zh":"PS2光影","status":"ai"}
+{"id":"wzXKYlbl","en":"Shoggy shader","zh_draft":"Shoggy 着色器","zh_ai":"Shoggy光影","zh_human":"","zh":"Shoggy光影","status":"ai"}
+{"id":"ASwLjm7j","en":"White Noise","zh_draft":"白噪声","zh_ai":"白噪音","zh_human":"","zh":"白噪音","status":"ai"}
+{"id":"A7ZRNmxc","en":"Eerie Craft","zh_draft":"诡异的手工艺","zh_ai":"诡异工艺","zh_human":"","zh":"诡异工艺","status":"ai"}
+{"id":"6zwoOMPJ","en":"Solis Blend","zh_draft":"索利斯混合咖啡","zh_ai":"Solis混合","zh_human":"","zh":"Solis混合","status":"ai"}
+{"id":"r1EogXS7","en":"Black & White Shader","zh_draft":"黑白着色器","zh_ai":"黑白光影","zh_human":"","zh":"黑白光影","status":"ai"}
+{"id":"g3CAig6K","en":"koptiretro","zh_draft":"科普蒂罗","zh_ai":"复古像素","zh_human":"","zh":"复古像素","status":"ai"}
+{"id":"iK4iV8VO","en":"SMM - Ultra Light Weight Shader","zh_draft":"JM-超轻型遮阳板","zh_ai":"SMM超轻量光影","zh_human":"","zh":"SMM超轻量光影","status":"ai"}
+{"id":"APwTnV72","en":"Renford Tomlinson","zh_draft":"伦福德·汤姆林森","zh_ai":"Renford Tomlinson","zh_human":"","zh":"Renford Tomlinson","status":"ai"}
+{"id":"xUZIReLK","en":"Doruk's Shader","zh_draft":"多鲁克的着色器","zh_ai":"Doruk光影","zh_human":"","zh":"Doruk光影","status":"ai"}
+{"id":"ceBS0tXc","en":"Demonic Possession","zh_draft":"恶魔附身","zh_ai":"恶魔附身","zh_human":"","zh":"恶魔附身","status":"ai"}
+{"id":"134lIeeG","en":"Chandler's Retro Shader","zh_draft":"钱德勒的复古着色器","zh_ai":"Chandler复古光影","zh_human":"","zh":"Chandler复古光影","status":"ai"}
+{"id":"QOSA4rZD","en":"R-T-S","zh_draft":"R-T-S","zh_ai":"R-T-S","zh_human":"","zh":"R-T-S","status":"ai"}
+{"id":"CxPou90L","en":"AlternateCraft","zh_draft":"替代工艺","zh_ai":"替代工艺","zh_human":"","zh":"替代工艺","status":"ai"}
+{"id":"1sfrgEIk","en":"Haven's Inversion","zh_draft":"Haven反演","zh_ai":"Haven反转","zh_human":"","zh":"Haven反转","status":"ai"}
+{"id":"8dVpKI8t","en":"FilterLite Shaders","zh_draft":"PaperLite着色器","zh_ai":"FilterLite光影","zh_human":"","zh":"FilterLite光影","status":"ai"}
+{"id":"aTkE1akQ","en":"Carmine","zh_draft":"胭脂","zh_ai":"胭脂红","zh_human":"","zh":"胭脂红","status":"ai"}
+{"id":"xhSIVWgz","en":"Aerial","zh_draft":"空中","zh_ai":"空中","zh_human":"","zh":"空中","status":"ai"}
+{"id":"piJlVDtP","en":"AVALux Shaders Reimagined","zh_draft":"重新想象的AVALux着色器","zh_ai":"AVALUX光影重制版","zh_human":"","zh":"AVALUX光影重制版","status":"ai"}
+{"id":"DZBnTPED","en":"SummerShaders","zh_draft":"SummerShaders","zh_ai":"夏日光影","zh_human":"","zh":"夏日光影","status":"ai"}
+{"id":"RWIrIHFp","en":"Pretty Shadows","zh_draft":"美丽的影子","zh_ai":"精美阴影","zh_human":"","zh":"精美阴影","status":"ai"}
+{"id":"6HW4InFp","en":"VoidDream","zh_draft":"虚空之梦","zh_ai":"虚空梦境","zh_human":"","zh":"虚空梦境","status":"ai"}
+{"id":"txGgplPN","en":"Serie","zh_draft":"系列","zh_ai":"系列","zh_human":"","zh":"系列","status":"ai"}
+{"id":"50bqhXaO","en":"Enhanced Vision","zh_draft":"增强视觉","zh_ai":"增强视野","zh_human":"","zh":"增强视野","status":"ai"}
+{"id":"9VzoIcj0","en":"Velora shader turbo","zh_draft":"Velora着色器涡轮","zh_ai":"Velora光影极速版","zh_human":"","zh":"Velora光影极速版","status":"ai"}
+{"id":"E0TVruIL","en":"IrisDESCENT","zh_draft":"虹膜衰落","zh_ai":"IrisDESCENT","zh_human":"","zh":"IrisDESCENT","status":"ai"}
+{"id":"RGf9oL5z","en":"SomeRandomPhotoShaders","zh_draft":"一些随机照片着色器","zh_ai":"随机照片光影","zh_human":"","zh":"随机照片光影","status":"ai"}
+{"id":"yFRLQ6nx","en":"RealisticLite Shader","zh_draft":"RealisticLite着色器","zh_ai":"RealisticLite轻量光影","zh_human":"","zh":"RealisticLite轻量光影","status":"ai"}
+{"id":"gEzKZOqB","en":"Daylight Shaders","zh_draft":"日光暗影者","zh_ai":"日光着色器","zh_human":"","zh":"日光着色器","status":"ai"}
+{"id":"5U9YsYYw","en":"Vanilla Shading Renewed","zh_draft":"香草着色更新","zh_ai":"原版光影重制","zh_human":"","zh":"原版光影重制","status":"ai"}
+{"id":"zzzZQgyq","en":"Lucidus","zh_draft":"卢西德斯","zh_ai":"Lucidus光影","zh_human":"","zh":"Lucidus光影","status":"ai"}
+{"id":"9OyoV9my","en":"noodleshader","zh_draft":"面条加工者","zh_ai":"面条光影","zh_human":"","zh":"面条光影","status":"ai"}
+{"id":"yhAv3x3d","en":"Baunilha Shader","zh_draft":"鲍尼拉·谢德","zh_ai":"香草光影","zh_human":"","zh":"香草光影","status":"ai"}
+{"id":"qxUeQ92X","en":"Nexus Unbound","zh_draft":"Nexus未绑定","zh_ai":"Nexus Unbound光影","zh_human":"","zh":"Nexus Unbound光影","status":"ai"}
+{"id":"Z1f4EvKZ","en":"Dara","zh_draft":"Dara","zh_ai":"Dara光影","zh_human":"","zh":"Dara光影","status":"ai"}
+{"id":"kDiTN22C","en":"Galaxy shader","zh_draft":"银河着色器","zh_ai":"银河光影","zh_human":"","zh":"银河光影","status":"ai"}
+{"id":"foEGxTnX","en":"Aragorn's Light Shader","zh_draft":"阿拉贡的光影器","zh_ai":"阿拉贡之光","zh_human":"","zh":"阿拉贡之光","status":"ai"}
+{"id":"jJ5VFiNe","en":"White & Black Shader","zh_draft":"黑白着色器","zh_ai":"黑白光影","zh_human":"","zh":"黑白光影","status":"ai"}
+{"id":"BWF57ln1","en":"No Rain Shader","zh_draft":"无雨遮阳器","zh_ai":"无雨光影","zh_human":"","zh":"无雨光影","status":"ai"}
+{"id":"QKTZDHej","en":"Ziran Shaders","zh_draft":"Ziran Shaders","zh_ai":"自然光影","zh_human":"","zh":"自然光影","status":"ai"}
+{"id":"SlZ8uzjk","en":"Refractal","zh_draft":"重分形","zh_ai":"Refractal光影","zh_human":"","zh":"Refractal光影","status":"ai"}
+{"id":"zBFIWgg7","en":"Simply Shaded","zh_draft":"简单阴影","zh_ai":"简约光影","zh_human":"","zh":"简约光影","status":"ai"}
+{"id":"xDn0BoKd","en":"DAP Shaders","zh_draft":"DAB着色器","zh_ai":"DAP光影","zh_human":"","zh":"DAP光影","status":"ai"}
+{"id":"hYmXv4lM","en":"ZigCRT","zh_draft":"ZigCPR","zh_ai":"ZigCRT复古","zh_human":"","zh":"ZigCRT复古","status":"ai"}
+{"id":"HeMbTkJg","en":"SerenaCore","zh_draft":"SerenaCore","zh_ai":"SerenaCore","zh_human":"","zh":"SerenaCore","status":"ai"}
+{"id":"XkrUGY2b","en":"Eternal Prism","zh_draft":"永恒的棱镜","zh_ai":"永恒棱镜","zh_human":"","zh":"永恒棱镜","status":"ai"}
+{"id":"ENtjeaoP","en":"RetroPixel","zh_draft":"RetroPixel","zh_ai":"复古像素","zh_human":"","zh":"复古像素","status":"ai"}
+{"id":"7iOYrro8","en":"Zero Shader","zh_draft":"零着色器","zh_ai":"零度光影","zh_human":"","zh":"零度光影","status":"ai"}
+{"id":"j8GGTDPk","en":"Colorless (Black and White)","zh_draft":"无色（黑色和白色）","zh_ai":"无色（黑白）","zh_human":"","zh":"无色（黑白）","status":"ai"}
+{"id":"5cFXIUYW","en":"DMS","zh_draft":"DMS","zh_ai":"DMS光影","zh_human":"","zh":"DMS光影","status":"ai"}
+{"id":"MYAGpRLz","en":"Breeze Shaders","zh_draft":"微风暗影者","zh_ai":"微风光影","zh_human":"","zh":"微风光影","status":"ai"}
+{"id":"eU5gfXAN","en":"Refrax","zh_draft":"重制","zh_ai":"Refrax光影","zh_human":"","zh":"Refrax光影","status":"ai"}
+{"id":"ELveTCgO","en":"OMEGA SHADERS","zh_draft":"欧米茄阴影","zh_ai":"欧米伽光影","zh_human":"","zh":"欧米伽光影","status":"ai"}
+{"id":"pAYi7cOe","en":"Ultra Lite Shadows","zh_draft":"Ultra Lite Shadows","zh_ai":"超轻量阴影","zh_human":"","zh":"超轻量阴影","status":"ai"}
+{"id":"W86n3JmN","en":"Purpliness","zh_draft":"紫色","zh_ai":"紫色光影","zh_human":"","zh":"紫色光影","status":"ai"}
+{"id":"O4klg90P","en":"Candela Shaders","zh_draft":"粤语暗影者","zh_ai":"坎德拉光影","zh_human":"","zh":"坎德拉光影","status":"ai"}
+{"id":"eSqJcTf7","en":"Nolantic Shader","zh_draft":"Nolantic Shader","zh_ai":"Nolantic光影","zh_human":"","zh":"Nolantic光影","status":"ai"}
+{"id":"wrmFZVdg","en":"Sylbobek's Shader Pack","zh_draft":"Sylbobek的着色包","zh_ai":"Sylbobek光影包","zh_human":"","zh":"Sylbobek光影包","status":"ai"}
+{"id":"BXJqEqyQ","en":"Zenith Shaders","zh_draft":"Zenith Shaders","zh_ai":"天顶光影","zh_human":"","zh":"天顶光影","status":"ai"}
+{"id":"3PrdwOBX","en":"Catnip Shaders","zh_draft":"猫薄荷遮光器","zh_ai":"猫薄荷光影","zh_human":"","zh":"猫薄荷光影","status":"ai"}
+{"id":"lCjPSSn9","en":"EzSaturation","zh_draft":"Ez饱和","zh_ai":"易饱和","zh_human":"","zh":"易饱和","status":"ai"}
+{"id":"Yz4HegE6","en":"A Sluggy Hike","zh_draft":"缓慢的徒步旅行","zh_ai":"蜗牛徒步","zh_human":"","zh":"蜗牛徒步","status":"ai"}
+{"id":"kOyCDy3k","en":"NyxaVora","zh_draft":"尼萨沃拉","zh_ai":"NyxaVora光影","zh_human":"","zh":"NyxaVora光影","status":"ai"}
+{"id":"tKZUSGNE","en":"Perry Light","zh_draft":"Perry Light","zh_ai":"佩里之光","zh_human":"","zh":"佩里之光","status":"ai"}
+{"id":"cH3CJuSr","en":"vibes2019shaders","zh_draft":"vibes 2019着色器","zh_ai":"2019氛围光影","zh_human":"","zh":"2019氛围光影","status":"ai"}
+{"id":"ME1Y9Iq7","en":"Nyolxel","zh_draft":"尼奥尔塞尔","zh_ai":"Nyolxel光影","zh_human":"","zh":"Nyolxel光影","status":"ai"}
+{"id":"lgtDNqmQ","en":"Heliox","zh_draft":"氦氧","zh_ai":"Heliox光影","zh_human":"","zh":"Heliox光影","status":"ai"}
+{"id":"smVSwFS8","en":"Cursed Shader pack","zh_draft":"诅咒着色器包","zh_ai":"诅咒光影包","zh_human":"","zh":"诅咒光影包","status":"ai"}
 {"id":"mHWnah27","en":"Atherial Shaders","zh_draft":"动脉粥样硬化症","zh_ai":"","zh_human":"","zh":"动脉粥样硬化症","status":"pending"}
 {"id":"KO5bdqAG","en":"Flashbang Shader","zh_draft":"闪光弹着色器","zh_ai":"","zh_human":"","zh":"闪光弹着色器","status":"pending"}
 {"id":"gNqMYHiT","en":"Summer Vibes","zh_draft":"夏日氛围","zh_ai":"","zh_human":"","zh":"夏日氛围","status":"pending"}
