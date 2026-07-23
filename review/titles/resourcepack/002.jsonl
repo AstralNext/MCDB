@@ -2977,24 +2977,24 @@
 {"id":"XTOauAFe","en":"HollowMell PvP","zh_draft":"HollowMell PvP","zh_ai":"空心梅尔PVP","zh_human":"","zh":"空心梅尔PVP","status":"ai"}
 {"id":"6YnyDI0w","en":"S Bahn Berlin Pack","zh_draft":"柏林城铁套票","zh_ai":"柏林快铁列车包","zh_human":"","zh":"柏林快铁列车包","status":"ai"}
 {"id":"bybhRHlk","en":"Multi-Colored Rainbow Enchantment Glint","zh_draft":"多彩彩虹魔力闪光","zh_ai":"彩虹附魔光效","zh_human":"","zh":"彩虹附魔光效","status":"ai"}
-{"id":"n0PJhDVa","en":"realistic resource pack","zh_draft":"写实资源包","zh_ai":"","zh_human":"","zh":"写实资源包","status":"pending"}
-{"id":"vYwhtzrR","en":"[MTR] Snapcab Elevator/Lift Textures","zh_draft":"[MTR] Snapcab 电梯纹理","zh_ai":"","zh_human":"","zh":"[MTR] Snapcab 电梯纹理","status":"pending"}
-{"id":"188xcccD","en":"Vanilla Imagined","zh_draft":"想象中的香草","zh_ai":"","zh_human":"","zh":"想象中的香草","status":"pending"}
-{"id":"71pIP0PF","en":"MineShield Mobs","zh_draft":"MineShield 生物","zh_ai":"","zh_human":"","zh":"MineShield 生物","status":"pending"}
-{"id":"VRQsYhGt","en":"[MTR] RegioJet SoundTransit S700","zh_draft":"[MTR] RegioJet SoundTransit S700","zh_ai":"","zh_human":"","zh":"[MTR] RegioJet SoundTransit S700","status":"pending"}
-{"id":"i93ed4ls","en":"Mechanical equation GUI Add-on for JEI mod","zh_draft":"JEI 模组的“力学方程”图形用户界面插件","zh_ai":"","zh_human":"","zh":"JEI 模组的“力学方程”图形用户界面插件","status":"pending"}
-{"id":"iim2Dqm5","en":"Deep Red","zh_draft":"深红","zh_ai":"","zh_human":"","zh":"深红","status":"pending"}
-{"id":"iyHvUC7o","en":"Nooby's Tropics: Night","zh_draft":"Nooby的热带：夜晚","zh_ai":"","zh_human":"","zh":"Nooby的热带：夜晚","status":"pending"}
-{"id":"pBU6sNmQ","en":"TF2 Scout Zombies","zh_draft":"《军团要塞2》侦察兵僵尸","zh_ai":"","zh_human":"","zh":"《军团要塞2》侦察兵僵尸","status":"pending"}
-{"id":"YHioB2Cw","en":"I.... am Steve","zh_draft":"我……是史蒂夫","zh_ai":"","zh_human":"","zh":"我……是史蒂夫","status":"pending"}
-{"id":"9aQqakuT","en":"Invisible Kelp","zh_draft":"隐形海带","zh_ai":"","zh_human":"","zh":"隐形海带","status":"pending"}
-{"id":"ExlIN9RO","en":"XR's Dirt","zh_draft":"XR的泥土","zh_ai":"","zh_human":"","zh":"XR的泥土","status":"pending"}
-{"id":"HAsx63TZ","en":"Fresh Animations - Minecraft Movie Creeper","zh_draft":"最新动画——《我的世界》电影版“爬行者”","zh_ai":"","zh_human":"","zh":"最新动画——《我的世界》电影版“爬行者”","status":"pending"}
-{"id":"NAwl3EPi","en":"Minos Prime Mace Sounds","zh_draft":"Minos Prime 战锤音效","zh_ai":"","zh_human":"","zh":"Minos Prime 战锤音效","status":"pending"}
-{"id":"1987Iv7x","en":"Raccoon of Undying","zh_draft":"不朽浣熊","zh_ai":"","zh_human":"","zh":"不朽浣熊","status":"pending"}
-{"id":"9V8ZLktk","en":"Metal Sonic","zh_draft":"金属索尼克","zh_ai":"","zh_human":"","zh":"金属索尼克","status":"pending"}
-{"id":"Aqvz6ihW","en":"Smoothvanilla Red CPVP","zh_draft":"Smoothvanilla 红色 CPVP","zh_ai":"","zh_human":"","zh":"Smoothvanilla 红色 CPVP","status":"pending"}
-{"id":"Fv4NhHre","en":"GeeGaw's CE Pack","zh_draft":"GeeGaw 的 CE 套装","zh_ai":"","zh_human":"","zh":"GeeGaw 的 CE 套装","status":"pending"}
-{"id":"yUxKzkbS","en":"SCR Repaints By Skywalker - 170, 357, 377, 458, 700, 717","zh_draft":"Skywalker 改装的 SCR 涂装版 - 170、357、377、458、700、717","zh_ai":"","zh_human":"","zh":"Skywalker 改装的 SCR 涂装版 - 170、357、377、458、700、717","status":"pending"}
-{"id":"L0TAxVaB","en":"Minotaur Axes","zh_draft":"米诺陶洛斯战斧","zh_ai":"","zh_human":"","zh":"米诺陶洛斯战斧","status":"pending"}
-{"id":"VQh1AzQ6","en":"Cool Long Sword","zh_draft":"酷炫的长剑","zh_ai":"","zh_human":"","zh":"酷炫的长剑","status":"pending"}
+{"id":"n0PJhDVa","en":"realistic resource pack","zh_draft":"写实资源包","zh_ai":"真实资源包","zh_human":"","zh":"真实资源包","status":"ai"}
+{"id":"vYwhtzrR","en":"[MTR] Snapcab Elevator/Lift Textures","zh_draft":"[MTR] Snapcab 电梯纹理","zh_ai":"Snapcab 电梯/升降机纹理","zh_human":"","zh":"Snapcab 电梯/升降机纹理","status":"ai"}
+{"id":"188xcccD","en":"Vanilla Imagined","zh_draft":"想象中的香草","zh_ai":"原版想象","zh_human":"","zh":"原版想象","status":"ai"}
+{"id":"71pIP0PF","en":"MineShield Mobs","zh_draft":"MineShield 生物","zh_ai":"矿盾怪物","zh_human":"","zh":"矿盾怪物","status":"ai"}
+{"id":"VRQsYhGt","en":"[MTR] RegioJet SoundTransit S700","zh_draft":"[MTR] RegioJet SoundTransit S700","zh_ai":"RegioJet 声音交通 S700","zh_human":"","zh":"RegioJet 声音交通 S700","status":"ai"}
+{"id":"i93ed4ls","en":"Mechanical equation GUI Add-on for JEI mod","zh_draft":"JEI 模组的“力学方程”图形用户界面插件","zh_ai":"JEI 模组机械方程 GUI 扩展","zh_human":"","zh":"JEI 模组机械方程 GUI 扩展","status":"ai"}
+{"id":"iim2Dqm5","en":"Deep Red","zh_draft":"深红","zh_ai":"深红","zh_human":"","zh":"深红","status":"ai"}
+{"id":"iyHvUC7o","en":"Nooby's Tropics: Night","zh_draft":"Nooby的热带：夜晚","zh_ai":"新手的热带：夜晚","zh_human":"","zh":"新手的热带：夜晚","status":"ai"}
+{"id":"pBU6sNmQ","en":"TF2 Scout Zombies","zh_draft":"《军团要塞2》侦察兵僵尸","zh_ai":"TF2 精英僵尸","zh_human":"","zh":"TF2 精英僵尸","status":"ai"}
+{"id":"YHioB2Cw","en":"I.... am Steve","zh_draft":"我……是史蒂夫","zh_ai":"我...是史蒂夫","zh_human":"","zh":"我...是史蒂夫","status":"ai"}
+{"id":"9aQqakuT","en":"Invisible Kelp","zh_draft":"隐形海带","zh_ai":"隐形海藻","zh_human":"","zh":"隐形海藻","status":"ai"}
+{"id":"ExlIN9RO","en":"XR's Dirt","zh_draft":"XR的泥土","zh_ai":"XR 的泥土","zh_human":"","zh":"XR 的泥土","status":"ai"}
+{"id":"HAsx63TZ","en":"Fresh Animations - Minecraft Movie Creeper","zh_draft":"最新动画——《我的世界》电影版“爬行者”","zh_ai":"新鲜动画 - 我的世界电影爬行者","zh_human":"","zh":"新鲜动画 - 我的世界电影爬行者","status":"ai"}
+{"id":"NAwl3EPi","en":"Minos Prime Mace Sounds","zh_draft":"Minos Prime 战锤音效","zh_ai":"Minos 首领战锤声音","zh_human":"","zh":"Minos 首领战锤声音","status":"ai"}
+{"id":"1987Iv7x","en":"Raccoon of Undying","zh_draft":"不朽浣熊","zh_ai":"不朽的浣熊","zh_human":"","zh":"不朽的浣熊","status":"ai"}
+{"id":"9V8ZLktk","en":"Metal Sonic","zh_draft":"金属索尼克","zh_ai":"金属音速","zh_human":"","zh":"金属音速","status":"ai"}
+{"id":"Aqvz6ihW","en":"Smoothvanilla Red CPVP","zh_draft":"Smoothvanilla 红色 CPVP","zh_ai":"顺滑原版红 CPVP","zh_human":"","zh":"顺滑原版红 CPVP","status":"ai"}
+{"id":"Fv4NhHre","en":"GeeGaw's CE Pack","zh_draft":"GeeGaw 的 CE 套装","zh_ai":"GeeGaw 的 CE 包","zh_human":"","zh":"GeeGaw 的 CE 包","status":"ai"}
+{"id":"yUxKzkbS","en":"SCR Repaints By Skywalker - 170, 357, 377, 458, 700, 717","zh_draft":"Skywalker 改装的 SCR 涂装版 - 170、357、377、458、700、717","zh_ai":"Skywalker 的 SCR 重绘 - 170, 357, 377, 458, 700, 717","zh_human":"","zh":"Skywalker 的 SCR 重绘 - 170, 357, 377, 458, 700, 717","status":"ai"}
+{"id":"L0TAxVaB","en":"Minotaur Axes","zh_draft":"米诺陶洛斯战斧","zh_ai":"牛头人斧头","zh_human":"","zh":"牛头人斧头","status":"ai"}
+{"id":"VQh1AzQ6","en":"Cool Long Sword","zh_draft":"酷炫的长剑","zh_ai":"酷长剑","zh_human":"","zh":"酷长剑","status":"ai"}
