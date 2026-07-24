@@ -1,10 +1,9 @@
 {
-  "version": "8e5a51adb5286fee",
-  "built_at": "2026-07-23T19:26:16Z",
-  "pair_count": 144537,
+  "version": "5eeeb1c2e100c977",
+  "built_at": "2026-07-24T18:31:03Z",
+  "pair_count": 145089,
   "status_counts": {
-    "ai": 141454,
-    "pending": 3083
+    "ai": 145089
   },
   "format": "json-only",
   "files": {
