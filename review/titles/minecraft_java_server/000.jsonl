@@ -1778,9 +1778,9 @@
 {"id":"ygMQoJPy","en":"Spark SMP","zh_draft":"","zh_ai":"Spark SMP","zh_human":"","zh":"Spark SMP","status":"ai"}
 {"id":"zIjc9hsp","en":"YugiSmp","zh_draft":"","zh_ai":"YugiSmp","zh_human":"","zh":"YugiSmp","status":"ai"}
 {"id":"zxRR6pNy","en":"Dirt.smp","zh_draft":"","zh_ai":"Dirt.smp","zh_human":"","zh":"Dirt.smp","status":"ai"}
-{"id":"7FSYpb6A","en":"Cobblemon Kanto","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6cRxYE7h","en":"Unstable SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dcBr3O3E","en":"IonTect Grief","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dei19P3J","en":"臺灣學生麥塊","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ejC7jlee","en":"Frealism Server","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gyaDaYf1","en":"SoraSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"7FSYpb6A","en":"Cobblemon Kanto","zh_draft":"","zh_ai":"方块龙 关东","zh_human":"","zh":"方块龙 关东","status":"ai"}
+{"id":"6cRxYE7h","en":"Unstable SMP","zh_draft":"","zh_ai":"不稳定生存模式","zh_human":"","zh":"不稳定生存模式","status":"ai"}
+{"id":"dcBr3O3E","en":"IonTect Grief","zh_draft":"","zh_ai":"离子科技 悲剧","zh_human":"","zh":"离子科技 悲剧","status":"ai"}
+{"id":"dei19P3J","en":"臺灣學生麥塊","zh_draft":"","zh_ai":"台湾学生方块","zh_human":"","zh":"台湾学生方块","status":"ai"}
+{"id":"ejC7jlee","en":"Frealism Server","zh_draft":"","zh_ai":"真实感服务器","zh_human":"","zh":"真实感服务器","status":"ai"}
+{"id":"gyaDaYf1","en":"SoraSMP","zh_draft":"","zh_ai":"空之生存模式","zh_human":"","zh":"空之生存模式","status":"ai"}
