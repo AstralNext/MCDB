@@ -1666,27 +1666,27 @@
 {"id":"GevfEXnx","en":"Peterwolfs Realistic Tree Felling","zh_draft":"","zh_ai":"Peterwolf的真实砍树","zh_human":"","zh":"Peterwolf的真实砍树","status":"ai"}
 {"id":"KHLLOqDu","en":"Hostile World","zh_draft":"","zh_ai":"敌对世界","zh_human":"","zh":"敌对世界","status":"ai"}
 {"id":"KbHyew6G","en":"The Anime Loadout","zh_draft":"","zh_ai":"动漫装备","zh_human":"","zh":"动漫装备","status":"ai"}
-{"id":"KplSrRUa","en":"FixDupeNeo","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NAcgUh6C","en":"JEI Unhidden","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NckSeyV2","en":"Nightmares.jar","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"OMXUy3pP","en":"Gatestation","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"P5HZdBvz","en":"The Astral Update","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RCh1jW3C","en":"Painting +","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TO4d88Vn","en":"Bricks Plus","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VifjN5wQ","en":"Cobblemon EV Pool","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XVxGsXhx","en":"Jaam's Weaponry: Caverns & Chasms","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"adVJGDAZ","en":"Cleaner Cave Mining","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ai7ZkG98","en":"Structure Finder","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ce62f40P","en":"Potato Roots","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"g7kOj9iz","en":"Rounded Tab","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iD2FJnQa","en":"Create: Labor Rush","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mxGlCt2p","en":"My Domicile","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"opZAVcx2","en":"No Babies","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qpZoSmJr","en":"d1ezz9's chat keybinds","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rarX7ijP","en":"BladeStorm","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sfKAll4U","en":"No Drift","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"taO7cEVA","en":"MunkeysOfflineTP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vr8jnBnS","en":"Custom Copper Golems","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"w7YbsGZw","en":"Hot Lava (Biome)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wySVkad1","en":"Jaam's Weaponry: Mongoose Addon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wzbJREOs","en":"Food Ores","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"KplSrRUa","en":"FixDupeNeo","zh_draft":"","zh_ai":"去重修复器","zh_human":"","zh":"去重修复器","status":"ai"}
+{"id":"NAcgUh6C","en":"JEI Unhidden","zh_draft":"","zh_ai":"JEI 隐藏物品显示","zh_human":"","zh":"JEI 隐藏物品显示","status":"ai"}
+{"id":"NckSeyV2","en":"Nightmares.jar","zh_draft":"","zh_ai":"噩梦.jar","zh_human":"","zh":"噩梦.jar","status":"ai"}
+{"id":"OMXUy3pP","en":"Gatestation","zh_draft":"","zh_ai":"测试站","zh_human":"","zh":"测试站","status":"ai"}
+{"id":"P5HZdBvz","en":"The Astral Update","zh_draft":"","zh_ai":"星界更新","zh_human":"","zh":"星界更新","status":"ai"}
+{"id":"RCh1jW3C","en":"Painting +","zh_draft":"","zh_ai":"绘画+","zh_human":"","zh":"绘画+","status":"ai"}
+{"id":"TO4d88Vn","en":"Bricks Plus","zh_draft":"","zh_ai":"砖块+","zh_human":"","zh":"砖块+","status":"ai"}
+{"id":"VifjN5wQ","en":"Cobblemon EV Pool","zh_draft":"","zh_ai":"圆石兽 EV 池","zh_human":"","zh":"圆石兽 EV 池","status":"ai"}
+{"id":"XVxGsXhx","en":"Jaam's Weaponry: Caverns & Chasms","zh_draft":"","zh_ai":"Jaam 武器：洞穴与深渊","zh_human":"","zh":"Jaam 武器：洞穴与深渊","status":"ai"}
+{"id":"adVJGDAZ","en":"Cleaner Cave Mining","zh_draft":"","zh_ai":"清洁洞穴采矿","zh_human":"","zh":"清洁洞穴采矿","status":"ai"}
+{"id":"ai7ZkG98","en":"Structure Finder","zh_draft":"","zh_ai":"结构寻找器","zh_human":"","zh":"结构寻找器","status":"ai"}
+{"id":"ce62f40P","en":"Potato Roots","zh_draft":"","zh_ai":"土豆根","zh_human":"","zh":"土豆根","status":"ai"}
+{"id":"g7kOj9iz","en":"Rounded Tab","zh_draft":"","zh_ai":"圆角标签","zh_human":"","zh":"圆角标签","status":"ai"}
+{"id":"iD2FJnQa","en":"Create: Labor Rush","zh_draft":"","zh_ai":"机械动力：劳动冲刺","zh_human":"","zh":"机械动力：劳动冲刺","status":"ai"}
+{"id":"mxGlCt2p","en":"My Domicile","zh_draft":"","zh_ai":"我的住所","zh_human":"","zh":"我的住所","status":"ai"}
+{"id":"opZAVcx2","en":"No Babies","zh_draft":"","zh_ai":"无婴儿","zh_human":"","zh":"无婴儿","status":"ai"}
+{"id":"qpZoSmJr","en":"d1ezz9's chat keybinds","zh_draft":"","zh_ai":"d1ezz9 聊天快捷键","zh_human":"","zh":"d1ezz9 聊天快捷键","status":"ai"}
+{"id":"rarX7ijP","en":"BladeStorm","zh_draft":"","zh_ai":"刀风暴","zh_human":"","zh":"刀风暴","status":"ai"}
+{"id":"sfKAll4U","en":"No Drift","zh_draft":"","zh_ai":"无漂移","zh_human":"","zh":"无漂移","status":"ai"}
+{"id":"taO7cEVA","en":"MunkeysOfflineTP","zh_draft":"","zh_ai":"猴子离线传送","zh_human":"","zh":"猴子离线传送","status":"ai"}
+{"id":"vr8jnBnS","en":"Custom Copper Golems","zh_draft":"","zh_ai":"自定义铜石像鬼","zh_human":"","zh":"自定义铜石像鬼","status":"ai"}
+{"id":"w7YbsGZw","en":"Hot Lava (Biome)","zh_draft":"","zh_ai":"热熔岩（生物群系)","zh_human":"","zh":"热熔岩（生物群系)","status":"ai"}
+{"id":"wySVkad1","en":"Jaam's Weaponry: Mongoose Addon","zh_draft":"","zh_ai":"Jaam 武器：mongoose 扩展","zh_human":"","zh":"Jaam 武器：mongoose 扩展","status":"ai"}
+{"id":"wzbJREOs","en":"Food Ores","zh_draft":"","zh_ai":"食物矿石","zh_human":"","zh":"食物矿石","status":"ai"}

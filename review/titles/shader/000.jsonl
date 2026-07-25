@@ -671,10 +671,10 @@
 {"id":"2Tbyk0c3","en":"NightVision Goggles","zh_draft":"","zh_ai":"夜视仪","zh_human":"","zh":"夜视仪","status":"ai"}
 {"id":"xsT9i8EC","en":"DreamFall Shaders","zh_draft":"","zh_ai":"梦境着色器","zh_human":"","zh":"梦境着色器","status":"ai"}
 {"id":"sIWy5A4M","en":"Depth of field Test3","zh_draft":"","zh_ai":"景深测试3","zh_human":"","zh":"景深测试3","status":"ai"}
-{"id":"dcw3Tvz1","en":"Vantage PVP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kSQhIuld","en":"Dizzy Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fRHzjH2w","en":"Vibrant Vanilla Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PodZw0gR","en":"Zephyrr's Vibrant Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"coczPlMB","en":"Horizon Unbound","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pmts4duk","en":"Vivid Horizon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"s5tAqISx","en":"Feather Gradient","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"dcw3Tvz1","en":"Vantage PVP","zh_draft":"","zh_ai":"优势PVP","zh_human":"","zh":"优势PVP","status":"ai"}
+{"id":"kSQhIuld","en":"Dizzy Shaders","zh_draft":"","zh_ai":"眩晕着色器","zh_human":"","zh":"眩晕着色器","status":"ai"}
+{"id":"fRHzjH2w","en":"Vibrant Vanilla Shader","zh_draft":"","zh_ai":"鲜艳的香草着色器","zh_human":"","zh":"鲜艳的香草着色器","status":"ai"}
+{"id":"PodZw0gR","en":"Zephyrr's Vibrant Shaders","zh_draft":"","zh_ai":"Zephyrr的鲜艳着色器","zh_human":"","zh":"Zephyrr的鲜艳着色器","status":"ai"}
+{"id":"coczPlMB","en":"Horizon Unbound","zh_draft":"","zh_ai":"无界地平线","zh_human":"","zh":"无界地平线","status":"ai"}
+{"id":"pmts4duk","en":"Vivid Horizon","zh_draft":"","zh_ai":"生动的地平线","zh_human":"","zh":"生动的地平线","status":"ai"}
+{"id":"s5tAqISx","en":"Feather Gradient","zh_draft":"","zh_ai":"羽毛渐变","zh_human":"","zh":"羽毛渐变","status":"ai"}

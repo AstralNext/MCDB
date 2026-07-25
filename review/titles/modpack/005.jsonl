@@ -2803,11 +2803,11 @@
 {"id":"Hr4nkIM7","en":"Sector 12","zh_draft":"","zh_ai":"12区","zh_human":"","zh":"12区","status":"ai"}
 {"id":"CnAUvLaM","en":"Refabricated Villagers: Vanilla+","zh_draft":"","zh_ai":"重制村民：原版增强","zh_human":"","zh":"重制村民：原版增强","status":"ai"}
 {"id":"ODaP9Fbb","en":"Cherry+","zh_draft":"","zh_ai":"樱桃增强","zh_human":"","zh":"樱桃增强","status":"ai"}
-{"id":"Tym1CZJO","en":"Krabby Patty","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9yhUwEKo","en":"Wet Cardboard SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QnFNkEEN","en":"HardPack_Reloaded","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VGJyP7oC","en":"Origin Realms Reborn","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wmkjjpwY","en":"4b4t [OFFICAL]","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UkVnzZxQ","en":"Vulkano","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sTGYyQqJ","en":"Duststorm","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LUHEI9tw","en":"OriiMon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Tym1CZJO","en":"Krabby Patty","zh_draft":"","zh_ai":"蟹肉饼","zh_human":"","zh":"蟹肉饼","status":"ai"}
+{"id":"9yhUwEKo","en":"Wet Cardboard SMP","zh_draft":"","zh_ai":"湿纸板生存模式","zh_human":"","zh":"湿纸板生存模式","status":"ai"}
+{"id":"QnFNkEEN","en":"HardPack_Reloaded","zh_draft":"","zh_ai":"硬包重载","zh_human":"","zh":"硬包重载","status":"ai"}
+{"id":"VGJyP7oC","en":"Origin Realms Reborn","zh_draft":"","zh_ai":"起源领域重生","zh_human":"","zh":"起源领域重生","status":"ai"}
+{"id":"wmkjjpwY","en":"4b4t [OFFICAL]","zh_draft":"","zh_ai":"4b4t [官方]","zh_human":"","zh":"4b4t [官方]","status":"ai"}
+{"id":"UkVnzZxQ","en":"Vulkano","zh_draft":"","zh_ai":"火山","zh_human":"","zh":"火山","status":"ai"}
+{"id":"sTGYyQqJ","en":"Duststorm","zh_draft":"","zh_ai":"沙尘暴","zh_human":"","zh":"沙尘暴","status":"ai"}
+{"id":"LUHEI9tw","en":"OriiMon","zh_draft":"","zh_ai":"OriiMon","zh_human":"","zh":"OriiMon","status":"ai"}
