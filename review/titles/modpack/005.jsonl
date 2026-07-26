@@ -2811,7 +2811,7 @@
 {"id":"UkVnzZxQ","en":"Vulkano","zh_draft":"","zh_ai":"火山","zh_human":"","zh":"火山","status":"ai"}
 {"id":"sTGYyQqJ","en":"Duststorm","zh_draft":"","zh_ai":"沙尘暴","zh_human":"","zh":"沙尘暴","status":"ai"}
 {"id":"LUHEI9tw","en":"OriiMon","zh_draft":"","zh_ai":"OriiMon","zh_human":"","zh":"OriiMon","status":"ai"}
-{"id":"v9pkzO1R","en":"An Extra Pinch of Vanilla","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WNSyZtL4","en":"Create: Aeronova","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8XEsWpQz","en":"StammCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SEK3yghk","en":"DolphinWorks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"v9pkzO1R","en":"An Extra Pinch of Vanilla","zh_draft":"","zh_ai":"额外香草味","zh_human":"","zh":"额外香草味","status":"ai"}
+{"id":"WNSyZtL4","en":"Create: Aeronova","zh_draft":"","zh_ai":"机械动力：Aeronova","zh_human":"","zh":"机械动力：Aeronova","status":"ai"}
+{"id":"8XEsWpQz","en":"StammCraft","zh_draft":"","zh_ai":"StammCraft","zh_human":"","zh":"StammCraft","status":"ai"}
+{"id":"SEK3yghk","en":"DolphinWorks","zh_draft":"","zh_ai":"DolphinWorks","zh_human":"","zh":"DolphinWorks","status":"ai"}
