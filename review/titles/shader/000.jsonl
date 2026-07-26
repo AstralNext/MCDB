@@ -678,11 +678,11 @@
 {"id":"coczPlMB","en":"Horizon Unbound","zh_draft":"","zh_ai":"无界地平线","zh_human":"","zh":"无界地平线","status":"ai"}
 {"id":"pmts4duk","en":"Vivid Horizon","zh_draft":"","zh_ai":"生动的地平线","zh_human":"","zh":"生动的地平线","status":"ai"}
 {"id":"s5tAqISx","en":"Feather Gradient","zh_draft":"","zh_ai":"羽毛渐变","zh_human":"","zh":"羽毛渐变","status":"ai"}
-{"id":"lYoE5ym5","en":"Lost Signal VHS","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PrfmJcxC","en":"Basic Lighing","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VUpulnMt","en":"lucent-realms-shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dUYZpT7N","en":"Xelvora","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SChVy308","en":"WireSight","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TOAcsNEL","en":"RealyTy Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JH3s1XBW","en":"Eddyveil","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"j3475OCn","en":"vfvs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"lYoE5ym5","en":"Lost Signal VHS","zh_draft":"","zh_ai":"失落信号 VHS","zh_human":"","zh":"失落信号 VHS","status":"ai"}
+{"id":"PrfmJcxC","en":"Basic Lighing","zh_draft":"","zh_ai":"基础光照","zh_human":"","zh":"基础光照","status":"ai"}
+{"id":"VUpulnMt","en":"lucent-realms-shaders","zh_draft":"","zh_ai":"明亮领域光影","zh_human":"","zh":"明亮领域光影","status":"ai"}
+{"id":"dUYZpT7N","en":"Xelvora","zh_draft":"","zh_ai":"塞尔沃拉","zh_human":"","zh":"塞尔沃拉","status":"ai"}
+{"id":"SChVy308","en":"WireSight","zh_draft":"","zh_ai":"线路透视","zh_human":"","zh":"线路透视","status":"ai"}
+{"id":"TOAcsNEL","en":"RealyTy Shaders","zh_draft":"","zh_ai":"RealyTy 光影","zh_human":"","zh":"RealyTy 光影","status":"ai"}
+{"id":"JH3s1XBW","en":"Eddyveil","zh_draft":"","zh_ai":"艾迪维尔","zh_human":"","zh":"艾迪维尔","status":"ai"}
+{"id":"j3475OCn","en":"vfvs","zh_draft":"","zh_ai":"vfvs","zh_human":"","zh":"vfvs","status":"ai"}
