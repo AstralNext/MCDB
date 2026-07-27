@@ -2815,39 +2815,39 @@
 {"id":"WNSyZtL4","en":"Create: Aeronova","zh_draft":"","zh_ai":"机械动力：Aeronova","zh_human":"","zh":"机械动力：Aeronova","status":"ai"}
 {"id":"8XEsWpQz","en":"StammCraft","zh_draft":"","zh_ai":"StammCraft","zh_human":"","zh":"StammCraft","status":"ai"}
 {"id":"SEK3yghk","en":"DolphinWorks","zh_draft":"","zh_ai":"DolphinWorks","zh_human":"","zh":"DolphinWorks","status":"ai"}
-{"id":"oiEg3yeH","en":"TacZ Roguelike","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"X94cGq8u","en":"Politota","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Mi1BCcIz","en":"Unstable SMP Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FS89Qsje","en":"Ethereal Wrath","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dcmoUjCA","en":"Hypixel Modpack P0","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"e2VHVwo6","en":"Khaojee Enchanted Visuals","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ReMWzCe1","en":"Crazy Craft Rebuilt","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sRWb2ytT","en":"Unknown","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SAYTQIDU","en":"Forever Pack by SebaoPL","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VvYROeF0","en":"SpaceSMP Server Mods","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hDxjxnH3","en":"Duck's Definitive Cobblemon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5YEZFHaV","en":"Vulkan Performance Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HgOgR5gz","en":"Sofi&Rafa Land","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hMMW0zs9","en":"Project Foundry","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xwJW1NTx","en":"实用整合包","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KhY1t5MF","en":"Flame Client","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KxqmxgLn","en":"ChillCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LdAWtiOa","en":"Create: Murder and Machines","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"svoq82ij","en":"Simple Boost FPS","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Xs8q6pbG","en":"SzymxPL's Tornado Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cV8J2Vgd","en":"QOL Basics","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"caBEyhSe","en":"Best Mods (BM)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ehoGjT2N","en":"MC Easy Play","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"p5A8xPVp","en":"ReOStuVisuals","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uqyDuzU8","en":"Shlyap modpack for everyone (SMPFE)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9TyHpnki","en":"Farsunder Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Zbgw9aWK","en":"PotatoSB - Performance Modpack for Hypixel Skyblock","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mdap1SdO","en":"Pacecraft 2","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CCNiT64i","en":"Pluto Perfected","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TT73lelq","en":"Minimal Needs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YzMTTIE2","en":"Antewxx","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kNEiedLf","en":"Freshy & Vanilla","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JVWnl6Jo","en":"CreatorSMP Updated","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"AVoT4U8G","en":"SkillFull Vanilla","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"AvYreYOq","en":"Cleanslate SMP Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cmOSNAzy","en":"Fabled Realms","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"oiEg3yeH","en":"TacZ Roguelike","zh_draft":"","zh_ai":"TacZ rogue-like","zh_human":"","zh":"TacZ rogue-like","status":"ai"}
+{"id":"X94cGq8u","en":"Politota","zh_draft":"","zh_ai":"Politota","zh_human":"","zh":"Politota","status":"ai"}
+{"id":"Mi1BCcIz","en":"Unstable SMP Modpack","zh_draft":"","zh_ai":"不稳定SMP模组包","zh_human":"","zh":"不稳定SMP模组包","status":"ai"}
+{"id":"FS89Qsje","en":"Ethereal Wrath","zh_draft":"","zh_ai":"虚幻之怒","zh_human":"","zh":"虚幻之怒","status":"ai"}
+{"id":"dcmoUjCA","en":"Hypixel Modpack P0","zh_draft":"","zh_ai":"Hypixel模组包P0","zh_human":"","zh":"Hypixel模组包P0","status":"ai"}
+{"id":"e2VHVwo6","en":"Khaojee Enchanted Visuals","zh_draft":"","zh_ai":"Khaojee附魔视觉效果","zh_human":"","zh":"Khaojee附魔视觉效果","status":"ai"}
+{"id":"ReMWzCe1","en":"Crazy Craft Rebuilt","zh_draft":"","zh_ai":"疯狂工艺重建","zh_human":"","zh":"疯狂工艺重建","status":"ai"}
+{"id":"sRWb2ytT","en":"Unknown","zh_draft":"","zh_ai":"未知","zh_human":"","zh":"未知","status":"ai"}
+{"id":"SAYTQIDU","en":"Forever Pack by SebaoPL","zh_draft":"","zh_ai":"SebaoPL 永恒整合包","zh_human":"","zh":"SebaoPL 永恒整合包","status":"ai"}
+{"id":"VvYROeF0","en":"SpaceSMP Server Mods","zh_draft":"","zh_ai":"SpaceSMP 服务器模组","zh_human":"","zh":"SpaceSMP 服务器模组","status":"ai"}
+{"id":"hDxjxnH3","en":"Duck's Definitive Cobblemon","zh_draft":"","zh_ai":"Duck 的终极 Cobblemon","zh_human":"","zh":"Duck 的终极 Cobblemon","status":"ai"}
+{"id":"5YEZFHaV","en":"Vulkan Performance Pack","zh_draft":"","zh_ai":"Vulkan 性能整合包","zh_human":"","zh":"Vulkan 性能整合包","status":"ai"}
+{"id":"HgOgR5gz","en":"Sofi&Rafa Land","zh_draft":"","zh_ai":"Sofi&Rafa 领地","zh_human":"","zh":"Sofi&Rafa 领地","status":"ai"}
+{"id":"hMMW0zs9","en":"Project Foundry","zh_draft":"","zh_ai":"项目铸造厂","zh_human":"","zh":"项目铸造厂","status":"ai"}
+{"id":"xwJW1NTx","en":"实用整合包","zh_draft":"","zh_ai":"实用整合包","zh_human":"","zh":"实用整合包","status":"ai"}
+{"id":"KhY1t5MF","en":"Flame Client","zh_draft":"","zh_ai":"火焰客户端","zh_human":"","zh":"火焰客户端","status":"ai"}
+{"id":"KxqmxgLn","en":"ChillCraft","zh_draft":"","zh_ai":"悠闲工艺","zh_human":"","zh":"悠闲工艺","status":"ai"}
+{"id":"LdAWtiOa","en":"Create: Murder and Machines","zh_draft":"","zh_ai":"机械动力：谋杀与机械","zh_human":"","zh":"机械动力：谋杀与机械","status":"ai"}
+{"id":"svoq82ij","en":"Simple Boost FPS","zh_draft":"","zh_ai":"简单帧率提升","zh_human":"","zh":"简单帧率提升","status":"ai"}
+{"id":"Xs8q6pbG","en":"SzymxPL's Tornado Modpack","zh_draft":"","zh_ai":"SzymxPL 的龙卷风整合包","zh_human":"","zh":"SzymxPL 的龙卷风整合包","status":"ai"}
+{"id":"cV8J2Vgd","en":"QOL Basics","zh_draft":"","zh_ai":"生活质量基础","zh_human":"","zh":"生活质量基础","status":"ai"}
+{"id":"caBEyhSe","en":"Best Mods (BM)","zh_draft":"","zh_ai":"最佳模组 (BM)","zh_human":"","zh":"最佳模组 (BM)","status":"ai"}
+{"id":"ehoGjT2N","en":"MC Easy Play","zh_draft":"","zh_ai":"MC 轻松玩","zh_human":"","zh":"MC 轻松玩","status":"ai"}
+{"id":"p5A8xPVp","en":"ReOStuVisuals","zh_draft":"","zh_ai":"ReOStu 视觉效果","zh_human":"","zh":"ReOStu 视觉效果","status":"ai"}
+{"id":"uqyDuzU8","en":"Shlyap modpack for everyone (SMPFE)","zh_draft":"","zh_ai":"Shlyap 全民整合包 (SMPFE)","zh_human":"","zh":"Shlyap 全民整合包 (SMPFE)","status":"ai"}
+{"id":"9TyHpnki","en":"Farsunder Modpack","zh_draft":"","zh_ai":"Farsunder 整合包","zh_human":"","zh":"Farsunder 整合包","status":"ai"}
+{"id":"Zbgw9aWK","en":"PotatoSB - Performance Modpack for Hypixel Skyblock","zh_draft":"","zh_ai":"PotatoSB - 海克斯天空岛性能整合包","zh_human":"","zh":"PotatoSB - 海克斯天空岛性能整合包","status":"ai"}
+{"id":"mdap1SdO","en":"Pacecraft 2","zh_draft":"","zh_ai":"节奏工艺 2","zh_human":"","zh":"节奏工艺 2","status":"ai"}
+{"id":"CCNiT64i","en":"Pluto Perfected","zh_draft":"","zh_ai":"完美冥王星","zh_human":"","zh":"完美冥王星","status":"ai"}
+{"id":"TT73lelq","en":"Minimal Needs","zh_draft":"","zh_ai":"极简需求","zh_human":"","zh":"极简需求","status":"ai"}
+{"id":"YzMTTIE2","en":"Antewxx","zh_draft":"","zh_ai":"Antewxx","zh_human":"","zh":"Antewxx","status":"ai"}
+{"id":"kNEiedLf","en":"Freshy & Vanilla","zh_draft":"","zh_ai":"清新与原版","zh_human":"","zh":"清新与原版","status":"ai"}
+{"id":"JVWnl6Jo","en":"CreatorSMP Updated","zh_draft":"","zh_ai":"CreatorSMP 更新版","zh_human":"","zh":"CreatorSMP 更新版","status":"ai"}
+{"id":"AVoT4U8G","en":"SkillFull Vanilla","zh_draft":"","zh_ai":"技能满点原版","zh_human":"","zh":"技能满点原版","status":"ai"}
+{"id":"AvYreYOq","en":"Cleanslate SMP Modpack","zh_draft":"","zh_ai":"Cleanslate SMP 整合包","zh_human":"","zh":"Cleanslate SMP 整合包","status":"ai"}
+{"id":"cmOSNAzy","en":"Fabled Realms","zh_draft":"","zh_ai":"传说领域","zh_human":"","zh":"传说领域","status":"ai"}
