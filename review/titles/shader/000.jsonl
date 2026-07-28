@@ -694,8 +694,8 @@
 {"id":"9k9jbu0O","en":"Kuwahara Shader","zh_draft":"","zh_ai":"Kuwahara着色器","zh_human":"","zh":"Kuwahara着色器","status":"ai"}
 {"id":"HEhd6OXA","en":"Rivet Lite Animatic 1","zh_draft":"","zh_ai":"Rivet Lite动画1","zh_human":"","zh":"Rivet Lite动画1","status":"ai"}
 {"id":"HPxw9Vkw","en":"ColorShuffle","zh_draft":"","zh_ai":"ColorShuffle","zh_human":"","zh":"ColorShuffle","status":"ai"}
-{"id":"nE7lYhsP","en":"Etherea Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ACzzdXfc","en":"BSR Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GqCH3B4C","en":"BSU Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"S0hPQ8C2","en":"Carrot Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"P7HjKDV0","en":"ELASION","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"nE7lYhsP","en":"Etherea Shader","zh_draft":"","zh_ai":"以太光影","zh_human":"","zh":"以太光影","status":"ai"}
+{"id":"ACzzdXfc","en":"BSR Shaders","zh_draft":"","zh_ai":"BSR 光影","zh_human":"","zh":"BSR 光影","status":"ai"}
+{"id":"GqCH3B4C","en":"BSU Shaders","zh_draft":"","zh_ai":"BSU 光影","zh_human":"","zh":"BSU 光影","status":"ai"}
+{"id":"S0hPQ8C2","en":"Carrot Shaders","zh_draft":"","zh_ai":"胡萝卜光影","zh_human":"","zh":"胡萝卜光影","status":"ai"}
+{"id":"P7HjKDV0","en":"ELASION","zh_draft":"","zh_ai":"ELASION","zh_human":"","zh":"ELASION","status":"ai"}
