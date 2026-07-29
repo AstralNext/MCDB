@@ -1815,16 +1815,16 @@
 {"id":"vvphjvWA","en":"rencai2912server","zh_draft":"","zh_ai":"人才 2912 服务器","zh_human":"","zh":"人才 2912 服务器","status":"ai"}
 {"id":"w63OCEPR","en":"RivalsSMP","zh_draft":"","zh_ai":"对手 SMP","zh_human":"","zh":"对手 SMP","status":"ai"}
 {"id":"32O9bU06","en":"Frontier SMP","zh_draft":"","zh_ai":"边境生存模式","zh_human":"","zh":"边境生存模式","status":"ai"}
-{"id":"K44LvkYj","en":"Survival Adventure PRK","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"z7xIP94T","en":"SaterbyMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2t84aZwf","en":"MysteryFFA","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4PyPO10u","en":"DuskSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8bYl56c4","en":"CheeseWhiz smp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DTBQBrH7","en":"FortuneCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"E7PNqf7W","en":"Blocklandia","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GGb7QhGT","en":"MCNP Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KOlONQHA","en":"NobleSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XUA97Vxl","en":"ArpalSmp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ddroHrIB","en":"馬鈴薯伺服器","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"oGDMBVFm","en":"SmmPvP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pqEjwFrl","en":"Frogo SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"K44LvkYj","en":"Survival Adventure PRK","zh_draft":"","zh_ai":"生存冒险PRK","zh_human":"","zh":"生存冒险PRK","status":"ai"}
+{"id":"z7xIP94T","en":"SaterbyMC","zh_draft":"","zh_ai":"SaterbyMC","zh_human":"","zh":"SaterbyMC","status":"ai"}
+{"id":"2t84aZwf","en":"MysteryFFA","zh_draft":"","zh_ai":"神秘FFA","zh_human":"","zh":"神秘FFA","status":"ai"}
+{"id":"4PyPO10u","en":"DuskSMP","zh_draft":"","zh_ai":"黄昏生存模式","zh_human":"","zh":"黄昏生存模式","status":"ai"}
+{"id":"8bYl56c4","en":"CheeseWhiz smp","zh_draft":"","zh_ai":"奶酪威士忌SMP","zh_human":"","zh":"奶酪威士忌SMP","status":"ai"}
+{"id":"DTBQBrH7","en":"FortuneCraft","zh_draft":"","zh_ai":"幸运工坊","zh_human":"","zh":"幸运工坊","status":"ai"}
+{"id":"E7PNqf7W","en":"Blocklandia","zh_draft":"","zh_ai":"方块大陆","zh_human":"","zh":"方块大陆","status":"ai"}
+{"id":"GGb7QhGT","en":"MCNP Network","zh_draft":"","zh_ai":"MCNP网络","zh_human":"","zh":"MCNP网络","status":"ai"}
+{"id":"KOlONQHA","en":"NobleSMP","zh_draft":"","zh_ai":"贵族生存模式","zh_human":"","zh":"贵族生存模式","status":"ai"}
+{"id":"XUA97Vxl","en":"ArpalSmp","zh_draft":"","zh_ai":"ArpalSMP","zh_human":"","zh":"ArpalSMP","status":"ai"}
+{"id":"ddroHrIB","en":"馬鈴薯伺服器","zh_draft":"","zh_ai":"马铃薯服务器","zh_human":"","zh":"马铃薯服务器","status":"ai"}
+{"id":"oGDMBVFm","en":"SmmPvP","zh_draft":"","zh_ai":"SmmPvP","zh_human":"","zh":"SmmPvP","status":"ai"}
+{"id":"pqEjwFrl","en":"Frogo SMP","zh_draft":"","zh_ai":"青蛙生存模式","zh_human":"","zh":"青蛙生存模式","status":"ai"}
