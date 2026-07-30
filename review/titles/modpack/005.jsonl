@@ -2859,23 +2859,23 @@
 {"id":"2TiStBcf","en":"Vanilla Glaze","zh_draft":"","zh_ai":"香草釉","zh_human":"","zh":"香草釉","status":"ai"}
 {"id":"wKnwi7YH","en":"A Nomads World","zh_draft":"","zh_ai":"流浪者世界","zh_human":"","zh":"流浪者世界","status":"ai"}
 {"id":"qZC1kr7U","en":"Industrie SMP","zh_draft":"","zh_ai":"工业生存模式","zh_human":"","zh":"工业生存模式","status":"ai"}
-{"id":"HqI8IE7D","en":"The Rat Bunch","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GoM6Iqpe","en":"Better Vanilla+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ansHY0fA","en":"Fabulously Fossils & Archeology","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Bs4QTm4p","en":"Warmer Summer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"d2TU8Feu","en":"Jini的太阳系整合包 【Jini's Solar System Pack】","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"t3xj3Xtr","en":"BAX","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"94535gsW","en":"Vulkano Ultra Optimized","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CL11VdqA","en":"Guy's Server Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PeoTLwVZ","en":"All Mods In A Day","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SXSkcRbg","en":"Cobblemon beyond","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Sz3ESaOD","en":"Panex's Technical Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4tD8CBvp","en":"Wild War","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TKio7EJc","en":"Create Created","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TUx2uNSB","en":"Vanilla Reloaded","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rr1pM3AE","en":"XBOX: One [LegacyMC]","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Pr88OjXw","en":"Guns n' Cooking n' Stuffz (questcraft support)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eOJ5Z8P4","en":"Palcraftmon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lvmMLF8G","en":"K-Land Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"G61oqBhd","en":"MopDeck","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"69xvNV2K","en":"CobblemonUnbound","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"HqI8IE7D","en":"The Rat Bunch","zh_draft":"","zh_ai":"老鼠群","zh_human":"","zh":"老鼠群","status":"ai"}
+{"id":"GoM6Iqpe","en":"Better Vanilla+","zh_draft":"","zh_ai":"更好的原版+","zh_human":"","zh":"更好的原版+","status":"ai"}
+{"id":"ansHY0fA","en":"Fabulously Fossils & Archeology","zh_draft":"","zh_ai":"绝妙化石与考古","zh_human":"","zh":"绝妙化石与考古","status":"ai"}
+{"id":"Bs4QTm4p","en":"Warmer Summer","zh_draft":"","zh_ai":"更温暖的夏天","zh_human":"","zh":"更温暖的夏天","status":"ai"}
+{"id":"d2TU8Feu","en":"Jini的太阳系整合包 【Jini's Solar System Pack】","zh_draft":"","zh_ai":"Jini太阳系整合包","zh_human":"","zh":"Jini太阳系整合包","status":"ai"}
+{"id":"t3xj3Xtr","en":"BAX","zh_draft":"","zh_ai":"BAX","zh_human":"","zh":"BAX","status":"ai"}
+{"id":"94535gsW","en":"Vulkano Ultra Optimized","zh_draft":"","zh_ai":"Vulkano超优化","zh_human":"","zh":"Vulkano超优化","status":"ai"}
+{"id":"CL11VdqA","en":"Guy's Server Modpack","zh_draft":"","zh_ai":"盖伊服务器模组包","zh_human":"","zh":"盖伊服务器模组包","status":"ai"}
+{"id":"PeoTLwVZ","en":"All Mods In A Day","zh_draft":"","zh_ai":"一日全模组","zh_human":"","zh":"一日全模组","status":"ai"}
+{"id":"SXSkcRbg","en":"Cobblemon beyond","zh_draft":"","zh_ai":"Cobblemon超越","zh_human":"","zh":"Cobblemon超越","status":"ai"}
+{"id":"Sz3ESaOD","en":"Panex's Technical Modpack","zh_draft":"","zh_ai":"Panex技术模组包","zh_human":"","zh":"Panex技术模组包","status":"ai"}
+{"id":"4tD8CBvp","en":"Wild War","zh_draft":"","zh_ai":"荒野战争","zh_human":"","zh":"荒野战争","status":"ai"}
+{"id":"TKio7EJc","en":"Create Created","zh_draft":"","zh_ai":"创造创造","zh_human":"","zh":"创造创造","status":"ai"}
+{"id":"TUx2uNSB","en":"Vanilla Reloaded","zh_draft":"","zh_ai":"原版重装","zh_human":"","zh":"原版重装","status":"ai"}
+{"id":"rr1pM3AE","en":"XBOX: One [LegacyMC]","zh_draft":"","zh_ai":"XBOX: One [LegacyMC]","zh_human":"","zh":"XBOX: One [LegacyMC]","status":"ai"}
+{"id":"Pr88OjXw","en":"Guns n' Cooking n' Stuffz (questcraft support)","zh_draft":"","zh_ai":"枪械烹饪与杂物（支持任务）","zh_human":"","zh":"枪械烹饪与杂物（支持任务）","status":"ai"}
+{"id":"eOJ5Z8P4","en":"Palcraftmon","zh_draft":"","zh_ai":"宝可梦模组","zh_human":"","zh":"宝可梦模组","status":"ai"}
+{"id":"lvmMLF8G","en":"K-Land Modpack","zh_draft":"","zh_ai":"K-Land模组包","zh_human":"","zh":"K-Land模组包","status":"ai"}
+{"id":"G61oqBhd","en":"MopDeck","zh_draft":"","zh_ai":"MopDeck","zh_human":"","zh":"MopDeck","status":"ai"}
+{"id":"69xvNV2K","en":"CobblemonUnbound","zh_draft":"","zh_ai":"Cobblemon解放","zh_human":"","zh":"Cobblemon解放","status":"ai"}
