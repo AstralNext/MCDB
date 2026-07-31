@@ -2879,18 +2879,18 @@
 {"id":"lvmMLF8G","en":"K-Land Modpack","zh_draft":"","zh_ai":"K-Land模组包","zh_human":"","zh":"K-Land模组包","status":"ai"}
 {"id":"G61oqBhd","en":"MopDeck","zh_draft":"","zh_ai":"MopDeck","zh_human":"","zh":"MopDeck","status":"ai"}
 {"id":"69xvNV2K","en":"CobblemonUnbound","zh_draft":"","zh_ai":"Cobblemon解放","zh_human":"","zh":"Cobblemon解放","status":"ai"}
-{"id":"MLCgQhSG","en":"Leaf's Create","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HTvclmJ5","en":"Industrial Tech SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RWKGSu1k","en":"pure performance pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eM1l7cAf","en":"Tales of the Horizon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"reop0ePe","en":"Engineer and Explore","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6MVHL7ED","en":"theCalmDude's Essentials+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UFCKvWER","en":"Ken's optimization pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fIrAIf7d","en":"OUTBREAK","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FZ97e6ez","en":"Cobblemon: Steam and Air","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MCSBhaFL","en":"Neltos's Better Vanilla","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"OGFWwmGl","en":"QoM+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"amWVJzrG","en":"Be happyy","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jN06iGol","en":"LOST IN THE VORTEX","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ugilr3Ib","en":"Aeronautics Origins","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xMCzmvjw","en":"A Survivor's Starter Kit","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"MLCgQhSG","en":"Leaf's Create","zh_draft":"","zh_ai":"Leaf的创造","zh_human":"","zh":"Leaf的创造","status":"ai"}
+{"id":"HTvclmJ5","en":"Industrial Tech SMP","zh_draft":"","zh_ai":"工业科技SMP","zh_human":"","zh":"工业科技SMP","status":"ai"}
+{"id":"RWKGSu1k","en":"pure performance pack","zh_draft":"","zh_ai":"纯净性能包","zh_human":"","zh":"纯净性能包","status":"ai"}
+{"id":"eM1l7cAf","en":"Tales of the Horizon","zh_draft":"","zh_ai":"地平线传说","zh_human":"","zh":"地平线传说","status":"ai"}
+{"id":"reop0ePe","en":"Engineer and Explore","zh_draft":"","zh_ai":"工程师与探索","zh_human":"","zh":"工程师与探索","status":"ai"}
+{"id":"6MVHL7ED","en":"theCalmDude's Essentials+","zh_draft":"","zh_ai":"平静之人的基本+","zh_human":"","zh":"平静之人的基本+","status":"ai"}
+{"id":"UFCKvWER","en":"Ken's optimization pack","zh_draft":"","zh_ai":"Ken的优化包","zh_human":"","zh":"Ken的优化包","status":"ai"}
+{"id":"fIrAIf7d","en":"OUTBREAK","zh_draft":"","zh_ai":"爆发","zh_human":"","zh":"爆发","status":"ai"}
+{"id":"FZ97e6ez","en":"Cobblemon: Steam and Air","zh_draft":"","zh_ai":"石兽：蒸汽与空气","zh_human":"","zh":"石兽：蒸汽与空气","status":"ai"}
+{"id":"MCSBhaFL","en":"Neltos's Better Vanilla","zh_draft":"","zh_ai":"Neltos的更好原版","zh_human":"","zh":"Neltos的更好原版","status":"ai"}
+{"id":"OGFWwmGl","en":"QoM+","zh_draft":"","zh_ai":"QoM+","zh_human":"","zh":"QoM+","status":"ai"}
+{"id":"amWVJzrG","en":"Be happyy","zh_draft":"","zh_ai":"快乐起来","zh_human":"","zh":"快乐起来","status":"ai"}
+{"id":"jN06iGol","en":"LOST IN THE VORTEX","zh_draft":"","zh_ai":"迷失在漩涡中","zh_human":"","zh":"迷失在漩涡中","status":"ai"}
+{"id":"ugilr3Ib","en":"Aeronautics Origins","zh_draft":"","zh_ai":"航空起源","zh_human":"","zh":"航空起源","status":"ai"}
+{"id":"xMCzmvjw","en":"A Survivor's Starter Kit","zh_draft":"","zh_ai":"生存者入门套件","zh_human":"","zh":"生存者入门套件","status":"ai"}
