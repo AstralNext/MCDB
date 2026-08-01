@@ -706,12 +706,12 @@
 {"id":"P3yk0Q5w","en":"Noxara","zh_draft":"","zh_ai":"诺萨拉","zh_human":"","zh":"诺萨拉","status":"ai"}
 {"id":"zBirrR15","en":"luminary shaders","zh_draft":"","zh_ai":"光辉着色器","zh_human":"","zh":"光辉着色器","status":"ai"}
 {"id":"TbmSWJWY","en":"Heavens Shader","zh_draft":"","zh_ai":"天堂着色器","zh_human":"","zh":"天堂着色器","status":"ai"}
-{"id":"kFMS5Z5M","en":"MaxRealstic Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qcMw3mB6","en":"Mellow Edited","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wiOKY4t2","en":"Halcyon Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"OdAdx01w","en":"Simple Brightness - Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VxSZBm3O","en":"ReAlexey","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"bzvhQfAp","en":"NEXA: LowShader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"icIHUe3L","en":"Modern PSX Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pdPzO9sA","en":"Virelia Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"tGA8fky8","en":"Vignette Low-End Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"kFMS5Z5M","en":"MaxRealstic Shader","zh_draft":"","zh_ai":"超真实着色器","zh_human":"","zh":"超真实着色器","status":"ai"}
+{"id":"qcMw3mB6","en":"Mellow Edited","zh_draft":"","zh_ai":"温和编辑","zh_human":"","zh":"温和编辑","status":"ai"}
+{"id":"wiOKY4t2","en":"Halcyon Shaders","zh_draft":"","zh_ai":"天堂着色器","zh_human":"","zh":"天堂着色器","status":"ai"}
+{"id":"OdAdx01w","en":"Simple Brightness - Shader","zh_draft":"","zh_ai":"简单亮度 - 着色器","zh_human":"","zh":"简单亮度 - 着色器","status":"ai"}
+{"id":"VxSZBm3O","en":"ReAlexey","zh_draft":"","zh_ai":"ReAlexey","zh_human":"","zh":"ReAlexey","status":"ai"}
+{"id":"bzvhQfAp","en":"NEXA: LowShader","zh_draft":"","zh_ai":"NEXA：低着色器","zh_human":"","zh":"NEXA：低着色器","status":"ai"}
+{"id":"icIHUe3L","en":"Modern PSX Shaders","zh_draft":"","zh_ai":"现代PSX着色器","zh_human":"","zh":"现代PSX着色器","status":"ai"}
+{"id":"pdPzO9sA","en":"Virelia Shaders","zh_draft":"","zh_ai":"维蕾莉亚着色器","zh_human":"","zh":"维蕾莉亚着色器","status":"ai"}
+{"id":"tGA8fky8","en":"Vignette Low-End Shader","zh_draft":"","zh_ai":"低端暗角着色器","zh_human":"","zh":"低端暗角着色器","status":"ai"}
