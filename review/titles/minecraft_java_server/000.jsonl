@@ -1829,41 +1829,41 @@
 {"id":"oGDMBVFm","en":"SmmPvP","zh_draft":"","zh_ai":"SmmPvP","zh_human":"","zh":"SmmPvP","status":"ai"}
 {"id":"pqEjwFrl","en":"Frogo SMP","zh_draft":"","zh_ai":"青蛙生存模式","zh_human":"","zh":"青蛙生存模式","status":"ai"}
 {"id":"TOvUoVD2","en":"Vlast","zh_draft":"","zh_ai":"Vlast","zh_human":"","zh":"Vlast","status":"ai"}
-{"id":"pIeftKCm","en":"GeoMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1yX6jABu","en":"Goci's JoJo","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1UYmPoKV","en":"WhiteFantasy","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1VkzvUed","en":"MB World","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"34Uankww","en":"SoupSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4Z3Nd21p","en":"SkySmps","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"BQ5rOmKr","en":"DistopyCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"D9u3eJJD","en":"firestarter","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"EwqPcR4U","en":"小方小镇(xiaofang-server)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FHAunD8p","en":"ClassicCraft Survival","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Hf5OBcow","en":"Pyramid World","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IiPNGUwN","en":"Cobblemon Eternals","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KCTM7P8c","en":"ChillSMP Public","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"T4zXqDYK","en":"Neptune SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TPM2yYi1","en":"Delfinia","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TcjGpHfs","en":"LigheneuSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TqxaIGZc","en":"YWC Server","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UX9oWFKV","en":"Xenor","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"V6AUT7VW","en":"PureVanilla SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"W3DT7Uf4","en":"Claymore Minigames","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WcZOnoe5","en":"OnryxCraft Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Yv80hcsD","en":"sutocraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZkbvTOFu","en":"🏛️Project Civilization🏛️","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZyUREECk","en":"KingsBridge","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gVtqzRiG","en":"MinhDucZ SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iX4cFvu4","en":"L&M Industries","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"icjYRLZE","en":"🌐 SMP Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"laR9Mvi5","en":"PedroSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mILJGWP3","en":"SparkSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"p7IqtLXl","en":"TTG SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pa0Jn7aq","en":"Embervale SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rh602INI","en":"FaultSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"u4DDvOFu","en":"CookiePlay","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vO4xoLqK","en":"McGround TechnoMagicRPG #1","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wiH6AW9I","en":"ToasterSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xEbSVvVt","en":"fragger","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yMLzWc3g","en":"Framed Universe","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zxD248Qo","en":"SurvivalServer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"pIeftKCm","en":"GeoMC","zh_draft":"","zh_ai":"地缘MC","zh_human":"","zh":"地缘MC","status":"ai"}
+{"id":"1yX6jABu","en":"Goci's JoJo","zh_draft":"","zh_ai":"Goci的乔乔","zh_human":"","zh":"Goci的乔乔","status":"ai"}
+{"id":"1UYmPoKV","en":"WhiteFantasy","zh_draft":"","zh_ai":"白日幻想","zh_human":"","zh":"白日幻想","status":"ai"}
+{"id":"1VkzvUed","en":"MB World","zh_draft":"","zh_ai":"MB世界","zh_human":"","zh":"MB世界","status":"ai"}
+{"id":"34Uankww","en":"SoupSMP","zh_draft":"","zh_ai":"汤汤生存模式","zh_human":"","zh":"汤汤生存模式","status":"ai"}
+{"id":"4Z3Nd21p","en":"SkySmps","zh_draft":"","zh_ai":"天空生存模式","zh_human":"","zh":"天空生存模式","status":"ai"}
+{"id":"BQ5rOmKr","en":"DistopyCraft","zh_draft":"","zh_ai":"扭曲工艺","zh_human":"","zh":"扭曲工艺","status":"ai"}
+{"id":"D9u3eJJD","en":"firestarter","zh_draft":"","zh_ai":"火种启动器","zh_human":"","zh":"火种启动器","status":"ai"}
+{"id":"EwqPcR4U","en":"小方小镇(xiaofang-server)","zh_draft":"","zh_ai":"小方小镇","zh_human":"","zh":"小方小镇","status":"ai"}
+{"id":"FHAunD8p","en":"ClassicCraft Survival","zh_draft":"","zh_ai":"经典工艺生存模式","zh_human":"","zh":"经典工艺生存模式","status":"ai"}
+{"id":"Hf5OBcow","en":"Pyramid World","zh_draft":"","zh_ai":"金字塔世界","zh_human":"","zh":"金字塔世界","status":"ai"}
+{"id":"IiPNGUwN","en":"Cobblemon Eternals","zh_draft":"","zh_ai":"圆石兽永恒","zh_human":"","zh":"圆石兽永恒","status":"ai"}
+{"id":"KCTM7P8c","en":"ChillSMP Public","zh_draft":"","zh_ai":"冷静生存模式公共版","zh_human":"","zh":"冷静生存模式公共版","status":"ai"}
+{"id":"T4zXqDYK","en":"Neptune SMP","zh_draft":"","zh_ai":"海王星生存模式","zh_human":"","zh":"海王星生存模式","status":"ai"}
+{"id":"TPM2yYi1","en":"Delfinia","zh_draft":"","zh_ai":"海豚尼亚","zh_human":"","zh":"海豚尼亚","status":"ai"}
+{"id":"TcjGpHfs","en":"LigheneuSMP","zh_draft":"","zh_ai":"光明生存模式","zh_human":"","zh":"光明生存模式","status":"ai"}
+{"id":"TqxaIGZc","en":"YWC Server","zh_draft":"","zh_ai":"YWC服务器","zh_human":"","zh":"YWC服务器","status":"ai"}
+{"id":"UX9oWFKV","en":"Xenor","zh_draft":"","zh_ai":"Xenor模组","zh_human":"","zh":"Xenor模组","status":"ai"}
+{"id":"V6AUT7VW","en":"PureVanilla SMP","zh_draft":"","zh_ai":"纯净原味生存模式","zh_human":"","zh":"纯净原味生存模式","status":"ai"}
+{"id":"W3DT7Uf4","en":"Claymore Minigames","zh_draft":"","zh_ai":"克莱莫小游戏","zh_human":"","zh":"克莱莫小游戏","status":"ai"}
+{"id":"WcZOnoe5","en":"OnryxCraft Network","zh_draft":"","zh_ai":"OnryxCraft网络","zh_human":"","zh":"OnryxCraft网络","status":"ai"}
+{"id":"Yv80hcsD","en":"sutocraft","zh_draft":"","zh_ai":"苏托克瑞夫特","zh_human":"","zh":"苏托克瑞夫特","status":"ai"}
+{"id":"ZkbvTOFu","en":"🏛️Project Civilization🏛️","zh_draft":"","zh_ai":"文明工程","zh_human":"","zh":"文明工程","status":"ai"}
+{"id":"ZyUREECk","en":"KingsBridge","zh_draft":"","zh_ai":"国王之桥","zh_human":"","zh":"国王之桥","status":"ai"}
+{"id":"gVtqzRiG","en":"MinhDucZ SMP","zh_draft":"","zh_ai":"MinhDucZ生存模式","zh_human":"","zh":"MinhDucZ生存模式","status":"ai"}
+{"id":"iX4cFvu4","en":"L&M Industries","zh_draft":"","zh_ai":"L&M工业","zh_human":"","zh":"L&M工业","status":"ai"}
+{"id":"icjYRLZE","en":"🌐 SMP Network","zh_draft":"","zh_ai":"SMP网络","zh_human":"","zh":"SMP网络","status":"ai"}
+{"id":"laR9Mvi5","en":"PedroSMP","zh_draft":"","zh_ai":"佩德罗生存模式","zh_human":"","zh":"佩德罗生存模式","status":"ai"}
+{"id":"mILJGWP3","en":"SparkSMP","zh_draft":"","zh_ai":"火花生存模式","zh_human":"","zh":"火花生存模式","status":"ai"}
+{"id":"p7IqtLXl","en":"TTG SMP","zh_draft":"","zh_ai":"TTG生存模式","zh_human":"","zh":"TTG生存模式","status":"ai"}
+{"id":"pa0Jn7aq","en":"Embervale SMP","zh_draft":"","zh_ai":"恩贝瓦勒生存模式","zh_human":"","zh":"恩贝瓦勒生存模式","status":"ai"}
+{"id":"rh602INI","en":"FaultSMP","zh_draft":"","zh_ai":"故障生存模式","zh_human":"","zh":"故障生存模式","status":"ai"}
+{"id":"u4DDvOFu","en":"CookiePlay","zh_draft":"","zh_ai":"饼干玩","zh_human":"","zh":"饼干玩","status":"ai"}
+{"id":"vO4xoLqK","en":"McGround TechnoMagicRPG #1","zh_draft":"","zh_ai":"麦格罗恩科技魔法RPG #1","zh_human":"","zh":"麦格罗恩科技魔法RPG #1","status":"ai"}
+{"id":"wiH6AW9I","en":"ToasterSMP","zh_draft":"","zh_ai":"烤面包片生存模式","zh_human":"","zh":"烤面包片生存模式","status":"ai"}
+{"id":"xEbSVvVt","en":"fragger","zh_draft":"","zh_ai":"射手","zh_human":"","zh":"射手","status":"ai"}
+{"id":"yMLzWc3g","en":"Framed Universe","zh_draft":"","zh_ai":"框架宇宙","zh_human":"","zh":"框架宇宙","status":"ai"}
+{"id":"zxD248Qo","en":"SurvivalServer","zh_draft":"","zh_ai":"生存服务器","zh_human":"","zh":"生存服务器","status":"ai"}
