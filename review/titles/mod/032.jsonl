@@ -276,10 +276,10 @@
 {"id":"j2zrScut","en":"Create: Bionics - Faster Oxhauler","zh_draft":"","zh_ai":"机械动力：仿生学 - 更快的牛车","zh_human":"","zh":"机械动力：仿生学 - 更快的牛车","status":"ai"}
 {"id":"kYAqJcPg","en":"Rituals","zh_draft":"","zh_ai":"仪式","zh_human":"","zh":"仪式","status":"ai"}
 {"id":"nPgVk2Ka","en":"更改锻造模版合成方式","zh_draft":"","zh_ai":"更改锻造模版合成方式","zh_human":"","zh":"更改锻造模版合成方式","status":"ai"}
-{"id":"q4YEh012","en":"World Remoulded Lite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"s9OXzh7Q","en":"PolaRadio","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"tqvW76I7","en":"Enchant Limiter","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wJR0EY2J","en":"NoMHPlugins Renewed","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xKmhjYyG","en":"CoralPreserver","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yBOeNkHT","en":"EventsSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"z3QWRz3F","en":"UltraWhitelist","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"q4YEh012","en":"World Remoulded Lite","zh_draft":"","zh_ai":"世界重塑轻量版","zh_human":"","zh":"世界重塑轻量版","status":"ai"}
+{"id":"s9OXzh7Q","en":"PolaRadio","zh_draft":"","zh_ai":"波拉广播器","zh_human":"","zh":"波拉广播器","status":"ai"}
+{"id":"tqvW76I7","en":"Enchant Limiter","zh_draft":"","zh_ai":"附魔限制器","zh_human":"","zh":"附魔限制器","status":"ai"}
+{"id":"wJR0EY2J","en":"NoMHPlugins Renewed","zh_draft":"","zh_ai":"NoMH插件更新版","zh_human":"","zh":"NoMH插件更新版","status":"ai"}
+{"id":"xKmhjYyG","en":"CoralPreserver","zh_draft":"","zh_ai":"珊瑚保护器","zh_human":"","zh":"珊瑚保护器","status":"ai"}
+{"id":"yBOeNkHT","en":"EventsSMP","zh_draft":"","zh_ai":"事件生存模式","zh_human":"","zh":"事件生存模式","status":"ai"}
+{"id":"z3QWRz3F","en":"UltraWhitelist","zh_draft":"","zh_ai":"超级白名单","zh_human":"","zh":"超级白名单","status":"ai"}
