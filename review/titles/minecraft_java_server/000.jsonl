@@ -1867,18 +1867,18 @@
 {"id":"xEbSVvVt","en":"fragger","zh_draft":"","zh_ai":"射手","zh_human":"","zh":"射手","status":"ai"}
 {"id":"yMLzWc3g","en":"Framed Universe","zh_draft":"","zh_ai":"框架宇宙","zh_human":"","zh":"框架宇宙","status":"ai"}
 {"id":"zxD248Qo","en":"SurvivalServer","zh_draft":"","zh_ai":"生存服务器","zh_human":"","zh":"生存服务器","status":"ai"}
-{"id":"M66lVeDL","en":"Cobblemoon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3xUHmBdY","en":"🍃 Czech-Vanilla.cz","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7l6bjad7","en":"MaritimeSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CLM3RXMT","en":"Kirkas","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HmRlEEcY","en":"Kozyr MC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"If86O1By","en":"Minelife","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VxMMUIiC","en":"Stratum","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"a6dhoS9s","en":"DestrixNetwork","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dvt8H9JF","en":"Nexus SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fGYbGDee","en":"Splindux","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ggvpC72W","en":"SM.SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hZCesROy","en":"RealCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uFm9KQJG","en":"Velaris SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yKMAtO3h","en":"OneBlock+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yXS1juB8","en":"TechBlock.pl","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"M66lVeDL","en":"Cobblemoon","zh_draft":"","zh_ai":"圆石月","zh_human":"","zh":"圆石月","status":"ai"}
+{"id":"3xUHmBdY","en":"🍃 Czech-Vanilla.cz","zh_draft":"","zh_ai":"捷克原版","zh_human":"","zh":"捷克原版","status":"ai"}
+{"id":"7l6bjad7","en":"MaritimeSMP","zh_draft":"","zh_ai":"海事生存模式","zh_human":"","zh":"海事生存模式","status":"ai"}
+{"id":"CLM3RXMT","en":"Kirkas","zh_draft":"","zh_ai":"清晰","zh_human":"","zh":"清晰","status":"ai"}
+{"id":"HmRlEEcY","en":"Kozyr MC","zh_draft":"","zh_ai":"科兹尔MC","zh_human":"","zh":"科兹尔MC","status":"ai"}
+{"id":"If86O1By","en":"Minelife","zh_draft":"","zh_ai":"矿工生活","zh_human":"","zh":"矿工生活","status":"ai"}
+{"id":"VxMMUIiC","en":"Stratum","zh_draft":"","zh_ai":"地层","zh_human":"","zh":"地层","status":"ai"}
+{"id":"a6dhoS9s","en":"DestrixNetwork","zh_draft":"","zh_ai":"德斯特里克斯网络","zh_human":"","zh":"德斯特里克斯网络","status":"ai"}
+{"id":"dvt8H9JF","en":"Nexus SMP","zh_draft":"","zh_ai":"纳克瑟生存模式","zh_human":"","zh":"纳克瑟生存模式","status":"ai"}
+{"id":"fGYbGDee","en":"Splindux","zh_draft":"","zh_ai":"斯普林杜克斯","zh_human":"","zh":"斯普林杜克斯","status":"ai"}
+{"id":"ggvpC72W","en":"SM.SMP","zh_draft":"","zh_ai":"SM生存模式","zh_human":"","zh":"SM生存模式","status":"ai"}
+{"id":"hZCesROy","en":"RealCraft","zh_draft":"","zh_ai":"真实工艺","zh_human":"","zh":"真实工艺","status":"ai"}
+{"id":"uFm9KQJG","en":"Velaris SMP","zh_draft":"","zh_ai":"维拉里斯生存模式","zh_human":"","zh":"维拉里斯生存模式","status":"ai"}
+{"id":"yKMAtO3h","en":"OneBlock+","zh_draft":"","zh_ai":"单方块+","zh_human":"","zh":"单方块+","status":"ai"}
+{"id":"yXS1juB8","en":"TechBlock.pl","zh_draft":"","zh_ai":"技术方块波兰","zh_human":"","zh":"技术方块波兰","status":"ai"}

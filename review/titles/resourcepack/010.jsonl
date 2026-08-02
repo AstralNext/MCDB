@@ -1829,19 +1829,19 @@
 {"id":"xWWWs47f","en":"Competitive Morning","zh_draft":"","zh_ai":"竞技晨光","zh_human":"","zh":"竞技晨光","status":"ai"}
 {"id":"xdQiMQy8","en":"Totem to 55","zh_draft":"","zh_ai":"图腾到55","zh_human":"","zh":"图腾到55","status":"ai"}
 {"id":"zQlhP6VM","en":"fun_resourcepack","zh_draft":"","zh_ai":"趣味资源包","zh_human":"","zh":"趣味资源包","status":"ai"}
-{"id":"bX6XFY2n","en":"Actual Rainbow Finish [originrealms]","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"EqldcZPD","en":"Checker board (Chess) Finish [originrealms]","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"f1WMOWOo","en":"Clear Glass Edges","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4RXS0C7Z","en":"Goose's Grass","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Y4MgDEdi","en":"Goose's Foliage","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"T0Rh5WD5","en":"Maker's Many 3D Renames","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TYbMA7IQ","en":"Ja's Tweaks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jfyBlyWW","en":"Uno Reverse Totem","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gemQXPg8","en":"No Man's Bushy Leaves","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xm5ylTZb","en":"[RU] Create Additions & Synthetics Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GajiC5yQ","en":"Potushno Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lITj8dsM","en":"Outlined Kaleidoscope End","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9faU2N6h","en":"Backrooms Blocks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"bX6XFY2n","en":"Actual Rainbow Finish [originrealms]","zh_draft":"","zh_ai":"真实彩虹效果","zh_human":"","zh":"真实彩虹效果","status":"ai"}
+{"id":"EqldcZPD","en":"Checker board (Chess) Finish [originrealms]","zh_draft":"","zh_ai":"棋盘格效果","zh_human":"","zh":"棋盘格效果","status":"ai"}
+{"id":"f1WMOWOo","en":"Clear Glass Edges","zh_draft":"","zh_ai":"清晰玻璃边缘","zh_human":"","zh":"清晰玻璃边缘","status":"ai"}
+{"id":"4RXS0C7Z","en":"Goose's Grass","zh_draft":"","zh_ai":"鹅的草地","zh_human":"","zh":"鹅的草地","status":"ai"}
+{"id":"Y4MgDEdi","en":"Goose's Foliage","zh_draft":"","zh_ai":"鹅的植物","zh_human":"","zh":"鹅的植物","status":"ai"}
+{"id":"T0Rh5WD5","en":"Maker's Many 3D Renames","zh_draft":"","zh_ai":"创作者的3D重命名","zh_human":"","zh":"创作者的3D重命名","status":"ai"}
+{"id":"TYbMA7IQ","en":"Ja's Tweaks","zh_draft":"","zh_ai":"Ja的调整","zh_human":"","zh":"Ja的调整","status":"ai"}
+{"id":"jfyBlyWW","en":"Uno Reverse Totem","zh_draft":"","zh_ai":"Uno反转图腾","zh_human":"","zh":"Uno反转图腾","status":"ai"}
+{"id":"gemQXPg8","en":"No Man's Bushy Leaves","zh_draft":"","zh_ai":"无人区茂密树叶","zh_human":"","zh":"无人区茂密树叶","status":"ai"}
+{"id":"xm5ylTZb","en":"[RU] Create Additions & Synthetics Pack","zh_draft":"","zh_ai":"机械动力附加与合成包","zh_human":"","zh":"机械动力附加与合成包","status":"ai"}
+{"id":"GajiC5yQ","en":"Potushno Pack","zh_draft":"","zh_ai":"波图什诺材质包","zh_human":"","zh":"波图什诺材质包","status":"ai"}
+{"id":"lITj8dsM","en":"Outlined Kaleidoscope End","zh_draft":"","zh_ai":"描边万花筒末地","zh_human":"","zh":"描边万花筒末地","status":"ai"}
+{"id":"9faU2N6h","en":"Backrooms Blocks","zh_draft":"","zh_ai":"后室方块","zh_human":"","zh":"后室方块","status":"ai"}
 {"id":"uGYQuVvh","en":"[RU] Create Molten Metals Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
 {"id":"uWXeQSnm","en":"Mercury's Creeper Retexture","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
 {"id":"1y8l6T5A","en":"Infinity Sword: Heavenly","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
