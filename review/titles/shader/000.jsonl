@@ -715,4 +715,4 @@
 {"id":"icIHUe3L","en":"Modern PSX Shaders","zh_draft":"","zh_ai":"现代PSX着色器","zh_human":"","zh":"现代PSX着色器","status":"ai"}
 {"id":"pdPzO9sA","en":"Virelia Shaders","zh_draft":"","zh_ai":"维蕾莉亚着色器","zh_human":"","zh":"维蕾莉亚着色器","status":"ai"}
 {"id":"tGA8fky8","en":"Vignette Low-End Shader","zh_draft":"","zh_ai":"低端暗角着色器","zh_human":"","zh":"低端暗角着色器","status":"ai"}
-{"id":"q8rOKdsz","en":"Only Shadows Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"q8rOKdsz","en":"Only Shadows Shader","zh_draft":"","zh_ai":"纯阴影着色器","zh_human":"","zh":"纯阴影着色器","status":"ai"}

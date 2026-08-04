@@ -1885,13 +1885,13 @@
 {"id":"JokfT3MG","en":"Incogcraft","zh_draft":"","zh_ai":"隐秘工坊","zh_human":"","zh":"隐秘工坊","status":"ai"}
 {"id":"tALQel7P","en":"PurpurMC","zh_draft":"","zh_ai":"紫红世界MC","zh_human":"","zh":"紫红世界MC","status":"ai"}
 {"id":"wD1gKRWK","en":"MascaCraft","zh_draft":"","zh_ai":"面具工艺","zh_human":"","zh":"面具工艺","status":"ai"}
-{"id":"KblIIY6t","en":"Deathrow","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"OcLjKGSB","en":"PVP Royale","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PdTDM0nI","en":"123 pokemon go","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RYExX7jm","en":"TideCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Uo1gzdv0","en":"Cube24 Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZAW49VNS","en":"Iron to Empire","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kMi1gfde","en":"McGround HiTech #1","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rPX2zxVv","en":"Battleblocks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uIl5VKz3","en":"WarFault Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yQDdt6Sy","en":"Anarchy SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"KblIIY6t","en":"Deathrow","zh_draft":"","zh_ai":"死亡行刑","zh_human":"","zh":"死亡行刑","status":"ai"}
+{"id":"OcLjKGSB","en":"PVP Royale","zh_draft":"","zh_ai":"PVP 王者之战","zh_human":"","zh":"PVP 王者之战","status":"ai"}
+{"id":"PdTDM0nI","en":"123 pokemon go","zh_draft":"","zh_ai":"123 宝可梦GO","zh_human":"","zh":"123 宝可梦GO","status":"ai"}
+{"id":"RYExX7jm","en":"TideCraft","zh_draft":"","zh_ai":"潮汐工坊","zh_human":"","zh":"潮汐工坊","status":"ai"}
+{"id":"Uo1gzdv0","en":"Cube24 Network","zh_draft":"","zh_ai":"Cube24 网络","zh_human":"","zh":"Cube24 网络","status":"ai"}
+{"id":"ZAW49VNS","en":"Iron to Empire","zh_draft":"","zh_ai":"铁到帝国","zh_human":"","zh":"铁到帝国","status":"ai"}
+{"id":"kMi1gfde","en":"McGround HiTech #1","zh_draft":"","zh_ai":"McGround 高科技 #1","zh_human":"","zh":"McGround 高科技 #1","status":"ai"}
+{"id":"rPX2zxVv","en":"Battleblocks","zh_draft":"","zh_ai":"战斗方块","zh_human":"","zh":"战斗方块","status":"ai"}
+{"id":"uIl5VKz3","en":"WarFault Network","zh_draft":"","zh_ai":"战争故障网络","zh_human":"","zh":"战争故障网络","status":"ai"}
+{"id":"yQDdt6Sy","en":"Anarchy SMP","zh_draft":"","zh_ai":"无政府主义生存模式","zh_human":"","zh":"无政府主义生存模式","status":"ai"}
