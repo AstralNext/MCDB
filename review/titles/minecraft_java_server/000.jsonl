@@ -1895,15 +1895,15 @@
 {"id":"rPX2zxVv","en":"Battleblocks","zh_draft":"","zh_ai":"战斗方块","zh_human":"","zh":"战斗方块","status":"ai"}
 {"id":"uIl5VKz3","en":"WarFault Network","zh_draft":"","zh_ai":"战争故障网络","zh_human":"","zh":"战争故障网络","status":"ai"}
 {"id":"yQDdt6Sy","en":"Anarchy SMP","zh_draft":"","zh_ai":"无政府主义生存模式","zh_human":"","zh":"无政府主义生存模式","status":"ai"}
-{"id":"cm5vDVKM","en":"TengokuFirst.ru","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"293J1TWb","en":"HeadSteal OG","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HdSGzgNF","en":"Solstice SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Jl8mpez8","en":"Unstable SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QdVcej6K","en":"Orange MC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"S30T8mqj","en":"Unstable SMP Kits PVP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"URsvkwlx","en":"Cobblemon2026.","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VM35g1kn","en":"Aphreio's Anarchy","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WzeevtwA","en":"TwilightSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"f2mPqP5r","en":"PokeLegends.pl","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rPKHcnty","en":"Vanilla SMP (EU)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xDDlJ2jW","en":"FluxSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"cm5vDVKM","en":"TengokuFirst.ru","zh_draft":"","zh_ai":"天国第一","zh_human":"","zh":"天国第一","status":"ai"}
+{"id":"293J1TWb","en":"HeadSteal OG","zh_draft":"","zh_ai":"头部偷取 OG","zh_human":"","zh":"头部偷取 OG","status":"ai"}
+{"id":"HdSGzgNF","en":"Solstice SMP","zh_draft":"","zh_ai":"冬至生存模式","zh_human":"","zh":"冬至生存模式","status":"ai"}
+{"id":"Jl8mpez8","en":"Unstable SMP","zh_draft":"","zh_ai":"不稳定生存模式","zh_human":"","zh":"不稳定生存模式","status":"ai"}
+{"id":"QdVcej6K","en":"Orange MC","zh_draft":"","zh_ai":"橙色 MC","zh_human":"","zh":"橙色 MC","status":"ai"}
+{"id":"S30T8mqj","en":"Unstable SMP Kits PVP","zh_draft":"","zh_ai":"不稳定生存模式套装 PVP","zh_human":"","zh":"不稳定生存模式套装 PVP","status":"ai"}
+{"id":"URsvkwlx","en":"Cobblemon2026.","zh_draft":"","zh_ai":"圆石龙2026.","zh_human":"","zh":"圆石龙2026.","status":"ai"}
+{"id":"VM35g1kn","en":"Aphreio's Anarchy","zh_draft":"","zh_ai":"阿普雷奥的无政府状态","zh_human":"","zh":"阿普雷奥的无政府状态","status":"ai"}
+{"id":"WzeevtwA","en":"TwilightSMP","zh_draft":"","zh_ai":"暮光生存模式","zh_human":"","zh":"暮光生存模式","status":"ai"}
+{"id":"f2mPqP5r","en":"PokeLegends.pl","zh_draft":"","zh_ai":"宝可梦传说 pl","zh_human":"","zh":"宝可梦传说 pl","status":"ai"}
+{"id":"rPKHcnty","en":"Vanilla SMP (EU)","zh_draft":"","zh_ai":"原味生存模式 (EU)","zh_human":"","zh":"原味生存模式 (EU)","status":"ai"}
+{"id":"xDDlJ2jW","en":"FluxSMP","zh_draft":"","zh_ai":"流动生存模式","zh_human":"","zh":"流动生存模式","status":"ai"}

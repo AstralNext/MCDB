@@ -2033,10 +2033,10 @@
 {"id":"t6jwgEyd","en":"My totem in mc","zh_draft":"","zh_ai":"我的 MC 图腾","zh_human":"","zh":"我的 MC 图腾","status":"ai"}
 {"id":"tg5McnfU","en":"Siamese Cat totem","zh_draft":"","zh_ai":"暹罗猫图腾","zh_human":"","zh":"暹罗猫图腾","status":"ai"}
 {"id":"z0lq3AjJ","en":"OG Tiny Blocks Pack","zh_draft":"","zh_ai":"经典小方块包","zh_human":"","zh":"经典小方块包","status":"ai"}
-{"id":"xanY1O3e","en":"Reverie album","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"owSp7R9c","en":"PureStrike","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wfz10lr6","en":"MayConTuat","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LZXMcgEl","en":"Better Diminishing Tool","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cpYOTO2Y","en":"Purple obsidian","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Tjifg3wZ","en":"Blue Hearts Hardcore","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"q10Iyg5Q","en":"podzol-matcha-flavoured","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"xanY1O3e","en":"Reverie album","zh_draft":"","zh_ai":"梦幻专辑","zh_human":"","zh":"梦幻专辑","status":"ai"}
+{"id":"owSp7R9c","en":"PureStrike","zh_draft":"","zh_ai":"纯净打击","zh_human":"","zh":"纯净打击","status":"ai"}
+{"id":"wfz10lr6","en":"MayConTuat","zh_draft":"","zh_ai":"可能包含教程","zh_human":"","zh":"可能包含教程","status":"ai"}
+{"id":"LZXMcgEl","en":"Better Diminishing Tool","zh_draft":"","zh_ai":"更好的递减工具","zh_human":"","zh":"更好的递减工具","status":"ai"}
+{"id":"cpYOTO2Y","en":"Purple obsidian","zh_draft":"","zh_ai":"紫色黑曜石","zh_human":"","zh":"紫色黑曜石","status":"ai"}
+{"id":"Tjifg3wZ","en":"Blue Hearts Hardcore","zh_draft":"","zh_ai":"蓝心极限","zh_human":"","zh":"蓝心极限","status":"ai"}
+{"id":"q10Iyg5Q","en":"podzol-matcha-flavoured","zh_draft":"","zh_ai":"灰化土抹茶味","zh_human":"","zh":"灰化土抹茶味","status":"ai"}

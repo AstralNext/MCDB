@@ -754,186 +754,186 @@
 {"id":"sENYIM9J","en":"Bonk's XP Multiplier","zh_draft":"","zh_ai":"邦克的 XP 乘数","zh_human":"","zh":"邦克的 XP 乘数","status":"ai"}
 {"id":"t2Yynwna","en":"ChunkSync","zh_draft":"","zh_ai":"区块同步","zh_human":"","zh":"区块同步","status":"ai"}
 {"id":"vPFdK4df","en":"Trident Camera Rotate","zh_draft":"","zh_ai":"三叉戟相机旋转","zh_human":"","zh":"三叉戟相机旋转","status":"ai"}
-{"id":"3opr7noI","en":"Blasted Paint Blocks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5iNiZxPN","en":"Fake Elysium Ingot","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mEn7eS3l","en":"I18nAutoUpdateMod","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KOc5Qck2","en":"Zenus Utils","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Im9Vfo7L","en":"Stone's Speed Boots","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yf71FPWW","en":"Deep Diving Gear","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6cEnKtmZ","en":"Enhanced Celestials 2: Shader Support","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JYfIGxAp","en":"Pumpkin Hide","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"onMjD5tF","en":"TinyBlocks [Development]","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"oqDsHHEY","en":"MatchHUD","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ugCWUHV9","en":"Enhanced Celestials 2: Core","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xhy3SoOP","en":"Seasonal Visuals","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IiKghhAe","en":"Invisible Pressure Plates","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5OgBsc2D","en":"More Than Potions (MTP)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"InmkUV1K","en":"Easy Wind Charges for Aeronautics","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NRhQvAdJ","en":"FrPass","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Xx0pQoDG","en":"TAuth","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ghgVuED4","en":"Eatable Needohs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xsnxKV7k","en":"Concrete Cutter","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"oSEPVPyS","en":"login for 1.21.1","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zia8VxNY","en":"Inventory Enhancer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"19P0GlZk","en":"Enhanced Celestials 2: Default Lunar Events","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5Hu4HCfZ","en":"Quick Stack Nearby","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"S6xVv5UW","en":"Simply Alcohol","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"o2EDj9mM","en":"Deadly-Glide-Chestplate","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"p9CkczI0","en":"Mechanic stats","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"a3hRTprH","en":"Create: Multi-Tool","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"b3WivO4t","en":"NeoModeration","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2AOuElYK","en":"Via Equina","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KG3gDWV3","en":"Fair Play for Xaero's Maps","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NfA8MJPa","en":"LiteSkins","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZBrGGUWR","en":"entityradar 查看附近的生物或玩家","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"bs9eWV5e","en":"Explode the Barrier","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8WfGhe5L","en":"Blake's FNaF Mod","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"AdcPM9L6","en":"tealaxutils","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KQ2dJ8uD","en":"Cheaper glass bottles","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wWcVxK25","en":"VillagerBoost","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HazDGFRs","en":"Bedwars Chat Stats","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KI6s9YTx","en":"Random Assorted Crafts","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VAR0JmNn","en":"Modest Masonry","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8E1z5d7y","en":"Jeff The Landshark","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GNJEbDCR","en":"Hide Pause Menu","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GbgRQwNT","en":"jiojio_car_audio","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"InY3z4oM","en":"Cushion Backport - Backported","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JboWGO2i","en":"[V-MOD] - Villages × farmers delight","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MKPR7hTR","en":"WebScreen","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Qvvks6Fp","en":"Cheaper Spyglasses","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SorG3qIL","en":"Lots of Recipes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dIKhMXBn","en":"Extrapolate","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kx8MW8hf","en":"Create Aeronautics: Mekanism Weight","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"r83E8K0j","en":"Sable Gravity","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5gjTHaRE","en":"Wind Charge Resets","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7iYQ7Gu6","en":"Northstar: Mars Expansion","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Ff113jyY","en":"Smart Pickup","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GRkbFT75","en":"Dangerous Sulfur Spikes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GnCXoI6g","en":"Grummy","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"K1LNn5PJ","en":"Rainbow Catcher","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PknmcMZu","en":"Archery Revamped","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TPNRfpi3","en":"Magic Dice","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TbJsNss8","en":"Copper Essentials","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TzbEpR51","en":"Pretender","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XytCnQHe","en":"Powders and Sweets","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Y4IfD2XR","en":"VillagerPickup","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"djVKDNL7","en":"Border Survival","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eoWkpAPh","en":"RaiSoulForge","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jbECV090","en":"EMI Trades Reborn","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jnWQQcf3","en":"简易生存数据包 Simple Survival","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mTYLrZsv","en":"Custom Rankings","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"prNN680M","en":"Cobblemon Aegislash Shoulder Mount","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rAngDman","en":"StopTimer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"s5qN4N1g","en":"Hostility Staff","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uRNVeD9Y","en":"Magnet","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vTMBbm14","en":"XBow Cart backport","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ygnhgElF","en":"Retrospect · Dimensions","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"14wW1dlj","en":"explosives mobs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1PHi8joa","en":"Farmer's Delight: Contracts & Feasts","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3lve2IfM","en":"GemCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6XLBGMP2","en":"BsCleaner","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8enD2Tee","en":"Rainbow Healing","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"AN1EMWeF","en":"Uncrafty","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CqaNAdbo","en":"FakeAdmin?","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"EZj0M69o","en":"CustomAdvancementMessages","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FBHLmf7C","en":"config-workshop","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HjeEKt8r","en":"Simple Clear Drops","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IWot8gez","en":"BetterPotionsExtended","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IjfpaZ8j","en":"QOLDP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JULCEte8","en":"Texture Pack Switcher","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KCwEo0DZ","en":"More Shields","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LDuJMNS2","en":"Create: Molten Metals - Neoforged","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LNaJaiQ0","en":"CookTime","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LjKtLvEw","en":"macelevels","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"OVwcUtD6","en":"ConsoleNamer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PesFb6Ie","en":"Rei Chikita Mod Evangelion","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TOdZq3tE","en":"KN's Cobblevolution","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Vhmtuyks","en":"Anvil Unlimited","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Vl5AHUQE","en":"Diosesmon-official","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VsyOEeGs","en":"Fungi Plus","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WSyFc9zB","en":"Tasty Tiles","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YVIdD1ED","en":"No Spears","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YesurOKj","en":"Generation Green","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"awwbefYL","en":"Teleportation Enchantment","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"g1mpNEfh","en":"xFireball","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iHFZbrne","en":"Cacophony-TFC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iTOsPpPW","en":"Fragile Dripstone","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jJvNlYoG","en":"Polaroid600","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ko2F237D","en":"Winseep | Purgatory","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lW0RjX7V","en":"Railcity","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mJmvnKDI","en":"MoxChestShop","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mKo68z8m","en":"Voided Reality","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nDESmWBx","en":"Pocket Tunes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ofmyAGqA","en":"Anvil Cost Predictor","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pjVbrVXa","en":"there's a man","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sDr5BIDY","en":"God's Mace","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sTjZv5lN","en":"Torrential","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"srBfXhtf","en":"Drop Stack Keybind","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vFUTEiCd","en":"Less Predictable Cave Biomes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wjhKNEct","en":"Verity JE Extra","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xrXLxzhP","en":"ChatFS","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yppPRmuM","en":"CloudCities","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zqIuYSvw","en":"ShopStock","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"10VRsckd","en":"Visible Sound","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2ceCWerC","en":"jujutsu npc buff","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3SFNKJXS","en":"Magic Storage Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7F1sQUtH","en":"Huge Sulfur Cube Expansion","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7niGpCN6","en":"Cobblemon: Evolution Cooldowns","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8LwUzpuE","en":"Mining Speed Indicators","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9Ka3T9A0","en":"Disable Nether","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"AcqhdTrA","en":"Matcha Flavored - Flint Addon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CdCuryzK","en":"Sit","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CxBkrrEL","en":"Creeper Forest Biome","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"EQn6H4rH","en":"Op weapons and armor","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GFXvDaLP","en":"ItemApult","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Gu62MKaY","en":"JoJoStands","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IZlcViqd","en":"PowerCards","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"J6WsrcmW","en":"Nubert block","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JwhprZWw","en":"mte's ruby mod","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KnTcF0Ls","en":"SeeMoreNext","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LxnezVXz","en":"Inevitable Golems","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"M5jhzZXH","en":"Thunderbolt Core","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"M5lgQdud","en":"Torch arrow mod","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MFQZpNU7","en":"Create: Kinetic Lens","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Ma44GJ3o","en":"VanillaGear++","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NTZ0y3ik","en":"Best login","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Ol439igP","en":"Spartan Weaponry Reborn","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PsM3nvLH","en":"Create Parachutes: Parachutes Crafting Recipe","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Qdr0XZQI","en":"Chaos Companions","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QoqS7kCG","en":"Livex,s Timer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RNktLtFl","en":"Sand Blasting","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RyYBeKmg","en":"Create: Vintage Sequences","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SNwShVJ6","en":"Chunklocked","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TLOtnBh5","en":"Missions JEI Compat","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UMZjXE7y","en":"Untouchable Crystals","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"USPPjkiO","en":"Ultimate Custom Gear","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UWV8H4F4","en":"Farmers Spell","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WDOPgbuI","en":"vTarla","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZkspYtys","en":"CouchBounty","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"arFQIQDF","en":"Infinite pistons","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"buLIZVsf","en":"Heartlog","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cSsfw9lw","en":"Elytra Chesplate","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cjtczdrC","en":"Resource Pack Selector","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dI5EE3d9","en":"CoordinateTools","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eD478KXF","en":"Electrical Power Base","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gHymICF1","en":"Spartan Shields Reborn","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ga4H388y","en":"Block Elevators","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hA0vfE41","en":"Autovend","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"j1uNlxMN","en":"Undead Ultra Cure","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jAxbzeb8","en":"Vanilla+ Bows","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"l4bfgGI2","en":"Trade Rebalance: Missing Trades","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"m6ihrzu1","en":"The Block Shuffle","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mv1jVR6K","en":"Deathcount","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pfNn4rWj","en":"Block villager","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qxga261K","en":"Difficulty Level: ULTRA MEGA EASY","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sJj8CisH","en":"Create: Random 'BulkSheet'","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sxl92Yh5","en":"PrestigeMythic","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"tKMQawAO","en":"Create: Diesel Generators: Extended","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"thzFJEZL","en":"Stringless","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"u2NJ7rzu","en":"Construction Wands Revived","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uabWrtwc","en":"Border Blocks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wXoQ9BqX","en":"GTBC's SpellLib/API","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wjmO6ct3","en":"SnoozeLoot","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yeKhazWw","en":"Fair Experience","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yjUNPXxm","en":"Horror Weather","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zUhlPhCL","en":"Netherite items old craft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"3opr7noI","en":"Blasted Paint Blocks","zh_draft":"","zh_ai":"破坏性涂漆方块","zh_human":"","zh":"破坏性涂漆方块","status":"ai"}
+{"id":"5iNiZxPN","en":"Fake Elysium Ingot","zh_draft":"","zh_ai":"假伊甸之石锭","zh_human":"","zh":"假伊甸之石锭","status":"ai"}
+{"id":"mEn7eS3l","en":"I18nAutoUpdateMod","zh_draft":"","zh_ai":"国际化自动更新模组","zh_human":"","zh":"国际化自动更新模组","status":"ai"}
+{"id":"KOc5Qck2","en":"Zenus Utils","zh_draft":"","zh_ai":"宙斯工具","zh_human":"","zh":"宙斯工具","status":"ai"}
+{"id":"Im9Vfo7L","en":"Stone's Speed Boots","zh_draft":"","zh_ai":"石之速度靴","zh_human":"","zh":"石之速度靴","status":"ai"}
+{"id":"yf71FPWW","en":"Deep Diving Gear","zh_draft":"","zh_ai":"深海潜水装备","zh_human":"","zh":"深海潜水装备","status":"ai"}
+{"id":"6cEnKtmZ","en":"Enhanced Celestials 2: Shader Support","zh_draft":"","zh_ai":"增强星体 2：着色器支持","zh_human":"","zh":"增强星体 2：着色器支持","status":"ai"}
+{"id":"JYfIGxAp","en":"Pumpkin Hide","zh_draft":"","zh_ai":"南瓜皮","zh_human":"","zh":"南瓜皮","status":"ai"}
+{"id":"onMjD5tF","en":"TinyBlocks [Development]","zh_draft":"","zh_ai":"小方块 [开发]","zh_human":"","zh":"小方块 [开发]","status":"ai"}
+{"id":"oqDsHHEY","en":"MatchHUD","zh_draft":"","zh_ai":"匹配 HUD","zh_human":"","zh":"匹配 HUD","status":"ai"}
+{"id":"ugCWUHV9","en":"Enhanced Celestials 2: Core","zh_draft":"","zh_ai":"增强星体 2：核心","zh_human":"","zh":"增强星体 2：核心","status":"ai"}
+{"id":"xhy3SoOP","en":"Seasonal Visuals","zh_draft":"","zh_ai":"季节性视觉效果","zh_human":"","zh":"季节性视觉效果","status":"ai"}
+{"id":"IiKghhAe","en":"Invisible Pressure Plates","zh_draft":"","zh_ai":"隐形压力板","zh_human":"","zh":"隐形压力板","status":"ai"}
+{"id":"5OgBsc2D","en":"More Than Potions (MTP)","zh_draft":"","zh_ai":"不仅仅是药水 (MTP)","zh_human":"","zh":"不仅仅是药水 (MTP)","status":"ai"}
+{"id":"InmkUV1K","en":"Easy Wind Charges for Aeronautics","zh_draft":"","zh_ai":"航空简易风充能","zh_human":"","zh":"航空简易风充能","status":"ai"}
+{"id":"NRhQvAdJ","en":"FrPass","zh_draft":"","zh_ai":"FrPass","zh_human":"","zh":"FrPass","status":"ai"}
+{"id":"Xx0pQoDG","en":"TAuth","zh_draft":"","zh_ai":"TAuth","zh_human":"","zh":"TAuth","status":"ai"}
+{"id":"ghgVuED4","en":"Eatable Needohs","zh_draft":"","zh_ai":"可食用奈多","zh_human":"","zh":"可食用奈多","status":"ai"}
+{"id":"xsnxKV7k","en":"Concrete Cutter","zh_draft":"","zh_ai":"混凝土切割机","zh_human":"","zh":"混凝土切割机","status":"ai"}
+{"id":"oSEPVPyS","en":"login for 1.21.1","zh_draft":"","zh_ai":"1.21.1 登录","zh_human":"","zh":"1.21.1 登录","status":"ai"}
+{"id":"zia8VxNY","en":"Inventory Enhancer","zh_draft":"","zh_ai":"库存增强器","zh_human":"","zh":"库存增强器","status":"ai"}
+{"id":"19P0GlZk","en":"Enhanced Celestials 2: Default Lunar Events","zh_draft":"","zh_ai":"增强星体 2：默认月事","zh_human":"","zh":"增强星体 2：默认月事","status":"ai"}
+{"id":"5Hu4HCfZ","en":"Quick Stack Nearby","zh_draft":"","zh_ai":"快速堆叠附近","zh_human":"","zh":"快速堆叠附近","status":"ai"}
+{"id":"S6xVv5UW","en":"Simply Alcohol","zh_draft":"","zh_ai":"简单酒精","zh_human":"","zh":"简单酒精","status":"ai"}
+{"id":"o2EDj9mM","en":"Deadly-Glide-Chestplate","zh_draft":"","zh_ai":"致命滑翔胸甲","zh_human":"","zh":"致命滑翔胸甲","status":"ai"}
+{"id":"p9CkczI0","en":"Mechanic stats","zh_draft":"","zh_ai":"机械师统计数据","zh_human":"","zh":"机械师统计数据","status":"ai"}
+{"id":"a3hRTprH","en":"Create: Multi-Tool","zh_draft":"","zh_ai":"Create：多功能工具","zh_human":"","zh":"Create：多功能工具","status":"ai"}
+{"id":"b3WivO4t","en":"NeoModeration","zh_draft":"","zh_ai":"新式管理","zh_human":"","zh":"新式管理","status":"ai"}
+{"id":"2AOuElYK","en":"Via Equina","zh_draft":"","zh_ai":"马匹之路","zh_human":"","zh":"马匹之路","status":"ai"}
+{"id":"KG3gDWV3","en":"Fair Play for Xaero's Maps","zh_draft":"","zh_ai":"Xaero地图公平赛","zh_human":"","zh":"Xaero地图公平赛","status":"ai"}
+{"id":"NfA8MJPa","en":"LiteSkins","zh_draft":"","zh_ai":"轻量皮肤","zh_human":"","zh":"轻量皮肤","status":"ai"}
+{"id":"ZBrGGUWR","en":"entityradar 查看附近的生物或玩家","zh_draft":"","zh_ai":"生物雷达","zh_human":"","zh":"生物雷达","status":"ai"}
+{"id":"bs9eWV5e","en":"Explode the Barrier","zh_draft":"","zh_ai":"炸毁屏障","zh_human":"","zh":"炸毁屏障","status":"ai"}
+{"id":"8WfGhe5L","en":"Blake's FNaF Mod","zh_draft":"","zh_ai":"布莱克FNaF模组","zh_human":"","zh":"布莱克FNaF模组","status":"ai"}
+{"id":"AdcPM9L6","en":"tealaxutils","zh_draft":"","zh_ai":"tealax工具","zh_human":"","zh":"tealax工具","status":"ai"}
+{"id":"KQ2dJ8uD","en":"Cheaper glass bottles","zh_draft":"","zh_ai":"便宜玻璃瓶","zh_human":"","zh":"便宜玻璃瓶","status":"ai"}
+{"id":"wWcVxK25","en":"VillagerBoost","zh_draft":"","zh_ai":"村民增强","zh_human":"","zh":"村民增强","status":"ai"}
+{"id":"HazDGFRs","en":"Bedwars Chat Stats","zh_draft":"","zh_ai":"床战聊天统计","zh_human":"","zh":"床战聊天统计","status":"ai"}
+{"id":"KI6s9YTx","en":"Random Assorted Crafts","zh_draft":"","zh_ai":"随机杂项工艺","zh_human":"","zh":"随机杂项工艺","status":"ai"}
+{"id":"VAR0JmNn","en":"Modest Masonry","zh_draft":"","zh_ai":"适度石匠","zh_human":"","zh":"适度石匠","status":"ai"}
+{"id":"8E1z5d7y","en":"Jeff The Landshark","zh_draft":"","zh_ai":"杰夫土地鲨","zh_human":"","zh":"杰夫土地鲨","status":"ai"}
+{"id":"GNJEbDCR","en":"Hide Pause Menu","zh_draft":"","zh_ai":"隐藏暂停菜单","zh_human":"","zh":"隐藏暂停菜单","status":"ai"}
+{"id":"GbgRQwNT","en":"jiojio_car_audio","zh_draft":"","zh_ai":"jiojio汽车音频","zh_human":"","zh":"jiojio汽车音频","status":"ai"}
+{"id":"InY3z4oM","en":"Cushion Backport - Backported","zh_draft":"","zh_ai":"垫子回滚 - 回滚","zh_human":"","zh":"垫子回滚 - 回滚","status":"ai"}
+{"id":"JboWGO2i","en":"[V-MOD] - Villages × farmers delight","zh_draft":"","zh_ai":"[V-MOD] - 村庄 × 农民之乐","zh_human":"","zh":"[V-MOD] - 村庄 × 农民之乐","status":"ai"}
+{"id":"MKPR7hTR","en":"WebScreen","zh_draft":"","zh_ai":"网页屏幕","zh_human":"","zh":"网页屏幕","status":"ai"}
+{"id":"Qvvks6Fp","en":"Cheaper Spyglasses","zh_draft":"","zh_ai":"便宜望远镜","zh_human":"","zh":"便宜望远镜","status":"ai"}
+{"id":"SorG3qIL","en":"Lots of Recipes","zh_draft":"","zh_ai":"大量食谱","zh_human":"","zh":"大量食谱","status":"ai"}
+{"id":"dIKhMXBn","en":"Extrapolate","zh_draft":"","zh_ai":"外推","zh_human":"","zh":"外推","status":"ai"}
+{"id":"kx8MW8hf","en":"Create Aeronautics: Mekanism Weight","zh_draft":"","zh_ai":"创造航空：Mekanism重量","zh_human":"","zh":"创造航空：Mekanism重量","status":"ai"}
+{"id":"r83E8K0j","en":"Sable Gravity","zh_draft":"","zh_ai":"沙色重力","zh_human":"","zh":"沙色重力","status":"ai"}
+{"id":"5gjTHaRE","en":"Wind Charge Resets","zh_draft":"","zh_ai":"风充能重置","zh_human":"","zh":"风充能重置","status":"ai"}
+{"id":"7iYQ7Gu6","en":"Northstar: Mars Expansion","zh_draft":"","zh_ai":"北极星：火星扩展","zh_human":"","zh":"北极星：火星扩展","status":"ai"}
+{"id":"Ff113jyY","en":"Smart Pickup","zh_draft":"","zh_ai":"智能拾取","zh_human":"","zh":"智能拾取","status":"ai"}
+{"id":"GRkbFT75","en":"Dangerous Sulfur Spikes","zh_draft":"","zh_ai":"危险硫磺刺","zh_human":"","zh":"危险硫磺刺","status":"ai"}
+{"id":"GnCXoI6g","en":"Grummy","zh_draft":"","zh_ai":"格鲁米","zh_human":"","zh":"格鲁米","status":"ai"}
+{"id":"K1LNn5PJ","en":"Rainbow Catcher","zh_draft":"","zh_ai":"彩虹捕捉器","zh_human":"","zh":"彩虹捕捉器","status":"ai"}
+{"id":"PknmcMZu","en":"Archery Revamped","zh_draft":"","zh_ai":"弓箭重制","zh_human":"","zh":"弓箭重制","status":"ai"}
+{"id":"TPNRfpi3","en":"Magic Dice","zh_draft":"","zh_ai":"魔法骰子","zh_human":"","zh":"魔法骰子","status":"ai"}
+{"id":"TbJsNss8","en":"Copper Essentials","zh_draft":"","zh_ai":"铜制基础","zh_human":"","zh":"铜制基础","status":"ai"}
+{"id":"TzbEpR51","en":"Pretender","zh_draft":"","zh_ai":"冒充者","zh_human":"","zh":"冒充者","status":"ai"}
+{"id":"XytCnQHe","en":"Powders and Sweets","zh_draft":"","zh_ai":"粉末和甜食","zh_human":"","zh":"粉末和甜食","status":"ai"}
+{"id":"Y4IfD2XR","en":"VillagerPickup","zh_draft":"","zh_ai":"村民拾取","zh_human":"","zh":"村民拾取","status":"ai"}
+{"id":"djVKDNL7","en":"Border Survival","zh_draft":"","zh_ai":"边境生存","zh_human":"","zh":"边境生存","status":"ai"}
+{"id":"eoWkpAPh","en":"RaiSoulForge","zh_draft":"","zh_ai":"雷伊灵魂锻造厂","zh_human":"","zh":"雷伊灵魂锻造厂","status":"ai"}
+{"id":"jbECV090","en":"EMI Trades Reborn","zh_draft":"","zh_ai":"EMI贸易重生","zh_human":"","zh":"EMI贸易重生","status":"ai"}
+{"id":"jnWQQcf3","en":"简易生存数据包 Simple Survival","zh_draft":"","zh_ai":"简易生存","zh_human":"","zh":"简易生存","status":"ai"}
+{"id":"mTYLrZsv","en":"Custom Rankings","zh_draft":"","zh_ai":"自定义排名","zh_human":"","zh":"自定义排名","status":"ai"}
+{"id":"prNN680M","en":"Cobblemon Aegislash Shoulder Mount","zh_draft":"","zh_ai":"石兽阿盖尔肩挂","zh_human":"","zh":"石兽阿盖尔肩挂","status":"ai"}
+{"id":"rAngDman","en":"StopTimer","zh_draft":"","zh_ai":"停止计时器","zh_human":"","zh":"停止计时器","status":"ai"}
+{"id":"s5qN4N1g","en":"Hostility Staff","zh_draft":"","zh_ai":"敌意法杖","zh_human":"","zh":"敌意法杖","status":"ai"}
+{"id":"uRNVeD9Y","en":"Magnet","zh_draft":"","zh_ai":"磁铁","zh_human":"","zh":"磁铁","status":"ai"}
+{"id":"vTMBbm14","en":"XBow Cart backport","zh_draft":"","zh_ai":"XBow车后置","zh_human":"","zh":"XBow车后置","status":"ai"}
+{"id":"ygnhgElF","en":"Retrospect · Dimensions","zh_draft":"","zh_ai":"回顾·维度","zh_human":"","zh":"回顾·维度","status":"ai"}
+{"id":"14wW1dlj","en":"explosives mobs","zh_draft":"","zh_ai":"爆炸生物","zh_human":"","zh":"爆炸生物","status":"ai"}
+{"id":"1PHi8joa","en":"Farmer's Delight: Contracts & Feasts","zh_draft":"","zh_ai":"农夫之乐：合同与盛宴","zh_human":"","zh":"农夫之乐：合同与盛宴","status":"ai"}
+{"id":"3lve2IfM","en":"GemCraft","zh_draft":"","zh_ai":"宝石工艺","zh_human":"","zh":"宝石工艺","status":"ai"}
+{"id":"6XLBGMP2","en":"BsCleaner","zh_draft":"","zh_ai":"Bs清洁器","zh_human":"","zh":"Bs清洁器","status":"ai"}
+{"id":"8enD2Tee","en":"Rainbow Healing","zh_draft":"","zh_ai":"彩虹治疗","zh_human":"","zh":"彩虹治疗","status":"ai"}
+{"id":"AN1EMWeF","en":"Uncrafty","zh_draft":"","zh_ai":"不可合成","zh_human":"","zh":"不可合成","status":"ai"}
+{"id":"CqaNAdbo","en":"FakeAdmin?","zh_draft":"","zh_ai":"假管理员?","zh_human":"","zh":"假管理员?","status":"ai"}
+{"id":"EZj0M69o","en":"CustomAdvancementMessages","zh_draft":"","zh_ai":"自定义进度消息","zh_human":"","zh":"自定义进度消息","status":"ai"}
+{"id":"FBHLmf7C","en":"config-workshop","zh_draft":"","zh_ai":"配置工作坊","zh_human":"","zh":"配置工作坊","status":"ai"}
+{"id":"HjeEKt8r","en":"Simple Clear Drops","zh_draft":"","zh_ai":"简单清除掉落","zh_human":"","zh":"简单清除掉落","status":"ai"}
+{"id":"IWot8gez","en":"BetterPotionsExtended","zh_draft":"","zh_ai":"更好的药水扩展","zh_human":"","zh":"更好的药水扩展","status":"ai"}
+{"id":"IjfpaZ8j","en":"QOLDP","zh_draft":"","zh_ai":"QOLDP","zh_human":"","zh":"QOLDP","status":"ai"}
+{"id":"JULCEte8","en":"Texture Pack Switcher","zh_draft":"","zh_ai":"纹理包切换器","zh_human":"","zh":"纹理包切换器","status":"ai"}
+{"id":"KCwEo0DZ","en":"More Shields","zh_draft":"","zh_ai":"更多盾牌","zh_human":"","zh":"更多盾牌","status":"ai"}
+{"id":"LDuJMNS2","en":"Create: Molten Metals - Neoforged","zh_draft":"","zh_ai":"创造：熔融金属 - 新锻造","zh_human":"","zh":"创造：熔融金属 - 新锻造","status":"ai"}
+{"id":"LNaJaiQ0","en":"CookTime","zh_draft":"","zh_ai":"烹饪时间","zh_human":"","zh":"烹饪时间","status":"ai"}
+{"id":"LjKtLvEw","en":"macelevels","zh_draft":"","zh_ai":"锤子等级","zh_human":"","zh":"锤子等级","status":"ai"}
+{"id":"OVwcUtD6","en":"ConsoleNamer","zh_draft":"","zh_ai":"控制台命名器","zh_human":"","zh":"控制台命名器","status":"ai"}
+{"id":"PesFb6Ie","en":"Rei Chikita Mod Evangelion","zh_draft":"","zh_ai":"绫波丽 Chikita 教团","zh_human":"","zh":"绫波丽 Chikita 教团","status":"ai"}
+{"id":"TOdZq3tE","en":"KN's Cobblevolution","zh_draft":"","zh_ai":"KN的圆石革命","zh_human":"","zh":"KN的圆石革命","status":"ai"}
+{"id":"Vhmtuyks","en":"Anvil Unlimited","zh_draft":"","zh_ai":"无限铁砧","zh_human":"","zh":"无限铁砧","status":"ai"}
+{"id":"Vl5AHUQE","en":"Diosesmon-official","zh_draft":"","zh_ai":"Diosesmon-官方","zh_human":"","zh":"Diosesmon-官方","status":"ai"}
+{"id":"VsyOEeGs","en":"Fungi Plus","zh_draft":"","zh_ai":"真菌+","zh_human":"","zh":"真菌+","status":"ai"}
+{"id":"WSyFc9zB","en":"Tasty Tiles","zh_draft":"","zh_ai":"美味的瓷砖","zh_human":"","zh":"美味的瓷砖","status":"ai"}
+{"id":"YVIdD1ED","en":"No Spears","zh_draft":"","zh_ai":"无矛","zh_human":"","zh":"无矛","status":"ai"}
+{"id":"YesurOKj","en":"Generation Green","zh_draft":"","zh_ai":"绿色一代","zh_human":"","zh":"绿色一代","status":"ai"}
+{"id":"awwbefYL","en":"Teleportation Enchantment","zh_draft":"","zh_ai":"传送附魔","zh_human":"","zh":"传送附魔","status":"ai"}
+{"id":"g1mpNEfh","en":"xFireball","zh_draft":"","zh_ai":"x火球","zh_human":"","zh":"x火球","status":"ai"}
+{"id":"iHFZbrne","en":"Cacophony-TFC","zh_draft":"","zh_ai":"嘈杂-TFC","zh_human":"","zh":"嘈杂-TFC","status":"ai"}
+{"id":"iTOsPpPW","en":"Fragile Dripstone","zh_draft":"","zh_ai":"脆弱的滴石","zh_human":"","zh":"脆弱的滴石","status":"ai"}
+{"id":"jJvNlYoG","en":"Polaroid600","zh_draft":"","zh_ai":"宝丽来600","zh_human":"","zh":"宝丽来600","status":"ai"}
+{"id":"ko2F237D","en":"Winseep | Purgatory","zh_draft":"","zh_ai":"Winseep | 地狱","zh_human":"","zh":"Winseep | 地狱","status":"ai"}
+{"id":"lW0RjX7V","en":"Railcity","zh_draft":"","zh_ai":"铁路城","zh_human":"","zh":"铁路城","status":"ai"}
+{"id":"mJmvnKDI","en":"MoxChestShop","zh_draft":"","zh_ai":"Mox储物柜商店","zh_human":"","zh":"Mox储物柜商店","status":"ai"}
+{"id":"mKo68z8m","en":"Voided Reality","zh_draft":"","zh_ai":"虚空现实","zh_human":"","zh":"虚空现实","status":"ai"}
+{"id":"nDESmWBx","en":"Pocket Tunes","zh_draft":"","zh_ai":"口袋音乐","zh_human":"","zh":"口袋音乐","status":"ai"}
+{"id":"ofmyAGqA","en":"Anvil Cost Predictor","zh_draft":"","zh_ai":"铁砧成本预测","zh_human":"","zh":"铁砧成本预测","status":"ai"}
+{"id":"pjVbrVXa","en":"there's a man","zh_draft":"","zh_ai":"有个人","zh_human":"","zh":"有个人","status":"ai"}
+{"id":"sDr5BIDY","en":"God's Mace","zh_draft":"","zh_ai":"神之锤","zh_human":"","zh":"神之锤","status":"ai"}
+{"id":"sTjZv5lN","en":"Torrential","zh_draft":"","zh_ai":"倾盆大雨","zh_human":"","zh":"倾盆大雨","status":"ai"}
+{"id":"srBfXhtf","en":"Drop Stack Keybind","zh_draft":"","zh_ai":"丢弃堆叠快捷键","zh_human":"","zh":"丢弃堆叠快捷键","status":"ai"}
+{"id":"vFUTEiCd","en":"Less Predictable Cave Biomes","zh_draft":"","zh_ai":"不可预测的洞穴生物群","zh_human":"","zh":"不可预测的洞穴生物群","status":"ai"}
+{"id":"wjhKNEct","en":"Verity JE Extra","zh_draft":"","zh_ai":"Verity JE 扩展","zh_human":"","zh":"Verity JE 扩展","status":"ai"}
+{"id":"xrXLxzhP","en":"ChatFS","zh_draft":"","zh_ai":"聊天文件系统","zh_human":"","zh":"聊天文件系统","status":"ai"}
+{"id":"yppPRmuM","en":"CloudCities","zh_draft":"","zh_ai":"云城","zh_human":"","zh":"云城","status":"ai"}
+{"id":"zqIuYSvw","en":"ShopStock","zh_draft":"","zh_ai":"商店库存","zh_human":"","zh":"商店库存","status":"ai"}
+{"id":"10VRsckd","en":"Visible Sound","zh_draft":"","zh_ai":"可见声音","zh_human":"","zh":"可见声音","status":"ai"}
+{"id":"2ceCWerC","en":"jujutsu npc buff","zh_draft":"","zh_ai":"忍术NPC增益","zh_human":"","zh":"忍术NPC增益","status":"ai"}
+{"id":"3SFNKJXS","en":"Magic Storage Network","zh_draft":"","zh_ai":"魔法存储网络","zh_human":"","zh":"魔法存储网络","status":"ai"}
+{"id":"7F1sQUtH","en":"Huge Sulfur Cube Expansion","zh_draft":"","zh_ai":"巨型硫磺立方体扩展","zh_human":"","zh":"巨型硫磺立方体扩展","status":"ai"}
+{"id":"7niGpCN6","en":"Cobblemon: Evolution Cooldowns","zh_draft":"","zh_ai":"方块龙：进化冷却","zh_human":"","zh":"方块龙：进化冷却","status":"ai"}
+{"id":"8LwUzpuE","en":"Mining Speed Indicators","zh_draft":"","zh_ai":"挖掘速度指示器","zh_human":"","zh":"挖掘速度指示器","status":"ai"}
+{"id":"9Ka3T9A0","en":"Disable Nether","zh_draft":"","zh_ai":"禁用下界","zh_human":"","zh":"禁用下界","status":"ai"}
+{"id":"AcqhdTrA","en":"Matcha Flavored - Flint Addon","zh_draft":"","zh_ai":"抹茶风味 - 打火石插件","zh_human":"","zh":"抹茶风味 - 打火石插件","status":"ai"}
+{"id":"CdCuryzK","en":"Sit","zh_draft":"","zh_ai":"坐下","zh_human":"","zh":"坐下","status":"ai"}
+{"id":"CxBkrrEL","en":"Creeper Forest Biome","zh_draft":"","zh_ai":"爬行者森林生物群","zh_human":"","zh":"爬行者森林生物群","status":"ai"}
+{"id":"EQn6H4rH","en":"Op weapons and armor","zh_draft":"","zh_ai":"强力武器和盔甲","zh_human":"","zh":"强力武器和盔甲","status":"ai"}
+{"id":"GFXvDaLP","en":"ItemApult","zh_draft":"","zh_ai":"物品助推器","zh_human":"","zh":"物品助推器","status":"ai"}
+{"id":"Gu62MKaY","en":"JoJoStands","zh_draft":"","zh_ai":"乔乔支架","zh_human":"","zh":"乔乔支架","status":"ai"}
+{"id":"IZlcViqd","en":"PowerCards","zh_draft":"","zh_ai":"能量卡","zh_human":"","zh":"能量卡","status":"ai"}
+{"id":"J6WsrcmW","en":"Nubert block","zh_draft":"","zh_ai":"努伯特方块","zh_human":"","zh":"努伯特方块","status":"ai"}
+{"id":"JwhprZWw","en":"mte's ruby mod","zh_draft":"","zh_ai":"mte的Ruby模组","zh_human":"","zh":"mte的Ruby模组","status":"ai"}
+{"id":"KnTcF0Ls","en":"SeeMoreNext","zh_draft":"","zh_ai":"更多下一页","zh_human":"","zh":"更多下一页","status":"ai"}
+{"id":"LxnezVXz","en":"Inevitable Golems","zh_draft":"","zh_ai":"不可避免的石像鬼","zh_human":"","zh":"不可避免的石像鬼","status":"ai"}
+{"id":"M5jhzZXH","en":"Thunderbolt Core","zh_draft":"","zh_ai":"闪电核心","zh_human":"","zh":"闪电核心","status":"ai"}
+{"id":"M5lgQdud","en":"Torch arrow mod","zh_draft":"","zh_ai":"火炬箭模组","zh_human":"","zh":"火炬箭模组","status":"ai"}
+{"id":"MFQZpNU7","en":"Create: Kinetic Lens","zh_draft":"","zh_ai":"Create: 动能透镜","zh_human":"","zh":"Create: 动能透镜","status":"ai"}
+{"id":"Ma44GJ3o","en":"VanillaGear++","zh_draft":"","zh_ai":"VanillaGear++","zh_human":"","zh":"VanillaGear++","status":"ai"}
+{"id":"NTZ0y3ik","en":"Best login","zh_draft":"","zh_ai":"最佳登录","zh_human":"","zh":"最佳登录","status":"ai"}
+{"id":"Ol439igP","en":"Spartan Weaponry Reborn","zh_draft":"","zh_ai":"斯巴达武器重生","zh_human":"","zh":"斯巴达武器重生","status":"ai"}
+{"id":"PsM3nvLH","en":"Create Parachutes: Parachutes Crafting Recipe","zh_draft":"","zh_ai":"Create降落伞：降落伞制作配方","zh_human":"","zh":"Create降落伞：降落伞制作配方","status":"ai"}
+{"id":"Qdr0XZQI","en":"Chaos Companions","zh_draft":"","zh_ai":"混沌伙伴","zh_human":"","zh":"混沌伙伴","status":"ai"}
+{"id":"QoqS7kCG","en":"Livex,s Timer","zh_draft":"","zh_ai":"Livex的计时器","zh_human":"","zh":"Livex的计时器","status":"ai"}
+{"id":"RNktLtFl","en":"Sand Blasting","zh_draft":"","zh_ai":"沙磨","zh_human":"","zh":"沙磨","status":"ai"}
+{"id":"RyYBeKmg","en":"Create: Vintage Sequences","zh_draft":"","zh_ai":"机械动力：复古序列","zh_human":"","zh":"机械动力：复古序列","status":"ai"}
+{"id":"SNwShVJ6","en":"Chunklocked","zh_draft":"","zh_ai":"区块锁定","zh_human":"","zh":"区块锁定","status":"ai"}
+{"id":"TLOtnBh5","en":"Missions JEI Compat","zh_draft":"","zh_ai":"任务 JEI 兼容","zh_human":"","zh":"任务 JEI 兼容","status":"ai"}
+{"id":"UMZjXE7y","en":"Untouchable Crystals","zh_draft":"","zh_ai":"不可触碰的晶体","zh_human":"","zh":"不可触碰的晶体","status":"ai"}
+{"id":"USPPjkiO","en":"Ultimate Custom Gear","zh_draft":"","zh_ai":"终极自定义装备","zh_human":"","zh":"终极自定义装备","status":"ai"}
+{"id":"UWV8H4F4","en":"Farmers Spell","zh_draft":"","zh_ai":"农夫咒语","zh_human":"","zh":"农夫咒语","status":"ai"}
+{"id":"WDOPgbuI","en":"vTarla","zh_draft":"","zh_ai":"vTarla","zh_human":"","zh":"vTarla","status":"ai"}
+{"id":"ZkspYtys","en":"CouchBounty","zh_draft":"","zh_ai":"沙发赏金","zh_human":"","zh":"沙发赏金","status":"ai"}
+{"id":"arFQIQDF","en":"Infinite pistons","zh_draft":"","zh_ai":"无限活塞","zh_human":"","zh":"无限活塞","status":"ai"}
+{"id":"buLIZVsf","en":"Heartlog","zh_draft":"","zh_ai":"心跳日志","zh_human":"","zh":"心跳日志","status":"ai"}
+{"id":"cSsfw9lw","en":"Elytra Chesplate","zh_draft":"","zh_ai":"鞘翅胸甲","zh_human":"","zh":"鞘翅胸甲","status":"ai"}
+{"id":"cjtczdrC","en":"Resource Pack Selector","zh_draft":"","zh_ai":"资源包选择器","zh_human":"","zh":"资源包选择器","status":"ai"}
+{"id":"dI5EE3d9","en":"CoordinateTools","zh_draft":"","zh_ai":"坐标工具","zh_human":"","zh":"坐标工具","status":"ai"}
+{"id":"eD478KXF","en":"Electrical Power Base","zh_draft":"","zh_ai":"电力基地","zh_human":"","zh":"电力基地","status":"ai"}
+{"id":"gHymICF1","en":"Spartan Shields Reborn","zh_draft":"","zh_ai":"斯巴达盾牌重生","zh_human":"","zh":"斯巴达盾牌重生","status":"ai"}
+{"id":"ga4H388y","en":"Block Elevators","zh_draft":"","zh_ai":"方块电梯","zh_human":"","zh":"方块电梯","status":"ai"}
+{"id":"hA0vfE41","en":"Autovend","zh_draft":"","zh_ai":"自动售货机","zh_human":"","zh":"自动售货机","status":"ai"}
+{"id":"j1uNlxMN","en":"Undead Ultra Cure","zh_draft":"","zh_ai":"不死族超级治愈","zh_human":"","zh":"不死族超级治愈","status":"ai"}
+{"id":"jAxbzeb8","en":"Vanilla+ Bows","zh_draft":"","zh_ai":"原版+弓","zh_human":"","zh":"原版+弓","status":"ai"}
+{"id":"l4bfgGI2","en":"Trade Rebalance: Missing Trades","zh_draft":"","zh_ai":"交易重平衡：缺失交易","zh_human":"","zh":"交易重平衡：缺失交易","status":"ai"}
+{"id":"m6ihrzu1","en":"The Block Shuffle","zh_draft":"","zh_ai":"方块洗牌","zh_human":"","zh":"方块洗牌","status":"ai"}
+{"id":"mv1jVR6K","en":"Deathcount","zh_draft":"","zh_ai":"死亡计数","zh_human":"","zh":"死亡计数","status":"ai"}
+{"id":"pfNn4rWj","en":"Block villager","zh_draft":"","zh_ai":"方块村民","zh_human":"","zh":"方块村民","status":"ai"}
+{"id":"qxga261K","en":"Difficulty Level: ULTRA MEGA EASY","zh_draft":"","zh_ai":"难度等级：超超简单","zh_human":"","zh":"难度等级：超超简单","status":"ai"}
+{"id":"sJj8CisH","en":"Create: Random 'BulkSheet'","zh_draft":"","zh_ai":"机械动力：随机批量表","zh_human":"","zh":"机械动力：随机批量表","status":"ai"}
+{"id":"sxl92Yh5","en":"PrestigeMythic","zh_draft":"","zh_ai":"声望神话","zh_human":"","zh":"声望神话","status":"ai"}
+{"id":"tKMQawAO","en":"Create: Diesel Generators: Extended","zh_draft":"","zh_ai":"机械动力：柴油发电机：扩展","zh_human":"","zh":"机械动力：柴油发电机：扩展","status":"ai"}
+{"id":"thzFJEZL","en":"Stringless","zh_draft":"","zh_ai":"无线","zh_human":"","zh":"无线","status":"ai"}
+{"id":"u2NJ7rzu","en":"Construction Wands Revived","zh_draft":"","zh_ai":"建筑魔杖重生","zh_human":"","zh":"建筑魔杖重生","status":"ai"}
+{"id":"uabWrtwc","en":"Border Blocks","zh_draft":"","zh_ai":"边界方块","zh_human":"","zh":"边界方块","status":"ai"}
+{"id":"wXoQ9BqX","en":"GTBC's SpellLib/API","zh_draft":"","zh_ai":"GTBC 咒语库/API","zh_human":"","zh":"GTBC 咒语库/API","status":"ai"}
+{"id":"wjmO6ct3","en":"SnoozeLoot","zh_draft":"","zh_ai":"贪睡战利品","zh_human":"","zh":"贪睡战利品","status":"ai"}
+{"id":"yeKhazWw","en":"Fair Experience","zh_draft":"","zh_ai":"公平经验","zh_human":"","zh":"公平经验","status":"ai"}
+{"id":"yjUNPXxm","en":"Horror Weather","zh_draft":"","zh_ai":"恐怖天气","zh_human":"","zh":"恐怖天气","status":"ai"}
+{"id":"zUhlPhCL","en":"Netherite items old craft","zh_draft":"","zh_ai":"下界合金物品旧合成","zh_human":"","zh":"下界合金物品旧合成","status":"ai"}

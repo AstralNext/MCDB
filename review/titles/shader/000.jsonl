@@ -716,13 +716,13 @@
 {"id":"pdPzO9sA","en":"Virelia Shaders","zh_draft":"","zh_ai":"维蕾莉亚着色器","zh_human":"","zh":"维蕾莉亚着色器","status":"ai"}
 {"id":"tGA8fky8","en":"Vignette Low-End Shader","zh_draft":"","zh_ai":"低端暗角着色器","zh_human":"","zh":"低端暗角着色器","status":"ai"}
 {"id":"q8rOKdsz","en":"Only Shadows Shader","zh_draft":"","zh_ai":"纯阴影着色器","zh_human":"","zh":"纯阴影着色器","status":"ai"}
-{"id":"uBmYhTAH","en":"Adi Cinematic Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NHtuBYSh","en":"NotScary","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MuKtZfKJ","en":"Ripple Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gx8HAJAO","en":"Torch Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"v1eZe7tM","en":"LumaSky","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"U3Me7qhD","en":"Velyra grayscale shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hpNP1Caf","en":"LumaSky Beyond","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4vvEmj8p","en":"VanillAqua Reflections","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vRmou5uM","en":"Visuality little bound","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xgRfxPjE","en":"Moon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"uBmYhTAH","en":"Adi Cinematic Shader","zh_draft":"","zh_ai":"Adi电影级光影","zh_human":"","zh":"Adi电影级光影","status":"ai"}
+{"id":"NHtuBYSh","en":"NotScary","zh_draft":"","zh_ai":"不吓人","zh_human":"","zh":"不吓人","status":"ai"}
+{"id":"MuKtZfKJ","en":"Ripple Shaders","zh_draft":"","zh_ai":"涟漪光影","zh_human":"","zh":"涟漪光影","status":"ai"}
+{"id":"gx8HAJAO","en":"Torch Shader","zh_draft":"","zh_ai":"火把光影","zh_human":"","zh":"火把光影","status":"ai"}
+{"id":"v1eZe7tM","en":"LumaSky","zh_draft":"","zh_ai":"光明天际","zh_human":"","zh":"光明天际","status":"ai"}
+{"id":"U3Me7qhD","en":"Velyra grayscale shaders","zh_draft":"","zh_ai":"Velyra灰度光影","zh_human":"","zh":"Velyra灰度光影","status":"ai"}
+{"id":"hpNP1Caf","en":"LumaSky Beyond","zh_draft":"","zh_ai":"光明天际超越版","zh_human":"","zh":"光明天际超越版","status":"ai"}
+{"id":"4vvEmj8p","en":"VanillAqua Reflections","zh_draft":"","zh_ai":"VanillAqua 反射","zh_human":"","zh":"VanillAqua 反射","status":"ai"}
+{"id":"vRmou5uM","en":"Visuality little bound","zh_draft":"","zh_ai":"Visuality 轻量版","zh_human":"","zh":"Visuality 轻量版","status":"ai"}
+{"id":"xgRfxPjE","en":"Moon","zh_draft":"","zh_ai":"月亮","zh_human":"","zh":"月亮","status":"ai"}
