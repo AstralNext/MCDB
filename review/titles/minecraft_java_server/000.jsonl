@@ -1907,17 +1907,17 @@
 {"id":"f2mPqP5r","en":"PokeLegends.pl","zh_draft":"","zh_ai":"宝可梦传说 pl","zh_human":"","zh":"宝可梦传说 pl","status":"ai"}
 {"id":"rPKHcnty","en":"Vanilla SMP (EU)","zh_draft":"","zh_ai":"原味生存模式 (EU)","zh_human":"","zh":"原味生存模式 (EU)","status":"ai"}
 {"id":"xDDlJ2jW","en":"FluxSMP","zh_draft":"","zh_ai":"流动生存模式","zh_human":"","zh":"流动生存模式","status":"ai"}
-{"id":"hOKztHdc","en":"Just Enough Enoughs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2fOQ9Zyi","en":"Kindome Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"61pP5HuM","en":"Bedrockia","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6Xv0smuj","en":"Nolvacraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9Ru4DqiE","en":"Our Place","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9dV9md78","en":"Nexus0","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"C4KE5pOJ","en":"NoxelSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ESDoFZ3C","en":"Exotic SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FUpY3NpW","en":"EQUINOX SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IczMjXmJ","en":"FutureServer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Pn1THAmc","en":"McTrainer.Club","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eVi5ODI3","en":"3d3k Anarchy","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"l3Q77jNp","en":"AntozSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wrXbVY8A","en":"SPCITCLUB MC Server","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"hOKztHdc","en":"Just Enough Enoughs","zh_draft":"","zh_ai":"足够足够","zh_human":"","zh":"足够足够","status":"ai"}
+{"id":"2fOQ9Zyi","en":"Kindome Network","zh_draft":"","zh_ai":"王国网络","zh_human":"","zh":"王国网络","status":"ai"}
+{"id":"61pP5HuM","en":"Bedrockia","zh_draft":"","zh_ai":"基岩大陆","zh_human":"","zh":"基岩大陆","status":"ai"}
+{"id":"6Xv0smuj","en":"Nolvacraft","zh_draft":"","zh_ai":"诺瓦克瑞夫特","zh_human":"","zh":"诺瓦克瑞夫特","status":"ai"}
+{"id":"9Ru4DqiE","en":"Our Place","zh_draft":"","zh_ai":"我们的地方","zh_human":"","zh":"我们的地方","status":"ai"}
+{"id":"9dV9md78","en":"Nexus0","zh_draft":"","zh_ai":"Nexus0","zh_human":"","zh":"Nexus0","status":"ai"}
+{"id":"C4KE5pOJ","en":"NoxelSMP","zh_draft":"","zh_ai":"诺克斯SMP","zh_human":"","zh":"诺克斯SMP","status":"ai"}
+{"id":"ESDoFZ3C","en":"Exotic SMP","zh_draft":"","zh_ai":"异域SMP","zh_human":"","zh":"异域SMP","status":"ai"}
+{"id":"FUpY3NpW","en":"EQUINOX SMP","zh_draft":"","zh_ai":"秋分SMP","zh_human":"","zh":"秋分SMP","status":"ai"}
+{"id":"IczMjXmJ","en":"FutureServer","zh_draft":"","zh_ai":"未来服务器","zh_human":"","zh":"未来服务器","status":"ai"}
+{"id":"Pn1THAmc","en":"McTrainer.Club","zh_draft":"","zh_ai":"MCTrainer俱乐部","zh_human":"","zh":"MCTrainer俱乐部","status":"ai"}
+{"id":"eVi5ODI3","en":"3d3k Anarchy","zh_draft":"","zh_ai":"3d3k无政府","zh_human":"","zh":"3d3k无政府","status":"ai"}
+{"id":"l3Q77jNp","en":"AntozSMP","zh_draft":"","zh_ai":"安托兹SMP","zh_human":"","zh":"安托兹SMP","status":"ai"}
+{"id":"wrXbVY8A","en":"SPCITCLUB MC Server","zh_draft":"","zh_ai":"SPCITCLUB服务器","zh_human":"","zh":"SPCITCLUB服务器","status":"ai"}
