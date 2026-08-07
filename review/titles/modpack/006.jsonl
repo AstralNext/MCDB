@@ -148,32 +148,32 @@
 {"id":"EyjLIjcV","en":"Shwarma Adventures","zh_draft":"","zh_ai":"沙威玛冒险","zh_human":"","zh":"沙威玛冒险","status":"ai"}
 {"id":"gNVdDxwB","en":"BossLand3","zh_draft":"","zh_ai":"Boss之地3","zh_human":"","zh":"Boss之地3","status":"ai"}
 {"id":"lGvg7aBW","en":"MedievalCraft","zh_draft":"","zh_ai":"中世纪工艺","zh_human":"","zh":"中世纪工艺","status":"ai"}
-{"id":"YGD9tJRh","en":"Cogglemon Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6igOKQ4g","en":"tea-flavoured-additions","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"841CFaQB","en":"Xshadow's PvP pack!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"V6hLe9nT","en":"Raiku PVP MP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rKgEzjjA","en":"The Roaring 20's Oasis","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hSIpqiIA","en":"Let's Just Create","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DDN6YWv2","en":"PalHub Creates","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kFXHnImB","en":"Spectre's Aeroworks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"bCNDGIrw","en":"You and Ambience!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eWDRBXH7","en":"Create: Physics And Aeronautics [Server-Side]","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"EY4KfKB3","en":"Hope Core","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iLYFN852","en":"PGC SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ozKMHyfW","en":"DemonFPS","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"V8Z4RsJ8","en":"Ancient's PvP and SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LMElwn5y","en":"Industrial Adventures+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Duf9FKbA","en":"Vegemites","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fmYbschb","en":"AventuriaCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8EYql0ku","en":"Steve’s Day Off","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"bYwAdSWM","en":"The Chertia Wastes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4VV71lqX","en":"Musubi Mon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JzAiVEgQ","en":"Polarbear Performance","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"AJ9Kxcbv","en":"Create Complete Reimagined","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"OQULqVei","en":"Zman's Middle-Earth Experience","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vZhOqQw6","en":"Unknown's Create Mod Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zj9WR0WO","en":"Tom's Create Together","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GXpp7pUD","en":"A Lombada","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NQesHhgf","en":"SmashMC Pixelmon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"BrB65gmJ","en":"Create and Much More!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MUiA0yaB","en":"MC RHAYGAL","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"YGD9tJRh","en":"Cogglemon Modpack","zh_draft":"","zh_ai":"柯加蒙模组包","zh_human":"","zh":"柯加蒙模组包","status":"ai"}
+{"id":"6igOKQ4g","en":"tea-flavoured-additions","zh_draft":"","zh_ai":"茶味附加","zh_human":"","zh":"茶味附加","status":"ai"}
+{"id":"841CFaQB","en":"Xshadow's PvP pack!","zh_draft":"","zh_ai":"Xshadow的PvP包！","zh_human":"","zh":"Xshadow的PvP包！","status":"ai"}
+{"id":"V6hLe9nT","en":"Raiku PVP MP","zh_draft":"","zh_ai":"莱库PVP模组包","zh_human":"","zh":"莱库PVP模组包","status":"ai"}
+{"id":"rKgEzjjA","en":"The Roaring 20's Oasis","zh_draft":"","zh_ai":"咆哮二十年代的绿洲","zh_human":"","zh":"咆哮二十年代的绿洲","status":"ai"}
+{"id":"hSIpqiIA","en":"Let's Just Create","zh_draft":"","zh_ai":"让我们创造吧","zh_human":"","zh":"让我们创造吧","status":"ai"}
+{"id":"DDN6YWv2","en":"PalHub Creates","zh_draft":"","zh_ai":"帕尔胡伯创造","zh_human":"","zh":"帕尔胡伯创造","status":"ai"}
+{"id":"kFXHnImB","en":"Spectre's Aeroworks","zh_draft":"","zh_ai":"幽灵的航空作品","zh_human":"","zh":"幽灵的航空作品","status":"ai"}
+{"id":"bCNDGIrw","en":"You and Ambience!","zh_draft":"","zh_ai":"你和氛围！","zh_human":"","zh":"你和氛围！","status":"ai"}
+{"id":"eWDRBXH7","en":"Create: Physics And Aeronautics [Server-Side]","zh_draft":"","zh_ai":"创造：物理与航空[服务器端]","zh_human":"","zh":"创造：物理与航空[服务器端]","status":"ai"}
+{"id":"EY4KfKB3","en":"Hope Core","zh_draft":"","zh_ai":"希望核心","zh_human":"","zh":"希望核心","status":"ai"}
+{"id":"iLYFN852","en":"PGC SMP","zh_draft":"","zh_ai":"PGC生存模式","zh_human":"","zh":"PGC生存模式","status":"ai"}
+{"id":"ozKMHyfW","en":"DemonFPS","zh_draft":"","zh_ai":"恶魔FPS","zh_human":"","zh":"恶魔FPS","status":"ai"}
+{"id":"V8Z4RsJ8","en":"Ancient's PvP and SMP","zh_draft":"","zh_ai":"古人的PvP和生存模式","zh_human":"","zh":"古人的PvP和生存模式","status":"ai"}
+{"id":"LMElwn5y","en":"Industrial Adventures+","zh_draft":"","zh_ai":"工业冒险+","zh_human":"","zh":"工业冒险+","status":"ai"}
+{"id":"Duf9FKbA","en":"Vegemites","zh_draft":"","zh_ai":"蔬菜饼","zh_human":"","zh":"蔬菜饼","status":"ai"}
+{"id":"fmYbschb","en":"AventuriaCraft","zh_draft":"","zh_ai":"阿文图里亚工艺","zh_human":"","zh":"阿文图里亚工艺","status":"ai"}
+{"id":"8EYql0ku","en":"Steve’s Day Off","zh_draft":"","zh_ai":"史蒂夫的休息日","zh_human":"","zh":"史蒂夫的休息日","status":"ai"}
+{"id":"bYwAdSWM","en":"The Chertia Wastes","zh_draft":"","zh_ai":"切瑞塔荒地","zh_human":"","zh":"切瑞塔荒地","status":"ai"}
+{"id":"4VV71lqX","en":"Musubi Mon","zh_draft":"","zh_ai":"御守兽","zh_human":"","zh":"御守兽","status":"ai"}
+{"id":"JzAiVEgQ","en":"Polarbear Performance","zh_draft":"","zh_ai":"北极熊性能","zh_human":"","zh":"北极熊性能","status":"ai"}
+{"id":"AJ9Kxcbv","en":"Create Complete Reimagined","zh_draft":"","zh_ai":"创造全面重塑","zh_human":"","zh":"创造全面重塑","status":"ai"}
+{"id":"OQULqVei","en":"Zman's Middle-Earth Experience","zh_draft":"","zh_ai":"Zman的中土世界体验","zh_human":"","zh":"Zman的中土世界体验","status":"ai"}
+{"id":"vZhOqQw6","en":"Unknown's Create Mod Pack","zh_draft":"","zh_ai":"未知创造模组包","zh_human":"","zh":"未知创造模组包","status":"ai"}
+{"id":"zj9WR0WO","en":"Tom's Create Together","zh_draft":"","zh_ai":"汤姆一起创造","zh_human":"","zh":"汤姆一起创造","status":"ai"}
+{"id":"GXpp7pUD","en":"A Lombada","zh_draft":"","zh_ai":"阿隆巴达","zh_human":"","zh":"阿隆巴达","status":"ai"}
+{"id":"NQesHhgf","en":"SmashMC Pixelmon","zh_draft":"","zh_ai":"SmashMC皮克莫","zh_human":"","zh":"SmashMC皮克莫","status":"ai"}
+{"id":"BrB65gmJ","en":"Create and Much More!","zh_draft":"","zh_ai":"创造及更多！","zh_human":"","zh":"创造及更多！","status":"ai"}
+{"id":"MUiA0yaB","en":"MC RHAYGAL","zh_draft":"","zh_ai":"MC RHAYGAL","zh_human":"","zh":"MC RHAYGAL","status":"ai"}

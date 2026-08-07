@@ -726,15 +726,15 @@
 {"id":"4vvEmj8p","en":"VanillAqua Reflections","zh_draft":"","zh_ai":"VanillAqua 反射","zh_human":"","zh":"VanillAqua 反射","status":"ai"}
 {"id":"vRmou5uM","en":"Visuality little bound","zh_draft":"","zh_ai":"Visuality 轻量版","zh_human":"","zh":"Visuality 轻量版","status":"ai"}
 {"id":"xgRfxPjE","en":"Moon","zh_draft":"","zh_ai":"月亮","zh_human":"","zh":"月亮","status":"ai"}
-{"id":"ArIU33VR","en":"TB Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3W0Dwcrv","en":"Sundial Lite Vivid","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NZLaU3Wr","en":"Cherry Reimagined","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"tuXTuJTX","en":"Henry's Drunk","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PzyOxx1v","en":"Silva Pro","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FgCsXebA","en":"Vanilla Reimagined","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"b32yQFcy","en":"Fryed Vibrant Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Xyi9tiKd","en":"Ultimate SHADER  Horror Experience","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gACrH6H4","en":"Deprivation Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"N3gLxcnn","en":"DTM Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IxzPCO4v","en":"Lumen Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3FUsMjv8","en":"Valtique","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ArIU33VR","en":"TB Shaders","zh_draft":"","zh_ai":"TB光影","zh_human":"","zh":"TB光影","status":"ai"}
+{"id":"3W0Dwcrv","en":"Sundial Lite Vivid","zh_draft":"","zh_ai":"日晷轻量 vivid","zh_human":"","zh":"日晷轻量 vivid","status":"ai"}
+{"id":"NZLaU3Wr","en":"Cherry Reimagined","zh_draft":"","zh_ai":"樱花重绘","zh_human":"","zh":"樱花重绘","status":"ai"}
+{"id":"tuXTuJTX","en":"Henry's Drunk","zh_draft":"","zh_ai":"亨利的醉意","zh_human":"","zh":"亨利的醉意","status":"ai"}
+{"id":"PzyOxx1v","en":"Silva Pro","zh_draft":"","zh_ai":"西尔瓦专业版","zh_human":"","zh":"西尔瓦专业版","status":"ai"}
+{"id":"FgCsXebA","en":"Vanilla Reimagined","zh_draft":"","zh_ai":"原版重绘","zh_human":"","zh":"原版重绘","status":"ai"}
+{"id":"b32yQFcy","en":"Fryed Vibrant Shader","zh_draft":"","zh_ai":"香脆活力光影","zh_human":"","zh":"香脆活力光影","status":"ai"}
+{"id":"Xyi9tiKd","en":"Ultimate SHADER  Horror Experience","zh_draft":"","zh_ai":"终极恐怖光影体验","zh_human":"","zh":"终极恐怖光影体验","status":"ai"}
+{"id":"gACrH6H4","en":"Deprivation Shaders","zh_draft":"","zh_ai":"剥夺光影","zh_human":"","zh":"剥夺光影","status":"ai"}
+{"id":"N3gLxcnn","en":"DTM Shader","zh_draft":"","zh_ai":"DTM光影","zh_human":"","zh":"DTM光影","status":"ai"}
+{"id":"IxzPCO4v","en":"Lumen Shader","zh_draft":"","zh_ai":"流明光影","zh_human":"","zh":"流明光影","status":"ai"}
+{"id":"3FUsMjv8","en":"Valtique","zh_draft":"","zh_ai":"瓦尔提克","zh_human":"","zh":"瓦尔提克","status":"ai"}
