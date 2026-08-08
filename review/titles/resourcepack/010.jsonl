@@ -2093,7 +2093,7 @@
 {"id":"qon3pUus","en":"Backported maps","zh_draft":"","zh_ai":"回溯地图","zh_human":"","zh":"回溯地图","status":"ai"}
 {"id":"rcLuWpXg","en":"Orange Combat Visuals","zh_draft":"","zh_ai":"橙色战斗视觉","zh_human":"","zh":"橙色战斗视觉","status":"ai"}
 {"id":"zOFYOpNZ","en":"Geysers Be Gone","zh_draft":"","zh_ai":"告别间歇泉","zh_human":"","zh":"告别间歇泉","status":"ai"}
-{"id":"1D4ec9ec","en":"Better Panorama","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NHaa6iE6","en":"Consistent Discs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"e3jBHNlX","en":"Basic Textures Beta","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6FkJ9StY","en":"Bricks Of Value","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"1D4ec9ec","en":"Better Panorama","zh_draft":"","zh_ai":"更好全景图","zh_human":"","zh":"更好全景图","status":"ai"}
+{"id":"NHaa6iE6","en":"Consistent Discs","zh_draft":"","zh_ai":"连贯唱片","zh_human":"","zh":"连贯唱片","status":"ai"}
+{"id":"e3jBHNlX","en":"Basic Textures Beta","zh_draft":"","zh_ai":"基础材质测试版","zh_human":"","zh":"基础材质测试版","status":"ai"}
+{"id":"6FkJ9StY","en":"Bricks Of Value","zh_draft":"","zh_ai":"珍贵砖块","zh_human":"","zh":"珍贵砖块","status":"ai"}
