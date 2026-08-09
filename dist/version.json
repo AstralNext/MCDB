@@ -1,9 +1,9 @@
 {
-  "version": "df8da81170701f4c",
-  "built_at": "2026-08-09T17:21:08Z",
-  "pair_count": 150615,
+  "version": "4731b803f6cbed03",
+  "built_at": "2026-08-09T18:04:35Z",
+  "pair_count": 151033,
   "status_counts": {
-    "ai": 150615
+    "ai": 151033
   },
   "format": "json-only",
   "files": {
