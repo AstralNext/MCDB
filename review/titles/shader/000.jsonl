@@ -738,8 +738,8 @@
 {"id":"N3gLxcnn","en":"DTM Shader","zh_draft":"","zh_ai":"DTM光影","zh_human":"","zh":"DTM光影","status":"ai"}
 {"id":"IxzPCO4v","en":"Lumen Shader","zh_draft":"","zh_ai":"流明光影","zh_human":"","zh":"流明光影","status":"ai"}
 {"id":"3FUsMjv8","en":"Valtique","zh_draft":"","zh_ai":"瓦尔提克","zh_human":"","zh":"瓦尔提克","status":"ai"}
-{"id":"S8ZCVZOX","en":"Lost Tape Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6nLgxdmJ","en":"Actmos","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9BonL3mf","en":"ISKRA Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"BH6mxOqb","en":"AlooShaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"OCmyF3Cs","en":"Oxygen Atmosphere","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"S8ZCVZOX","en":"Lost Tape Shader","zh_draft":"","zh_ai":"失落磁带着色器","zh_human":"","zh":"失落磁带着色器","status":"ai"}
+{"id":"6nLgxdmJ","en":"Actmos","zh_draft":"","zh_ai":"Actmos","zh_human":"","zh":"Actmos","status":"ai"}
+{"id":"9BonL3mf","en":"ISKRA Shaders","zh_draft":"","zh_ai":"ISKRA 着色器","zh_human":"","zh":"ISKRA 着色器","status":"ai"}
+{"id":"BH6mxOqb","en":"AlooShaders","zh_draft":"","zh_ai":"Aloo 着色器","zh_human":"","zh":"Aloo 着色器","status":"ai"}
+{"id":"OCmyF3Cs","en":"Oxygen Atmosphere","zh_draft":"","zh_ai":"氧气大气层","zh_human":"","zh":"氧气大气层","status":"ai"}
