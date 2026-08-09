@@ -2097,26 +2097,26 @@
 {"id":"NHaa6iE6","en":"Consistent Discs","zh_draft":"","zh_ai":"连贯唱片","zh_human":"","zh":"连贯唱片","status":"ai"}
 {"id":"e3jBHNlX","en":"Basic Textures Beta","zh_draft":"","zh_ai":"基础材质测试版","zh_human":"","zh":"基础材质测试版","status":"ai"}
 {"id":"6FkJ9StY","en":"Bricks Of Value","zh_draft":"","zh_ai":"珍贵砖块","zh_human":"","zh":"珍贵砖块","status":"ai"}
-{"id":"sCP7aGxu","en":"Veinify – Better Mining","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"t63j05QB","en":"Purple Dark GUI","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6I2BWsOw","en":"iPatzzyV4","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FR8Dwf8J","en":"Deltarune Music (Reactive Music)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CASJzpNP","en":"brain hurting juice","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"bN65kMex","en":"KSEPSP & EcoEnchants","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kwLVv9Yk","en":"Ichigo Totem","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"N5lxbMmi","en":"Rose Return","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2lVuIt5Y","en":"MEMO-POTATO-GRAPHİCS","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"W5uZckLT","en":"Aks0mi PvP PACK","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ymld9Bvs","en":"JAPPA's Beta","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yyMnYm0Q","en":"Dark PvP Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1IhzStNs","en":"notch reimagned","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UNePeTqg","en":"MC Reshaped Programmer Art","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"h0wfWZ1K","en":"Haimaya Senpai Totem","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ktQjkZUU","en":"Ashley Betterite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1xElH8r0","en":"copper armor marlow's texture","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4x9fHFl3","en":"Poker Cards by Cuplexx","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7uTzCLOb","en":"CS2M","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"BoYKs3cn","en":"Recoursepack for Danny's AOT","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"sCP7aGxu","en":"Veinify – Better Mining","zh_draft":"","zh_ai":"矿脉挖掘","zh_human":"","zh":"矿脉挖掘","status":"ai"}
+{"id":"t63j05QB","en":"Purple Dark GUI","zh_draft":"","zh_ai":"紫色暗色界面","zh_human":"","zh":"紫色暗色界面","status":"ai"}
+{"id":"6I2BWsOw","en":"iPatzzyV4","zh_draft":"","zh_ai":"iPatzzyV4","zh_human":"","zh":"iPatzzyV4","status":"ai"}
+{"id":"FR8Dwf8J","en":"Deltarune Music (Reactive Music)","zh_draft":"","zh_ai":"传说之下音乐","zh_human":"","zh":"传说之下音乐","status":"ai"}
+{"id":"CASJzpNP","en":"brain hurting juice","zh_draft":"","zh_ai":"烧脑汁","zh_human":"","zh":"烧脑汁","status":"ai"}
+{"id":"bN65kMex","en":"KSEPSP & EcoEnchants","zh_draft":"","zh_ai":"KSEPSP与生态附魔","zh_human":"","zh":"KSEPSP与生态附魔","status":"ai"}
+{"id":"kwLVv9Yk","en":"Ichigo Totem","zh_draft":"","zh_ai":"一护图腾","zh_human":"","zh":"一护图腾","status":"ai"}
+{"id":"N5lxbMmi","en":"Rose Return","zh_draft":"","zh_ai":"玫瑰回归","zh_human":"","zh":"玫瑰回归","status":"ai"}
+{"id":"2lVuIt5Y","en":"MEMO-POTATO-GRAPHİCS","zh_draft":"","zh_ai":"备忘录土豆画质","zh_human":"","zh":"备忘录土豆画质","status":"ai"}
+{"id":"W5uZckLT","en":"Aks0mi PvP PACK","zh_draft":"","zh_ai":"Aks0mi PvP材质包","zh_human":"","zh":"Aks0mi PvP材质包","status":"ai"}
+{"id":"ymld9Bvs","en":"JAPPA's Beta","zh_draft":"","zh_ai":"JAPPA的测试版","zh_human":"","zh":"JAPPA的测试版","status":"ai"}
+{"id":"yyMnYm0Q","en":"Dark PvP Pack","zh_draft":"","zh_ai":"暗黑PvP材质包","zh_human":"","zh":"暗黑PvP材质包","status":"ai"}
+{"id":"1IhzStNs","en":"notch reimagned","zh_draft":"","zh_ai":"Notch重构","zh_human":"","zh":"Notch重构","status":"ai"}
+{"id":"UNePeTqg","en":"MC Reshaped Programmer Art","zh_draft":"","zh_ai":"MC重塑程序员艺术","zh_human":"","zh":"MC重塑程序员艺术","status":"ai"}
+{"id":"h0wfWZ1K","en":"Haimaya Senpai Totem","zh_draft":"","zh_ai":"海玛雅前辈图腾","zh_human":"","zh":"海玛雅前辈图腾","status":"ai"}
+{"id":"ktQjkZUU","en":"Ashley Betterite","zh_draft":"","zh_ai":"阿什利优化","zh_human":"","zh":"阿什利优化","status":"ai"}
+{"id":"1xElH8r0","en":"copper armor marlow's texture","zh_draft":"","zh_ai":"马洛的铜盔甲纹理","zh_human":"","zh":"马洛的铜盔甲纹理","status":"ai"}
+{"id":"4x9fHFl3","en":"Poker Cards by Cuplexx","zh_draft":"","zh_ai":"Cuplexx的扑克牌","zh_human":"","zh":"Cuplexx的扑克牌","status":"ai"}
+{"id":"7uTzCLOb","en":"CS2M","zh_draft":"","zh_ai":"CS2M","zh_human":"","zh":"CS2M","status":"ai"}
+{"id":"BoYKs3cn","en":"Recoursepack for Danny's AOT","zh_draft":"","zh_ai":"丹尼的AOT资源包","zh_human":"","zh":"丹尼的AOT资源包","status":"ai"}
 {"id":"DVR6O6dr","en":"Mimi in inventory","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
 {"id":"HQqH8asN","en":"Coral's Texture Tweaks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
 {"id":"Mlpq8PpY","en":"BTL Farm Helper","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}

@@ -1923,35 +1923,35 @@
 {"id":"wrXbVY8A","en":"SPCITCLUB MC Server","zh_draft":"","zh_ai":"SPCITCLUB服务器","zh_human":"","zh":"SPCITCLUB服务器","status":"ai"}
 {"id":"YrFqMAKS","en":"Krym SMP","zh_draft":"","zh_ai":"克里姆生存模式","zh_human":"","zh":"克里姆生存模式","status":"ai"}
 {"id":"ffgb8cI4","en":"Smithed Summit","zh_draft":"","zh_ai":"锻造高峰","zh_human":"","zh":"锻造高峰","status":"ai"}
-{"id":"CvvPrOzB","en":"Dominion SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"luaReKSj","en":"The Ami-Kingdom SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"tIzm2zFp","en":"Inxects Create","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6Hm4cb7n","en":"Curious Globe City","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"93wOds4h","en":"AuroraSMP Season 5","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"AYOlYwb2","en":"MCVerseCity","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"BufXzYiN","en":"WANTED SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"C4Pm2hT8","en":"MCHardcore","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"I3D7CkKQ","en":"ChilautOficial Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IID0xKHE","en":"DigSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"J8LDmlSl","en":"Flock SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LMLwJosD","en":"Alternate Era SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PoNoHhZf","en":"ChaosMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QLXWSSCF","en":"SnugSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QTn6knUf","en":"永恒记忆(ForeverMemory)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RTC0WFzj","en":"RhodenMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"S7im1iYF","en":"NxyrisNetwork","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SrDVVzfN","en":"VirodhSmp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Srk6VkPb","en":"Unstable Home","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"V8mE06OR","en":"OreBound","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WYotMqbP","en":"OrvionMC Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"geQBdDYI","en":"Create::Aeroworks SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hkJy8yNN","en":"LatestSnapshot.net","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iKBK8usq","en":"Admin SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kG52SHyG","en":"boss smp bliss smp plugin","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kWbhNzBW","en":"NarutoAdventures","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mcgMPH3C","en":"HyperTheBandits Survival Multiplayer World","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nZVU5kwn","en":"Tiroir France","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uRrgAVyY","en":"Laminaris","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vhTLq5FL","en":"monkey smp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yIYRzD13","en":"Knarfy fans!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ztVaQREn","en":"Pure SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"CvvPrOzB","en":"Dominion SMP","zh_draft":"","zh_ai":"领地生存模式","zh_human":"","zh":"领地生存模式","status":"ai"}
+{"id":"luaReKSj","en":"The Ami-Kingdom SMP","zh_draft":"","zh_ai":"艾米王国生存模式","zh_human":"","zh":"艾米王国生存模式","status":"ai"}
+{"id":"tIzm2zFp","en":"Inxects Create","zh_draft":"","zh_ai":"感染创造模式","zh_human":"","zh":"感染创造模式","status":"ai"}
+{"id":"6Hm4cb7n","en":"Curious Globe City","zh_draft":"","zh_ai":"好奇星球城","zh_human":"","zh":"好奇星球城","status":"ai"}
+{"id":"93wOds4h","en":"AuroraSMP Season 5","zh_draft":"","zh_ai":"极光生存模式第五季","zh_human":"","zh":"极光生存模式第五季","status":"ai"}
+{"id":"AYOlYwb2","en":"MCVerseCity","zh_draft":"","zh_ai":"Minecraft宇宙城","zh_human":"","zh":"Minecraft宇宙城","status":"ai"}
+{"id":"BufXzYiN","en":"WANTED SMP","zh_draft":"","zh_ai":"通缉生存模式","zh_human":"","zh":"通缉生存模式","status":"ai"}
+{"id":"C4Pm2hT8","en":"MCHardcore","zh_draft":"","zh_ai":"Minecraft极限模式","zh_human":"","zh":"Minecraft极限模式","status":"ai"}
+{"id":"I3D7CkKQ","en":"ChilautOficial Network","zh_draft":"","zh_ai":"奇劳特官方网络","zh_human":"","zh":"奇劳特官方网络","status":"ai"}
+{"id":"IID0xKHE","en":"DigSMP","zh_draft":"","zh_ai":"挖掘生存模式","zh_human":"","zh":"挖掘生存模式","status":"ai"}
+{"id":"J8LDmlSl","en":"Flock SMP","zh_draft":"","zh_ai":"群居生存模式","zh_human":"","zh":"群居生存模式","status":"ai"}
+{"id":"LMLwJosD","en":"Alternate Era SMP","zh_draft":"","zh_ai":"另一个时代生存模式","zh_human":"","zh":"另一个时代生存模式","status":"ai"}
+{"id":"PoNoHhZf","en":"ChaosMC","zh_draft":"","zh_ai":"混沌Minecraft","zh_human":"","zh":"混沌Minecraft","status":"ai"}
+{"id":"QLXWSSCF","en":"SnugSMP","zh_draft":"","zh_ai":"舒适生存模式","zh_human":"","zh":"舒适生存模式","status":"ai"}
+{"id":"QTn6knUf","en":"永恒记忆(ForeverMemory)","zh_draft":"","zh_ai":"永恒记忆","zh_human":"","zh":"永恒记忆","status":"ai"}
+{"id":"RTC0WFzj","en":"RhodenMC","zh_draft":"","zh_ai":"罗登Minecraft","zh_human":"","zh":"罗登Minecraft","status":"ai"}
+{"id":"S7im1iYF","en":"NxyrisNetwork","zh_draft":"","zh_ai":"尼克斯里斯网络","zh_human":"","zh":"尼克斯里斯网络","status":"ai"}
+{"id":"SrDVVzfN","en":"VirodhSmp","zh_draft":"","zh_ai":"维罗德生存模式","zh_human":"","zh":"维罗德生存模式","status":"ai"}
+{"id":"Srk6VkPb","en":"Unstable Home","zh_draft":"","zh_ai":"不稳定家园","zh_human":"","zh":"不稳定家园","status":"ai"}
+{"id":"V8mE06OR","en":"OreBound","zh_draft":"","zh_ai":"矿石界限","zh_human":"","zh":"矿石界限","status":"ai"}
+{"id":"WYotMqbP","en":"OrvionMC Network","zh_draft":"","zh_ai":"奥维恩Minecraft网络","zh_human":"","zh":"奥维恩Minecraft网络","status":"ai"}
+{"id":"geQBdDYI","en":"Create::Aeroworks SMP","zh_draft":"","zh_ai":"创造：航空工坊生存模式","zh_human":"","zh":"创造：航空工坊生存模式","status":"ai"}
+{"id":"hkJy8yNN","en":"LatestSnapshot.net","zh_draft":"","zh_ai":"最新快照网","zh_human":"","zh":"最新快照网","status":"ai"}
+{"id":"iKBK8usq","en":"Admin SMP","zh_draft":"","zh_ai":"管理员生存模式","zh_human":"","zh":"管理员生存模式","status":"ai"}
+{"id":"kG52SHyG","en":"boss smp bliss smp plugin","zh_draft":"","zh_ai":"BOSS生存模式插件","zh_human":"","zh":"BOSS生存模式插件","status":"ai"}
+{"id":"kWbhNzBW","en":"NarutoAdventures","zh_draft":"","zh_ai":"火影冒险","zh_human":"","zh":"火影冒险","status":"ai"}
+{"id":"mcgMPH3C","en":"HyperTheBandits Survival Multiplayer World","zh_draft":"","zh_ai":"超级盗贼生存多人世界","zh_human":"","zh":"超级盗贼生存多人世界","status":"ai"}
+{"id":"nZVU5kwn","en":"Tiroir France","zh_draft":"","zh_ai":"法国衣柜","zh_human":"","zh":"法国衣柜","status":"ai"}
+{"id":"uRrgAVyY","en":"Laminaris","zh_draft":"","zh_ai":"层压材料","zh_human":"","zh":"层压材料","status":"ai"}
+{"id":"vhTLq5FL","en":"monkey smp","zh_draft":"","zh_ai":"猴子生存模式","zh_human":"","zh":"猴子生存模式","status":"ai"}
+{"id":"yIYRzD13","en":"Knarfy fans!","zh_draft":"","zh_ai":"Knarfy粉丝！","zh_human":"","zh":"Knarfy粉丝！","status":"ai"}
+{"id":"ztVaQREn","en":"Pure SMP","zh_draft":"","zh_ai":"纯净生存模式","zh_human":"","zh":"纯净生存模式","status":"ai"}
