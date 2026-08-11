@@ -2342,31 +2342,31 @@
 {"id":"y3aWspEr","en":"Old Emerald Block Remade","zh_draft":"","zh_ai":"旧绿宝石方块重制版","zh_human":"","zh":"旧绿宝石方块重制版","status":"ai"}
 {"id":"zYJctZG2","en":"White Swords","zh_draft":"","zh_ai":"白色剑","zh_human":"","zh":"白色剑","status":"ai"}
 {"id":"zuphUYkZ","en":"Gordibuenas Textures x64","zh_draft":"","zh_ai":"Gordibuenas纹理包 x64","zh_human":"","zh":"Gordibuenas纹理包 x64","status":"ai"}
-{"id":"K920rTou","en":"GUISe Extra","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NqARqOaz","en":"Seamless Glowing Ores","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NPaZObEz","en":"Demonjoe 3D Totem","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yOa6M4hG","en":"Simple Combat","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HXpuj9G9","en":"Black Pvp Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"J8AmH6JZ","en":"Vanguard","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZUCWwl3C","en":"Clear Glass","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"L53rXNaZ","en":"Kling Totem pop sound","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MAVxaI8s","en":"dark hub","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"T13nMI93","en":"Fresh Animations x Bare Bones Beefy Brutes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XDW3wiCd","en":"Remaking Swords","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ch3UyBgc","en":"saktuu PvP and SMP Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"q0OA92MC","en":"Kaizo Knight Boss Theme for Ender Dragon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"y38RxZSH","en":"LeoSenseig","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"33TFS3RW","en":"Flapjack Shrieker","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4IykGIHC","en":"MC-90 Alarm Sounds (FlightAssistant)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ELvfzvqk","en":"Solid Leaves","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JeZlUy27","en":"Enhanced Obsidian","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JwQihZG8","en":"(Cobblemon) Shinies Remixed","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LvZ1taTA","en":"Redyeable Backpacks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Mz9hL91k","en":"Bagged Items","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NLIq9DMw","en":"Boeing Sounds (FlightAssistant)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"P1WJLoNF","en":"DynamicFootsteps","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PRmyUNOP","en":"E's Fried Chicken","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Rjt4CZ39","en":"F1 2026 Japan GP Special Liveries Boat 32x","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"S9tO2IuE","en":"UNO Reverse totem","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gMh0uRN2","en":"Stardew seeds","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"oBt9fIPu","en":"Zycrion","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"K920rTou","en":"GUISe Extra","zh_draft":"","zh_ai":"GUI额外","zh_human":"","zh":"GUI额外","status":"ai"}
+{"id":"NqARqOaz","en":"Seamless Glowing Ores","zh_draft":"","zh_ai":"无缝发光矿石","zh_human":"","zh":"无缝发光矿石","status":"ai"}
+{"id":"NPaZObEz","en":"Demonjoe 3D Totem","zh_draft":"","zh_ai":"Demonjoe 3D图腾","zh_human":"","zh":"Demonjoe 3D图腾","status":"ai"}
+{"id":"yOa6M4hG","en":"Simple Combat","zh_draft":"","zh_ai":"简单战斗","zh_human":"","zh":"简单战斗","status":"ai"}
+{"id":"HXpuj9G9","en":"Black Pvp Pack","zh_draft":"","zh_ai":"黑色PVP包","zh_human":"","zh":"黑色PVP包","status":"ai"}
+{"id":"J8AmH6JZ","en":"Vanguard","zh_draft":"","zh_ai":"先锋","zh_human":"","zh":"先锋","status":"ai"}
+{"id":"ZUCWwl3C","en":"Clear Glass","zh_draft":"","zh_ai":"透明玻璃","zh_human":"","zh":"透明玻璃","status":"ai"}
+{"id":"L53rXNaZ","en":"Kling Totem pop sound","zh_draft":"","zh_ai":"Kling图腾弹出音效","zh_human":"","zh":"Kling图腾弹出音效","status":"ai"}
+{"id":"MAVxaI8s","en":"dark hub","zh_draft":"","zh_ai":"黑暗枢纽","zh_human":"","zh":"黑暗枢纽","status":"ai"}
+{"id":"T13nMI93","en":"Fresh Animations x Bare Bones Beefy Brutes","zh_draft":"","zh_ai":"新鲜动画×精简壮汉","zh_human":"","zh":"新鲜动画×精简壮汉","status":"ai"}
+{"id":"XDW3wiCd","en":"Remaking Swords","zh_draft":"","zh_ai":"重铸之剑","zh_human":"","zh":"重铸之剑","status":"ai"}
+{"id":"ch3UyBgc","en":"saktuu PvP and SMP Pack","zh_draft":"","zh_ai":"saktuu PVP与生存包","zh_human":"","zh":"saktuu PVP与生存包","status":"ai"}
+{"id":"q0OA92MC","en":"Kaizo Knight Boss Theme for Ender Dragon","zh_draft":"","zh_ai":"卡伊佐骑士Boss主题（末影龙）","zh_human":"","zh":"卡伊佐骑士Boss主题（末影龙）","status":"ai"}
+{"id":"y38RxZSH","en":"LeoSenseig","zh_draft":"","zh_ai":"LeoSensei","zh_human":"","zh":"LeoSensei","status":"ai"}
+{"id":"33TFS3RW","en":"Flapjack Shrieker","zh_draft":"","zh_ai":"煎饼尖叫者","zh_human":"","zh":"煎饼尖叫者","status":"ai"}
+{"id":"4IykGIHC","en":"MC-90 Alarm Sounds (FlightAssistant)","zh_draft":"","zh_ai":"MC-90闹钟音效（飞行助手）","zh_human":"","zh":"MC-90闹钟音效（飞行助手）","status":"ai"}
+{"id":"ELvfzvqk","en":"Solid Leaves","zh_draft":"","zh_ai":"实体树叶","zh_human":"","zh":"实体树叶","status":"ai"}
+{"id":"JeZlUy27","en":"Enhanced Obsidian","zh_draft":"","zh_ai":"增强黑曜石","zh_human":"","zh":"增强黑曜石","status":"ai"}
+{"id":"JwQihZG8","en":"(Cobblemon) Shinies Remixed","zh_draft":"","zh_ai":"（Cobblemon）闪光重混","zh_human":"","zh":"（Cobblemon）闪光重混","status":"ai"}
+{"id":"LvZ1taTA","en":"Redyeable Backpacks","zh_draft":"","zh_ai":"可染色背包","zh_human":"","zh":"可染色背包","status":"ai"}
+{"id":"Mz9hL91k","en":"Bagged Items","zh_draft":"","zh_ai":"袋装物品","zh_human":"","zh":"袋装物品","status":"ai"}
+{"id":"NLIq9DMw","en":"Boeing Sounds (FlightAssistant)","zh_draft":"","zh_ai":"波音音效（飞行助手）","zh_human":"","zh":"波音音效（飞行助手）","status":"ai"}
+{"id":"P1WJLoNF","en":"DynamicFootsteps","zh_draft":"","zh_ai":"动态脚步声","zh_human":"","zh":"动态脚步声","status":"ai"}
+{"id":"PRmyUNOP","en":"E's Fried Chicken","zh_draft":"","zh_ai":"E的炸鸡","zh_human":"","zh":"E的炸鸡","status":"ai"}
+{"id":"Rjt4CZ39","en":"F1 2026 Japan GP Special Liveries Boat 32x","zh_draft":"","zh_ai":"F1 2026日本大奖赛特别涂装船32x","zh_human":"","zh":"F1 2026日本大奖赛特别涂装船32x","status":"ai"}
+{"id":"S9tO2IuE","en":"UNO Reverse totem","zh_draft":"","zh_ai":"UNO反转图腾","zh_human":"","zh":"UNO反转图腾","status":"ai"}
+{"id":"gMh0uRN2","en":"Stardew seeds","zh_draft":"","zh_ai":"星露谷物语种子","zh_human":"","zh":"星露谷物语种子","status":"ai"}
+{"id":"oBt9fIPu","en":"Zycrion","zh_draft":"","zh_ai":"Zycrion","zh_human":"","zh":"Zycrion","status":"ai"}

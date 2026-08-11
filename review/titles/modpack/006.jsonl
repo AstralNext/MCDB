@@ -238,15 +238,15 @@
 {"id":"Zgcx2VxI","en":"CwR Survivalplus","zh_draft":"","zh_ai":"CwR 生存增强包","zh_human":"","zh":"CwR 生存增强包","status":"ai"}
 {"id":"kLths6Eh","en":"BV Fresh Start","zh_draft":"","zh_ai":"BV 新开始","zh_human":"","zh":"BV 新开始","status":"ai"}
 {"id":"N3MzttuN","en":"Kray Ruin","zh_draft":"","zh_ai":"克雷废墟","zh_human":"","zh":"克雷废墟","status":"ai"}
-{"id":"K0PeF6Nc","en":"Integrated Aeronautics","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qDIYr9QN","en":"Aerocraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Dlfwi5A1","en":"An Ocean Voyage","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ns5C3dYA","en":"Retroarch","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Vg7hVkqu","en":"Lightly Modded Mc","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Nvv6p9CU","en":"Kyro's BedwarS","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sk8Zvxko","en":"Beautiful Life","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xs6AffGQ","en":"Ex Nihilo - Absurditas","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yJezHPRZ","en":"Beautiful Life 2","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5SBVSnso","en":"Lightest Possible Optimization","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DfIhHuHi","en":"MJ Launcher Beast (Pojav)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"al9Ihq9E","en":"Char's pack of wonders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"K0PeF6Nc","en":"Integrated Aeronautics","zh_draft":"","zh_ai":"集成航空","zh_human":"","zh":"集成航空","status":"ai"}
+{"id":"qDIYr9QN","en":"Aerocraft","zh_draft":"","zh_ai":"飞行器","zh_human":"","zh":"飞行器","status":"ai"}
+{"id":"Dlfwi5A1","en":"An Ocean Voyage","zh_draft":"","zh_ai":"海洋之旅","zh_human":"","zh":"海洋之旅","status":"ai"}
+{"id":"ns5C3dYA","en":"Retroarch","zh_draft":"","zh_ai":"RetroArch","zh_human":"","zh":"RetroArch","status":"ai"}
+{"id":"Vg7hVkqu","en":"Lightly Modded Mc","zh_draft":"","zh_ai":"轻度模组MC","zh_human":"","zh":"轻度模组MC","status":"ai"}
+{"id":"Nvv6p9CU","en":"Kyro's BedwarS","zh_draft":"","zh_ai":"Kyro的床战","zh_human":"","zh":"Kyro的床战","status":"ai"}
+{"id":"sk8Zvxko","en":"Beautiful Life","zh_draft":"","zh_ai":"美好生活","zh_human":"","zh":"美好生活","status":"ai"}
+{"id":"xs6AffGQ","en":"Ex Nihilo - Absurditas","zh_draft":"","zh_ai":"无中生有：荒诞","zh_human":"","zh":"无中生有：荒诞","status":"ai"}
+{"id":"yJezHPRZ","en":"Beautiful Life 2","zh_draft":"","zh_ai":"美好生活2","zh_human":"","zh":"美好生活2","status":"ai"}
+{"id":"5SBVSnso","en":"Lightest Possible Optimization","zh_draft":"","zh_ai":"极致轻量化优化","zh_human":"","zh":"极致轻量化优化","status":"ai"}
+{"id":"DfIhHuHi","en":"MJ Launcher Beast (Pojav)","zh_draft":"","zh_ai":"MJ启动器野兽版(Pojav)","zh_human":"","zh":"MJ启动器野兽版(Pojav)","status":"ai"}
+{"id":"al9Ihq9E","en":"Char's pack of wonders","zh_draft":"","zh_ai":"查尔的奇迹包","zh_human":"","zh":"查尔的奇迹包","status":"ai"}
