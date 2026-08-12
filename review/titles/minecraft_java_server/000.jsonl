@@ -1958,29 +1958,29 @@
 {"id":"SYeUthQk","en":"KraySMP","zh_draft":"","zh_ai":"克雷生存模式","zh_human":"","zh":"克雷生存模式","status":"ai"}
 {"id":"QIRknPWJ","en":"米优云梦服务器（MI DREAM）","zh_draft":"","zh_ai":"米优云梦服务器","zh_human":"","zh":"米优云梦服务器","status":"ai"}
 {"id":"xqlwCplB","en":"TFL NETWORK","zh_draft":"","zh_ai":"TFL 网络","zh_human":"","zh":"TFL 网络","status":"ai"}
-{"id":"88dWlQcg","en":"LastikSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gAHTBAHr","en":"create: your dreams.","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"26kgIffu","en":"Magician","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3AvRo6wV","en":"Lucky SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4kIxwQ4u","en":"BaderSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7ihp0DlP","en":":3 SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ASbagr1a","en":"ProstoTrainer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HTqgQag8","en":"craftstorm","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MHwW674L","en":"Foliant","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MJENXDp6","en":"MoonLight Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PWt7O9NL","en":"Spectre's & Enes' Aeroworks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QtIzHXal","en":"Saturn-X","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RmQU4cHh","en":"BonkMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VgHGQzh0","en":"極光企鵝生存伺服器","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eOckQULt","en":"AmetistMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fBHWPqA5","en":"CobbleLegacy","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jOP9u1np","en":"CobbleDonServer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jhzdIMuA","en":"EmptyMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jphwbfj3","en":"Realityhut","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"l3rUYXWH","en":"islandsonly","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"l4NaCzjp","en":"fxmc","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mwvZeC6G","en":"D.Mine","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"n78mvtk2","en":"Stubborn SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"noxFdE8x","en":"play.Futania.de","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sEzuA2px","en":"SourceSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sIpsnrEX","en":"MCT Skyline","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"88dWlQcg","en":"LastikSMP","zh_draft":"","zh_ai":"弹性生存模式","zh_human":"","zh":"弹性生存模式","status":"ai"}
+{"id":"gAHTBAHr","en":"create: your dreams.","zh_draft":"","zh_ai":"创造你的梦想","zh_human":"","zh":"创造你的梦想","status":"ai"}
+{"id":"26kgIffu","en":"Magician","zh_draft":"","zh_ai":"魔法师","zh_human":"","zh":"魔法师","status":"ai"}
+{"id":"3AvRo6wV","en":"Lucky SMP","zh_draft":"","zh_ai":"幸运生存模式","zh_human":"","zh":"幸运生存模式","status":"ai"}
+{"id":"4kIxwQ4u","en":"BaderSMP","zh_draft":"","zh_ai":"巴德生存模式","zh_human":"","zh":"巴德生存模式","status":"ai"}
+{"id":"7ihp0DlP","en":":3 SMP","zh_draft":"","zh_ai":"表情符号生存模式","zh_human":"","zh":"表情符号生存模式","status":"ai"}
+{"id":"ASbagr1a","en":"ProstoTrainer","zh_draft":"","zh_ai":"简单训练器","zh_human":"","zh":"简单训练器","status":"ai"}
+{"id":"HTqgQag8","en":"craftstorm","zh_draft":"","zh_ai":"工艺风暴","zh_human":"","zh":"工艺风暴","status":"ai"}
+{"id":"MHwW674L","en":"Foliant","zh_draft":"","zh_ai":"卷轴","zh_human":"","zh":"卷轴","status":"ai"}
+{"id":"MJENXDp6","en":"MoonLight Network","zh_draft":"","zh_ai":"月光网络","zh_human":"","zh":"月光网络","status":"ai"}
+{"id":"PWt7O9NL","en":"Spectre's & Enes' Aeroworks","zh_draft":"","zh_ai":"幽灵与恩尼斯的航空作品","zh_human":"","zh":"幽灵与恩尼斯的航空作品","status":"ai"}
+{"id":"QtIzHXal","en":"Saturn-X","zh_draft":"","zh_ai":"土星-X","zh_human":"","zh":"土星-X","status":"ai"}
+{"id":"RmQU4cHh","en":"BonkMC","zh_draft":"","zh_ai":"邦克MC","zh_human":"","zh":"邦克MC","status":"ai"}
+{"id":"VgHGQzh0","en":"極光企鵝生存伺服器","zh_draft":"","zh_ai":"极光鹅生存服务器","zh_human":"","zh":"极光鹅生存服务器","status":"ai"}
+{"id":"eOckQULt","en":"AmetistMC","zh_draft":"","zh_ai":"紫水晶MC","zh_human":"","zh":"紫水晶MC","status":"ai"}
+{"id":"fBHWPqA5","en":"CobbleLegacy","zh_draft":"","zh_ai":"圆石遗产","zh_human":"","zh":"圆石遗产","status":"ai"}
+{"id":"jOP9u1np","en":"CobbleDonServer","zh_draft":"","zh_ai":"圆石捐赠服务器","zh_human":"","zh":"圆石捐赠服务器","status":"ai"}
+{"id":"jhzdIMuA","en":"EmptyMC","zh_draft":"","zh_ai":"空MC","zh_human":"","zh":"空MC","status":"ai"}
+{"id":"jphwbfj3","en":"Realityhut","zh_draft":"","zh_ai":"现实小屋","zh_human":"","zh":"现实小屋","status":"ai"}
+{"id":"l3rUYXWH","en":"islandsonly","zh_draft":"","zh_ai":"岛屿仅","zh_human":"","zh":"岛屿仅","status":"ai"}
+{"id":"l4NaCzjp","en":"fxmc","zh_draft":"","zh_ai":"FXMC","zh_human":"","zh":"FXMC","status":"ai"}
+{"id":"mwvZeC6G","en":"D.Mine","zh_draft":"","zh_ai":"D矿","zh_human":"","zh":"D矿","status":"ai"}
+{"id":"n78mvtk2","en":"Stubborn SMP","zh_draft":"","zh_ai":"固执生存模式","zh_human":"","zh":"固执生存模式","status":"ai"}
+{"id":"noxFdE8x","en":"play.Futania.de","zh_draft":"","zh_ai":"Futania游戏","zh_human":"","zh":"Futania游戏","status":"ai"}
+{"id":"sEzuA2px","en":"SourceSMP","zh_draft":"","zh_ai":"源生存模式","zh_human":"","zh":"源生存模式","status":"ai"}
+{"id":"sIpsnrEX","en":"MCT Skyline","zh_draft":"","zh_ai":"MCT天际线","zh_human":"","zh":"MCT天际线","status":"ai"}
