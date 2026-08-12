@@ -747,11 +747,11 @@
 {"id":"BDWacDO2","en":"NPC-Shaders","zh_draft":"","zh_ai":"NPC 光影","zh_human":"","zh":"NPC 光影","status":"ai"}
 {"id":"4NUwkjV0","en":"SOLAR Shader","zh_draft":"","zh_ai":"SOLAR 光影","zh_human":"","zh":"SOLAR 光影","status":"ai"}
 {"id":"FYQv11N2","en":"Sedimentary","zh_draft":"","zh_ai":"沉积","zh_human":"","zh":"沉积","status":"ai"}
-{"id":"vbGqX7LT","en":"Chill Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"41qDSipJ","en":"PathMax","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5TEA0dqi","en":"AquaReal Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"oEztSFkC","en":"AuroraLite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CA0EJGYv","en":"More & Better Shadows","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WCeMAaBy","en":"Veil of the Unseen","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dYK5SVlO","en":"Vivid Fast Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vr2ZSMIo","en":"SketchPaper","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"vbGqX7LT","en":"Chill Shaders","zh_draft":"","zh_ai":"冷静着色器","zh_human":"","zh":"冷静着色器","status":"ai"}
+{"id":"41qDSipJ","en":"PathMax","zh_draft":"","zh_ai":"路径最大值","zh_human":"","zh":"路径最大值","status":"ai"}
+{"id":"5TEA0dqi","en":"AquaReal Shaders","zh_draft":"","zh_ai":"真实水着色器","zh_human":"","zh":"真实水着色器","status":"ai"}
+{"id":"oEztSFkC","en":"AuroraLite","zh_draft":"","zh_ai":"极光轻着色器","zh_human":"","zh":"极光轻着色器","status":"ai"}
+{"id":"CA0EJGYv","en":"More & Better Shadows","zh_draft":"","zh_ai":"更多更好的阴影","zh_human":"","zh":"更多更好的阴影","status":"ai"}
+{"id":"WCeMAaBy","en":"Veil of the Unseen","zh_draft":"","zh_ai":"未见之幕","zh_human":"","zh":"未见之幕","status":"ai"}
+{"id":"dYK5SVlO","en":"Vivid Fast Shader","zh_draft":"","zh_ai":"生动快速着色器","zh_human":"","zh":"生动快速着色器","status":"ai"}
+{"id":"vr2ZSMIo","en":"SketchPaper","zh_draft":"","zh_ai":"草图纸","zh_human":"","zh":"草图纸","status":"ai"}
