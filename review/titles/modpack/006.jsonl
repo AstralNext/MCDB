@@ -298,17 +298,17 @@
 {"id":"Qs7UQAXv","en":"Farming & More","zh_draft":"","zh_ai":"农业与更多","zh_human":"","zh":"农业与更多","status":"ai"}
 {"id":"RipYF2Wg","en":"Nano's Performance","zh_draft":"","zh_ai":"纳米性能","zh_human":"","zh":"纳米性能","status":"ai"}
 {"id":"YzyjNWmI","en":"SimpleSMP PVP Edt","zh_draft":"","zh_ai":"简单SMP PVP版","zh_human":"","zh":"简单SMP PVP版","status":"ai"}
-{"id":"PIZvbDjb","en":"Eggy Optimized","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"16Omrsi1","en":"Cobblemon AU","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vJaECFR2","en":"Absolute Realism: Server Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1Xkgpl9S","en":"Realistic Aeronautics","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vqsMnHht","en":"Smooth Vanilla+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GbTd3km2","en":"Better Hardcore - Enhanced HUD","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"D9PnRN3L","en":"TechNomads Multiplayer Server Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4A2RbH1r","en":"CookieAttack 6","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NhiiGJt2","en":"bright fantasy","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PDZiK5Yi","en":"RenderCore","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QID66DUS","en":"Rocks & Monsters","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kxt4Gn1H","en":"Apex Essentials","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ImSaV2uC","en":"Endless horizon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eBUubyiB","en":"My Potato PC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"PIZvbDjb","en":"Eggy Optimized","zh_draft":"","zh_ai":"Eggy 优化","zh_human":"","zh":"Eggy 优化","status":"ai"}
+{"id":"16Omrsi1","en":"Cobblemon AU","zh_draft":"","zh_ai":"圆石龙 AU","zh_human":"","zh":"圆石龙 AU","status":"ai"}
+{"id":"vJaECFR2","en":"Absolute Realism: Server Pack","zh_draft":"","zh_ai":"绝对真实：服务器包","zh_human":"","zh":"绝对真实：服务器包","status":"ai"}
+{"id":"1Xkgpl9S","en":"Realistic Aeronautics","zh_draft":"","zh_ai":"逼真航空学","zh_human":"","zh":"逼真航空学","status":"ai"}
+{"id":"vqsMnHht","en":"Smooth Vanilla+","zh_draft":"","zh_ai":"平滑原版+","zh_human":"","zh":"平滑原版+","status":"ai"}
+{"id":"GbTd3km2","en":"Better Hardcore - Enhanced HUD","zh_draft":"","zh_ai":"更好的极限生存 - 增强型 HUD","zh_human":"","zh":"更好的极限生存 - 增强型 HUD","status":"ai"}
+{"id":"D9PnRN3L","en":"TechNomads Multiplayer Server Pack","zh_draft":"","zh_ai":"TechNomads 多人服务器包","zh_human":"","zh":"TechNomads 多人服务器包","status":"ai"}
+{"id":"4A2RbH1r","en":"CookieAttack 6","zh_draft":"","zh_ai":"CookieAttack 6","zh_human":"","zh":"CookieAttack 6","status":"ai"}
+{"id":"NhiiGJt2","en":"bright fantasy","zh_draft":"","zh_ai":"明亮幻想","zh_human":"","zh":"明亮幻想","status":"ai"}
+{"id":"PDZiK5Yi","en":"RenderCore","zh_draft":"","zh_ai":"渲染核心","zh_human":"","zh":"渲染核心","status":"ai"}
+{"id":"QID66DUS","en":"Rocks & Monsters","zh_draft":"","zh_ai":"岩石与怪物","zh_human":"","zh":"岩石与怪物","status":"ai"}
+{"id":"kxt4Gn1H","en":"Apex Essentials","zh_draft":"","zh_ai":"Apex 基础要素","zh_human":"","zh":"Apex 基础要素","status":"ai"}
+{"id":"ImSaV2uC","en":"Endless horizon","zh_draft":"","zh_ai":"无尽的地平线","zh_human":"","zh":"无尽的地平线","status":"ai"}
+{"id":"eBUubyiB","en":"My Potato PC","zh_draft":"","zh_ai":"我的土豆 PC","zh_human":"","zh":"我的土豆 PC","status":"ai"}
