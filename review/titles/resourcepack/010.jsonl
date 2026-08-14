@@ -2556,8 +2556,8 @@
 {"id":"ugMh2RZy","en":"CrescentSMP ResourcePack","zh_draft":"","zh_ai":"CrescentSMP资源包","zh_human":"","zh":"CrescentSMP资源包","status":"ai"}
 {"id":"w5aPbGRE","en":"Red UI","zh_draft":"","zh_ai":"红色UI","zh_human":"","zh":"红色UI","status":"ai"}
 {"id":"x2mUOIgX","en":"Troll swap","zh_draft":"","zh_ai":"整蛊交换","zh_human":"","zh":"整蛊交换","status":"ai"}
-{"id":"HyFBkkMq","en":"Advancement Plaques ABO.47'ed","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YRyYVAVt","en":"Odyssey Quests ABO.47'ed","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rPExR28L","en":"Bare Bones PBR x128 - Reflective","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rhu1e6EE","en":"Good-Looking 3D + 2D Muskets","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PyGqyqCh","en":"Dav's Tools and Weapons","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"HyFBkkMq","en":"Advancement Plaques ABO.47'ed","zh_draft":"","zh_ai":"进步奖牌 ABO.47'ed","zh_human":"","zh":"进步奖牌 ABO.47'ed","status":"ai"}
+{"id":"YRyYVAVt","en":"Odyssey Quests ABO.47'ed","zh_draft":"","zh_ai":"奥德赛任务 ABO.47'ed","zh_human":"","zh":"奥德赛任务 ABO.47'ed","status":"ai"}
+{"id":"rPExR28L","en":"Bare Bones PBR x128 - Reflective","zh_draft":"","zh_ai":"裸骨 PBR x128 - 反射","zh_human":"","zh":"裸骨 PBR x128 - 反射","status":"ai"}
+{"id":"rhu1e6EE","en":"Good-Looking 3D + 2D Muskets","zh_draft":"","zh_ai":"好看的 3D + 2D 火枪","zh_human":"","zh":"好看的 3D + 2D 火枪","status":"ai"}
+{"id":"PyGqyqCh","en":"Dav's Tools and Weapons","zh_draft":"","zh_ai":"达夫的工具与武器","zh_human":"","zh":"达夫的工具与武器","status":"ai"}
