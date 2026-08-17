@@ -2670,21 +2670,21 @@
 {"id":"wW7YRYuL","en":"Unstable Nether Portal Strike","zh_draft":"","zh_ai":"不稳定下界传送门闪电","zh_human":"","zh":"不稳定下界传送门闪电","status":"ai"}
 {"id":"wkBkKrUK","en":"Extinguishable Torches","zh_draft":"","zh_ai":"可熄灭火把","zh_human":"","zh":"可熄灭火把","status":"ai"}
 {"id":"zjIXtULB","en":"(Omichall's) Driving Boats Datapack","zh_draft":"","zh_ai":"（Omichall 的）驾驶船只数据包","zh_human":"","zh":"（Omichall 的）驾驶船只数据包","status":"ai"}
-{"id":"bcjr9780","en":"Bellum","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"H8xkb9Xd","en":"Cloth Cloaks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TkIw1SER","en":"Item Alchemy Expansion","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"95xYWCSa","en":"Coordex","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IPMPkJXG","en":"Applied Energistics 2 Unofficial Deconstructed","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"k5dTAJoX","en":"Raven Mail","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MwXUeS08","en":"PvPCore","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZaG2FKfL","en":"Carpenter's Delight","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ETcAhbxl","en":"Cleancraft: Better stair recipe","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dCdYX0qT","en":"VideoCmd","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UyMhzIus","en":"hangeulkeyfixmod","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KXcUIk1q","en":"InstaPots","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Zeh9aJYh","en":"CryoCore","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qlzB9O3G","en":"Craftable Enchanted Golden Apple (Simple)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5Bocb2ll","en":"dialog auto login","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RsI44iIL","en":"Hostile babies to adults","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"64w2RIEg","en":"Elite Threat Mobs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6SFF7BlC","en":"Alternate Dye Recipes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"bcjr9780","en":"Bellum","zh_draft":"","zh_ai":"战争","zh_human":"","zh":"战争","status":"ai"}
+{"id":"H8xkb9Xd","en":"Cloth Cloaks","zh_draft":"","zh_ai":"布制斗篷","zh_human":"","zh":"布制斗篷","status":"ai"}
+{"id":"TkIw1SER","en":"Item Alchemy Expansion","zh_draft":"","zh_ai":"物品炼金扩展","zh_human":"","zh":"物品炼金扩展","status":"ai"}
+{"id":"95xYWCSa","en":"Coordex","zh_draft":"","zh_ai":"坐标系统","zh_human":"","zh":"坐标系统","status":"ai"}
+{"id":"IPMPkJXG","en":"Applied Energistics 2 Unofficial Deconstructed","zh_draft":"","zh_ai":"应用能源2非官方解构版","zh_human":"","zh":"应用能源2非官方解构版","status":"ai"}
+{"id":"k5dTAJoX","en":"Raven Mail","zh_draft":"","zh_ai":"乌鸦邮件","zh_human":"","zh":"乌鸦邮件","status":"ai"}
+{"id":"MwXUeS08","en":"PvPCore","zh_draft":"","zh_ai":"PvP核心","zh_human":"","zh":"PvP核心","status":"ai"}
+{"id":"ZaG2FKfL","en":"Carpenter's Delight","zh_draft":"","zh_ai":"木匠的乐趣","zh_human":"","zh":"木匠的乐趣","status":"ai"}
+{"id":"ETcAhbxl","en":"Cleancraft: Better stair recipe","zh_draft":"","zh_ai":"清洁工艺：更好的楼梯配方","zh_human":"","zh":"清洁工艺：更好的楼梯配方","status":"ai"}
+{"id":"dCdYX0qT","en":"VideoCmd","zh_draft":"","zh_ai":"视频命令","zh_human":"","zh":"视频命令","status":"ai"}
+{"id":"UyMhzIus","en":"hangeulkeyfixmod","zh_draft":"","zh_ai":"韩文键位修复模组","zh_human":"","zh":"韩文键位修复模组","status":"ai"}
+{"id":"KXcUIk1q","en":"InstaPots","zh_draft":"","zh_ai":"瞬间锅具","zh_human":"","zh":"瞬间锅具","status":"ai"}
+{"id":"Zeh9aJYh","en":"CryoCore","zh_draft":"","zh_ai":"冷冻核心","zh_human":"","zh":"冷冻核心","status":"ai"}
+{"id":"qlzB9O3G","en":"Craftable Enchanted Golden Apple (Simple)","zh_draft":"","zh_ai":"可制作附魔金苹果（简单版）","zh_human":"","zh":"可制作附魔金苹果（简单版）","status":"ai"}
+{"id":"5Bocb2ll","en":"dialog auto login","zh_draft":"","zh_ai":"对话框自动登录","zh_human":"","zh":"对话框自动登录","status":"ai"}
+{"id":"RsI44iIL","en":"Hostile babies to adults","zh_draft":"","zh_ai":"敌对婴儿到成人","zh_human":"","zh":"敌对婴儿到成人","status":"ai"}
+{"id":"64w2RIEg","en":"Elite Threat Mobs","zh_draft":"","zh_ai":"精英威胁生物","zh_human":"","zh":"精英威胁生物","status":"ai"}
+{"id":"6SFF7BlC","en":"Alternate Dye Recipes","zh_draft":"","zh_ai":"替代染色配方","zh_human":"","zh":"替代染色配方","status":"ai"}
