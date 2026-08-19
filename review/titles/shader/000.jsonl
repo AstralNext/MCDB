@@ -761,20 +761,20 @@
 {"id":"1cVbuPXx","en":"True Light Shader","zh_draft":"","zh_ai":"真实之光光影","zh_human":"","zh":"真实之光光影","status":"ai"}
 {"id":"iTlEw3fM","en":"Acid Shaders Refurbished","zh_draft":"","zh_ai":"迷幻光影重制版","zh_human":"","zh":"迷幻光影重制版","status":"ai"}
 {"id":"Yi385Q5B","en":"Bad PC shaders","zh_draft":"","zh_ai":"糟糕的 PC 着色器","zh_human":"","zh":"糟糕的 PC 着色器","status":"ai"}
-{"id":"5MV64h18","en":"PineShaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"AAUN4OCM","en":"Cinematix Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wtW98QUr","en":"Marigold Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9PW32iYb","en":"Vivid Visuals","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ArdREzNg","en":"MeadowLite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"K1dqNbzW","en":"TUFF Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QOgLibNW","en":"The Beat of a Heart","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"acBMvGZ6","en":"Nimbus Lite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sGnIENEE","en":"SwiftShade","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4A4w7sor","en":"HighFramesExtra","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DBdwEtV9","en":"Reimagined + Global Illumination Fork","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"G1GYMZaq","en":"Toon Cel","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"G1j6TYS3","en":"Salicylic Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JgBImdrF","en":"Found VHS Tapes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"N4lQFvZ1","en":"Make your own RT Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sSZS20Tb","en":"Foxy Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ze5gKdih","en":"AnimeCraft(shader)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"5MV64h18","en":"PineShaders","zh_draft":"","zh_ai":"Pine 光影","zh_human":"","zh":"Pine 光影","status":"ai"}
+{"id":"AAUN4OCM","en":"Cinematix Shader","zh_draft":"","zh_ai":"Cinematix 光影","zh_human":"","zh":"Cinematix 光影","status":"ai"}
+{"id":"wtW98QUr","en":"Marigold Shaders","zh_draft":"","zh_ai":"Marigold 光影","zh_human":"","zh":"Marigold 光影","status":"ai"}
+{"id":"9PW32iYb","en":"Vivid Visuals","zh_draft":"","zh_ai":"生动视觉效果","zh_human":"","zh":"生动视觉效果","status":"ai"}
+{"id":"ArdREzNg","en":"MeadowLite","zh_draft":"","zh_ai":"草地轻量版","zh_human":"","zh":"草地轻量版","status":"ai"}
+{"id":"K1dqNbzW","en":"TUFF Shaders","zh_draft":"","zh_ai":"TUFF着色器","zh_human":"","zh":"TUFF着色器","status":"ai"}
+{"id":"QOgLibNW","en":"The Beat of a Heart","zh_draft":"","zh_ai":"心跳节拍","zh_human":"","zh":"心跳节拍","status":"ai"}
+{"id":"acBMvGZ6","en":"Nimbus Lite","zh_draft":"","zh_ai":"Nimbus轻量版","zh_human":"","zh":"Nimbus轻量版","status":"ai"}
+{"id":"sGnIENEE","en":"SwiftShade","zh_draft":"","zh_ai":"SwiftShade","zh_human":"","zh":"SwiftShade","status":"ai"}
+{"id":"4A4w7sor","en":"HighFramesExtra","zh_draft":"","zh_ai":"高帧率增强","zh_human":"","zh":"高帧率增强","status":"ai"}
+{"id":"DBdwEtV9","en":"Reimagined + Global Illumination Fork","zh_draft":"","zh_ai":"重想象全局光照版","zh_human":"","zh":"重想象全局光照版","status":"ai"}
+{"id":"G1GYMZaq","en":"Toon Cel","zh_draft":"","zh_ai":"卡通赛璐珞","zh_human":"","zh":"卡通赛璐珞","status":"ai"}
+{"id":"G1j6TYS3","en":"Salicylic Shaders","zh_draft":"","zh_ai":"水杨酸着色器","zh_human":"","zh":"水杨酸着色器","status":"ai"}
+{"id":"JgBImdrF","en":"Found VHS Tapes","zh_draft":"","zh_ai":"发现的VHS录像带","zh_human":"","zh":"发现的VHS录像带","status":"ai"}
+{"id":"N4lQFvZ1","en":"Make your own RT Shaders","zh_draft":"","zh_ai":"自制光线追踪着色器","zh_human":"","zh":"自制光线追踪着色器","status":"ai"}
+{"id":"sSZS20Tb","en":"Foxy Shader","zh_draft":"","zh_ai":"狐狸着色器","zh_human":"","zh":"狐狸着色器","status":"ai"}
+{"id":"ze5gKdih","en":"AnimeCraft(shader)","zh_draft":"","zh_ai":"动漫工坊","zh_human":"","zh":"动漫工坊","status":"ai"}
