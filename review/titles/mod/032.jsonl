@@ -2974,27 +2974,27 @@
 {"id":"hFGWL5h8","en":"Trial Extension","zh_draft":"","zh_ai":"试验扩展","zh_human":"","zh":"试验扩展","status":"ai"}
 {"id":"ibaWENBS","en":"Craftable Pride Flags","zh_draft":"","zh_ai":"可制作的骄傲旗帜","zh_human":"","zh":"可制作的骄傲旗帜","status":"ai"}
 {"id":"ypoiHIvD","en":"All-In-One-Tool","zh_draft":"","zh_ai":"全能工具","zh_human":"","zh":"全能工具","status":"ai"}
-{"id":"dCAzkYde","en":"AxSimpleTPA","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DhOXUfnP","en":"VillagersTradingPlus","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TcuSHkXH","en":"Brewing mod","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"B96OWxEn","en":"Create Coasters: Simulated - Backport","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RSYs97F8","en":"Useful Ores","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zQdJiB6U","en":"Now Spinning!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"khwy6g4a","en":"Leak Warning","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UB7NPpdj","en":"ViaPacks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"POHvBXIi","en":"PVP Kit","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6GK0Lp5x","en":"Old attack animation","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fln8UXVx","en":"FFPackage Survival Fixes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7aHqRydf","en":"COH (Chat Over Heads)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kut0TjNl","en":"Backpacked Up!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8HoMPwXQ","en":"BetterAD","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"n67mQ4pE","en":"MODTOOLS - Staff Moderation","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yHJW82SR","en":"FreezeX","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"N8d3trtg","en":"Only One Heart","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Qst2hqBJ","en":"Real18","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VFnQ6wSJ","en":"The Useful Tools Mod","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"i6hLgIsP","en":"Sword Blocking","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mbhRjLwn","en":"Spawner Calculator","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1FzEIbOs","en":"More Players LAN","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3eP0aN8J","en":"Inventory Spyglass","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MJ621F5r","en":"Better Combat to Figura Compatibility Layer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"dCAzkYde","en":"AxSimpleTPA","zh_draft":"","zh_ai":"Ax简单TPA","zh_human":"","zh":"Ax简单TPA","status":"ai"}
+{"id":"DhOXUfnP","en":"VillagersTradingPlus","zh_draft":"","zh_ai":"村民交易增强版","zh_human":"","zh":"村民交易增强版","status":"ai"}
+{"id":"TcuSHkXH","en":"Brewing mod","zh_draft":"","zh_ai":"酿造模组","zh_human":"","zh":"酿造模组","status":"ai"}
+{"id":"B96OWxEn","en":"Create Coasters: Simulated - Backport","zh_draft":"","zh_ai":"Create过山车模拟器 - 回滚版","zh_human":"","zh":"Create过山车模拟器 - 回滚版","status":"ai"}
+{"id":"RSYs97F8","en":"Useful Ores","zh_draft":"","zh_ai":"实用矿石","zh_human":"","zh":"实用矿石","status":"ai"}
+{"id":"zQdJiB6U","en":"Now Spinning!","zh_draft":"","zh_ai":"现在旋转！","zh_human":"","zh":"现在旋转！","status":"ai"}
+{"id":"khwy6g4a","en":"Leak Warning","zh_draft":"","zh_ai":"泄露警告","zh_human":"","zh":"泄露警告","status":"ai"}
+{"id":"UB7NPpdj","en":"ViaPacks","zh_draft":"","zh_ai":"ViaPacks资源包","zh_human":"","zh":"ViaPacks资源包","status":"ai"}
+{"id":"POHvBXIi","en":"PVP Kit","zh_draft":"","zh_ai":"PVP工具包","zh_human":"","zh":"PVP工具包","status":"ai"}
+{"id":"6GK0Lp5x","en":"Old attack animation","zh_draft":"","zh_ai":"旧攻击动画","zh_human":"","zh":"旧攻击动画","status":"ai"}
+{"id":"fln8UXVx","en":"FFPackage Survival Fixes","zh_draft":"","zh_ai":"FFPackage生存修复包","zh_human":"","zh":"FFPackage生存修复包","status":"ai"}
+{"id":"7aHqRydf","en":"COH (Chat Over Heads)","zh_draft":"","zh_ai":"COH（头顶聊天）","zh_human":"","zh":"COH（头顶聊天）","status":"ai"}
+{"id":"kut0TjNl","en":"Backpacked Up!","zh_draft":"","zh_ai":"背包升级！","zh_human":"","zh":"背包升级！","status":"ai"}
+{"id":"8HoMPwXQ","en":"BetterAD","zh_draft":"","zh_ai":"更好的AD","zh_human":"","zh":"更好的AD","status":"ai"}
+{"id":"n67mQ4pE","en":"MODTOOLS - Staff Moderation","zh_draft":"","zh_ai":"MOD工具 - 管理员管理工具","zh_human":"","zh":"MOD工具 - 管理员管理工具","status":"ai"}
+{"id":"yHJW82SR","en":"FreezeX","zh_draft":"","zh_ai":"FreezeX工具包","zh_human":"","zh":"FreezeX工具包","status":"ai"}
+{"id":"N8d3trtg","en":"Only One Heart","zh_draft":"","zh_ai":"只有一个心","zh_human":"","zh":"只有一个心","status":"ai"}
+{"id":"Qst2hqBJ","en":"Real18","zh_draft":"","zh_ai":"真实18","zh_human":"","zh":"真实18","status":"ai"}
+{"id":"VFnQ6wSJ","en":"The Useful Tools Mod","zh_draft":"","zh_ai":"实用工具模组","zh_human":"","zh":"实用工具模组","status":"ai"}
+{"id":"i6hLgIsP","en":"Sword Blocking","zh_draft":"","zh_ai":"剑盾格挡","zh_human":"","zh":"剑盾格挡","status":"ai"}
+{"id":"mbhRjLwn","en":"Spawner Calculator","zh_draft":"","zh_ai":"刷怪箱计算器","zh_human":"","zh":"刷怪箱计算器","status":"ai"}
+{"id":"1FzEIbOs","en":"More Players LAN","zh_draft":"","zh_ai":"多人玩家局域网","zh_human":"","zh":"多人玩家局域网","status":"ai"}
+{"id":"3eP0aN8J","en":"Inventory Spyglass","zh_draft":"","zh_ai":"物品栏望远镜","zh_human":"","zh":"物品栏望远镜","status":"ai"}
+{"id":"MJ621F5r","en":"Better Combat to Figura Compatibility Layer","zh_draft":"","zh_ai":"更好的战斗至图拉兼容层","zh_human":"","zh":"更好的战斗至图拉兼容层","status":"ai"}

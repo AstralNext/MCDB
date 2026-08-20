@@ -2059,24 +2059,24 @@
 {"id":"yHRgSsq1","en":"SMSMP","zh_draft":"","zh_ai":"简单生存模式","zh_human":"","zh":"简单生存模式","status":"ai"}
 {"id":"zbAjgd6f","en":"WaveMC KR","zh_draft":"","zh_ai":"WaveMC韩国","zh_human":"","zh":"WaveMC韩国","status":"ai"}
 {"id":"ztWs4qel","en":"RonflexCorp","zh_draft":"","zh_ai":"Ronflex公司","zh_human":"","zh":"Ronflex公司","status":"ai"}
-{"id":"IchFvxNM","en":"FireSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TvUo3Bwf","en":"WarCats","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4zdHOpbc","en":"FUN_DN","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5XXgJLfR","en":"Matcha Flavoured SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7LqYoTCr","en":"ANABASIS","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NxaD1zlq","en":"Worldsmiths","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"OdV3b8pN","en":"Loka","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PcVynax4","en":"Retro SkyBlock","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TAW6gyCm","en":"EuropeMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WOfkiJAm","en":"Atlantida","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"a2cpAosM","en":"VoxelMind Hub","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"bwJKHMcF","en":"Arcade PvP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dN9nexsu","en":"NoBSCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dqAqelaa","en":"Vortex PvP/Smp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lPrJQs04","en":"CrystalSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mF6eHTRL","en":"Cake Smp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nNCa20D9","en":"Pancake Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sKDSBiRw","en":"ItapixMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"se2CGQuF","en":"Network's SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"tYBqF0C6","en":"VidMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"z0Bvz6W2","en":"XSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"IchFvxNM","en":"FireSMP","zh_draft":"","zh_ai":"火焰生存模式","zh_human":"","zh":"火焰生存模式","status":"ai"}
+{"id":"TvUo3Bwf","en":"WarCats","zh_draft":"","zh_ai":"战争猫猫","zh_human":"","zh":"战争猫猫","status":"ai"}
+{"id":"4zdHOpbc","en":"FUN_DN","zh_draft":"","zh_ai":"欢乐地下城","zh_human":"","zh":"欢乐地下城","status":"ai"}
+{"id":"5XXgJLfR","en":"Matcha Flavoured SMP","zh_draft":"","zh_ai":"抹茶风味生存模式","zh_human":"","zh":"抹茶风味生存模式","status":"ai"}
+{"id":"7LqYoTCr","en":"ANABASIS","zh_draft":"","zh_ai":"基础世界编辑器","zh_human":"","zh":"基础世界编辑器","status":"ai"}
+{"id":"NxaD1zlq","en":"Worldsmiths","zh_draft":"","zh_ai":"世界工匠","zh_human":"","zh":"世界工匠","status":"ai"}
+{"id":"OdV3b8pN","en":"Loka","zh_draft":"","zh_ai":"洛卡世界","zh_human":"","zh":"洛卡世界","status":"ai"}
+{"id":"PcVynax4","en":"Retro SkyBlock","zh_draft":"","zh_ai":"复古天空岛","zh_human":"","zh":"复古天空岛","status":"ai"}
+{"id":"TAW6gyCm","en":"EuropeMC","zh_draft":"","zh_ai":"欧洲生存模式","zh_human":"","zh":"欧洲生存模式","status":"ai"}
+{"id":"WOfkiJAm","en":"Atlantida","zh_draft":"","zh_ai":"亚特兰蒂斯世界","zh_human":"","zh":"亚特兰蒂斯世界","status":"ai"}
+{"id":"a2cpAosM","en":"VoxelMind Hub","zh_draft":"","zh_ai":"方块之心中心","zh_human":"","zh":"方块之心中心","status":"ai"}
+{"id":"bwJKHMcF","en":"Arcade PvP","zh_draft":"","zh_ai":"街机竞技模式","zh_human":"","zh":"街机竞技模式","status":"ai"}
+{"id":"dN9nexsu","en":"NoBSCraft","zh_draft":"","zh_ai":"无BSPCraft","zh_human":"","zh":"无BSPCraft","status":"ai"}
+{"id":"dqAqelaa","en":"Vortex PvP/Smp","zh_draft":"","zh_ai":"漩涡竞技/生存模式","zh_human":"","zh":"漩涡竞技/生存模式","status":"ai"}
+{"id":"lPrJQs04","en":"CrystalSMP","zh_draft":"","zh_ai":"水晶生存模式","zh_human":"","zh":"水晶生存模式","status":"ai"}
+{"id":"mF6eHTRL","en":"Cake Smp","zh_draft":"","zh_ai":"蛋糕生存模式","zh_human":"","zh":"蛋糕生存模式","status":"ai"}
+{"id":"nNCa20D9","en":"Pancake Network","zh_draft":"","zh_ai":"煎饼网络","zh_human":"","zh":"煎饼网络","status":"ai"}
+{"id":"sKDSBiRw","en":"ItapixMC","zh_draft":"","zh_ai":"伊塔皮克斯生存模式","zh_human":"","zh":"伊塔皮克斯生存模式","status":"ai"}
+{"id":"se2CGQuF","en":"Network's SMP","zh_draft":"","zh_ai":"网络生存模式","zh_human":"","zh":"网络生存模式","status":"ai"}
+{"id":"tYBqF0C6","en":"VidMC","zh_draft":"","zh_ai":"视频生存模式","zh_human":"","zh":"视频生存模式","status":"ai"}
+{"id":"z0Bvz6W2","en":"XSMP","zh_draft":"","zh_ai":"X生存模式","zh_human":"","zh":"X生存模式","status":"ai"}
