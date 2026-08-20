@@ -778,6 +778,6 @@
 {"id":"N4lQFvZ1","en":"Make your own RT Shaders","zh_draft":"","zh_ai":"自制光线追踪着色器","zh_human":"","zh":"自制光线追踪着色器","status":"ai"}
 {"id":"sSZS20Tb","en":"Foxy Shader","zh_draft":"","zh_ai":"狐狸着色器","zh_human":"","zh":"狐狸着色器","status":"ai"}
 {"id":"ze5gKdih","en":"AnimeCraft(shader)","zh_draft":"","zh_ai":"动漫工坊","zh_human":"","zh":"动漫工坊","status":"ai"}
-{"id":"6XweFP9V","en":"Veylora Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xFIftOsH","en":"AetherVisuals","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cpZziy94","en":"performance shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"6XweFP9V","en":"Veylora Shaders","zh_draft":"","zh_ai":"维洛拉着色器","zh_human":"","zh":"维洛拉着色器","status":"ai"}
+{"id":"xFIftOsH","en":"AetherVisuals","zh_draft":"","zh_ai":"以太视觉","zh_human":"","zh":"以太视觉","status":"ai"}
+{"id":"cpZziy94","en":"performance shader","zh_draft":"","zh_ai":"性能着色器","zh_human":"","zh":"性能着色器","status":"ai"}
