@@ -781,7 +781,7 @@
 {"id":"6XweFP9V","en":"Veylora Shaders","zh_draft":"","zh_ai":"维洛拉着色器","zh_human":"","zh":"维洛拉着色器","status":"ai"}
 {"id":"xFIftOsH","en":"AetherVisuals","zh_draft":"","zh_ai":"以太视觉","zh_human":"","zh":"以太视觉","status":"ai"}
 {"id":"cpZziy94","en":"performance shader","zh_draft":"","zh_ai":"性能着色器","zh_human":"","zh":"性能着色器","status":"ai"}
-{"id":"cA9Vf1d8","en":"OG Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Jcqcrp1w","en":"Neon Reverie","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1jdWjXFa","en":"AmberVeil Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"J0ArLR0H","en":"Krpmon Volt Plus","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"cA9Vf1d8","en":"OG Shaders","zh_draft":"","zh_ai":"OG着色器","zh_human":"","zh":"OG着色器","status":"ai"}
+{"id":"Jcqcrp1w","en":"Neon Reverie","zh_draft":"","zh_ai":"霓虹幻想","zh_human":"","zh":"霓虹幻想","status":"ai"}
+{"id":"1jdWjXFa","en":"AmberVeil Shaders","zh_draft":"","zh_ai":"琥珀面纱着色器","zh_human":"","zh":"琥珀面纱着色器","status":"ai"}
+{"id":"J0ArLR0H","en":"Krpmon Volt Plus","zh_draft":"","zh_ai":"Krpmon伏特增强版","zh_human":"","zh":"Krpmon伏特增强版","status":"ai"}

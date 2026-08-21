@@ -6,40 +6,40 @@
 {"id":"yOKasOVu","en":"Yamac Paintings","zh_draft":"","zh_ai":"雅马克画作","zh_human":"","zh":"雅马克画作","status":"ai"}
 {"id":"ya2OwJgz","en":"Dark Blue enchantment Glint","zh_draft":"","zh_ai":"深蓝附魔闪光","zh_human":"","zh":"深蓝附魔闪光","status":"ai"}
 {"id":"zyPMdHjH","en":"putting steamos on andesite","zh_draft":"","zh_ai":"在安山岩上放置Steamos","zh_human":"","zh":"在安山岩上放置Steamos","status":"ai"}
-{"id":"I0l4ENKB","en":"No Explosion Sounds","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4YBOZyb7","en":"Meteor client design","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pwTQAiB8","en":"DarkUHD","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"juqKPG2V","en":"Winter Wonderland Torrhus Canyon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4bHL7zVw","en":"Realistic Engine Sound","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1oF1WtIT","en":"portal voice lines","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4Bk6YJph","en":"Rc's tail","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XEgS3kXc","en":"Wither Storm: The Wither Storm that says \"desgraça\"","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ejbn7Pks","en":"L_Ender's Cataclysm Ukrainian localization","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GDJeNKSa","en":"Fresh Hidyk's Realm","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"I7nmFIyW","en":"Niko Cursor","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kJOyMpGt","en":"Connected Borderless Glass","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rHGZpyOn","en":"Create:Power Grid EN -> FR","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8vj6oSGP","en":"Blue Archive Halo","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"A9vMsbgl","en":"FlameFrags Overlay","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KWb3xbg1","en":"fishy swords","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"THra0Dk9","en":"pizza IL ranks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uvaX4Qj8","en":"Sulfur Caves Panorama (ReShined)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2dPUEOt9","en":"J_Sdof Textures","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7Ga3FJWH","en":"Alex Mobs : EN -> FR","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Bf2uh7uU","en":"Resource Pack BugMod","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FSy8it55","en":"ASTERA Golden Enchantement Glint","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"I2RxilKr","en":"Balayya","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IoJ7Mhcw","en":"Planet of Mobs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Oi0RtWSd","en":"Localised Weather and Tornadoes RP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"bkEHscyh","en":"Just a scratch","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gJVpBys9","en":"Vietnamese dialects — Phương ngữ tiếng Việt","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mRPBtuZC","en":"VM Computers - Korean","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sbQJqRb9","en":"Parrots To Bearded Dragons","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wyf6OcFa","en":"Fixe Moss/PaleMoss rotation","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3Sj6lTRP","en":"Trendy Foods","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PpGQXzmX","en":"Highlighted Totem","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XPcpNUG2","en":"Wooden Leather Armor","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YMDxgIWk","en":"Lamby Art","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"alDlPXbG","en":"Overgrown Blaze Slayer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fKLcst3C","en":"Silent Hill Sound Resource Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ujPqhAxr","en":"Colbalt pvp 16x","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"I0l4ENKB","en":"No Explosion Sounds","zh_draft":"","zh_ai":"无爆炸声音","zh_human":"","zh":"无爆炸声音","status":"ai"}
+{"id":"4YBOZyb7","en":"Meteor client design","zh_draft":"","zh_ai":"流星客户端设计","zh_human":"","zh":"流星客户端设计","status":"ai"}
+{"id":"pwTQAiB8","en":"DarkUHD","zh_draft":"","zh_ai":"暗黑UHD","zh_human":"","zh":"暗黑UHD","status":"ai"}
+{"id":"juqKPG2V","en":"Winter Wonderland Torrhus Canyon","zh_draft":"","zh_ai":"冬日仙境托尔胡斯峡谷","zh_human":"","zh":"冬日仙境托尔胡斯峡谷","status":"ai"}
+{"id":"4bHL7zVw","en":"Realistic Engine Sound","zh_draft":"","zh_ai":"真实引擎声音","zh_human":"","zh":"真实引擎声音","status":"ai"}
+{"id":"1oF1WtIT","en":"portal voice lines","zh_draft":"","zh_ai":"传送门语音行","zh_human":"","zh":"传送门语音行","status":"ai"}
+{"id":"4Bk6YJph","en":"Rc's tail","zh_draft":"","zh_ai":"Rc的尾巴","zh_human":"","zh":"Rc的尾巴","status":"ai"}
+{"id":"XEgS3kXc","en":"Wither Storm: The Wither Storm that says \"desgraça\"","zh_draft":"","zh_ai":"凋零风暴：说“desgraça”的凋零风暴","zh_human":"","zh":"凋零风暴：说“desgraça”的凋零风暴","status":"ai"}
+{"id":"ejbn7Pks","en":"L_Ender's Cataclysm Ukrainian localization","zh_draft":"","zh_ai":"L_末地大灾变乌克兰本地化","zh_human":"","zh":"L_末地大灾变乌克兰本地化","status":"ai"}
+{"id":"GDJeNKSa","en":"Fresh Hidyk's Realm","zh_draft":"","zh_ai":"新鲜希迪克的领域","zh_human":"","zh":"新鲜希迪克的领域","status":"ai"}
+{"id":"I7nmFIyW","en":"Niko Cursor","zh_draft":"","zh_ai":"尼科光标","zh_human":"","zh":"尼科光标","status":"ai"}
+{"id":"kJOyMpGt","en":"Connected Borderless Glass","zh_draft":"","zh_ai":"连接无边玻璃","zh_human":"","zh":"连接无边玻璃","status":"ai"}
+{"id":"rHGZpyOn","en":"Create:Power Grid EN -> FR","zh_draft":"","zh_ai":"创造：电网 英文->法文","zh_human":"","zh":"创造：电网 英文->法文","status":"ai"}
+{"id":"8vj6oSGP","en":"Blue Archive Halo","zh_draft":"","zh_ai":"蓝色档案馆光环","zh_human":"","zh":"蓝色档案馆光环","status":"ai"}
+{"id":"A9vMsbgl","en":"FlameFrags Overlay","zh_draft":"","zh_ai":"火焰碎片覆盖层","zh_human":"","zh":"火焰碎片覆盖层","status":"ai"}
+{"id":"KWb3xbg1","en":"fishy swords","zh_draft":"","zh_ai":"鱼腥剑","zh_human":"","zh":"鱼腥剑","status":"ai"}
+{"id":"THra0Dk9","en":"pizza IL ranks","zh_draft":"","zh_ai":"披萨IL排名","zh_human":"","zh":"披萨IL排名","status":"ai"}
+{"id":"uvaX4Qj8","en":"Sulfur Caves Panorama (ReShined)","zh_draft":"","zh_ai":"硫磺洞穴全景（重制）","zh_human":"","zh":"硫磺洞穴全景（重制）","status":"ai"}
+{"id":"2dPUEOt9","en":"J_Sdof Textures","zh_draft":"","zh_ai":"J_Sdof纹理","zh_human":"","zh":"J_Sdof纹理","status":"ai"}
+{"id":"7Ga3FJWH","en":"Alex Mobs : EN -> FR","zh_draft":"","zh_ai":"亚历克斯怪物：英文→法文","zh_human":"","zh":"亚历克斯怪物：英文→法文","status":"ai"}
+{"id":"Bf2uh7uU","en":"Resource Pack BugMod","zh_draft":"","zh_ai":"资源包错误修正模组","zh_human":"","zh":"资源包错误修正模组","status":"ai"}
+{"id":"FSy8it55","en":"ASTERA Golden Enchantement Glint","zh_draft":"","zh_ai":"ASTERA金色附魔闪光","zh_human":"","zh":"ASTERA金色附魔闪光","status":"ai"}
+{"id":"I2RxilKr","en":"Balayya","zh_draft":"","zh_ai":"巴拉亚","zh_human":"","zh":"巴拉亚","status":"ai"}
+{"id":"IoJ7Mhcw","en":"Planet of Mobs","zh_draft":"","zh_ai":"怪物星球","zh_human":"","zh":"怪物星球","status":"ai"}
+{"id":"Oi0RtWSd","en":"Localised Weather and Tornadoes RP","zh_draft":"","zh_ai":"本地化天气和龙卷风资源包","zh_human":"","zh":"本地化天气和龙卷风资源包","status":"ai"}
+{"id":"bkEHscyh","en":"Just a scratch","zh_draft":"","zh_ai":"只是划痕","zh_human":"","zh":"只是划痕","status":"ai"}
+{"id":"gJVpBys9","en":"Vietnamese dialects — Phương ngữ tiếng Việt","zh_draft":"","zh_ai":"越南方言—越南语方言","zh_human":"","zh":"越南方言—越南语方言","status":"ai"}
+{"id":"mRPBtuZC","en":"VM Computers - Korean","zh_draft":"","zh_ai":"VM电脑—韩文","zh_human":"","zh":"VM电脑—韩文","status":"ai"}
+{"id":"sbQJqRb9","en":"Parrots To Bearded Dragons","zh_draft":"","zh_ai":"鹦鹉变鬃龙","zh_human":"","zh":"鹦鹉变鬃龙","status":"ai"}
+{"id":"wyf6OcFa","en":"Fixe Moss/PaleMoss rotation","zh_draft":"","zh_ai":"固定苔藓/苍白苔藓旋转","zh_human":"","zh":"固定苔藓/苍白苔藓旋转","status":"ai"}
+{"id":"3Sj6lTRP","en":"Trendy Foods","zh_draft":"","zh_ai":"时尚食物","zh_human":"","zh":"时尚食物","status":"ai"}
+{"id":"PpGQXzmX","en":"Highlighted Totem","zh_draft":"","zh_ai":"高亮图腾","zh_human":"","zh":"高亮图腾","status":"ai"}
+{"id":"XPcpNUG2","en":"Wooden Leather Armor","zh_draft":"","zh_ai":"木质皮革盔甲","zh_human":"","zh":"木质皮革盔甲","status":"ai"}
+{"id":"YMDxgIWk","en":"Lamby Art","zh_draft":"","zh_ai":"拉姆比艺术","zh_human":"","zh":"拉姆比艺术","status":"ai"}
+{"id":"alDlPXbG","en":"Overgrown Blaze Slayer","zh_draft":"","zh_ai":"过度生长的烈焰杀手","zh_human":"","zh":"过度生长的烈焰杀手","status":"ai"}
+{"id":"fKLcst3C","en":"Silent Hill Sound Resource Pack","zh_draft":"","zh_ai":"寂静岭声音资源包","zh_human":"","zh":"寂静岭声音资源包","status":"ai"}
+{"id":"ujPqhAxr","en":"Colbalt pvp 16x","zh_draft":"","zh_ai":"钴蓝 pvp 16x","zh_human":"","zh":"钴蓝 pvp 16x","status":"ai"}
