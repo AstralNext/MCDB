@@ -43,41 +43,41 @@
 {"id":"alDlPXbG","en":"Overgrown Blaze Slayer","zh_draft":"","zh_ai":"过度生长的烈焰杀手","zh_human":"","zh":"过度生长的烈焰杀手","status":"ai"}
 {"id":"fKLcst3C","en":"Silent Hill Sound Resource Pack","zh_draft":"","zh_ai":"寂静岭声音资源包","zh_human":"","zh":"寂静岭声音资源包","status":"ai"}
 {"id":"ujPqhAxr","en":"Colbalt pvp 16x","zh_draft":"","zh_ai":"钴蓝 pvp 16x","zh_human":"","zh":"钴蓝 pvp 16x","status":"ai"}
-{"id":"LKvquoJt","en":"Road to Nowhere","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"I8c5dpiA","en":"Fresh food punchy fix","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eVvUgHx3","en":"Background image material of Zhiyin City","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"S5kwAttR","en":"Rocket Flight Durations","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nlttxby8","en":"DevilsKnife (Jevils Scythe)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DjjasGNl","en":"Bare Bones x Visual: Armor Trims","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iYRtZftm","en":"Spawn Pets","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sV7uvEqF","en":"ported portal 2 recreation","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Zn0yBLDo","en":"Labyrinth's Textures","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7VS0TLEy","en":"Mopru's Renaming","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"K94YezVX","en":"Shark's PVP texture pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RIVR129a","en":"Rukia Totem","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"b2lO17rX","en":"BD-vanilla-texture","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"c2302zgM","en":"Bbotz_ ressource pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pRnjm6FD","en":"ReQuivered [Nyf's Quivers]","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9llLIUdz","en":"Cobblemon Kiria Battle Themes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UEG0Ogzp","en":"Coffee_XiaoGuan's 3D Item","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YZSpQsxj","en":"totem of aether","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"aAJjPQ5X","en":"Excalibur | Arachnophobia","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jBjzryXI","en":"Particles Removed","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lfSVmYeL","en":"Better Zombie Ai Russian Translate","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nxIEKTcT","en":"Idyllon Red Netherrack Add-On","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xXCplmlz","en":"ModifyMC Clean Items","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3KPe9aSj","en":"Stardew Valley Swords","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4JARg25O","en":"Stardew Valley Axes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7Q71Txpg","en":"Lucianos CPVP Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FGs8eWBF","en":"Elemental Armor Evolution","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HG3F19Iq","en":"Pelmen Crosshair","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Su0PdcPw","en":"Hotbar Simplified","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TrpZ3Uzn","en":"Cottagecore GUI + Music Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fUWGkDsT","en":"Cratty","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fl7VQn8R","en":"Impulse Charge","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nSIoyKsY","en":"live_hearts-mj","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nvwIxY2j","en":"Every Compat Tables and Shelves","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rgOhkOm7","en":"Emerald Totem Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sXeyfnhm","en":"Vmogsu Totem","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"t70A2MKF","en":"Red Exp Bar | CEB","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xakgyRL1","en":"BedWars Stick","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"LKvquoJt","en":"Road to Nowhere","zh_draft":"","zh_ai":"通往无路之路","zh_human":"","zh":"通往无路之路","status":"ai"}
+{"id":"I8c5dpiA","en":"Fresh food punchy fix","zh_draft":"","zh_ai":"新鲜食物打击修复","zh_human":"","zh":"新鲜食物打击修复","status":"ai"}
+{"id":"eVvUgHx3","en":"Background image material of Zhiyin City","zh_draft":"","zh_ai":"志印城背景图像材料","zh_human":"","zh":"志印城背景图像材料","status":"ai"}
+{"id":"S5kwAttR","en":"Rocket Flight Durations","zh_draft":"","zh_ai":"火箭飞行时长","zh_human":"","zh":"火箭飞行时长","status":"ai"}
+{"id":"nlttxby8","en":"DevilsKnife (Jevils Scythe)","zh_draft":"","zh_ai":"魔鬼刀（杰维尔的镰刀）","zh_human":"","zh":"魔鬼刀（杰维尔的镰刀）","status":"ai"}
+{"id":"DjjasGNl","en":"Bare Bones x Visual: Armor Trims","zh_draft":"","zh_ai":"赤裸骨骼 x 视觉：护甲装饰","zh_human":"","zh":"赤裸骨骼 x 视觉：护甲装饰","status":"ai"}
+{"id":"iYRtZftm","en":"Spawn Pets","zh_draft":"","zh_ai":"生成宠物","zh_human":"","zh":"生成宠物","status":"ai"}
+{"id":"sV7uvEqF","en":"ported portal 2 recreation","zh_draft":"","zh_ai":"移植的传送门2重制版","zh_human":"","zh":"移植的传送门2重制版","status":"ai"}
+{"id":"Zn0yBLDo","en":"Labyrinth's Textures","zh_draft":"","zh_ai":"迷宫纹理","zh_human":"","zh":"迷宫纹理","status":"ai"}
+{"id":"7VS0TLEy","en":"Mopru's Renaming","zh_draft":"","zh_ai":"Mopru重命名","zh_human":"","zh":"Mopru重命名","status":"ai"}
+{"id":"K94YezVX","en":"Shark's PVP texture pack","zh_draft":"","zh_ai":"鲨鱼的PVP纹理包","zh_human":"","zh":"鲨鱼的PVP纹理包","status":"ai"}
+{"id":"RIVR129a","en":"Rukia Totem","zh_draft":"","zh_ai":"露琪亚图腾","zh_human":"","zh":"露琪亚图腾","status":"ai"}
+{"id":"b2lO17rX","en":"BD-vanilla-texture","zh_draft":"","zh_ai":"BD-原版纹理","zh_human":"","zh":"BD-原版纹理","status":"ai"}
+{"id":"c2302zgM","en":"Bbotz_ ressource pack","zh_draft":"","zh_ai":"Bbotz_ 资源包","zh_human":"","zh":"Bbotz_ 资源包","status":"ai"}
+{"id":"pRnjm6FD","en":"ReQuivered [Nyf's Quivers]","zh_draft":"","zh_ai":"ReQuivered [Nyf的箭袋]","zh_human":"","zh":"ReQuivered [Nyf的箭袋]","status":"ai"}
+{"id":"9llLIUdz","en":"Cobblemon Kiria Battle Themes","zh_draft":"","zh_ai":"方块龙基里亚战斗主题","zh_human":"","zh":"方块龙基里亚战斗主题","status":"ai"}
+{"id":"UEG0Ogzp","en":"Coffee_XiaoGuan's 3D Item","zh_draft":"","zh_ai":"咖啡小关的3D物品","zh_human":"","zh":"咖啡小关的3D物品","status":"ai"}
+{"id":"YZSpQsxj","en":"totem of aether","zh_draft":"","zh_ai":"以太图腾","zh_human":"","zh":"以太图腾","status":"ai"}
+{"id":"aAJjPQ5X","en":"Excalibur | Arachnophobia","zh_draft":"","zh_ai":"王者之剑 | 蜘蛛恐惧症","zh_human":"","zh":"王者之剑 | 蜘蛛恐惧症","status":"ai"}
+{"id":"jBjzryXI","en":"Particles Removed","zh_draft":"","zh_ai":"移除粒子","zh_human":"","zh":"移除粒子","status":"ai"}
+{"id":"lfSVmYeL","en":"Better Zombie Ai Russian Translate","zh_draft":"","zh_ai":"更好的僵尸AI俄语翻译","zh_human":"","zh":"更好的僵尸AI俄语翻译","status":"ai"}
+{"id":"nxIEKTcT","en":"Idyllon Red Netherrack Add-On","zh_draft":"","zh_ai":"伊迪隆红下界岩附加","zh_human":"","zh":"伊迪隆红下界岩附加","status":"ai"}
+{"id":"xXCplmlz","en":"ModifyMC Clean Items","zh_draft":"","zh_ai":"ModifyMC 清理物品","zh_human":"","zh":"ModifyMC 清理物品","status":"ai"}
+{"id":"3KPe9aSj","en":"Stardew Valley Swords","zh_draft":"","zh_ai":"星露谷物剑","zh_human":"","zh":"星露谷物剑","status":"ai"}
+{"id":"4JARg25O","en":"Stardew Valley Axes","zh_draft":"","zh_ai":"星露谷物斧","zh_human":"","zh":"星露谷物斧","status":"ai"}
+{"id":"7Q71Txpg","en":"Lucianos CPVP Pack","zh_draft":"","zh_ai":"卢西阿诺斯CPVP包","zh_human":"","zh":"卢西阿诺斯CPVP包","status":"ai"}
+{"id":"FGs8eWBF","en":"Elemental Armor Evolution","zh_draft":"","zh_ai":"元素护甲进化","zh_human":"","zh":"元素护甲进化","status":"ai"}
+{"id":"HG3F19Iq","en":"Pelmen Crosshair","zh_draft":"","zh_ai":"肉丸准星","zh_human":"","zh":"肉丸准星","status":"ai"}
+{"id":"Su0PdcPw","en":"Hotbar Simplified","zh_draft":"","zh_ai":"简化热键栏","zh_human":"","zh":"简化热键栏","status":"ai"}
+{"id":"TrpZ3Uzn","en":"Cottagecore GUI + Music Pack","zh_draft":"","zh_ai":"小屋核心GUI + 音乐包","zh_human":"","zh":"小屋核心GUI + 音乐包","status":"ai"}
+{"id":"fUWGkDsT","en":"Cratty","zh_draft":"","zh_ai":"Cratty","zh_human":"","zh":"Cratty","status":"ai"}
+{"id":"fl7VQn8R","en":"Impulse Charge","zh_draft":"","zh_ai":"脉冲电荷","zh_human":"","zh":"脉冲电荷","status":"ai"}
+{"id":"nSIoyKsY","en":"live_hearts-mj","zh_draft":"","zh_ai":"活心-mj","zh_human":"","zh":"活心-mj","status":"ai"}
+{"id":"nvwIxY2j","en":"Every Compat Tables and Shelves","zh_draft":"","zh_ai":"每个兼容表格和架子","zh_human":"","zh":"每个兼容表格和架子","status":"ai"}
+{"id":"rgOhkOm7","en":"Emerald Totem Pack","zh_draft":"","zh_ai":"翡翠图腾包","zh_human":"","zh":"翡翠图腾包","status":"ai"}
+{"id":"sXeyfnhm","en":"Vmogsu Totem","zh_draft":"","zh_ai":"Vmogsu图腾","zh_human":"","zh":"Vmogsu图腾","status":"ai"}
+{"id":"t70A2MKF","en":"Red Exp Bar | CEB","zh_draft":"","zh_ai":"红经验条 | CEB","zh_human":"","zh":"红经验条 | CEB","status":"ai"}
+{"id":"xakgyRL1","en":"BedWars Stick","zh_draft":"","zh_ai":"BedWars棒子","zh_human":"","zh":"BedWars棒子","status":"ai"}
