@@ -655,18 +655,18 @@
 {"id":"feC8uSVQ","en":"Kilo's Industrial GUI","zh_draft":"","zh_ai":"基洛的工业界面","zh_human":"","zh":"基洛的工业界面","status":"ai"}
 {"id":"hO8VveCP","en":"Purple Tooltip","zh_draft":"","zh_ai":"紫色工具提示","zh_human":"","zh":"紫色工具提示","status":"ai"}
 {"id":"hS2jLyKx","en":"drdonut cat meow","zh_draft":"","zh_ai":"甜甜圈博士猫叫","zh_human":"","zh":"甜甜圈博士猫叫","status":"ai"}
-{"id":"ids4cppc","en":"mace to blade of the conqueror","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jSYvZ0MP","en":"Transparent gust particles","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jbCbfVDU","en":"Creeper Girl","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"k0UtMROZ","en":"Recolored Survival Bars [Leather]","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"k3AOoXTS","en":"RURM Old Textures Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lmkano8X","en":"Different Font","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mYCu1hwU","en":"The Broken Script: Reprogrammed 1.9 Style Entities","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mm6CPvmG","en":"See-Through GUI","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"owwTbcNw","en":"Dirgeful Void 16x","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pfHktae0","en":"Pink Hearts +","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qyAoB3Vo","en":"Bow Leveler","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uX4JKEwi","en":"Recolored Survival Bars [Copper]","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vFTJ3cuW","en":"Recolored Survival Bars [Diamond]","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xGYTch2p","en":"Hollow Purple Golden apple","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zMIwlcz1","en":"Better TALL Plants","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ids4cppc","en":"mace to blade of the conqueror","zh_draft":"","zh_ai":"征服者之锤变剑","zh_human":"","zh":"征服者之锤变剑","status":"ai"}
+{"id":"jSYvZ0MP","en":"Transparent gust particles","zh_draft":"","zh_ai":"透明旋风粒子","zh_human":"","zh":"透明旋风粒子","status":"ai"}
+{"id":"jbCbfVDU","en":"Creeper Girl","zh_draft":"","zh_ai":"爬行者女孩","zh_human":"","zh":"爬行者女孩","status":"ai"}
+{"id":"k0UtMROZ","en":"Recolored Survival Bars [Leather]","zh_draft":"","zh_ai":"皮革生存条重涂色","zh_human":"","zh":"皮革生存条重涂色","status":"ai"}
+{"id":"k3AOoXTS","en":"RURM Old Textures Pack","zh_draft":"","zh_ai":"RURM旧纹理包","zh_human":"","zh":"RURM旧纹理包","status":"ai"}
+{"id":"lmkano8X","en":"Different Font","zh_draft":"","zh_ai":"不同字体","zh_human":"","zh":"不同字体","status":"ai"}
+{"id":"mYCu1hwU","en":"The Broken Script: Reprogrammed 1.9 Style Entities","zh_draft":"","zh_ai":"破碎脚本：重编程1.9风格实体","zh_human":"","zh":"破碎脚本：重编程1.9风格实体","status":"ai"}
+{"id":"mm6CPvmG","en":"See-Through GUI","zh_draft":"","zh_ai":"透明GUI","zh_human":"","zh":"透明GUI","status":"ai"}
+{"id":"owwTbcNw","en":"Dirgeful Void 16x","zh_draft":"","zh_ai":"挽歌虚空16x","zh_human":"","zh":"挽歌虚空16x","status":"ai"}
+{"id":"pfHktae0","en":"Pink Hearts +","zh_draft":"","zh_ai":"粉红心+","zh_human":"","zh":"粉红心+","status":"ai"}
+{"id":"qyAoB3Vo","en":"Bow Leveler","zh_draft":"","zh_ai":"弓水平器","zh_human":"","zh":"弓水平器","status":"ai"}
+{"id":"uX4JKEwi","en":"Recolored Survival Bars [Copper]","zh_draft":"","zh_ai":"铜色生存条重涂色","zh_human":"","zh":"铜色生存条重涂色","status":"ai"}
+{"id":"vFTJ3cuW","en":"Recolored Survival Bars [Diamond]","zh_draft":"","zh_ai":"钻石色生存条重涂色","zh_human":"","zh":"钻石色生存条重涂色","status":"ai"}
+{"id":"xGYTch2p","en":"Hollow Purple Golden apple","zh_draft":"","zh_ai":"空心紫色金苹果","zh_human":"","zh":"空心紫色金苹果","status":"ai"}
+{"id":"zMIwlcz1","en":"Better TALL Plants","zh_draft":"","zh_ai":"更好的TALL植物","zh_human":"","zh":"更好的TALL植物","status":"ai"}
