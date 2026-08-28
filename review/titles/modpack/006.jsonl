@@ -347,30 +347,30 @@
 {"id":"ivwREC9R","en":"The Factory Mod","zh_draft":"","zh_ai":"工厂模组","zh_human":"","zh":"工厂模组","status":"ai"}
 {"id":"jwZqWHh3","en":"Rabbit's Simplistic Vanilla+","zh_draft":"","zh_ai":"兔子的简约香草+","zh_human":"","zh":"兔子的简约香草+","status":"ai"}
 {"id":"Ao49pJRO","en":"Skull Boost","zh_draft":"","zh_ai":"骷髅增强","zh_human":"","zh":"骷髅增强","status":"ai"}
-{"id":"Ehp0B2tx","en":"Mesh Shaded","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1ZjCo3aV","en":"Vanilla Refreshed","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dDUDcLAi","en":"Create: Fly High","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LVLH3NC6","en":"Goodman Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DaukOegH","en":"Comfortably Optimized","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kghfbMtT","en":"Create: Realism-ish","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8LLbQUZl","en":"Beyond Apocalypse","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DjXizUHo","en":"Star Factory","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"G2h3XBe7","en":"Flying Creativity","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"O7E6uy9N","en":"Tuxy's PvP Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CCTksLTd","en":"Adventure Redux","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Z9t2tLS3","en":"Blaze","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZXAUrK0Z","en":"Steam & Sails","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3sDOByt7","en":"Corruptedly Optimized","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mVoNSThj","en":"Ashes of War","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"I0zWFIWJ","en":"Just Chill V4 Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ETq7VbkT","en":"Cobblemon - Ultimate - HKU","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XgbUJwPq","en":"MinigameClient","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UEXgmqWP","en":"Client Compressed","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"bjm3L9K7","en":"Watchers Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gc0zeAeL","en":"AchieveItToDo","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iJkoKWE6","en":"A Touch of Vanilla","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jyGBZE3c","en":"Essential Performance","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qJBuAi6o","en":"Quill's Essentials","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DC1JC2YA","en":"ProCRAFT","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nzkM38oi","en":"MMC-Vanilla","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xwz8VSiL","en":"Peak mods!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Ehp0B2tx","en":"Mesh Shaded","zh_draft":"","zh_ai":"网格阴影","zh_human":"","zh":"网格阴影","status":"ai"}
+{"id":"1ZjCo3aV","en":"Vanilla Refreshed","zh_draft":"","zh_ai":"原味更新","zh_human":"","zh":"原味更新","status":"ai"}
+{"id":"dDUDcLAi","en":"Create: Fly High","zh_draft":"","zh_ai":"创造：飞得高","zh_human":"","zh":"创造：飞得高","status":"ai"}
+{"id":"LVLH3NC6","en":"Goodman Modpack","zh_draft":"","zh_ai":"Goodman模组包","zh_human":"","zh":"Goodman模组包","status":"ai"}
+{"id":"DaukOegH","en":"Comfortably Optimized","zh_draft":"","zh_ai":"舒适优化","zh_human":"","zh":"舒适优化","status":"ai"}
+{"id":"kghfbMtT","en":"Create: Realism-ish","zh_draft":"","zh_ai":"创造：有点真实","zh_human":"","zh":"创造：有点真实","status":"ai"}
+{"id":"8LLbQUZl","en":"Beyond Apocalypse","zh_draft":"","zh_ai":"超越末日","zh_human":"","zh":"超越末日","status":"ai"}
+{"id":"DjXizUHo","en":"Star Factory","zh_draft":"","zh_ai":"星工厂","zh_human":"","zh":"星工厂","status":"ai"}
+{"id":"G2h3XBe7","en":"Flying Creativity","zh_draft":"","zh_ai":"飞翔的创造力","zh_human":"","zh":"飞翔的创造力","status":"ai"}
+{"id":"O7E6uy9N","en":"Tuxy's PvP Modpack","zh_draft":"","zh_ai":"Tuxy的PvP模组包","zh_human":"","zh":"Tuxy的PvP模组包","status":"ai"}
+{"id":"CCTksLTd","en":"Adventure Redux","zh_draft":"","zh_ai":"冒险重制版","zh_human":"","zh":"冒险重制版","status":"ai"}
+{"id":"Z9t2tLS3","en":"Blaze","zh_draft":"","zh_ai":"烈焰","zh_human":"","zh":"烈焰","status":"ai"}
+{"id":"ZXAUrK0Z","en":"Steam & Sails","zh_draft":"","zh_ai":"蒸汽与帆船","zh_human":"","zh":"蒸汽与帆船","status":"ai"}
+{"id":"3sDOByt7","en":"Corruptedly Optimized","zh_draft":"","zh_ai":"腐败优化","zh_human":"","zh":"腐败优化","status":"ai"}
+{"id":"mVoNSThj","en":"Ashes of War","zh_draft":"","zh_ai":"战争余烬","zh_human":"","zh":"战争余烬","status":"ai"}
+{"id":"I0zWFIWJ","en":"Just Chill V4 Modpack","zh_draft":"","zh_ai":"Just Chill V4模组包","zh_human":"","zh":"Just Chill V4模组包","status":"ai"}
+{"id":"ETq7VbkT","en":"Cobblemon - Ultimate - HKU","zh_draft":"","zh_ai":"Cobblemon - 终极 - HKU","zh_human":"","zh":"Cobblemon - 终极 - HKU","status":"ai"}
+{"id":"XgbUJwPq","en":"MinigameClient","zh_draft":"","zh_ai":"迷你游戏客户端","zh_human":"","zh":"迷你游戏客户端","status":"ai"}
+{"id":"UEXgmqWP","en":"Client Compressed","zh_draft":"","zh_ai":"客户端压缩版","zh_human":"","zh":"客户端压缩版","status":"ai"}
+{"id":"bjm3L9K7","en":"Watchers Modpack","zh_draft":"","zh_ai":"观察者模组包","zh_human":"","zh":"观察者模组包","status":"ai"}
+{"id":"gc0zeAeL","en":"AchieveItToDo","zh_draft":"","zh_ai":"成就完成器","zh_human":"","zh":"成就完成器","status":"ai"}
+{"id":"iJkoKWE6","en":"A Touch of Vanilla","zh_draft":"","zh_ai":"原汁原味触感","zh_human":"","zh":"原汁原味触感","status":"ai"}
+{"id":"jyGBZE3c","en":"Essential Performance","zh_draft":"","zh_ai":"基础性能","zh_human":"","zh":"基础性能","status":"ai"}
+{"id":"qJBuAi6o","en":"Quill's Essentials","zh_draft":"","zh_ai":"Quill的精华包","zh_human":"","zh":"Quill的精华包","status":"ai"}
+{"id":"DC1JC2YA","en":"ProCRAFT","zh_draft":"","zh_ai":"专业CRAFT","zh_human":"","zh":"专业CRAFT","status":"ai"}
+{"id":"nzkM38oi","en":"MMC-Vanilla","zh_draft":"","zh_ai":"MMC原版","zh_human":"","zh":"MMC原版","status":"ai"}
+{"id":"xwz8VSiL","en":"Peak mods!","zh_draft":"","zh_ai":"巅峰模组！","zh_human":"","zh":"巅峰模组！","status":"ai"}

@@ -1104,26 +1104,26 @@
 {"id":"qz0MHAHf","en":"Saturate","zh_draft":"","zh_ai":"饱和","zh_human":"","zh":"饱和","status":"ai"}
 {"id":"uNKteMfQ","en":"Newsletter","zh_draft":"","zh_ai":"新闻简报","zh_human":"","zh":"新闻简报","status":"ai"}
 {"id":"yKad6qqX","en":"Moku Treasure Hunt","zh_draft":"","zh_ai":"Moku寻宝","zh_human":"","zh":"Moku寻宝","status":"ai"}
-{"id":"zl0fbc7a","en":"Some Long Config Puller","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zl4B3JU0","en":"Refined Gathering","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9Io8HErW","en":"whops","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CAaZPVaZ","en":"Simple Progression Extra","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"EsBbbiQ1","en":"No Force End","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"I5jvXQ4L","en":"Gravel To Sand","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JX5ZMZqi","en":"Corn!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MzbsNzuS","en":"can's Cans: Reborn","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TtThfJXv","en":"CreativeX","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dW2sicX1","en":"Durability Warner HUD","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"enxlYDCm","en":"Don't break my torches","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hPXxIIoi","en":"Anti Spam","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jGR2dv7d","en":"Computer Mod","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nbUwjMb3","en":"LiverTpa","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nrabIbB9","en":"Stem Protect","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"omlpP7pc","en":"Craftable Green Dye","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uZzfQhQ5","en":"Accessories Unofficial Fabric","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wL9vf6Ax","en":"msp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xsSF8jhM","en":"LWB (Lofik World Border)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"139qs2ZZ","en":"Vanilla Backpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JLSYG7TJ","en":"Hotbar Chaos","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"W8zgvolI","en":"Redstone Diode","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ziQo1ifI","en":"Phantom Schedule","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"zl0fbc7a","en":"Some Long Config Puller","zh_draft":"","zh_ai":"长配置拉取器","zh_human":"","zh":"长配置拉取器","status":"ai"}
+{"id":"zl4B3JU0","en":"Refined Gathering","zh_draft":"","zh_ai":"精炼收集器","zh_human":"","zh":"精炼收集器","status":"ai"}
+{"id":"9Io8HErW","en":"whops","zh_draft":"","zh_ai":"whops","zh_human":"","zh":"whops","status":"ai"}
+{"id":"CAaZPVaZ","en":"Simple Progression Extra","zh_draft":"","zh_ai":"简单进阶扩展","zh_human":"","zh":"简单进阶扩展","status":"ai"}
+{"id":"EsBbbiQ1","en":"No Force End","zh_draft":"","zh_ai":"禁止强制结束","zh_human":"","zh":"禁止强制结束","status":"ai"}
+{"id":"I5jvXQ4L","en":"Gravel To Sand","zh_draft":"","zh_ai":"砾石变沙","zh_human":"","zh":"砾石变沙","status":"ai"}
+{"id":"JX5ZMZqi","en":"Corn!","zh_draft":"","zh_ai":"玉米！","zh_human":"","zh":"玉米！","status":"ai"}
+{"id":"MzbsNzuS","en":"can's Cans: Reborn","zh_draft":"","zh_ai":"罐头重生","zh_human":"","zh":"罐头重生","status":"ai"}
+{"id":"TtThfJXv","en":"CreativeX","zh_draft":"","zh_ai":"创意X","zh_human":"","zh":"创意X","status":"ai"}
+{"id":"dW2sicX1","en":"Durability Warner HUD","zh_draft":"","zh_ai":"耐久警告HUD","zh_human":"","zh":"耐久警告HUD","status":"ai"}
+{"id":"enxlYDCm","en":"Don't break my torches","zh_draft":"","zh_ai":"不要打破我的火把","zh_human":"","zh":"不要打破我的火把","status":"ai"}
+{"id":"hPXxIIoi","en":"Anti Spam","zh_draft":"","zh_ai":"反垃圾邮件","zh_human":"","zh":"反垃圾邮件","status":"ai"}
+{"id":"jGR2dv7d","en":"Computer Mod","zh_draft":"","zh_ai":"电脑模组","zh_human":"","zh":"电脑模组","status":"ai"}
+{"id":"nbUwjMb3","en":"LiverTpa","zh_draft":"","zh_ai":"LiverTpa","zh_human":"","zh":"LiverTpa","status":"ai"}
+{"id":"nrabIbB9","en":"Stem Protect","zh_draft":"","zh_ai":"茎保护","zh_human":"","zh":"茎保护","status":"ai"}
+{"id":"omlpP7pc","en":"Craftable Green Dye","zh_draft":"","zh_ai":"可制作绿色染料","zh_human":"","zh":"可制作绿色染料","status":"ai"}
+{"id":"uZzfQhQ5","en":"Accessories Unofficial Fabric","zh_draft":"","zh_ai":"配件非官方织物","zh_human":"","zh":"配件非官方织物","status":"ai"}
+{"id":"wL9vf6Ax","en":"msp","zh_draft":"","zh_ai":"msp","zh_human":"","zh":"msp","status":"ai"}
+{"id":"xsSF8jhM","en":"LWB (Lofik World Border)","zh_draft":"","zh_ai":"LWB（Lofik世界边界）","zh_human":"","zh":"LWB（Lofik世界边界）","status":"ai"}
+{"id":"139qs2ZZ","en":"Vanilla Backpack","zh_draft":"","zh_ai":"原味背包","zh_human":"","zh":"原味背包","status":"ai"}
+{"id":"JLSYG7TJ","en":"Hotbar Chaos","zh_draft":"","zh_ai":"热栏混乱","zh_human":"","zh":"热栏混乱","status":"ai"}
+{"id":"W8zgvolI","en":"Redstone Diode","zh_draft":"","zh_ai":"红石二极管","zh_human":"","zh":"红石二极管","status":"ai"}
+{"id":"ziQo1ifI","en":"Phantom Schedule","zh_draft":"","zh_ai":"幻影日程表","zh_human":"","zh":"幻影日程表","status":"ai"}
