@@ -374,19 +374,19 @@
 {"id":"DC1JC2YA","en":"ProCRAFT","zh_draft":"","zh_ai":"专业CRAFT","zh_human":"","zh":"专业CRAFT","status":"ai"}
 {"id":"nzkM38oi","en":"MMC-Vanilla","zh_draft":"","zh_ai":"MMC原版","zh_human":"","zh":"MMC原版","status":"ai"}
 {"id":"xwz8VSiL","en":"Peak mods!","zh_draft":"","zh_ai":"巅峰模组！","zh_human":"","zh":"巅峰模组！","status":"ai"}
-{"id":"eJ7HSFnz","en":"Draftout Essentials","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lhRxWjR0","en":"Level [ UNDEFINED ]: The Places","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kdubNTTu","en":"KimServer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nsGkw8TK","en":"Rooms of liminality.","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Gzy29C10","en":"create cloudless","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Jc3CyAR9","en":"MC: They Watch","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9T8sFDQe","en":"Voyage's Prehistoric Jungle","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Pel2BzMN","en":"Feed the Meef","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QeBzjEMu","en":"PreDestiny Base","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UaXApgsM","en":"MercuryFPS","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CXHnugOi","en":"Saturn","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"W4urffZz","en":"Quaps Attack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"enc64Itu","en":"Molegoo modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gq4tz7gg","en":"OptiKan","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yNU2c1ui","en":"Sakurahelm Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rMB29IM0","en":"NzrMC's End Update","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"eJ7HSFnz","en":"Draftout Essentials","zh_draft":"","zh_ai":"Draftout 基础","zh_human":"","zh":"Draftout 基础","status":"ai"}
+{"id":"lhRxWjR0","en":"Level [ UNDEFINED ]: The Places","zh_draft":"","zh_ai":"等级 [未定义]：地点","zh_human":"","zh":"等级 [未定义]：地点","status":"ai"}
+{"id":"kdubNTTu","en":"KimServer","zh_draft":"","zh_ai":"金服务器","zh_human":"","zh":"金服务器","status":"ai"}
+{"id":"nsGkw8TK","en":"Rooms of liminality.","zh_draft":"","zh_ai":"阈限之室","zh_human":"","zh":"阈限之室","status":"ai"}
+{"id":"Gzy29C10","en":"create cloudless","zh_draft":"","zh_ai":"机械动力：无云","zh_human":"","zh":"机械动力：无云","status":"ai"}
+{"id":"Jc3CyAR9","en":"MC: They Watch","zh_draft":"","zh_ai":"MC：他们注视","zh_human":"","zh":"MC：他们注视","status":"ai"}
+{"id":"9T8sFDQe","en":"Voyage's Prehistoric Jungle","zh_draft":"","zh_ai":"旅行者的史前丛林","zh_human":"","zh":"旅行者的史前丛林","status":"ai"}
+{"id":"Pel2BzMN","en":"Feed the Meef","zh_draft":"","zh_ai":"喂食 Meef","zh_human":"","zh":"喂食 Meef","status":"ai"}
+{"id":"QeBzjEMu","en":"PreDestiny Base","zh_draft":"","zh_ai":"命运基地","zh_human":"","zh":"命运基地","status":"ai"}
+{"id":"UaXApgsM","en":"MercuryFPS","zh_draft":"","zh_ai":"水星 FPS","zh_human":"","zh":"水星 FPS","status":"ai"}
+{"id":"CXHnugOi","en":"Saturn","zh_draft":"","zh_ai":"土星","zh_human":"","zh":"土星","status":"ai"}
+{"id":"W4urffZz","en":"Quaps Attack","zh_draft":"","zh_ai":"Quaps 攻击","zh_human":"","zh":"Quaps 攻击","status":"ai"}
+{"id":"enc64Itu","en":"Molegoo modpack","zh_draft":"","zh_ai":"Molegoo 整合包","zh_human":"","zh":"Molegoo 整合包","status":"ai"}
+{"id":"gq4tz7gg","en":"OptiKan","zh_draft":"","zh_ai":"OptiKan","zh_human":"","zh":"OptiKan","status":"ai"}
+{"id":"yNU2c1ui","en":"Sakurahelm Modpack","zh_draft":"","zh_ai":"樱花头盔整合包","zh_human":"","zh":"樱花头盔整合包","status":"ai"}
+{"id":"rMB29IM0","en":"NzrMC's End Update","zh_draft":"","zh_ai":"NzrMC 的末地更新","zh_human":"","zh":"NzrMC 的末地更新","status":"ai"}

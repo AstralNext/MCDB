@@ -2158,11 +2158,11 @@
 {"id":"vcAhpXRI","en":"Amity SMP","zh_draft":"","zh_ai":"友好生存模式","zh_human":"","zh":"友好生存模式","status":"ai"}
 {"id":"xBe6Lf18","en":"悦幻服务器","zh_draft":"","zh_ai":"悦幻服务器","zh_human":"","zh":"悦幻服务器","status":"ai"}
 {"id":"xXmvWGrN","en":"Createland","zh_draft":"","zh_ai":"创世之地","zh_human":"","zh":"创世之地","status":"ai"}
-{"id":"wnuVu8DT","en":"Aeropunk","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6jLeXOxh","en":"Jade's Antarchy","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JFpZ42l2","en":"THUMB Survival Anarchy Server","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MS0s3t0y","en":"World War II online CCCP SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"USly5egD","en":"SteedsGate","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XSWk7DQY","en":"GolemSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gOju1BcU","en":"IKD Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qLYsE7It","en":"nucifera","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"wnuVu8DT","en":"Aeropunk","zh_draft":"","zh_ai":"飞艇朋克","zh_human":"","zh":"飞艇朋克","status":"ai"}
+{"id":"6jLeXOxh","en":"Jade's Antarchy","zh_draft":"","zh_ai":"翡翠的无政府状态","zh_human":"","zh":"翡翠的无政府状态","status":"ai"}
+{"id":"JFpZ42l2","en":"THUMB Survival Anarchy Server","zh_draft":"","zh_ai":"拇指生存无政府服务器","zh_human":"","zh":"拇指生存无政府服务器","status":"ai"}
+{"id":"MS0s3t0y","en":"World War II online CCCP SMP","zh_draft":"","zh_ai":"二战在线苏联SMP","zh_human":"","zh":"二战在线苏联SMP","status":"ai"}
+{"id":"USly5egD","en":"SteedsGate","zh_draft":"","zh_ai":"坐骑之门","zh_human":"","zh":"坐骑之门","status":"ai"}
+{"id":"XSWk7DQY","en":"GolemSMP","zh_draft":"","zh_ai":"哥布林SMP","zh_human":"","zh":"哥布林SMP","status":"ai"}
+{"id":"gOju1BcU","en":"IKD Network","zh_draft":"","zh_ai":"IKD网络","zh_human":"","zh":"IKD网络","status":"ai"}
+{"id":"qLYsE7It","en":"nucifera","zh_draft":"","zh_ai":"乳牛","zh_human":"","zh":"乳牛","status":"ai"}
