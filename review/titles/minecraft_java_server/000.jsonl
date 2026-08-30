@@ -2166,21 +2166,21 @@
 {"id":"XSWk7DQY","en":"GolemSMP","zh_draft":"","zh_ai":"哥布林SMP","zh_human":"","zh":"哥布林SMP","status":"ai"}
 {"id":"gOju1BcU","en":"IKD Network","zh_draft":"","zh_ai":"IKD网络","zh_human":"","zh":"IKD网络","status":"ai"}
 {"id":"qLYsE7It","en":"nucifera","zh_draft":"","zh_ai":"乳牛","zh_human":"","zh":"乳牛","status":"ai"}
-{"id":"d9GOiR9u","en":"JIAOMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jCkJEmyn","en":"VexMon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wBu05B3K","en":"SummitRealms","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4Wg0cROw","en":"Memeplox","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8iRcNRV9","en":"VizGen","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Ch7vY6ok","en":"OneCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GUeRt9cD","en":"Blue Sky","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PM4Ujaue","en":"Infinity craft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TcnZFcIy","en":"Bambi Cozy SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WbtxgqDD","en":"Cosmic Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WyT6ItWA","en":"The grim smp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"oK2r9p7W","en":"BadWolfMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"oZXBfbs7","en":"Cyan Realms","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ptsPWeqH","en":"CrimsonSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sd8IzWX2","en":"ZentraPvP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vCzrIwEh","en":"EBLCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wNDYbWEZ","en":"Dominion Towny Smp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"x292d6N9","en":"Tales of middle earth","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"d9GOiR9u","en":"JIAOMC","zh_draft":"","zh_ai":"简易Minecraft","zh_human":"","zh":"简易Minecraft","status":"ai"}
+{"id":"jCkJEmyn","en":"VexMon","zh_draft":"","zh_ai":"VexMon","zh_human":"","zh":"VexMon","status":"ai"}
+{"id":"wBu05B3K","en":"SummitRealms","zh_draft":"","zh_ai":"高峰领域","zh_human":"","zh":"高峰领域","status":"ai"}
+{"id":"4Wg0cROw","en":"Memeplox","zh_draft":"","zh_ai":"表情包","zh_human":"","zh":"表情包","status":"ai"}
+{"id":"8iRcNRV9","en":"VizGen","zh_draft":"","zh_ai":"视觉生成器","zh_human":"","zh":"视觉生成器","status":"ai"}
+{"id":"Ch7vY6ok","en":"OneCraft","zh_draft":"","zh_ai":"一创","zh_human":"","zh":"一创","status":"ai"}
+{"id":"GUeRt9cD","en":"Blue Sky","zh_draft":"","zh_ai":"蓝天","zh_human":"","zh":"蓝天","status":"ai"}
+{"id":"PM4Ujaue","en":"Infinity craft","zh_draft":"","zh_ai":"无限工艺","zh_human":"","zh":"无限工艺","status":"ai"}
+{"id":"TcnZFcIy","en":"Bambi Cozy SMP","zh_draft":"","zh_ai":"小鹿温馨生存","zh_human":"","zh":"小鹿温馨生存","status":"ai"}
+{"id":"WbtxgqDD","en":"Cosmic Network","zh_draft":"","zh_ai":"宇宙网络","zh_human":"","zh":"宇宙网络","status":"ai"}
+{"id":"WyT6ItWA","en":"The grim smp","zh_draft":"","zh_ai":"黑暗生存","zh_human":"","zh":"黑暗生存","status":"ai"}
+{"id":"oK2r9p7W","en":"BadWolfMC","zh_draft":"","zh_ai":"坏狼Minecraft","zh_human":"","zh":"坏狼Minecraft","status":"ai"}
+{"id":"oZXBfbs7","en":"Cyan Realms","zh_draft":"","zh_ai":"青色领域","zh_human":"","zh":"青色领域","status":"ai"}
+{"id":"ptsPWeqH","en":"CrimsonSMP","zh_draft":"","zh_ai":"深红生存","zh_human":"","zh":"深红生存","status":"ai"}
+{"id":"sd8IzWX2","en":"ZentraPvP","zh_draft":"","zh_ai":"ZentraPvP","zh_human":"","zh":"ZentraPvP","status":"ai"}
+{"id":"vCzrIwEh","en":"EBLCraft","zh_draft":"","zh_ai":"EBLCraft","zh_human":"","zh":"EBLCraft","status":"ai"}
+{"id":"wNDYbWEZ","en":"Dominion Towny Smp","zh_draft":"","zh_ai":"领主城邦生存","zh_human":"","zh":"领主城邦生存","status":"ai"}
+{"id":"x292d6N9","en":"Tales of middle earth","zh_draft":"","zh_ai":"中土传说","zh_human":"","zh":"中土传说","status":"ai"}
