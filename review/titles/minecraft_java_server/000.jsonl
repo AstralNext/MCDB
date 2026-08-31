@@ -2184,8 +2184,8 @@
 {"id":"vCzrIwEh","en":"EBLCraft","zh_draft":"","zh_ai":"EBLCraft","zh_human":"","zh":"EBLCraft","status":"ai"}
 {"id":"wNDYbWEZ","en":"Dominion Towny Smp","zh_draft":"","zh_ai":"领主城邦生存","zh_human":"","zh":"领主城邦生存","status":"ai"}
 {"id":"x292d6N9","en":"Tales of middle earth","zh_draft":"","zh_ai":"中土传说","zh_human":"","zh":"中土传说","status":"ai"}
-{"id":"4UPL32gN","en":"Create:automoblity","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"62SPzq4Q","en":"Kabyle Minecraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FsOk4SmR","en":"Trials SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JL11X7PZ","en":"NovaVerse","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TLBcseeK","en":"Unstable Remake","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"4UPL32gN","en":"Create:automoblity","zh_draft":"","zh_ai":"自动机械","zh_human":"","zh":"自动机械","status":"ai"}
+{"id":"62SPzq4Q","en":"Kabyle Minecraft","zh_draft":"","zh_ai":"卡比勒 Minecraft","zh_human":"","zh":"卡比勒 Minecraft","status":"ai"}
+{"id":"FsOk4SmR","en":"Trials SMP","zh_draft":"","zh_ai":"试炼生存模式","zh_human":"","zh":"试炼生存模式","status":"ai"}
+{"id":"JL11X7PZ","en":"NovaVerse","zh_draft":"","zh_ai":"诺瓦宇宙","zh_human":"","zh":"诺瓦宇宙","status":"ai"}
+{"id":"TLBcseeK","en":"Unstable Remake","zh_draft":"","zh_ai":"不稳定重制版","zh_human":"","zh":"不稳定重制版","status":"ai"}

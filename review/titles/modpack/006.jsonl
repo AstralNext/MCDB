@@ -393,27 +393,27 @@
 {"id":"FRShQChI","en":"Amethyst Eclipse","zh_draft":"","zh_ai":"紫水晶月食","zh_human":"","zh":"紫水晶月食","status":"ai"}
 {"id":"hocQsCzn","en":"Simply Create Fly","zh_draft":"","zh_ai":"简单机械飞行","zh_human":"","zh":"简单机械飞行","status":"ai"}
 {"id":"h6P306jt","en":"lurin's optimizer","zh_draft":"","zh_ai":"lurin 优化器","zh_human":"","zh":"lurin 优化器","status":"ai"}
-{"id":"lZh2f5bs","en":"Feather","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CMY7XEjh","en":"Create: Railbound & Skies","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nVcmu8uz","en":"pocket protector","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"F2m46uEJ","en":"Dolt Modpack How","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5ZFQXMsM","en":"Vanilla++","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wtI7jkqx","en":"Kinetic Civilisation","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"y8icgsnW","en":"Vanilla Vistas","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XimPw3xg","en":"Medieval Fantasy For A Reason","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nKU674ID","en":"Rosegarden Server Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1OC644jn","en":"Usucha - A Matcha Flavoured Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"bLIDtcEe","en":"Realism By Caleb (Survival)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QzGyG1F5","en":"Totally Wither Storm","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"StGiTXth","en":"Starlit Harvest","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7ugxxqRc","en":"Alpha Nostalgia","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WkxaWtyh","en":"Speedrun Roulette","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kWGRhQHr","en":"ToonCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"o3h9Cpik","en":"Zombie Outbreak: Type 11","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IcjAgqFF","en":"Multiplayerjems","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QNpTJKR0","en":"Muy Matcha","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jgGlULcp","en":"Engineer`s pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"k1ISp0E9","en":"Reprogress Refabricated","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kRwoa1zH","en":"Reoxx Vanilla+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4nWEFgQe","en":"Pactcraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WIcZaXaL","en":"dnbdjs Pvp modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"lZh2f5bs","en":"Feather","zh_draft":"","zh_ai":"羽毛","zh_human":"","zh":"羽毛","status":"ai"}
+{"id":"CMY7XEjh","en":"Create: Railbound & Skies","zh_draft":"","zh_ai":"机械动力：铁路与天空","zh_human":"","zh":"机械动力：铁路与天空","status":"ai"}
+{"id":"nVcmu8uz","en":"pocket protector","zh_draft":"","zh_ai":"口袋保护器","zh_human":"","zh":"口袋保护器","status":"ai"}
+{"id":"F2m46uEJ","en":"Dolt Modpack How","zh_draft":"","zh_ai":"Dolt模组包如何","zh_human":"","zh":"Dolt模组包如何","status":"ai"}
+{"id":"5ZFQXMsM","en":"Vanilla++","zh_draft":"","zh_ai":"纯净++","zh_human":"","zh":"纯净++","status":"ai"}
+{"id":"wtI7jkqx","en":"Kinetic Civilisation","zh_draft":"","zh_ai":"动能文明","zh_human":"","zh":"动能文明","status":"ai"}
+{"id":"y8icgsnW","en":"Vanilla Vistas","zh_draft":"","zh_ai":"纯净风光","zh_human":"","zh":"纯净风光","status":"ai"}
+{"id":"XimPw3xg","en":"Medieval Fantasy For A Reason","zh_draft":"","zh_ai":"有理由的中世纪幻想","zh_human":"","zh":"有理由的中世纪幻想","status":"ai"}
+{"id":"nKU674ID","en":"Rosegarden Server Modpack","zh_draft":"","zh_ai":"玫瑰园服务器模组包","zh_human":"","zh":"玫瑰园服务器模组包","status":"ai"}
+{"id":"1OC644jn","en":"Usucha - A Matcha Flavoured Modpack","zh_draft":"","zh_ai":"宇治 - 一款抹茶风味的模组包","zh_human":"","zh":"宇治 - 一款抹茶风味的模组包","status":"ai"}
+{"id":"bLIDtcEe","en":"Realism By Caleb (Survival)","zh_draft":"","zh_ai":"Caleb的写实（生存）","zh_human":"","zh":"Caleb的写实（生存）","status":"ai"}
+{"id":"QzGyG1F5","en":"Totally Wither Storm","zh_draft":"","zh_ai":"完全枯萎风暴","zh_human":"","zh":"完全枯萎风暴","status":"ai"}
+{"id":"StGiTXth","en":"Starlit Harvest","zh_draft":"","zh_ai":"星光收割","zh_human":"","zh":"星光收割","status":"ai"}
+{"id":"7ugxxqRc","en":"Alpha Nostalgia","zh_draft":"","zh_ai":"Alpha怀旧","zh_human":"","zh":"Alpha怀旧","status":"ai"}
+{"id":"WkxaWtyh","en":"Speedrun Roulette","zh_draft":"","zh_ai":"速通轮盘","zh_human":"","zh":"速通轮盘","status":"ai"}
+{"id":"kWGRhQHr","en":"ToonCraft","zh_draft":"","zh_ai":"卡通工艺","zh_human":"","zh":"卡通工艺","status":"ai"}
+{"id":"o3h9Cpik","en":"Zombie Outbreak: Type 11","zh_draft":"","zh_ai":"僵尸爆发：类型11","zh_human":"","zh":"僵尸爆发：类型11","status":"ai"}
+{"id":"IcjAgqFF","en":"Multiplayerjems","zh_draft":"","zh_ai":"多人游戏宝石","zh_human":"","zh":"多人游戏宝石","status":"ai"}
+{"id":"QNpTJKR0","en":"Muy Matcha","zh_draft":"","zh_ai":"非常抹茶","zh_human":"","zh":"非常抹茶","status":"ai"}
+{"id":"jgGlULcp","en":"Engineer`s pack","zh_draft":"","zh_ai":"工程师包","zh_human":"","zh":"工程师包","status":"ai"}
+{"id":"k1ISp0E9","en":"Reprogress Refabricated","zh_draft":"","zh_ai":"重进步重织","zh_human":"","zh":"重进步重织","status":"ai"}
+{"id":"kRwoa1zH","en":"Reoxx Vanilla+","zh_draft":"","zh_ai":"Reoxx纯净+","zh_human":"","zh":"Reoxx纯净+","status":"ai"}
+{"id":"4nWEFgQe","en":"Pactcraft","zh_draft":"","zh_ai":"契约工艺","zh_human":"","zh":"契约工艺","status":"ai"}
+{"id":"WIcZaXaL","en":"dnbdjs Pvp modpack","zh_draft":"","zh_ai":"dnbdjs PvP整合包","zh_human":"","zh":"dnbdjs PvP整合包","status":"ai"}

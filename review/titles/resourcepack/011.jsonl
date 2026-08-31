@@ -1017,15 +1017,15 @@
 {"id":"yCUKtIAL","en":"Donut SMP Cash Countin'","zh_draft":"","zh_ai":"甜甜圈SMP现金计数器","zh_human":"","zh":"甜甜圈SMP现金计数器","status":"ai"}
 {"id":"yzn7jALe","en":"Bisexual Pack","zh_draft":"","zh_ai":"双性恋包","zh_human":"","zh":"双性恋包","status":"ai"}
 {"id":"zGVke24O","en":"Super Mario Mash Up: Custom Music Discs!","zh_draft":"","zh_ai":"超级马里奥混搭：自定义音乐唱片！","zh_human":"","zh":"超级马里奥混搭：自定义音乐唱片！","status":"ai"}
-{"id":"ppMlEndC","en":"Gray Lava","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"m0TI8N1q","en":"[MTR] Canari Train Jaune des Pyrénées","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TmXc6lFC","en":"[MTR4] BB 26000","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"j8vLPw4D","en":"Canny Cat Moon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fnJ1Gec8","en":"[MTR4] Tokyo Metro 05N Series, Toyo Rapid 2000 Series","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2tImbfSL","en":"small tiny swords","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UtEEmnXC","en":"Ashley graves","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mirOR4By","en":"Dark Mode UI's","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5kMv2kB7","en":"Create: Scientist´s Googles (From PVZ-GW)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9gaeoQ7Z","en":"[MTR/NTE/MTR-34] Zatopinsk Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"COgYpVu8","en":"Dead ahh flower ( orange tulip )","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"EtvUL73H","en":"Stitched Together","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ppMlEndC","en":"Gray Lava","zh_draft":"","zh_ai":"灰熔岩","zh_human":"","zh":"灰熔岩","status":"ai"}
+{"id":"m0TI8N1q","en":"[MTR] Canari Train Jaune des Pyrénées","zh_draft":"","zh_ai":"[MTR] 比利牛斯黄色列车","zh_human":"","zh":"[MTR] 比利牛斯黄色列车","status":"ai"}
+{"id":"TmXc6lFC","en":"[MTR4] BB 26000","zh_draft":"","zh_ai":"[MTR4] BB 26000型机车","zh_human":"","zh":"[MTR4] BB 26000型机车","status":"ai"}
+{"id":"j8vLPw4D","en":"Canny Cat Moon","zh_draft":"","zh_ai":"灵巧猫月","zh_human":"","zh":"灵巧猫月","status":"ai"}
+{"id":"fnJ1Gec8","en":"[MTR4] Tokyo Metro 05N Series, Toyo Rapid 2000 Series","zh_draft":"","zh_ai":"[MTR4] 东京地铁05N系、东急2000系","zh_human":"","zh":"[MTR4] 东京地铁05N系、东急2000系","status":"ai"}
+{"id":"2tImbfSL","en":"small tiny swords","zh_draft":"","zh_ai":"迷你小剑","zh_human":"","zh":"迷你小剑","status":"ai"}
+{"id":"UtEEmnXC","en":"Ashley graves","zh_draft":"","zh_ai":"阿什利·格雷夫斯","zh_human":"","zh":"阿什利·格雷夫斯","status":"ai"}
+{"id":"mirOR4By","en":"Dark Mode UI's","zh_draft":"","zh_ai":"暗黑模式UI","zh_human":"","zh":"暗黑模式UI","status":"ai"}
+{"id":"5kMv2kB7","en":"Create: Scientist´s Googles (From PVZ-GW)","zh_draft":"","zh_ai":"机械动力：科学家护目镜（来自PVZ-GW）","zh_human":"","zh":"机械动力：科学家护目镜（来自PVZ-GW）","status":"ai"}
+{"id":"9gaeoQ7Z","en":"[MTR/NTE/MTR-34] Zatopinsk Pack","zh_draft":"","zh_ai":"[MTR/NTE/MTR-34] 扎托平斯克包","zh_human":"","zh":"[MTR/NTE/MTR-34] 扎托平斯克包","status":"ai"}
+{"id":"COgYpVu8","en":"Dead ahh flower ( orange tulip )","zh_draft":"","zh_ai":"死亡之花（橙色郁金香）","zh_human":"","zh":"死亡之花（橙色郁金香）","status":"ai"}
+{"id":"EtvUL73H","en":"Stitched Together","zh_draft":"","zh_ai":"缝合怪","zh_human":"","zh":"缝合怪","status":"ai"}
