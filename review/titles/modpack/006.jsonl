@@ -417,17 +417,17 @@
 {"id":"kRwoa1zH","en":"Reoxx Vanilla+","zh_draft":"","zh_ai":"Reoxx纯净+","zh_human":"","zh":"Reoxx纯净+","status":"ai"}
 {"id":"4nWEFgQe","en":"Pactcraft","zh_draft":"","zh_ai":"契约工艺","zh_human":"","zh":"契约工艺","status":"ai"}
 {"id":"WIcZaXaL","en":"dnbdjs Pvp modpack","zh_draft":"","zh_ai":"dnbdjs PvP整合包","zh_human":"","zh":"dnbdjs PvP整合包","status":"ai"}
-{"id":"QhX1nx34","en":"OneClient","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"k8UzBUbB","en":"Bogwood Matcha Flavoured","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JLXzi57G","en":"Matcha Flavoured +","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wCBl0yS9","en":"Remboy Better","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eXJkSNEm","en":"ReUnitedSMP S1","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NdfOWGuA","en":"Elysium [ASCENSION]","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"elL6hwYw","en":"Sogdom Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lq7QvNlx","en":"Create : Harmony","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"EOK2t4gz","en":"Neo-Apocalypse-server-pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Ol8bnEJV","en":"Fabulously Potato","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"bhRH3Vv6","en":"The Hearth Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uIRew9Gj","en":"SwordMC for Lunar Client","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DezD0oMv","en":"DemirTaht Fabric","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TCI1lb3d","en":"Skyblock Svyato4ka","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"QhX1nx34","en":"OneClient","zh_draft":"","zh_ai":"OneClient","zh_human":"","zh":"OneClient","status":"ai"}
+{"id":"k8UzBUbB","en":"Bogwood Matcha Flavoured","zh_draft":"","zh_ai":"泥炭木抹茶风味","zh_human":"","zh":"泥炭木抹茶风味","status":"ai"}
+{"id":"JLXzi57G","en":"Matcha Flavoured +","zh_draft":"","zh_ai":"抹茶风味+","zh_human":"","zh":"抹茶风味+","status":"ai"}
+{"id":"wCBl0yS9","en":"Remboy Better","zh_draft":"","zh_ai":"Remboy增强版","zh_human":"","zh":"Remboy增强版","status":"ai"}
+{"id":"eXJkSNEm","en":"ReUnitedSMP S1","zh_draft":"","zh_ai":"ReUnitedSMP S1","zh_human":"","zh":"ReUnitedSMP S1","status":"ai"}
+{"id":"NdfOWGuA","en":"Elysium [ASCENSION]","zh_draft":"","zh_ai":"伊甸园[升天]","zh_human":"","zh":"伊甸园[升天]","status":"ai"}
+{"id":"elL6hwYw","en":"Sogdom Modpack","zh_draft":"","zh_ai":"索格德模组包","zh_human":"","zh":"索格德模组包","status":"ai"}
+{"id":"lq7QvNlx","en":"Create : Harmony","zh_draft":"","zh_ai":"Create : 和谐","zh_human":"","zh":"Create : 和谐","status":"ai"}
+{"id":"EOK2t4gz","en":"Neo-Apocalypse-server-pack","zh_draft":"","zh_ai":"新末日服务器包","zh_human":"","zh":"新末日服务器包","status":"ai"}
+{"id":"Ol8bnEJV","en":"Fabulously Potato","zh_draft":"","zh_ai":"奇妙土豆","zh_human":"","zh":"奇妙土豆","status":"ai"}
+{"id":"bhRH3Vv6","en":"The Hearth Pack","zh_draft":"","zh_ai":"炉火包","zh_human":"","zh":"炉火包","status":"ai"}
+{"id":"uIRew9Gj","en":"SwordMC for Lunar Client","zh_draft":"","zh_ai":"SwordMC for Lunar客户端","zh_human":"","zh":"SwordMC for Lunar客户端","status":"ai"}
+{"id":"DezD0oMv","en":"DemirTaht Fabric","zh_draft":"","zh_ai":"DemirTaht Fabric","zh_human":"","zh":"DemirTaht Fabric","status":"ai"}
+{"id":"TCI1lb3d","en":"Skyblock Svyato4ka","zh_draft":"","zh_ai":"Skyblock Svyato4ka","zh_human":"","zh":"Skyblock Svyato4ka","status":"ai"}
