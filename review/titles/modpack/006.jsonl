@@ -431,23 +431,23 @@
 {"id":"uIRew9Gj","en":"SwordMC for Lunar Client","zh_draft":"","zh_ai":"SwordMC for Lunar客户端","zh_human":"","zh":"SwordMC for Lunar客户端","status":"ai"}
 {"id":"DezD0oMv","en":"DemirTaht Fabric","zh_draft":"","zh_ai":"DemirTaht Fabric","zh_human":"","zh":"DemirTaht Fabric","status":"ai"}
 {"id":"TCI1lb3d","en":"Skyblock Svyato4ka","zh_draft":"","zh_ai":"Skyblock Svyato4ka","zh_human":"","zh":"Skyblock Svyato4ka","status":"ai"}
-{"id":"mDwdutSI","en":"Thaldrin: The Overgrown Wilds","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"EvyivxJK","en":"Somroti's Vanilla Experience","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1NDW8BD1","en":"Taste of Matcha","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CnYRIm29","en":"The Foundry Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kHFfdldj","en":"Vanilla Refabricated","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8j2Lc5Ih","en":"Draconic Ecosphere","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XUEmQ9he","en":"Freshpig Client","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZItlJldO","en":"Avsss's Cozy Cobblemon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YHboowcC","en":"Deadscape","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Vdbq8g0F","en":"Alan Becker","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"azflhENV","en":"Carrot's Vanilla Refined","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Wn8ZEMf2","en":"Immersive Textures","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zXrxJA6S","en":"zeyeslab","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GD3rx9qq","en":"ColonThreeMCLiteModpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Kc8teX88","en":"Gateways","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8K0HtjQm","en":"TechFactory","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eyklYqbY","en":"A better Mc","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mWA9wPpg","en":"ForW TaCZ","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wH7UFcXt","en":"Framework","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wMKBkOo9","en":"raozzn's modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"mDwdutSI","en":"Thaldrin: The Overgrown Wilds","zh_draft":"","zh_ai":"Thaldrin：茂盛的荒野","zh_human":"","zh":"Thaldrin：茂盛的荒野","status":"ai"}
+{"id":"EvyivxJK","en":"Somroti's Vanilla Experience","zh_draft":"","zh_ai":"Somroti的原始体验","zh_human":"","zh":"Somroti的原始体验","status":"ai"}
+{"id":"1NDW8BD1","en":"Taste of Matcha","zh_draft":"","zh_ai":"抹茶之味","zh_human":"","zh":"抹茶之味","status":"ai"}
+{"id":"CnYRIm29","en":"The Foundry Pack","zh_draft":"","zh_ai":"熔炉包","zh_human":"","zh":"熔炉包","status":"ai"}
+{"id":"kHFfdldj","en":"Vanilla Refabricated","zh_draft":"","zh_ai":"原始重构","zh_human":"","zh":"原始重构","status":"ai"}
+{"id":"8j2Lc5Ih","en":"Draconic Ecosphere","zh_draft":"","zh_ai":"龙形生态系统","zh_human":"","zh":"龙形生态系统","status":"ai"}
+{"id":"XUEmQ9he","en":"Freshpig Client","zh_draft":"","zh_ai":"Freshpig客户端","zh_human":"","zh":"Freshpig客户端","status":"ai"}
+{"id":"ZItlJldO","en":"Avsss's Cozy Cobblemon","zh_draft":"","zh_ai":"Avsss的舒适圆石兽","zh_human":"","zh":"Avsss的舒适圆石兽","status":"ai"}
+{"id":"YHboowcC","en":"Deadscape","zh_draft":"","zh_ai":"死地","zh_human":"","zh":"死地","status":"ai"}
+{"id":"Vdbq8g0F","en":"Alan Becker","zh_draft":"","zh_ai":"Alan Becker","zh_human":"","zh":"Alan Becker","status":"ai"}
+{"id":"azflhENV","en":"Carrot's Vanilla Refined","zh_draft":"","zh_ai":"胡萝卜的原始精炼","zh_human":"","zh":"胡萝卜的原始精炼","status":"ai"}
+{"id":"Wn8ZEMf2","en":"Immersive Textures","zh_draft":"","zh_ai":"沉浸式纹理包","zh_human":"","zh":"沉浸式纹理包","status":"ai"}
+{"id":"zXrxJA6S","en":"zeyeslab","zh_draft":"","zh_ai":"zeyeslab","zh_human":"","zh":"zeyeslab","status":"ai"}
+{"id":"GD3rx9qq","en":"ColonThreeMCLiteModpack","zh_draft":"","zh_ai":"ColonThreeMCLite整合包","zh_human":"","zh":"ColonThreeMCLite整合包","status":"ai"}
+{"id":"Kc8teX88","en":"Gateways","zh_draft":"","zh_ai":"传送门","zh_human":"","zh":"传送门","status":"ai"}
+{"id":"8K0HtjQm","en":"TechFactory","zh_draft":"","zh_ai":"科技工厂","zh_human":"","zh":"科技工厂","status":"ai"}
+{"id":"eyklYqbY","en":"A better Mc","zh_draft":"","zh_ai":"更好的Minecraft","zh_human":"","zh":"更好的Minecraft","status":"ai"}
+{"id":"mWA9wPpg","en":"ForW TaCZ","zh_draft":"","zh_ai":"ForW TaCZ","zh_human":"","zh":"ForW TaCZ","status":"ai"}
+{"id":"wH7UFcXt","en":"Framework","zh_draft":"","zh_ai":"框架","zh_human":"","zh":"框架","status":"ai"}
+{"id":"wMKBkOo9","en":"raozzn's modpack","zh_draft":"","zh_ai":"raozzn的模组包","zh_human":"","zh":"raozzn的模组包","status":"ai"}
