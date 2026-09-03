@@ -1109,18 +1109,18 @@
 {"id":"ym9byEGs","en":"Seally Seals!","zh_draft":"","zh_ai":"海豹！","zh_human":"","zh":"海豹！","status":"ai"}
 {"id":"yz4BCYcG","en":"CR-Flustered Vaults","zh_draft":"","zh_ai":"机械动力：慌乱保险箱","zh_human":"","zh":"机械动力：慌乱保险箱","status":"ai"}
 {"id":"zTpTlze1","en":"Fire Trim","zh_draft":"","zh_ai":"火焰纹饰","zh_human":"","zh":"火焰纹饰","status":"ai"}
-{"id":"MgnhMMHj","en":"Smooth Vanilla HD 256x","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WJPJXVYH","en":"creepers are shrek","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"oLKN3EWY","en":"Capupack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xYMz766I","en":"Diamond Smp Utils","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1JsBOJT6","en":"JJ couriers | Bloomy 6","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VwvQ4Wag","en":"Moonlight Dreams","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6nG1CbrS","en":"La Peace Lazuli","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Fm60VWdE","en":"invisible Sulfur Cubes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Mgx4VbTg","en":"Metal ladder","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UUxhPsxs","en":"Purple Critical Hits","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YPbypmTw","en":"Fix unsymmetrical harness goggles","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YxnsiZcs","en":"[MTR4] Bare Bone Tunnel","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jG08XQf8","en":"Round Windows for Prismatic Shine","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ugPNM7S0","en":"Fast Gateway","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"v8zlqCa7","en":"Alien Font","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"MgnhMMHj","en":"Smooth Vanilla HD 256x","zh_draft":"","zh_ai":"平滑原版高清256x","zh_human":"","zh":"平滑原版高清256x","status":"ai"}
+{"id":"WJPJXVYH","en":"creepers are shrek","zh_draft":"","zh_ai":"苦力怕是史瑞克","zh_human":"","zh":"苦力怕是史瑞克","status":"ai"}
+{"id":"oLKN3EWY","en":"Capupack","zh_draft":"","zh_ai":"卡普整合包","zh_human":"","zh":"卡普整合包","status":"ai"}
+{"id":"xYMz766I","en":"Diamond Smp Utils","zh_draft":"","zh_ai":"钻石SMP工具","zh_human":"","zh":"钻石SMP工具","status":"ai"}
+{"id":"1JsBOJT6","en":"JJ couriers | Bloomy 6","zh_draft":"","zh_ai":"JJ快递 | Bloomy 6","zh_human":"","zh":"JJ快递 | Bloomy 6","status":"ai"}
+{"id":"VwvQ4Wag","en":"Moonlight Dreams","zh_draft":"","zh_ai":"月光梦境","zh_human":"","zh":"月光梦境","status":"ai"}
+{"id":"6nG1CbrS","en":"La Peace Lazuli","zh_draft":"","zh_ai":"和平青金石","zh_human":"","zh":"和平青金石","status":"ai"}
+{"id":"Fm60VWdE","en":"invisible Sulfur Cubes","zh_draft":"","zh_ai":"隐形硫磺方块","zh_human":"","zh":"隐形硫磺方块","status":"ai"}
+{"id":"Mgx4VbTg","en":"Metal ladder","zh_draft":"","zh_ai":"金属梯子","zh_human":"","zh":"金属梯子","status":"ai"}
+{"id":"UUxhPsxs","en":"Purple Critical Hits","zh_draft":"","zh_ai":"紫色暴击","zh_human":"","zh":"紫色暴击","status":"ai"}
+{"id":"YPbypmTw","en":"Fix unsymmetrical harness goggles","zh_draft":"","zh_ai":"修复不对称 harness 护目镜","zh_human":"","zh":"修复不对称 harness 护目镜","status":"ai"}
+{"id":"YxnsiZcs","en":"[MTR4] Bare Bone Tunnel","zh_draft":"","zh_ai":"[MTR4] 极简隧道","zh_human":"","zh":"[MTR4] 极简隧道","status":"ai"}
+{"id":"jG08XQf8","en":"Round Windows for Prismatic Shine","zh_draft":"","zh_ai":"棱镜光泽圆形窗户","zh_human":"","zh":"棱镜光泽圆形窗户","status":"ai"}
+{"id":"ugPNM7S0","en":"Fast Gateway","zh_draft":"","zh_ai":"快速传送门","zh_human":"","zh":"快速传送门","status":"ai"}
+{"id":"v8zlqCa7","en":"Alien Font","zh_draft":"","zh_ai":"异星字体","zh_human":"","zh":"异星字体","status":"ai"}

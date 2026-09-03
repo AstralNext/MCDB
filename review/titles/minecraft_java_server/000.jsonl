@@ -2190,19 +2190,19 @@
 {"id":"JL11X7PZ","en":"NovaVerse","zh_draft":"","zh_ai":"诺瓦宇宙","zh_human":"","zh":"诺瓦宇宙","status":"ai"}
 {"id":"TLBcseeK","en":"Unstable Remake","zh_draft":"","zh_ai":"不稳定重制版","zh_human":"","zh":"不稳定重制版","status":"ai"}
 {"id":"cb2ks7ji","en":"DirtShackSMP","zh_draft":"","zh_ai":"土屋生存模式","zh_human":"","zh":"土屋生存模式","status":"ai"}
-{"id":"Wziug97G","en":"Everforge","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9xNiXAJ0","en":"筑梦之旅","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1ucXwxLt","en":"DawnWorld","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3EuL1IUF","en":"OscumaCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5nUrtPdL","en":"The First Age","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"67IzYfLB","en":"The Hearth","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"BtsqVasX","en":"The Foundry","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Op9PMVL4","en":"PirateBattle","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Sd6W9AKb","en":"SulfurSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"awYRNasX","en":"KayKay's Beanies","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eqKaCFdw","en":"BananaShield","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fejTiz9c","en":"Axolotl World","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mS33PgbH","en":"VantaSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rRAPbTDz","en":"Cobbleland","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rXS4gDQL","en":"IronHeart Season 0","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xIHUxw7Y","en":"Neo apocalypse","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Wziug97G","en":"Everforge","zh_draft":"","zh_ai":"永恒之炉","zh_human":"","zh":"永恒之炉","status":"ai"}
+{"id":"9xNiXAJ0","en":"筑梦之旅","zh_draft":"","zh_ai":"筑梦之旅","zh_human":"","zh":"筑梦之旅","status":"ai"}
+{"id":"1ucXwxLt","en":"DawnWorld","zh_draft":"","zh_ai":"黎明世界","zh_human":"","zh":"黎明世界","status":"ai"}
+{"id":"3EuL1IUF","en":"OscumaCraft","zh_draft":"","zh_ai":"奥苏玛工坊","zh_human":"","zh":"奥苏玛工坊","status":"ai"}
+{"id":"5nUrtPdL","en":"The First Age","zh_draft":"","zh_ai":"创世纪","zh_human":"","zh":"创世纪","status":"ai"}
+{"id":"67IzYfLB","en":"The Hearth","zh_draft":"","zh_ai":"炉火","zh_human":"","zh":"炉火","status":"ai"}
+{"id":"BtsqVasX","en":"The Foundry","zh_draft":"","zh_ai":"熔炉工坊","zh_human":"","zh":"熔炉工坊","status":"ai"}
+{"id":"Op9PMVL4","en":"PirateBattle","zh_draft":"","zh_ai":"海盗战","zh_human":"","zh":"海盗战","status":"ai"}
+{"id":"Sd6W9AKb","en":"SulfurSMP","zh_draft":"","zh_ai":"硫磺生存模式","zh_human":"","zh":"硫磺生存模式","status":"ai"}
+{"id":"awYRNasX","en":"KayKay's Beanies","zh_draft":"","zh_ai":"凯凯的帽子","zh_human":"","zh":"凯凯的帽子","status":"ai"}
+{"id":"eqKaCFdw","en":"BananaShield","zh_draft":"","zh_ai":"香蕉盾","zh_human":"","zh":"香蕉盾","status":"ai"}
+{"id":"fejTiz9c","en":"Axolotl World","zh_draft":"","zh_ai":"蝾螈世界","zh_human":"","zh":"蝾螈世界","status":"ai"}
+{"id":"mS33PgbH","en":"VantaSMP","zh_draft":"","zh_ai":"万塔生存模式","zh_human":"","zh":"万塔生存模式","status":"ai"}
+{"id":"rRAPbTDz","en":"Cobbleland","zh_draft":"","zh_ai":"圆石之地","zh_human":"","zh":"圆石之地","status":"ai"}
+{"id":"rXS4gDQL","en":"IronHeart Season 0","zh_draft":"","zh_ai":"铁心季0","zh_human":"","zh":"铁心季0","status":"ai"}
+{"id":"xIHUxw7Y","en":"Neo apocalypse","zh_draft":"","zh_ai":"新末日","zh_human":"","zh":"新末日","status":"ai"}
