@@ -474,25 +474,25 @@
 {"id":"omeIcoKp","en":"Korvian PvP","zh_draft":"","zh_ai":"科维安PVP","zh_human":"","zh":"科维安PVP","status":"ai"}
 {"id":"io695O5R","en":"Tent PvP","zh_draft":"","zh_ai":"帐篷PVP","zh_human":"","zh":"帐篷PVP","status":"ai"}
 {"id":"w8gFVVNy","en":"LifeOre: Create S2","zh_draft":"","zh_ai":"生命矿：机械动力S2","zh_human":"","zh":"生命矿：机械动力S2","status":"ai"}
-{"id":"PFsflCz1","en":"aidn's aeronautics modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sqmgYtWp","en":"Survival Horror","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NHp9Kzjb","en":"Cherry Sorbet","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"djzdQlBN","en":"Icarus Essentials","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ohy4WCuW","en":"Verity One Block","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"OjpBedzr","en":"Battles of ElysiumABC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"g5Q9Sz9w","en":"Elite Performance","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8VHa0yNn","en":"Insomnia - Hard Mode","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"OrQQUdmn","en":"Dead Fluid","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ksKdyw1M","en":"Steampunk Skies","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"w3LjJB4t","en":"PreDestiny Matcha+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Fz9h36S5","en":"Verity + Optimized","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LMnQNsEq","en":"BananaBrianNL","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mjONenyM","en":"AnxietyScout Chaos SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TIG5g4XO","en":"MineOut","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Wty2Pr2b","en":"VillageCraft 3","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jmdG4INd","en":"FPS-Ized","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xDmNNnay","en":"Cobblemon: New Era","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HsfEojU1","en":"Robbie's Client-Side Setup","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KPrkrrBe","en":"RNGCATGIRLS Updated MODS","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"w55QZrGB","en":"Survival Plus RPG","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zWczeOxX","en":"FoxClient","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"PFsflCz1","en":"aidn's aeronautics modpack","zh_draft":"","zh_ai":"aidn的航空学模组包","zh_human":"","zh":"aidn的航空学模组包","status":"ai"}
+{"id":"sqmgYtWp","en":"Survival Horror","zh_draft":"","zh_ai":"生存恐怖","zh_human":"","zh":"生存恐怖","status":"ai"}
+{"id":"NHp9Kzjb","en":"Cherry Sorbet","zh_draft":"","zh_ai":"樱桃雪芭","zh_human":"","zh":"樱桃雪芭","status":"ai"}
+{"id":"djzdQlBN","en":"Icarus Essentials","zh_draft":"","zh_ai":"伊卡洛斯基础","zh_human":"","zh":"伊卡洛斯基础","status":"ai"}
+{"id":"ohy4WCuW","en":"Verity One Block","zh_draft":"","zh_ai":"Verity单块","zh_human":"","zh":"Verity单块","status":"ai"}
+{"id":"OjpBedzr","en":"Battles of ElysiumABC","zh_draft":"","zh_ai":"伊里斯之战ABC","zh_human":"","zh":"伊里斯之战ABC","status":"ai"}
+{"id":"g5Q9Sz9w","en":"Elite Performance","zh_draft":"","zh_ai":"精英性能","zh_human":"","zh":"精英性能","status":"ai"}
+{"id":"8VHa0yNn","en":"Insomnia - Hard Mode","zh_draft":"","zh_ai":"失眠 - 困难模式","zh_human":"","zh":"失眠 - 困难模式","status":"ai"}
+{"id":"OrQQUdmn","en":"Dead Fluid","zh_draft":"","zh_ai":"死流体","zh_human":"","zh":"死流体","status":"ai"}
+{"id":"ksKdyw1M","en":"Steampunk Skies","zh_draft":"","zh_ai":"蒸汽朋克天空","zh_human":"","zh":"蒸汽朋克天空","status":"ai"}
+{"id":"w3LjJB4t","en":"PreDestiny Matcha+","zh_draft":"","zh_ai":"预命运抹茶+","zh_human":"","zh":"预命运抹茶+","status":"ai"}
+{"id":"Fz9h36S5","en":"Verity + Optimized","zh_draft":"","zh_ai":"Verity + 优化","zh_human":"","zh":"Verity + 优化","status":"ai"}
+{"id":"LMnQNsEq","en":"BananaBrianNL","zh_draft":"","zh_ai":"香蕉布兰NL","zh_human":"","zh":"香蕉布兰NL","status":"ai"}
+{"id":"mjONenyM","en":"AnxietyScout Chaos SMP","zh_draft":"","zh_ai":"焦虑侦察兵混沌SMP","zh_human":"","zh":"焦虑侦察兵混沌SMP","status":"ai"}
+{"id":"TIG5g4XO","en":"MineOut","zh_draft":"","zh_ai":"矿外","zh_human":"","zh":"矿外","status":"ai"}
+{"id":"Wty2Pr2b","en":"VillageCraft 3","zh_draft":"","zh_ai":"村庄工艺3","zh_human":"","zh":"村庄工艺3","status":"ai"}
+{"id":"jmdG4INd","en":"FPS-Ized","zh_draft":"","zh_ai":"FPS化","zh_human":"","zh":"FPS化","status":"ai"}
+{"id":"xDmNNnay","en":"Cobblemon: New Era","zh_draft":"","zh_ai":"圆石兽：新时代","zh_human":"","zh":"圆石兽：新时代","status":"ai"}
+{"id":"HsfEojU1","en":"Robbie's Client-Side Setup","zh_draft":"","zh_ai":"Robbie的客户端设置","zh_human":"","zh":"Robbie的客户端设置","status":"ai"}
+{"id":"KPrkrrBe","en":"RNGCATGIRLS Updated MODS","zh_draft":"","zh_ai":"RNGCATGIRLS更新MODS","zh_human":"","zh":"RNGCATGIRLS更新MODS","status":"ai"}
+{"id":"w55QZrGB","en":"Survival Plus RPG","zh_draft":"","zh_ai":"生存+RPG","zh_human":"","zh":"生存+RPG","status":"ai"}
+{"id":"zWczeOxX","en":"FoxClient","zh_draft":"","zh_ai":"狐狸客户端","zh_human":"","zh":"狐狸客户端","status":"ai"}
