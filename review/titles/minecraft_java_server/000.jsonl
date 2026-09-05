@@ -2207,19 +2207,19 @@
 {"id":"rXS4gDQL","en":"IronHeart Season 0","zh_draft":"","zh_ai":"铁心季0","zh_human":"","zh":"铁心季0","status":"ai"}
 {"id":"xIHUxw7Y","en":"Neo apocalypse","zh_draft":"","zh_ai":"新末日","zh_human":"","zh":"新末日","status":"ai"}
 {"id":"4qkcNt8G","en":"♾️ Infinity SMP","zh_draft":"","zh_ai":"无限生存模式","zh_human":"","zh":"无限生存模式","status":"ai"}
-{"id":"ReV5VjZU","en":"Cobblemon generation","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JWKOZf5s","en":"TimeWho","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NWkmcbKk","en":"FoxMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cqt4linw","en":"NØVEX PRØJECT","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5HEvjbtd","en":"Kroonlanden - Kingdom","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8lneb9Yj","en":"DawnMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CLUbqHLC","en":"CH Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"H1YGKnb5","en":"evatablepvp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MNf5J8op","en":"Züri SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PYhSDya2","en":"OlympusMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QYRSqlSF","en":"TS Oneblock","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YGZuoX3e","en":"i2b2t: Indonesia 2Builders2Tools","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nXaTdGcY","en":"Jsn Lifesteal","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wFDreviR","en":"SUNBOX","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xF1opau5","en":"KillaCraft SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zxpRl0kb","en":"Mastrisa SMPR","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ReV5VjZU","en":"Cobblemon generation","zh_draft":"","zh_ai":"方块龙生成器","zh_human":"","zh":"方块龙生成器","status":"ai"}
+{"id":"JWKOZf5s","en":"TimeWho","zh_draft":"","zh_ai":"时间之谁","zh_human":"","zh":"时间之谁","status":"ai"}
+{"id":"NWkmcbKk","en":"FoxMC","zh_draft":"","zh_ai":"狐狸MC","zh_human":"","zh":"狐狸MC","status":"ai"}
+{"id":"cqt4linw","en":"NØVEX PRØJECT","zh_draft":"","zh_ai":"NØVEX 项目","zh_human":"","zh":"NØVEX 项目","status":"ai"}
+{"id":"5HEvjbtd","en":"Kroonlanden - Kingdom","zh_draft":"","zh_ai":"克罗恩兰王国","zh_human":"","zh":"克罗恩兰王国","status":"ai"}
+{"id":"8lneb9Yj","en":"DawnMC","zh_draft":"","zh_ai":"黎明MC","zh_human":"","zh":"黎明MC","status":"ai"}
+{"id":"CLUbqHLC","en":"CH Network","zh_draft":"","zh_ai":"CH 网络","zh_human":"","zh":"CH 网络","status":"ai"}
+{"id":"H1YGKnb5","en":"evatablepvp","zh_draft":"","zh_ai":"可进化PVP","zh_human":"","zh":"可进化PVP","status":"ai"}
+{"id":"MNf5J8op","en":"Züri SMP","zh_draft":"","zh_ai":"苏黎世生存模式","zh_human":"","zh":"苏黎世生存模式","status":"ai"}
+{"id":"PYhSDya2","en":"OlympusMC","zh_draft":"","zh_ai":"奥林匹斯MC","zh_human":"","zh":"奥林匹斯MC","status":"ai"}
+{"id":"QYRSqlSF","en":"TS Oneblock","zh_draft":"","zh_ai":"TS 单块模式","zh_human":"","zh":"TS 单块模式","status":"ai"}
+{"id":"YGZuoX3e","en":"i2b2t: Indonesia 2Builders2Tools","zh_draft":"","zh_ai":"i2b2t: 印尼 2建造者2工具","zh_human":"","zh":"i2b2t: 印尼 2建造者2工具","status":"ai"}
+{"id":"nXaTdGcY","en":"Jsn Lifesteal","zh_draft":"","zh_ai":"Jsn生命吸取","zh_human":"","zh":"Jsn生命吸取","status":"ai"}
+{"id":"wFDreviR","en":"SUNBOX","zh_draft":"","zh_ai":"SUNBOX","zh_human":"","zh":"SUNBOX","status":"ai"}
+{"id":"xF1opau5","en":"KillaCraft SMP","zh_draft":"","zh_ai":"杀手工艺生存模式","zh_human":"","zh":"杀手工艺生存模式","status":"ai"}
+{"id":"zxpRl0kb","en":"Mastrisa SMPR","zh_draft":"","zh_ai":"Mastrisa 生存模式R","zh_human":"","zh":"Mastrisa 生存模式R","status":"ai"}

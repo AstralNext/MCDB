@@ -1242,15 +1242,15 @@
 {"id":"wzPn2px6","en":"EarthMC Moon Items","zh_draft":"","zh_ai":"EarthMC 月球物品","zh_human":"","zh":"EarthMC 月球物品","status":"ai"}
 {"id":"xjmSuVxj","en":"文言（华夏）简体汉化","zh_draft":"","zh_ai":"文言（华夏）简体汉化","zh_human":"","zh":"文言（华夏）简体汉化","status":"ai"}
 {"id":"ylAkIISE","en":"Mom Weaponry","zh_draft":"","zh_ai":"妈妈武器","zh_human":"","zh":"妈妈武器","status":"ai"}
-{"id":"7eZFOpYj","en":"Yellow PvP Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"X4FfEEKY","en":"Pure-Core_PvP_Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sKLX8qXP","en":"Tiny Totem +","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yPFNvbVK","en":"Glow 3D Relic","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qwnqFdxj","en":"Custom Totem & Sound","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kvpcwvsd","en":"Elyaz Essentials","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cumutktU","en":"Retexture RL","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HnTSjLHv","en":"Kaleidoscope 3D Drinks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YGhWrDyj","en":"Fantastik Leaves","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xXd3LKgu","en":"ULTRAKILL PvP sound effects pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kawf3NVI","en":"(Cobblemon) Reculi PC Wallpaper Pack!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zgQguxK2","en":"N87 HD Armor","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"7eZFOpYj","en":"Yellow PvP Pack","zh_draft":"","zh_ai":"黄色PvP包","zh_human":"","zh":"黄色PvP包","status":"ai"}
+{"id":"X4FfEEKY","en":"Pure-Core_PvP_Pack","zh_draft":"","zh_ai":"纯核心_PvP包","zh_human":"","zh":"纯核心_PvP包","status":"ai"}
+{"id":"sKLX8qXP","en":"Tiny Totem +","zh_draft":"","zh_ai":"小图腾+","zh_human":"","zh":"小图腾+","status":"ai"}
+{"id":"yPFNvbVK","en":"Glow 3D Relic","zh_draft":"","zh_ai":"发光3D遗迹","zh_human":"","zh":"发光3D遗迹","status":"ai"}
+{"id":"qwnqFdxj","en":"Custom Totem & Sound","zh_draft":"","zh_ai":"自定义图腾与声音","zh_human":"","zh":"自定义图腾与声音","status":"ai"}
+{"id":"kvpcwvsd","en":"Elyaz Essentials","zh_draft":"","zh_ai":"Elyaz基础包","zh_human":"","zh":"Elyaz基础包","status":"ai"}
+{"id":"cumutktU","en":"Retexture RL","zh_draft":"","zh_ai":"重纹理RL","zh_human":"","zh":"重纹理RL","status":"ai"}
+{"id":"HnTSjLHv","en":"Kaleidoscope 3D Drinks","zh_draft":"","zh_ai":"万花筒3D饮料","zh_human":"","zh":"万花筒3D饮料","status":"ai"}
+{"id":"YGhWrDyj","en":"Fantastik Leaves","zh_draft":"","zh_ai":"奇幻树叶","zh_human":"","zh":"奇幻树叶","status":"ai"}
+{"id":"xXd3LKgu","en":"ULTRAKILL PvP sound effects pack","zh_draft":"","zh_ai":"ULTRAKILL PvP音效包","zh_human":"","zh":"ULTRAKILL PvP音效包","status":"ai"}
+{"id":"kawf3NVI","en":"(Cobblemon) Reculi PC Wallpaper Pack!","zh_draft":"","zh_ai":"（圆石兽）Reculi PC壁纸包！","zh_human":"","zh":"（圆石兽）Reculi PC壁纸包！","status":"ai"}
+{"id":"zgQguxK2","en":"N87 HD Armor","zh_draft":"","zh_ai":"N87高清盔甲","zh_human":"","zh":"N87高清盔甲","status":"ai"}
