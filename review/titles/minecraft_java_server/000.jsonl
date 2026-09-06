@@ -2223,19 +2223,19 @@
 {"id":"wFDreviR","en":"SUNBOX","zh_draft":"","zh_ai":"SUNBOX","zh_human":"","zh":"SUNBOX","status":"ai"}
 {"id":"xF1opau5","en":"KillaCraft SMP","zh_draft":"","zh_ai":"杀手工艺生存模式","zh_human":"","zh":"杀手工艺生存模式","status":"ai"}
 {"id":"zxpRl0kb","en":"Mastrisa SMPR","zh_draft":"","zh_ai":"Mastrisa 生存模式R","zh_human":"","zh":"Mastrisa 生存模式R","status":"ai"}
-{"id":"baIchokm","en":"Just Plots","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iNKqnA0W","en":"GermanSMP.de","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XpmYqgdk","en":"CobbleClub Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jB1C3V4p","en":"RéttóSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3bnIArTc","en":"GodlyWorld","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"95vU00X6","en":"Craft Attack 2 rebuild","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IKUKAjXs","en":"TS Skyblock","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QBtUc97b","en":"Cobblemon Rivals","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TDVFkHL2","en":"AMC Server","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XOtqgbBj","en":"Dookapedia","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZevXw50b","en":"NINDEN","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cyZJore1","en":"AstroSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"egDjjcF8","en":"Enchant.cz","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kHx6SId8","en":"Sakeva","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"p0bWitIo","en":"Bubble SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xUEn9EtS","en":"just vanilla","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"baIchokm","en":"Just Plots","zh_draft":"","zh_ai":"简易地皮","zh_human":"","zh":"简易地皮","status":"ai"}
+{"id":"iNKqnA0W","en":"GermanSMP.de","zh_draft":"","zh_ai":"德国极限生存","zh_human":"","zh":"德国极限生存","status":"ai"}
+{"id":"XpmYqgdk","en":"CobbleClub Network","zh_draft":"","zh_ai":"圆石俱乐部网络","zh_human":"","zh":"圆石俱乐部网络","status":"ai"}
+{"id":"jB1C3V4p","en":"RéttóSMP","zh_draft":"","zh_ai":"雷特托极限生存","zh_human":"","zh":"雷特托极限生存","status":"ai"}
+{"id":"3bnIArTc","en":"GodlyWorld","zh_draft":"","zh_ai":"神圣世界","zh_human":"","zh":"神圣世界","status":"ai"}
+{"id":"95vU00X6","en":"Craft Attack 2 rebuild","zh_draft":"","zh_ai":"工艺攻击2重建","zh_human":"","zh":"工艺攻击2重建","status":"ai"}
+{"id":"IKUKAjXs","en":"TS Skyblock","zh_draft":"","zh_ai":"TS天空岛","zh_human":"","zh":"TS天空岛","status":"ai"}
+{"id":"QBtUc97b","en":"Cobblemon Rivals","zh_draft":"","zh_ai":"圆石兽对决","zh_human":"","zh":"圆石兽对决","status":"ai"}
+{"id":"TDVFkHL2","en":"AMC Server","zh_draft":"","zh_ai":"AMC服务器","zh_human":"","zh":"AMC服务器","status":"ai"}
+{"id":"XOtqgbBj","en":"Dookapedia","zh_draft":"","zh_ai":"多卡百科","zh_human":"","zh":"多卡百科","status":"ai"}
+{"id":"ZevXw50b","en":"NINDEN","zh_draft":"","zh_ai":"NINDEN","zh_human":"","zh":"NINDEN","status":"ai"}
+{"id":"cyZJore1","en":"AstroSMP","zh_draft":"","zh_ai":"天体极限生存","zh_human":"","zh":"天体极限生存","status":"ai"}
+{"id":"egDjjcF8","en":"Enchant.cz","zh_draft":"","zh_ai":"附魔网","zh_human":"","zh":"附魔网","status":"ai"}
+{"id":"kHx6SId8","en":"Sakeva","zh_draft":"","zh_ai":"萨凯瓦","zh_human":"","zh":"萨凯瓦","status":"ai"}
+{"id":"p0bWitIo","en":"Bubble SMP","zh_draft":"","zh_ai":"泡泡极限生存","zh_human":"","zh":"泡泡极限生存","status":"ai"}
+{"id":"xUEn9EtS","en":"just vanilla","zh_draft":"","zh_ai":"纯净版","zh_human":"","zh":"纯净版","status":"ai"}
