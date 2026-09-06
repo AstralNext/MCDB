@@ -504,6 +504,6 @@
 {"id":"UV7psfKb","en":"Globe ++ Official Modpack","zh_draft":"","zh_ai":"地球++官方模组包","zh_human":"","zh":"地球++官方模组包","status":"ai"}
 {"id":"uyiLqowP","en":"Transit scape (Super Lite)","zh_draft":"","zh_ai":"过渡景观（超级轻量版）","zh_human":"","zh":"过渡景观（超级轻量版）","status":"ai"}
 {"id":"vIwV18JX","en":"Stardust RP","zh_draft":"","zh_ai":"星尘角色扮演","zh_human":"","zh":"星尘角色扮演","status":"ai"}
-{"id":"wEPecXwm","en":"Better on Java","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Y6GmnK5A","en":"Early Create Plus","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"efEi6JsI","en":"Fluid Agony","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"wEPecXwm","en":"Better on Java","zh_draft":"","zh_ai":"Java版改进","zh_human":"","zh":"Java版改进","status":"ai"}
+{"id":"Y6GmnK5A","en":"Early Create Plus","zh_draft":"","zh_ai":"早期创造+","zh_human":"","zh":"早期创造+","status":"ai"}
+{"id":"efEi6JsI","en":"Fluid Agony","zh_draft":"","zh_ai":"流体痛苦","zh_human":"","zh":"流体痛苦","status":"ai"}

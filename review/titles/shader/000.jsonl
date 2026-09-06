@@ -802,26 +802,26 @@
 {"id":"dSmVRdkN","en":"Spudlight Shaders","zh_draft":"","zh_ai":"土豆光影","zh_human":"","zh":"土豆光影","status":"ai"}
 {"id":"T9JGy2Xj","en":"MCF Shaders","zh_draft":"","zh_ai":"MCF光影","zh_human":"","zh":"MCF光影","status":"ai"}
 {"id":"gNb37Jhv","en":"Aetheris Lite","zh_draft":"","zh_ai":"艾瑟里斯轻量版","zh_human":"","zh":"艾瑟里斯轻量版","status":"ai"}
-{"id":"tKdXmp74","en":"Ultra Realistic PBR Shader Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cRAb91Rg","en":"Vibrant Vision","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"f8scbtiO","en":"Unified Realism","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kbbNRQvY","en":"Pale Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"p2W8jI7f","en":"CinderFrame","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SxpB99P2","en":"Prismatic Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"T9AnY83f","en":"LIGHT Ray Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GWRThy8E","en":"Luster Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kuFlKtAV","en":"AeonRealism","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"BG3xXXpg","en":"Simple Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UqImZFIy","en":"Vanilla shade","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jUOHWkFY","en":"Sphere|Shaderpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lZxEUFDj","en":"SEL Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4055otpg","en":"Rob's Vanilla Reshaded","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UqY4RQhr","en":"Bluei's Better Visuals- Windows","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CpStrxYO","en":"Zer0's Beta Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3B69vZwc","en":"Zarya","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Oagc9O98","en":"Goldelion Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"EDK99dtI","en":"PBS (Pitch Black Shaders)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KBmAMnUR","en":"Lively:Magic","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Ted1Ctet","en":"LVE-Sunward-Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VVPw188D","en":"Lighter Game","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iH4c78ai","en":"Doom+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"tKdXmp74","en":"Ultra Realistic PBR Shader Pack","zh_draft":"","zh_ai":"超写实 PBR 光影包","zh_human":"","zh":"超写实 PBR 光影包","status":"ai"}
+{"id":"cRAb91Rg","en":"Vibrant Vision","zh_draft":"","zh_ai":"生动视野","zh_human":"","zh":"生动视野","status":"ai"}
+{"id":"f8scbtiO","en":"Unified Realism","zh_draft":"","zh_ai":"统一写实","zh_human":"","zh":"统一写实","status":"ai"}
+{"id":"kbbNRQvY","en":"Pale Shaders","zh_draft":"","zh_ai":"苍白光影","zh_human":"","zh":"苍白光影","status":"ai"}
+{"id":"p2W8jI7f","en":"CinderFrame","zh_draft":"","zh_ai":"余烬框架","zh_human":"","zh":"余烬框架","status":"ai"}
+{"id":"SxpB99P2","en":"Prismatic Shaders","zh_draft":"","zh_ai":"棱镜光影","zh_human":"","zh":"棱镜光影","status":"ai"}
+{"id":"T9AnY83f","en":"LIGHT Ray Shaders","zh_draft":"","zh_ai":"光线光影","zh_human":"","zh":"光线光影","status":"ai"}
+{"id":"GWRThy8E","en":"Luster Shaders","zh_draft":"","zh_ai":"光泽光影","zh_human":"","zh":"光泽光影","status":"ai"}
+{"id":"kuFlKtAV","en":"AeonRealism","zh_draft":"","zh_ai":"永恒写实","zh_human":"","zh":"永恒写实","status":"ai"}
+{"id":"BG3xXXpg","en":"Simple Shader","zh_draft":"","zh_ai":"简单光影","zh_human":"","zh":"简单光影","status":"ai"}
+{"id":"UqImZFIy","en":"Vanilla shade","zh_draft":"","zh_ai":"原版阴影","zh_human":"","zh":"原版阴影","status":"ai"}
+{"id":"jUOHWkFY","en":"Sphere|Shaderpack","zh_draft":"","zh_ai":"球体光影包","zh_human":"","zh":"球体光影包","status":"ai"}
+{"id":"lZxEUFDj","en":"SEL Shaders","zh_draft":"","zh_ai":"SEL 光影","zh_human":"","zh":"SEL 光影","status":"ai"}
+{"id":"4055otpg","en":"Rob's Vanilla Reshaded","zh_draft":"","zh_ai":"Rob 重绘原版光影","zh_human":"","zh":"Rob 重绘原版光影","status":"ai"}
+{"id":"UqY4RQhr","en":"Bluei's Better Visuals- Windows","zh_draft":"","zh_ai":"Bluei 优化视觉-Windows 版","zh_human":"","zh":"Bluei 优化视觉-Windows 版","status":"ai"}
+{"id":"CpStrxYO","en":"Zer0's Beta Shaders","zh_draft":"","zh_ai":"Zer0 Beta 光影","zh_human":"","zh":"Zer0 Beta 光影","status":"ai"}
+{"id":"3B69vZwc","en":"Zarya","zh_draft":"","zh_ai":"扎里亚光影","zh_human":"","zh":"扎里亚光影","status":"ai"}
+{"id":"Oagc9O98","en":"Goldelion Shaders","zh_draft":"","zh_ai":"金狮光影","zh_human":"","zh":"金狮光影","status":"ai"}
+{"id":"EDK99dtI","en":"PBS (Pitch Black Shaders)","zh_draft":"","zh_ai":"PBS（漆黑光影）","zh_human":"","zh":"PBS（漆黑光影）","status":"ai"}
+{"id":"KBmAMnUR","en":"Lively:Magic","zh_draft":"","zh_ai":"生动魔法","zh_human":"","zh":"生动魔法","status":"ai"}
+{"id":"Ted1Ctet","en":"LVE-Sunward-Shader","zh_draft":"","zh_ai":"LVE 向日光影","zh_human":"","zh":"LVE 向日光影","status":"ai"}
+{"id":"VVPw188D","en":"Lighter Game","zh_draft":"","zh_ai":"轻量游戏","zh_human":"","zh":"轻量游戏","status":"ai"}
+{"id":"iH4c78ai","en":"Doom+","zh_draft":"","zh_ai":"毁灭+","zh_human":"","zh":"毁灭+","status":"ai"}
