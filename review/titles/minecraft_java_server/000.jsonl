@@ -2239,9 +2239,9 @@
 {"id":"kHx6SId8","en":"Sakeva","zh_draft":"","zh_ai":"萨凯瓦","zh_human":"","zh":"萨凯瓦","status":"ai"}
 {"id":"p0bWitIo","en":"Bubble SMP","zh_draft":"","zh_ai":"泡泡极限生存","zh_human":"","zh":"泡泡极限生存","status":"ai"}
 {"id":"xUEn9EtS","en":"just vanilla","zh_draft":"","zh_ai":"纯净版","zh_human":"","zh":"纯净版","status":"ai"}
-{"id":"1eH72xaa","en":"La Patate Joueuse","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7bfacM3E","en":"WaggomiteSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PQVTxsV8","en":"NobodyLuc","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Z2z9YeP2","en":"LightSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"e2pIp0mx","en":"VoidMc","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qgGGCa2w","en":"AnarchiaMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"1eH72xaa","en":"La Patate Joueuse","zh_draft":"","zh_ai":"玩家土豆","zh_human":"","zh":"玩家土豆","status":"ai"}
+{"id":"7bfacM3E","en":"WaggomiteSMP","zh_draft":"","zh_ai":"WaggomiteSMP","zh_human":"","zh":"WaggomiteSMP","status":"ai"}
+{"id":"PQVTxsV8","en":"NobodyLuc","zh_draft":"","zh_ai":"NobodyLuc","zh_human":"","zh":"NobodyLuc","status":"ai"}
+{"id":"Z2z9YeP2","en":"LightSMP","zh_draft":"","zh_ai":"光明生存","zh_human":"","zh":"光明生存","status":"ai"}
+{"id":"e2pIp0mx","en":"VoidMc","zh_draft":"","zh_ai":"虚空MC","zh_human":"","zh":"虚空MC","status":"ai"}
+{"id":"qgGGCa2w","en":"AnarchiaMC","zh_draft":"","zh_ai":"无政府MC","zh_human":"","zh":"无政府MC","status":"ai"}

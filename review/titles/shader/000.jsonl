@@ -825,13 +825,13 @@
 {"id":"Ted1Ctet","en":"LVE-Sunward-Shader","zh_draft":"","zh_ai":"LVE 向日光影","zh_human":"","zh":"LVE 向日光影","status":"ai"}
 {"id":"VVPw188D","en":"Lighter Game","zh_draft":"","zh_ai":"轻量游戏","zh_human":"","zh":"轻量游戏","status":"ai"}
 {"id":"iH4c78ai","en":"Doom+","zh_draft":"","zh_ai":"毁灭+","zh_human":"","zh":"毁灭+","status":"ai"}
-{"id":"tcFb668D","en":"Pholas Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CJ5r8XKf","en":"CREEP SHADER","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cwjoOw3p","en":"Singularity-Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LileRbzk","en":"Verity Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uDIhN3ZX","en":"MCL Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dYfPRtmm","en":"It's Cherry Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Z6zNuCPK","en":"ArnavMC's Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ic8Kcnt3","en":"I like Blu","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4QaJpCds","en":"Luxor Shader Low End","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TlFaTgFW","en":"EventHorizon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"tcFb668D","en":"Pholas Shaders","zh_draft":"","zh_ai":"Pholas 光影","zh_human":"","zh":"Pholas 光影","status":"ai"}
+{"id":"CJ5r8XKf","en":"CREEP SHADER","zh_draft":"","zh_ai":"CREEP 光影","zh_human":"","zh":"CREEP 光影","status":"ai"}
+{"id":"cwjoOw3p","en":"Singularity-Shaders","zh_draft":"","zh_ai":"奇点光影","zh_human":"","zh":"奇点光影","status":"ai"}
+{"id":"LileRbzk","en":"Verity Shader","zh_draft":"","zh_ai":"真理光影","zh_human":"","zh":"真理光影","status":"ai"}
+{"id":"uDIhN3ZX","en":"MCL Shader","zh_draft":"","zh_ai":"MCL 光影","zh_human":"","zh":"MCL 光影","status":"ai"}
+{"id":"dYfPRtmm","en":"It's Cherry Shaders","zh_draft":"","zh_ai":"樱桃光影","zh_human":"","zh":"樱桃光影","status":"ai"}
+{"id":"Z6zNuCPK","en":"ArnavMC's Shader","zh_draft":"","zh_ai":"ArnavMC 的光影","zh_human":"","zh":"ArnavMC 的光影","status":"ai"}
+{"id":"ic8Kcnt3","en":"I like Blu","zh_draft":"","zh_ai":"我喜欢蓝色","zh_human":"","zh":"我喜欢蓝色","status":"ai"}
+{"id":"4QaJpCds","en":"Luxor Shader Low End","zh_draft":"","zh_ai":"卢克索低配光影","zh_human":"","zh":"卢克索低配光影","status":"ai"}
+{"id":"TlFaTgFW","en":"EventHorizon","zh_draft":"","zh_ai":"事件视界","zh_human":"","zh":"事件视界","status":"ai"}
