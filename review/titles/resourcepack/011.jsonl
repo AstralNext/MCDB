@@ -1509,9 +1509,9 @@
 {"id":"w5Pq0NsB","en":"Whimscape + Tyzskillz","zh_draft":"","zh_ai":"Whimscape + Tyzskillz","zh_human":"","zh":"Whimscape + Tyzskillz","status":"ai"}
 {"id":"xQrOsIRX","en":"Vanilla Panorama + [Lite]","zh_draft":"","zh_ai":"原版全景图+ 精简版","zh_human":"","zh":"原版全景图+ 精简版","status":"ai"}
 {"id":"yU9ZcNxG","en":"Polished Text","zh_draft":"","zh_ai":"精美文本","zh_human":"","zh":"精美文本","status":"ai"}
-{"id":"7Cop41k8","en":"Simple plastic textures","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fd39tr8L","en":"JM's Vanilla Flavored Matcha","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xffhgOKe","en":"Knol Power Texture Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ubbQtlGq","en":"pork pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"w7SroM1w","en":"Luna Special Birthday Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FavcCTIt","en":"PyronUI","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"7Cop41k8","en":"Simple plastic textures","zh_draft":"","zh_ai":"简单塑料纹理","zh_human":"","zh":"简单塑料纹理","status":"ai"}
+{"id":"fd39tr8L","en":"JM's Vanilla Flavored Matcha","zh_draft":"","zh_ai":"JM的香草味抹茶","zh_human":"","zh":"JM的香草味抹茶","status":"ai"}
+{"id":"xffhgOKe","en":"Knol Power Texture Pack","zh_draft":"","zh_ai":"Knol 力量纹理包","zh_human":"","zh":"Knol 力量纹理包","status":"ai"}
+{"id":"ubbQtlGq","en":"pork pack","zh_draft":"","zh_ai":"猪肉包","zh_human":"","zh":"猪肉包","status":"ai"}
+{"id":"w7SroM1w","en":"Luna Special Birthday Pack","zh_draft":"","zh_ai":"露娜特别生日包","zh_human":"","zh":"露娜特别生日包","status":"ai"}
+{"id":"FavcCTIt","en":"PyronUI","zh_draft":"","zh_ai":"PyronUI","zh_human":"","zh":"PyronUI","status":"ai"}

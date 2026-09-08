@@ -2245,13 +2245,13 @@
 {"id":"Z2z9YeP2","en":"LightSMP","zh_draft":"","zh_ai":"光明生存","zh_human":"","zh":"光明生存","status":"ai"}
 {"id":"e2pIp0mx","en":"VoidMc","zh_draft":"","zh_ai":"虚空MC","zh_human":"","zh":"虚空MC","status":"ai"}
 {"id":"qgGGCa2w","en":"AnarchiaMC","zh_draft":"","zh_ai":"无政府MC","zh_human":"","zh":"无政府MC","status":"ai"}
-{"id":"1T63LFHX","en":"Mundo Vanilla","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1ZKEUyB1","en":"Korea Mace SMP | KMS","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7oh6xtn6","en":"VexSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Cz20rDYT","en":"Prisons.GG","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"D8hJXNtv","en":"极星域","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Jq6xg3tl","en":"Voxoria | Сезон VI. Мидсоммар","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Omp9IMEe","en":"CNX Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"n7jEKvWM","en":"WCS SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"t5nnIIBO","en":"smp616","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uQOm6Bng","en":"ZX Spectrum SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"1T63LFHX","en":"Mundo Vanilla","zh_draft":"","zh_ai":"Mundo原版","zh_human":"","zh":"Mundo原版","status":"ai"}
+{"id":"1ZKEUyB1","en":"Korea Mace SMP | KMS","zh_draft":"","zh_ai":"韩国巨斧SMP | KMS","zh_human":"","zh":"韩国巨斧SMP | KMS","status":"ai"}
+{"id":"7oh6xtn6","en":"VexSMP","zh_draft":"","zh_ai":"VexSMP","zh_human":"","zh":"VexSMP","status":"ai"}
+{"id":"Cz20rDYT","en":"Prisons.GG","zh_draft":"","zh_ai":"监狱.GG","zh_human":"","zh":"监狱.GG","status":"ai"}
+{"id":"D8hJXNtv","en":"极星域","zh_draft":"","zh_ai":"极星域","zh_human":"","zh":"极星域","status":"ai"}
+{"id":"Jq6xg3tl","en":"Voxoria | Сезон VI. Мидсоммар","zh_draft":"","zh_ai":"Voxoria | 第六季. 中夏","zh_human":"","zh":"Voxoria | 第六季. 中夏","status":"ai"}
+{"id":"Omp9IMEe","en":"CNX Network","zh_draft":"","zh_ai":"CNX网络","zh_human":"","zh":"CNX网络","status":"ai"}
+{"id":"n7jEKvWM","en":"WCS SMP","zh_draft":"","zh_ai":"WCS SMP","zh_human":"","zh":"WCS SMP","status":"ai"}
+{"id":"t5nnIIBO","en":"smp616","zh_draft":"","zh_ai":"smp616","zh_human":"","zh":"smp616","status":"ai"}
+{"id":"uQOm6Bng","en":"ZX Spectrum SMP","zh_draft":"","zh_ai":"ZX Spectrum SMP","zh_human":"","zh":"ZX Spectrum SMP","status":"ai"}

@@ -508,23 +508,23 @@
 {"id":"Y6GmnK5A","en":"Early Create Plus","zh_draft":"","zh_ai":"早期创造+","zh_human":"","zh":"早期创造+","status":"ai"}
 {"id":"efEi6JsI","en":"Fluid Agony","zh_draft":"","zh_ai":"流体痛苦","zh_human":"","zh":"流体痛苦","status":"ai"}
 {"id":"YP6toQsE","en":"Create: Breadcrumbs","zh_draft":"","zh_ai":"机械动力：面包屑","zh_human":"","zh":"机械动力：面包屑","status":"ai"}
-{"id":"HRkHtwHi","en":"Colombus: For the Queen","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"V1mEVeMh","en":"Create: Factory Direction","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DNm2FoGe","en":"IRLcraft Lite Edition","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GDyUrJQW","en":"SimplyLight","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zHRRLus2","en":"PlusExperience","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"My1Po6SB","en":"Palarenew-modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"aMMNTt7N","en":"Shorts creator Mod pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"P23XOpkd","en":"Nexus-HardCore","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CFj3HqR5","en":"VisuallyFPS","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PZmke5gG","en":"SMP A Rai Wa","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lIWF3yxv","en":"MatchaTang","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mDqB47o6","en":"DangerCRAFT","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vi3Ggl0T","en":"Trailer Aesthetics Vanilla","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RGPtuOrQ","en":"The Black Adventures","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TEhntKLZ","en":"Eldoria RPG","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VepoZuhm","en":"UMPR","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VnkRLWA3","en":"Exchange Standard","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GEDF41uK","en":"Matcha Expanded","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Z8rETx7p","en":"Aeronautics & MEK:Travel With A Fusion Reactor","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qo2V4j5h","en":"ONX 21","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"HRkHtwHi","en":"Colombus: For the Queen","zh_draft":"","zh_ai":"哥伦布：为了女王","zh_human":"","zh":"哥伦布：为了女王","status":"ai"}
+{"id":"V1mEVeMh","en":"Create: Factory Direction","zh_draft":"","zh_ai":"机械动力：工厂方向","zh_human":"","zh":"机械动力：工厂方向","status":"ai"}
+{"id":"DNm2FoGe","en":"IRLcraft Lite Edition","zh_draft":"","zh_ai":"IRLcraft 轻量版","zh_human":"","zh":"IRLcraft 轻量版","status":"ai"}
+{"id":"GDyUrJQW","en":"SimplyLight","zh_draft":"","zh_ai":"简单亮度","zh_human":"","zh":"简单亮度","status":"ai"}
+{"id":"zHRRLus2","en":"PlusExperience","zh_draft":"","zh_ai":"经验加成","zh_human":"","zh":"经验加成","status":"ai"}
+{"id":"My1Po6SB","en":"Palarenew-modpack","zh_draft":"","zh_ai":"Palarenew 模组包","zh_human":"","zh":"Palarenew 模组包","status":"ai"}
+{"id":"aMMNTt7N","en":"Shorts creator Mod pack","zh_draft":"","zh_ai":"短裤创造者模组包","zh_human":"","zh":"短裤创造者模组包","status":"ai"}
+{"id":"P23XOpkd","en":"Nexus-HardCore","zh_draft":"","zh_ai":"纳克瑟斯-极限生存","zh_human":"","zh":"纳克瑟斯-极限生存","status":"ai"}
+{"id":"CFj3HqR5","en":"VisuallyFPS","zh_draft":"","zh_ai":"视觉FPS","zh_human":"","zh":"视觉FPS","status":"ai"}
+{"id":"PZmke5gG","en":"SMP A Rai Wa","zh_draft":"","zh_ai":"SMP A Rai Wa","zh_human":"","zh":"SMP A Rai Wa","status":"ai"}
+{"id":"lIWF3yxv","en":"MatchaTang","zh_draft":"","zh_ai":"抹茶糖","zh_human":"","zh":"抹茶糖","status":"ai"}
+{"id":"mDqB47o6","en":"DangerCRAFT","zh_draft":"","zh_ai":"危险工艺","zh_human":"","zh":"危险工艺","status":"ai"}
+{"id":"vi3Ggl0T","en":"Trailer Aesthetics Vanilla","zh_draft":"","zh_ai":"拖车美学原版","zh_human":"","zh":"拖车美学原版","status":"ai"}
+{"id":"RGPtuOrQ","en":"The Black Adventures","zh_draft":"","zh_ai":"黑色冒险","zh_human":"","zh":"黑色冒险","status":"ai"}
+{"id":"TEhntKLZ","en":"Eldoria RPG","zh_draft":"","zh_ai":"艾尔多里亚 RPG","zh_human":"","zh":"艾尔多里亚 RPG","status":"ai"}
+{"id":"VepoZuhm","en":"UMPR","zh_draft":"","zh_ai":"UMPR","zh_human":"","zh":"UMPR","status":"ai"}
+{"id":"VnkRLWA3","en":"Exchange Standard","zh_draft":"","zh_ai":"交换标准","zh_human":"","zh":"交换标准","status":"ai"}
+{"id":"GEDF41uK","en":"Matcha Expanded","zh_draft":"","zh_ai":"抹茶扩展","zh_human":"","zh":"抹茶扩展","status":"ai"}
+{"id":"Z8rETx7p","en":"Aeronautics & MEK:Travel With A Fusion Reactor","zh_draft":"","zh_ai":"航空与MEK：与融合反应堆旅行","zh_human":"","zh":"航空与MEK：与融合反应堆旅行","status":"ai"}
+{"id":"qo2V4j5h","en":"ONX 21","zh_draft":"","zh_ai":"ONX 21","zh_human":"","zh":"ONX 21","status":"ai"}
