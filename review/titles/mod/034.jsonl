@@ -1,35 +1,35 @@
-{"id":"zkEIJiyE","en":"HealthDisplays","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4SWhdLDd","en":"Velocity Calculator","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7sC7Bn8p","en":"Alex's Caves Continued Delight","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9IKOdKp3","en":"CreateVaultFix","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"AsiCJukP","en":"AiModeration","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"BHmGeOC6","en":"JustATimer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"C95GNbrD","en":"HexMinline","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DSgQ9adx","en":"CrispScale","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"G1gh1Cps","en":"InvShots","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HFkEulqF","en":"Boat's Hamburger","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HRCV21tW","en":"Totem of Dying (MilesQuest Mods)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"R1v8fPbK","en":"Ancestry","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TkmSX0D4","en":"BreakEffect","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YqoCY2Gm","en":"speraim","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ajUX9GFX","en":"old golden apple recipe","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"d3ixc7GF","en":"Compound V Refabricated","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eYgVReTI","en":"Mjolnir Datapack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lCJevG0L","en":"BlockHideAndSeek","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mM9w0Fo8","en":"RedstonePlacement+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qSoM7N6X","en":"Glass Cannon Armor","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qbrfm9F1","en":"bedrock wither storm items to java","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rGTyYNHz","en":"TQQ","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"smwQeg9P","en":"Rick Technology","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"x1M6ors7","en":"More Divines","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yZZ7JQI4","en":"LootRoulette","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"A7vu976Z","en":"Configurable Hunger","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ATX2NaJR","en":"VO: Camera Culling","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"C5jLBOrf","en":"Sable: RTP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GYADFgAP","en":"Brass Cogwheels","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"J9vVH287","en":"Hermaeus Mora Mod","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"X0RtOp8y","en":"AnvilCraft: Ender+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XKLHPTex","en":"Do I Reload?","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"bRBhqUEY","en":"Totem Pop Effects","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gZppUFo3","en":"Croparium: Applied Energistics II","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"y0TOhVg2","en":"Fluorine","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"zkEIJiyE","en":"HealthDisplays","zh_draft":"","zh_ai":"健康显示","zh_human":"","zh":"健康显示","status":"ai"}
+{"id":"4SWhdLDd","en":"Velocity Calculator","zh_draft":"","zh_ai":"速度计算器","zh_human":"","zh":"速度计算器","status":"ai"}
+{"id":"7sC7Bn8p","en":"Alex's Caves Continued Delight","zh_draft":"","zh_ai":"亚历克斯的洞穴持续乐趣","zh_human":"","zh":"亚历克斯的洞穴持续乐趣","status":"ai"}
+{"id":"9IKOdKp3","en":"CreateVaultFix","zh_draft":"","zh_ai":"Create地牢修复","zh_human":"","zh":"Create地牢修复","status":"ai"}
+{"id":"AsiCJukP","en":"AiModeration","zh_draft":"","zh_ai":"AI调节","zh_human":"","zh":"AI调节","status":"ai"}
+{"id":"BHmGeOC6","en":"JustATimer","zh_draft":"","zh_ai":"简单计时器","zh_human":"","zh":"简单计时器","status":"ai"}
+{"id":"C95GNbrD","en":"HexMinline","zh_draft":"","zh_ai":"十六进制内联","zh_human":"","zh":"十六进制内联","status":"ai"}
+{"id":"DSgQ9adx","en":"CrispScale","zh_draft":"","zh_ai":"清晰比例","zh_human":"","zh":"清晰比例","status":"ai"}
+{"id":"G1gh1Cps","en":"InvShots","zh_draft":"","zh_ai":"物品射击","zh_human":"","zh":"物品射击","status":"ai"}
+{"id":"HFkEulqF","en":"Boat's Hamburger","zh_draft":"","zh_ai":"船的汉堡","zh_human":"","zh":"船的汉堡","status":"ai"}
+{"id":"HRCV21tW","en":"Totem of Dying (MilesQuest Mods)","zh_draft":"","zh_ai":"死亡图腾（MilesQuest模组）","zh_human":"","zh":"死亡图腾（MilesQuest模组）","status":"ai"}
+{"id":"R1v8fPbK","en":"Ancestry","zh_draft":"","zh_ai":"血统","zh_human":"","zh":"血统","status":"ai"}
+{"id":"TkmSX0D4","en":"BreakEffect","zh_draft":"","zh_ai":"破坏效果","zh_human":"","zh":"破坏效果","status":"ai"}
+{"id":"YqoCY2Gm","en":"speraim","zh_draft":"","zh_ai":"speraim","zh_human":"","zh":"speraim","status":"ai"}
+{"id":"ajUX9GFX","en":"old golden apple recipe","zh_draft":"","zh_ai":"旧金苹果配方","zh_human":"","zh":"旧金苹果配方","status":"ai"}
+{"id":"d3ixc7GF","en":"Compound V Refabricated","zh_draft":"","zh_ai":"复合V重铸版","zh_human":"","zh":"复合V重铸版","status":"ai"}
+{"id":"eYgVReTI","en":"Mjolnir Datapack","zh_draft":"","zh_ai":"雷神之锤数据包","zh_human":"","zh":"雷神之锤数据包","status":"ai"}
+{"id":"lCJevG0L","en":"BlockHideAndSeek","zh_draft":"","zh_ai":"方块捉迷藏","zh_human":"","zh":"方块捉迷藏","status":"ai"}
+{"id":"mM9w0Fo8","en":"RedstonePlacement+","zh_draft":"","zh_ai":"红石放置+","zh_human":"","zh":"红石放置+","status":"ai"}
+{"id":"qSoM7N6X","en":"Glass Cannon Armor","zh_draft":"","zh_ai":"玻璃加农炮护甲","zh_human":"","zh":"玻璃加农炮护甲","status":"ai"}
+{"id":"qbrfm9F1","en":"bedrock wither storm items to java","zh_draft":"","zh_ai":"基岩枯萎风暴物品至Java","zh_human":"","zh":"基岩枯萎风暴物品至Java","status":"ai"}
+{"id":"rGTyYNHz","en":"TQQ","zh_draft":"","zh_ai":"TQQ","zh_human":"","zh":"TQQ","status":"ai"}
+{"id":"smwQeg9P","en":"Rick Technology","zh_draft":"","zh_ai":"瑞克科技","zh_human":"","zh":"瑞克科技","status":"ai"}
+{"id":"x1M6ors7","en":"More Divines","zh_draft":"","zh_ai":"更多神祇","zh_human":"","zh":"更多神祇","status":"ai"}
+{"id":"yZZ7JQI4","en":"LootRoulette","zh_draft":"","zh_ai":"战利品轮盘","zh_human":"","zh":"战利品轮盘","status":"ai"}
+{"id":"A7vu976Z","en":"Configurable Hunger","zh_draft":"","zh_ai":"可配置饥饿度","zh_human":"","zh":"可配置饥饿度","status":"ai"}
+{"id":"ATX2NaJR","en":"VO: Camera Culling","zh_draft":"","zh_ai":"VO: 摄像机剔除","zh_human":"","zh":"VO: 摄像机剔除","status":"ai"}
+{"id":"C5jLBOrf","en":"Sable: RTP","zh_draft":"","zh_ai":"Sable: RTP","zh_human":"","zh":"Sable: RTP","status":"ai"}
+{"id":"GYADFgAP","en":"Brass Cogwheels","zh_draft":"","zh_ai":"黄铜齿轮","zh_human":"","zh":"黄铜齿轮","status":"ai"}
+{"id":"J9vVH287","en":"Hermaeus Mora Mod","zh_draft":"","zh_ai":"赫尔美亚斯莫拉模组","zh_human":"","zh":"赫尔美亚斯莫拉模组","status":"ai"}
+{"id":"X0RtOp8y","en":"AnvilCraft: Ender+","zh_draft":"","zh_ai":"铁砧工艺：末影+","zh_human":"","zh":"铁砧工艺：末影+","status":"ai"}
+{"id":"XKLHPTex","en":"Do I Reload?","zh_draft":"","zh_ai":"我是否重新加载？","zh_human":"","zh":"我是否重新加载？","status":"ai"}
+{"id":"bRBhqUEY","en":"Totem Pop Effects","zh_draft":"","zh_ai":"图腾弹出效果","zh_human":"","zh":"图腾弹出效果","status":"ai"}
+{"id":"gZppUFo3","en":"Croparium: Applied Energistics II","zh_draft":"","zh_ai":"作物园：应用能源学II","zh_human":"","zh":"作物园：应用能源学II","status":"ai"}
+{"id":"y0TOhVg2","en":"Fluorine","zh_draft":"","zh_ai":"氟","zh_human":"","zh":"氟","status":"ai"}
