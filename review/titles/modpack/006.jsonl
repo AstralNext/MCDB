@@ -611,15 +611,15 @@
 {"id":"5EOR0ewB","en":"Billa Craft","zh_draft":"","zh_ai":"Billa Craft","zh_human":"","zh":"Billa Craft","status":"ai"}
 {"id":"Bgxntn6S","en":"umbrella soft","zh_draft":"","zh_ai":"umbrella soft","zh_human":"","zh":"umbrella soft","status":"ai"}
 {"id":"shAGUyEd","en":"Rosedalean SMP Modpack","zh_draft":"","zh_ai":"罗斯代尔 SMP 整合包","zh_human":"","zh":"罗斯代尔 SMP 整合包","status":"ai"}
-{"id":"RytNiEJg","en":"Project Exploration","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"map65WS4","en":"Vanilla++","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JEiMQo2M","en":"3bdo's PVP/CPVP/SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rAMTj1yX","en":"Best Vanilla","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"bgjQ3NQN","en":"Createy Aero Edition","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UT2WUQ9Y","en":"Expanded optimize","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eL3ey1iA","en":"TFC: Wild Foundations","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"BjGu2nho","en":"Breached","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KEyFmDVX","en":"Great Optimization MAX","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"doioFlZl","en":"The New World","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lLTkcZbg","en":"Create: The Sky Age","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"otYxbadW","en":"Artisanal Canvas","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"RytNiEJg","en":"Project Exploration","zh_draft":"","zh_ai":"项目探索","zh_human":"","zh":"项目探索","status":"ai"}
+{"id":"map65WS4","en":"Vanilla++","zh_draft":"","zh_ai":"原味++","zh_human":"","zh":"原味++","status":"ai"}
+{"id":"JEiMQo2M","en":"3bdo's PVP/CPVP/SMP","zh_draft":"","zh_ai":"3bdo的PVP/CPVP/SMP","zh_human":"","zh":"3bdo的PVP/CPVP/SMP","status":"ai"}
+{"id":"rAMTj1yX","en":"Best Vanilla","zh_draft":"","zh_ai":"最佳原味","zh_human":"","zh":"最佳原味","status":"ai"}
+{"id":"bgjQ3NQN","en":"Createy Aero Edition","zh_draft":"","zh_ai":"Createy航空版","zh_human":"","zh":"Createy航空版","status":"ai"}
+{"id":"UT2WUQ9Y","en":"Expanded optimize","zh_draft":"","zh_ai":"扩展优化","zh_human":"","zh":"扩展优化","status":"ai"}
+{"id":"eL3ey1iA","en":"TFC: Wild Foundations","zh_draft":"","zh_ai":"TFC：野生基础","zh_human":"","zh":"TFC：野生基础","status":"ai"}
+{"id":"BjGu2nho","en":"Breached","zh_draft":"","zh_ai":"被破坏","zh_human":"","zh":"被破坏","status":"ai"}
+{"id":"KEyFmDVX","en":"Great Optimization MAX","zh_draft":"","zh_ai":"最大优化","zh_human":"","zh":"最大优化","status":"ai"}
+{"id":"doioFlZl","en":"The New World","zh_draft":"","zh_ai":"新世界","zh_human":"","zh":"新世界","status":"ai"}
+{"id":"lLTkcZbg","en":"Create: The Sky Age","zh_draft":"","zh_ai":"Create：天空时代","zh_human":"","zh":"Create：天空时代","status":"ai"}
+{"id":"otYxbadW","en":"Artisanal Canvas","zh_draft":"","zh_ai":"手工画布","zh_human":"","zh":"手工画布","status":"ai"}

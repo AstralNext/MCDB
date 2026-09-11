@@ -2255,12 +2255,12 @@
 {"id":"n7jEKvWM","en":"WCS SMP","zh_draft":"","zh_ai":"WCS SMP","zh_human":"","zh":"WCS SMP","status":"ai"}
 {"id":"t5nnIIBO","en":"smp616","zh_draft":"","zh_ai":"smp616","zh_human":"","zh":"smp616","status":"ai"}
 {"id":"uQOm6Bng","en":"ZX Spectrum SMP","zh_draft":"","zh_ai":"ZX Spectrum SMP","zh_human":"","zh":"ZX Spectrum SMP","status":"ai"}
-{"id":"CT46Hwd3","en":"Kuta Planet","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LepvcnBS","en":"DC商业梦想城","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"P9sM5gtS","en":"SincereCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VgbyPnTm","en":"PoisonMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fVFOpqN1","en":"MineShard","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jBXr4UCT","en":"ORBIS","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kAyW15f7","en":"OVMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kzIhMel4","en":"deicide","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xrYEfu6I","en":"2p2sk (2players2spawnkill)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"CT46Hwd3","en":"Kuta Planet","zh_draft":"","zh_ai":"库塔星球","zh_human":"","zh":"库塔星球","status":"ai"}
+{"id":"LepvcnBS","en":"DC商业梦想城","zh_draft":"","zh_ai":"DC商业梦想城","zh_human":"","zh":"DC商业梦想城","status":"ai"}
+{"id":"P9sM5gtS","en":"SincereCraft","zh_draft":"","zh_ai":"真诚工艺","zh_human":"","zh":"真诚工艺","status":"ai"}
+{"id":"VgbyPnTm","en":"PoisonMC","zh_draft":"","zh_ai":"毒MC","zh_human":"","zh":"毒MC","status":"ai"}
+{"id":"fVFOpqN1","en":"MineShard","zh_draft":"","zh_ai":"矿碎片","zh_human":"","zh":"矿碎片","status":"ai"}
+{"id":"jBXr4UCT","en":"ORBIS","zh_draft":"","zh_ai":"奥比斯","zh_human":"","zh":"奥比斯","status":"ai"}
+{"id":"kAyW15f7","en":"OVMC","zh_draft":"","zh_ai":"OVMC","zh_human":"","zh":"OVMC","status":"ai"}
+{"id":"kzIhMel4","en":"deicide","zh_draft":"","zh_ai":"毁灭者","zh_human":"","zh":"毁灭者","status":"ai"}
+{"id":"xrYEfu6I","en":"2p2sk (2players2spawnkill)","zh_draft":"","zh_ai":"2p2sk 双玩家重生杀","zh_human":"","zh":"2p2sk 双玩家重生杀","status":"ai"}
