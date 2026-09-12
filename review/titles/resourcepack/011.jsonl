@@ -1805,20 +1805,20 @@
 {"id":"zc91ubsM","en":"Crafter Cape Elytra Item","zh_draft":"","zh_ai":"工匠斗篷翼鞘物品","zh_human":"","zh":"工匠斗篷翼鞘物品","status":"ai"}
 {"id":"zeaRX0W3","en":"Pink Totem","zh_draft":"","zh_ai":"粉色图腾","zh_human":"","zh":"粉色图腾","status":"ai"}
 {"id":"zn3UHR0h","en":"Green Hitbox","zh_draft":"","zh_ai":"绿色击打框","zh_human":"","zh":"绿色击打框","status":"ai"}
-{"id":"BnQVaRRz","en":"Terrible AI Bedwars Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MjoIuY4w","en":"Vanilla + V2 16x","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"oK9PWcWL","en":"Giodo 16x","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IoHhwwEH","en":"Shadow PVP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7lD9cL7Z","en":"Matcha Torches","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"tPzruI5A","en":"Lace Carpets","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"BkMOl9Vh","en":"ManL's Combat supplies ornament","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ctO6PPYE","en":"FlatTextures","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PCbDTHsc","en":"Torch To Flashlight","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Zu4lHgfy","en":"Blackify","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4fGB1yUb","en":"Pixel Colorum","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7bhSn1UI","en":"Whitify","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CiiOc6Sb","en":"BlackVoid","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"OOt1IKYT","en":"Ram Anime Sky Overlay","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VlwD2iMi","en":"Pasteled","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pqye64Eh","en":"Contrastia","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zgda7nWI","en":"WhiteVoid","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"BnQVaRRz","en":"Terrible AI Bedwars Pack","zh_draft":"","zh_ai":"糟糕AI床战包","zh_human":"","zh":"糟糕AI床战包","status":"ai"}
+{"id":"MjoIuY4w","en":"Vanilla + V2 16x","zh_draft":"","zh_ai":"原味+V2 16x","zh_human":"","zh":"原味+V2 16x","status":"ai"}
+{"id":"oK9PWcWL","en":"Giodo 16x","zh_draft":"","zh_ai":"Giodo 16x","zh_human":"","zh":"Giodo 16x","status":"ai"}
+{"id":"IoHhwwEH","en":"Shadow PVP","zh_draft":"","zh_ai":"阴影PVP","zh_human":"","zh":"阴影PVP","status":"ai"}
+{"id":"7lD9cL7Z","en":"Matcha Torches","zh_draft":"","zh_ai":"抹茶火炬","zh_human":"","zh":"抹茶火炬","status":"ai"}
+{"id":"tPzruI5A","en":"Lace Carpets","zh_draft":"","zh_ai":"蕾丝地毯","zh_human":"","zh":"蕾丝地毯","status":"ai"}
+{"id":"BkMOl9Vh","en":"ManL's Combat supplies ornament","zh_draft":"","zh_ai":"ManL的战斗用品装饰","zh_human":"","zh":"ManL的战斗用品装饰","status":"ai"}
+{"id":"ctO6PPYE","en":"FlatTextures","zh_draft":"","zh_ai":"平面纹理","zh_human":"","zh":"平面纹理","status":"ai"}
+{"id":"PCbDTHsc","en":"Torch To Flashlight","zh_draft":"","zh_ai":"火炬变手电筒","zh_human":"","zh":"火炬变手电筒","status":"ai"}
+{"id":"Zu4lHgfy","en":"Blackify","zh_draft":"","zh_ai":"变黑","zh_human":"","zh":"变黑","status":"ai"}
+{"id":"4fGB1yUb","en":"Pixel Colorum","zh_draft":"","zh_ai":"像素色彩","zh_human":"","zh":"像素色彩","status":"ai"}
+{"id":"7bhSn1UI","en":"Whitify","zh_draft":"","zh_ai":"变白","zh_human":"","zh":"变白","status":"ai"}
+{"id":"CiiOc6Sb","en":"BlackVoid","zh_draft":"","zh_ai":"黑空","zh_human":"","zh":"黑空","status":"ai"}
+{"id":"OOt1IKYT","en":"Ram Anime Sky Overlay","zh_draft":"","zh_ai":"拉姆动漫天空覆盖","zh_human":"","zh":"拉姆动漫天空覆盖","status":"ai"}
+{"id":"VlwD2iMi","en":"Pasteled","zh_draft":"","zh_ai":"涂鸦","zh_human":"","zh":"涂鸦","status":"ai"}
+{"id":"pqye64Eh","en":"Contrastia","zh_draft":"","zh_ai":"对比","zh_human":"","zh":"对比","status":"ai"}
+{"id":"zgda7nWI","en":"WhiteVoid","zh_draft":"","zh_ai":"白空","zh_human":"","zh":"白空","status":"ai"}
