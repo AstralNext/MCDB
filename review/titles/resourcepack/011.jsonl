@@ -1956,38 +1956,38 @@
 {"id":"y76no4Qa","en":"RU Splashes","zh_draft":"","zh_ai":"俄罗斯喷溅","zh_human":"","zh":"俄罗斯喷溅","status":"ai"}
 {"id":"zKT52OJe","en":"Mythic Wings (Resourcepack)","zh_draft":"","zh_ai":"神话之翼（资源包）","zh_human":"","zh":"神话之翼（资源包）","status":"ai"}
 {"id":"zUQvGamw","en":"Pink & Purple Item Pack","zh_draft":"","zh_ai":"粉色和紫色物品包","zh_human":"","zh":"粉色和紫色物品包","status":"ai"}
-{"id":"pO4yrHDe","en":"Mexus Gray Remake","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KZmm4jB7","en":"TrueSurface PBR","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"e9XouwjO","en":"[MTR4+JCM] JNR D51 Steam Locomotive","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WEJxdZeL","en":"Vuzj's RGB Block Outline","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"F9RkzQMF","en":"Modded Vintage","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LPIBqlZf","en":"Smoke PVP | 16x","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iK6XYmXH","en":"Beautiful main interface","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Se1WEqts","en":"Enchanced Books","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TIMWNi61","en":"Bow Indicator - color","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"q5e0Qqhs","en":"CrossBow Indicator - color","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MbSe195e","en":"Recreated Doors","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WNP31TAj","en":"Bow Indicator - Arrow","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZtogdeTe","en":"Better Short Sword","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ymumOUGe","en":"Cool Diamond Sword","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CUisPktu","en":"Musa 3K Purple Pvp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GNuiQC5c","en":"NeymarJr background","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"b2LoGwIH","en":"T Rex's official pvp resource pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1p3R17YG","en":"Cute Remodeled Pigs + Babies!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uIvBsKvM","en":"FreshLook","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Ly7srOYh","en":"Patrix Uncreepifier","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fgsNJUcm","en":"Flaming Tools","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"haGJKAhf","en":"[MTR4 1.21.1 Fork] The Amtrak Addon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"tKho0k71","en":"TheJ0na Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"E20Fj9Hh","en":"God Items & Guns","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QyjuFlu6","en":"BTA! German Language Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qlj6aH97","en":"Thats Not Diamond Thats La Peace","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xAZzBxvp","en":"Dagger Swords (Shorter Swords)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xklbrOjZ","en":"Minimal Nautilus Armor","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"B7mqzVZ5","en":"Luna's Simple Doors","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"bzHilw9s","en":"Dark Flowery GUI","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VUKdn5Z6","en":"dalmatians!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6PPbCLOD","en":"Minimal Guardian Beams","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XD1pj7RU","en":"Critters and Companion's Land Octosuids","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qTBniMxq","en":"Whimscape x Compact Storage","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qyqdX2Lf","en":"vanillafault 16x","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"pO4yrHDe","en":"Mexus Gray Remake","zh_draft":"","zh_ai":"Mexus灰色重制版","zh_human":"","zh":"Mexus灰色重制版","status":"ai"}
+{"id":"KZmm4jB7","en":"TrueSurface PBR","zh_draft":"","zh_ai":"真实表面PBR","zh_human":"","zh":"真实表面PBR","status":"ai"}
+{"id":"e9XouwjO","en":"[MTR4+JCM] JNR D51 Steam Locomotive","zh_draft":"","zh_ai":"[MTR4+JCM] JNR D51蒸汽机车","zh_human":"","zh":"[MTR4+JCM] JNR D51蒸汽机车","status":"ai"}
+{"id":"WEJxdZeL","en":"Vuzj's RGB Block Outline","zh_draft":"","zh_ai":"Vuzj的RGB方块轮廓","zh_human":"","zh":"Vuzj的RGB方块轮廓","status":"ai"}
+{"id":"F9RkzQMF","en":"Modded Vintage","zh_draft":"","zh_ai":"修改版复古","zh_human":"","zh":"修改版复古","status":"ai"}
+{"id":"LPIBqlZf","en":"Smoke PVP | 16x","zh_draft":"","zh_ai":"烟雾PVP | 16x","zh_human":"","zh":"烟雾PVP | 16x","status":"ai"}
+{"id":"iK6XYmXH","en":"Beautiful main interface","zh_draft":"","zh_ai":"美丽的主界面","zh_human":"","zh":"美丽的主界面","status":"ai"}
+{"id":"Se1WEqts","en":"Enchanced Books","zh_draft":"","zh_ai":"增强书籍","zh_human":"","zh":"增强书籍","status":"ai"}
+{"id":"TIMWNi61","en":"Bow Indicator - color","zh_draft":"","zh_ai":"弓指示器 - 颜色","zh_human":"","zh":"弓指示器 - 颜色","status":"ai"}
+{"id":"q5e0Qqhs","en":"CrossBow Indicator - color","zh_draft":"","zh_ai":"弩指示器 - 颜色","zh_human":"","zh":"弩指示器 - 颜色","status":"ai"}
+{"id":"MbSe195e","en":"Recreated Doors","zh_draft":"","zh_ai":"重制门","zh_human":"","zh":"重制门","status":"ai"}
+{"id":"WNP31TAj","en":"Bow Indicator - Arrow","zh_draft":"","zh_ai":"弓指示器 - 箭","zh_human":"","zh":"弓指示器 - 箭","status":"ai"}
+{"id":"ZtogdeTe","en":"Better Short Sword","zh_draft":"","zh_ai":"更好的短剑","zh_human":"","zh":"更好的短剑","status":"ai"}
+{"id":"ymumOUGe","en":"Cool Diamond Sword","zh_draft":"","zh_ai":"酷炫钻石剑","zh_human":"","zh":"酷炫钻石剑","status":"ai"}
+{"id":"CUisPktu","en":"Musa 3K Purple Pvp","zh_draft":"","zh_ai":"Musa 3K紫色Pvp","zh_human":"","zh":"Musa 3K紫色Pvp","status":"ai"}
+{"id":"GNuiQC5c","en":"NeymarJr background","zh_draft":"","zh_ai":"内马尔Jr背景","zh_human":"","zh":"内马尔Jr背景","status":"ai"}
+{"id":"b2LoGwIH","en":"T Rex's official pvp resource pack","zh_draft":"","zh_ai":"T Rex的官方Pvp资源包","zh_human":"","zh":"T Rex的官方Pvp资源包","status":"ai"}
+{"id":"1p3R17YG","en":"Cute Remodeled Pigs + Babies!","zh_draft":"","zh_ai":"可爱重制的猪+宝宝！","zh_human":"","zh":"可爱重制的猪+宝宝！","status":"ai"}
+{"id":"uIvBsKvM","en":"FreshLook","zh_draft":"","zh_ai":"清新外观","zh_human":"","zh":"清新外观","status":"ai"}
+{"id":"Ly7srOYh","en":"Patrix Uncreepifier","zh_draft":"","zh_ai":"Patrix去怪异化","zh_human":"","zh":"Patrix去怪异化","status":"ai"}
+{"id":"fgsNJUcm","en":"Flaming Tools","zh_draft":"","zh_ai":"火焰工具","zh_human":"","zh":"火焰工具","status":"ai"}
+{"id":"haGJKAhf","en":"[MTR4 1.21.1 Fork] The Amtrak Addon","zh_draft":"","zh_ai":"[MTR4 1.21.1分支] Amtrak插件","zh_human":"","zh":"[MTR4 1.21.1分支] Amtrak插件","status":"ai"}
+{"id":"tKho0k71","en":"TheJ0na Pack","zh_draft":"","zh_ai":"TheJ0na包","zh_human":"","zh":"TheJ0na包","status":"ai"}
+{"id":"E20Fj9Hh","en":"God Items & Guns","zh_draft":"","zh_ai":"神物品与枪械","zh_human":"","zh":"神物品与枪械","status":"ai"}
+{"id":"QyjuFlu6","en":"BTA! German Language Pack","zh_draft":"","zh_ai":"BTA!德语语言包","zh_human":"","zh":"BTA!德语语言包","status":"ai"}
+{"id":"qlj6aH97","en":"Thats Not Diamond Thats La Peace","zh_draft":"","zh_ai":"那不是钻石那是拉和平","zh_human":"","zh":"那不是钻石那是拉和平","status":"ai"}
+{"id":"xAZzBxvp","en":"Dagger Swords (Shorter Swords)","zh_draft":"","zh_ai":"匕首剑（短剑）","zh_human":"","zh":"匕首剑（短剑）","status":"ai"}
+{"id":"xklbrOjZ","en":"Minimal Nautilus Armor","zh_draft":"","zh_ai":"简约鹦鹉螺盔甲","zh_human":"","zh":"简约鹦鹉螺盔甲","status":"ai"}
+{"id":"B7mqzVZ5","en":"Luna's Simple Doors","zh_draft":"","zh_ai":"Luna的简单门","zh_human":"","zh":"Luna的简单门","status":"ai"}
+{"id":"bzHilw9s","en":"Dark Flowery GUI","zh_draft":"","zh_ai":"暗花GUI","zh_human":"","zh":"暗花GUI","status":"ai"}
+{"id":"VUKdn5Z6","en":"dalmatians!","zh_draft":"","zh_ai":"斑点狗！","zh_human":"","zh":"斑点狗！","status":"ai"}
+{"id":"6PPbCLOD","en":"Minimal Guardian Beams","zh_draft":"","zh_ai":"简约守护者光束","zh_human":"","zh":"简约守护者光束","status":"ai"}
+{"id":"XD1pj7RU","en":"Critters and Companion's Land Octosuids","zh_draft":"","zh_ai":"小动物和伙伴之地的八爪鱼","zh_human":"","zh":"小动物和伙伴之地的八爪鱼","status":"ai"}
+{"id":"qTBniMxq","en":"Whimscape x Compact Storage","zh_draft":"","zh_ai":"奇景空间 x 紧凑存储","zh_human":"","zh":"奇景空间 x 紧凑存储","status":"ai"}
+{"id":"qyqdX2Lf","en":"vanillafault 16x","zh_draft":"","zh_ai":"原版故障 16x","zh_human":"","zh":"原版故障 16x","status":"ai"}
