@@ -630,18 +630,18 @@
 {"id":"oKa6gUOp","en":"Eridanus Origin","zh_draft":"","zh_ai":"埃里达努斯起源","zh_human":"","zh":"埃里达努斯起源","status":"ai"}
 {"id":"e1hfFidi","en":"Resurrection of Nature - Steam and Rails","zh_draft":"","zh_ai":"自然复苏 - 蒸汽与铁轨","zh_human":"","zh":"自然复苏 - 蒸汽与铁轨","status":"ai"}
 {"id":"kT6QBnFI","en":"A World Undiscovered","zh_draft":"","zh_ai":"未被发现的世界","zh_human":"","zh":"未被发现的世界","status":"ai"}
-{"id":"v1Di7W28","en":"Chewi SMP S2 Modpack (for AMD/Intel)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fApyk3le","en":"SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Cuw9cG6b","en":"By Design","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CiEfsRKB","en":"CobbleHorizons","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8xMy89Ce","en":"Vanilla  ReEnhanced","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"W42YPATC","en":"Guac SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"88Spqjnq","en":"Chewi SMP S2 Modpack (for Nvidia)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"U4H50yM3","en":"Mod Garden: DIY","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cuEFmNmt","en":"Just Rat's Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5094wHXd","en":"Minebara Optimize","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hsxaG3Qq","en":"Fantastical Dragon Survival","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"l505d4Pe","en":"YouTube Shorts Creator Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"v1Di7W28","en":"Chewi SMP S2 Modpack (for AMD/Intel)","zh_draft":"","zh_ai":"Chewi SMP S2 整合包","zh_human":"","zh":"Chewi SMP S2 整合包","status":"ai"}
+{"id":"fApyk3le","en":"SMP","zh_draft":"","zh_ai":"生存多人","zh_human":"","zh":"生存多人","status":"ai"}
+{"id":"Cuw9cG6b","en":"By Design","zh_draft":"","zh_ai":"按照设计","zh_human":"","zh":"按照设计","status":"ai"}
+{"id":"CiEfsRKB","en":"CobbleHorizons","zh_draft":"","zh_ai":"圆石地平线","zh_human":"","zh":"圆石地平线","status":"ai"}
+{"id":"8xMy89Ce","en":"Vanilla  ReEnhanced","zh_draft":"","zh_ai":"原版重制增强","zh_human":"","zh":"原版重制增强","status":"ai"}
+{"id":"W42YPATC","en":"Guac SMP","zh_draft":"","zh_ai":"Guac 生存多人","zh_human":"","zh":"Guac 生存多人","status":"ai"}
+{"id":"88Spqjnq","en":"Chewi SMP S2 Modpack (for Nvidia)","zh_draft":"","zh_ai":"Chewi SMP S2 整合包","zh_human":"","zh":"Chewi SMP S2 整合包","status":"ai"}
+{"id":"U4H50yM3","en":"Mod Garden: DIY","zh_draft":"","zh_ai":"模组花园：DIY","zh_human":"","zh":"模组花园：DIY","status":"ai"}
+{"id":"cuEFmNmt","en":"Just Rat's Modpack","zh_draft":"","zh_ai":"只是老鼠的整合包","zh_human":"","zh":"只是老鼠的整合包","status":"ai"}
+{"id":"5094wHXd","en":"Minebara Optimize","zh_draft":"","zh_ai":"Minebara 优化","zh_human":"","zh":"Minebara 优化","status":"ai"}
+{"id":"hsxaG3Qq","en":"Fantastical Dragon Survival","zh_draft":"","zh_ai":"奇幻龙之生存","zh_human":"","zh":"奇幻龙之生存","status":"ai"}
+{"id":"l505d4Pe","en":"YouTube Shorts Creator Pack","zh_draft":"","zh_ai":"YouTube 短视频创作者包","zh_human":"","zh":"YouTube 短视频创作者包","status":"ai"}
 {"id":"oIahniCX","en":"Incredibly Optimized","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
 {"id":"u2AqQdwj","en":"Your Last Silhouette","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
 {"id":"BYNM17vh","en":"Mossey's Default Server Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
