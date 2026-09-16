@@ -649,29 +649,29 @@
 {"id":"OfDyyA7X","en":"Enhance Craft","zh_draft":"","zh_ai":"增强工艺","zh_human":"","zh":"增强工艺","status":"ai"}
 {"id":"4V57xnzE","en":"Modern Steve","zh_draft":"","zh_ai":"现代史蒂夫","zh_human":"","zh":"现代史蒂夫","status":"ai"}
 {"id":"Av57D12y","en":"Nordcraft","zh_draft":"","zh_ai":"诺德工艺","zh_human":"","zh":"诺德工艺","status":"ai"}
-{"id":"eSmC4v0N","en":"Fiffle's Vanilla Extended","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"tVE2Krrl","en":"Aetheria Cobblemon Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"P4NNxUgi","en":"New Dawn+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uOn9Vnw4","en":"mc手机java优化","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"u1XKMyS3","en":"Create: The Engineering Frontier","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5IZLZhKY","en":"Millitriesed","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xDXRGpGt","en":"Simply Immersed","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zURo8w9C","en":"CoCrystal client","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Qa4mK1n8","en":"PotFasterKid All You Need MPack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"esQJbsvD","en":"Dark Era Origins","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"a2M9cD7Q","en":"Vulkan Optimized For FPS","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qHA7DfLy","en":"easy together","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xop2P0QI","en":"Awesome Cozy 4ever","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"BAHh3yjU","en":"Smooth! - UltraFast pvp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Nv1lrOEq","en":"Create AeroMagic By UmBraXiR","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qx3K4qqB","en":"Optimized as F***","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CBTDcIbi","en":"Richly Matcha Flavoured","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Dq2Y0DVG","en":"Medieval Explorers","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"EWKEiXSj","en":"Authomatum","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XNbxHkQa","en":"The Hundredth Dawn","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6musv2ma","en":"Awesome Combat","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7YpsTx6W","en":"Places: void addons","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8SAA29Kh","en":"Ender Optimized 🛠️","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"F1T6mXJu","en":"Structures Combat and Bosses oh my!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Zrs4Kl1f","en":"KaaaSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kUSmramu","en":"Ultimate Vanilla Plus","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"eSmC4v0N","en":"Fiffle's Vanilla Extended","zh_draft":"","zh_ai":"Fiffle的万花筒扩展","zh_human":"","zh":"Fiffle的万花筒扩展","status":"ai"}
+{"id":"tVE2Krrl","en":"Aetheria Cobblemon Modpack","zh_draft":"","zh_ai":"Aetheria Cobblemon模组包","zh_human":"","zh":"Aetheria Cobblemon模组包","status":"ai"}
+{"id":"P4NNxUgi","en":"New Dawn+","zh_draft":"","zh_ai":"新黎明+","zh_human":"","zh":"新黎明+","status":"ai"}
+{"id":"uOn9Vnw4","en":"mc手机java优化","zh_draft":"","zh_ai":"mc手机Java优化","zh_human":"","zh":"mc手机Java优化","status":"ai"}
+{"id":"u1XKMyS3","en":"Create: The Engineering Frontier","zh_draft":"","zh_ai":"Create：工程前沿","zh_human":"","zh":"Create：工程前沿","status":"ai"}
+{"id":"5IZLZhKY","en":"Millitriesed","zh_draft":"","zh_ai":"千年战争","zh_human":"","zh":"千年战争","status":"ai"}
+{"id":"xDXRGpGt","en":"Simply Immersed","zh_draft":"","zh_ai":"简单沉浸","zh_human":"","zh":"简单沉浸","status":"ai"}
+{"id":"zURo8w9C","en":"CoCrystal client","zh_draft":"","zh_ai":"CoCrystal客户端","zh_human":"","zh":"CoCrystal客户端","status":"ai"}
+{"id":"Qa4mK1n8","en":"PotFasterKid All You Need MPack","zh_draft":"","zh_ai":"PotFasterKid所需所有模组包","zh_human":"","zh":"PotFasterKid所需所有模组包","status":"ai"}
+{"id":"esQJbsvD","en":"Dark Era Origins","zh_draft":"","zh_ai":"暗黑时代起源","zh_human":"","zh":"暗黑时代起源","status":"ai"}
+{"id":"a2M9cD7Q","en":"Vulkan Optimized For FPS","zh_draft":"","zh_ai":"Vulkan优化FPS","zh_human":"","zh":"Vulkan优化FPS","status":"ai"}
+{"id":"qHA7DfLy","en":"easy together","zh_draft":"","zh_ai":"一起简单","zh_human":"","zh":"一起简单","status":"ai"}
+{"id":"xop2P0QI","en":"Awesome Cozy 4ever","zh_draft":"","zh_ai":"极佳舒适永存","zh_human":"","zh":"极佳舒适永存","status":"ai"}
+{"id":"BAHh3yjU","en":"Smooth! - UltraFast pvp","zh_draft":"","zh_ai":"平滑！- 超快PVP","zh_human":"","zh":"平滑！- 超快PVP","status":"ai"}
+{"id":"Nv1lrOEq","en":"Create AeroMagic By UmBraXiR","zh_draft":"","zh_ai":"机械动力：AeroMagic","zh_human":"","zh":"机械动力：AeroMagic","status":"ai"}
+{"id":"qx3K4qqB","en":"Optimized as F***","zh_draft":"","zh_ai":"极致优化","zh_human":"","zh":"极致优化","status":"ai"}
+{"id":"CBTDcIbi","en":"Richly Matcha Flavoured","zh_draft":"","zh_ai":"浓郁抹茶风味","zh_human":"","zh":"浓郁抹茶风味","status":"ai"}
+{"id":"Dq2Y0DVG","en":"Medieval Explorers","zh_draft":"","zh_ai":"中世纪探险家","zh_human":"","zh":"中世纪探险家","status":"ai"}
+{"id":"EWKEiXSj","en":"Authomatum","zh_draft":"","zh_ai":"Authomatum","zh_human":"","zh":"Authomatum","status":"ai"}
+{"id":"XNbxHkQa","en":"The Hundredth Dawn","zh_draft":"","zh_ai":"第一百个黎明","zh_human":"","zh":"第一百个黎明","status":"ai"}
+{"id":"6musv2ma","en":"Awesome Combat","zh_draft":"","zh_ai":"精彩战斗","zh_human":"","zh":"精彩战斗","status":"ai"}
+{"id":"7YpsTx6W","en":"Places: void addons","zh_draft":"","zh_ai":"Places：虚空附加","zh_human":"","zh":"Places：虚空附加","status":"ai"}
+{"id":"8SAA29Kh","en":"Ender Optimized 🛠️","zh_draft":"","zh_ai":"末影优化","zh_human":"","zh":"末影优化","status":"ai"}
+{"id":"F1T6mXJu","en":"Structures Combat and Bosses oh my!","zh_draft":"","zh_ai":"建筑战斗与Boss","zh_human":"","zh":"建筑战斗与Boss","status":"ai"}
+{"id":"Zrs4Kl1f","en":"KaaaSMP","zh_draft":"","zh_ai":"KaaaSMP","zh_human":"","zh":"KaaaSMP","status":"ai"}
+{"id":"kUSmramu","en":"Ultimate Vanilla Plus","zh_draft":"","zh_ai":"终极原版增强","zh_human":"","zh":"终极原版增强","status":"ai"}
