@@ -2298,25 +2298,25 @@
 {"id":"tg3V0cUp","en":"Kinetic Horizon","zh_draft":"","zh_ai":"动能地平线","zh_human":"","zh":"动能地平线","status":"ai"}
 {"id":"yFssHk2V","en":"StarMC Network","zh_draft":"","zh_ai":"星MC网络","zh_human":"","zh":"星MC网络","status":"ai"}
 {"id":"ehHeaYhq","en":"Mod Garden: DIY","zh_draft":"","zh_ai":"DIY模组园地","zh_human":"","zh":"DIY模组园地","status":"ai"}
-{"id":"wxqfVpZs","en":"HussSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XNA0xkQd","en":"Hostile Nature","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"64PDMgFN","en":"Create Live 7","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1F5DL4JO","en":"RedChy","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1mS2LmUh","en":"Marvel MC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1s9JxslV","en":"WillowdaleMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DJQzfZkz","en":"SwiftGens","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"EUtAQQcY","en":"Another Potato Server","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Hb2TbvmB","en":"SmashMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NQ6ogbSA","en":"Immersive Portals Server","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NwP9uddq","en":"HrdaValorant Test Server","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SmX8Ue5w","en":"UHC Royale","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Vt15LtH4","en":"Chegg MC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"aedqr2at","en":"Streets Of London MC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"am5EzIz9","en":"Dusty","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"b12NagMH","en":"VoidSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kao5HJqL","en":"Cobble Wilds SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"oUwZf4qB","en":"RelicMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qVmJJ91q","en":"WorldOfKingdoms","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wLZHeYxs","en":"TechSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yfKsP9cS","en":"Rajče.pro","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zjMffIj2","en":"RushMC NetWork","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"wxqfVpZs","en":"HussSMP","zh_draft":"","zh_ai":"胡斯生存模式","zh_human":"","zh":"胡斯生存模式","status":"ai"}
+{"id":"XNA0xkQd","en":"Hostile Nature","zh_draft":"","zh_ai":"敌对自然","zh_human":"","zh":"敌对自然","status":"ai"}
+{"id":"64PDMgFN","en":"Create Live 7","zh_draft":"","zh_ai":"创造直播7","zh_human":"","zh":"创造直播7","status":"ai"}
+{"id":"1F5DL4JO","en":"RedChy","zh_draft":"","zh_ai":"红奇","zh_human":"","zh":"红奇","status":"ai"}
+{"id":"1mS2LmUh","en":"Marvel MC","zh_draft":"","zh_ai":"漫威MC","zh_human":"","zh":"漫威MC","status":"ai"}
+{"id":"1s9JxslV","en":"WillowdaleMC","zh_draft":"","zh_ai":"威尔洛德尔MC","zh_human":"","zh":"威尔洛德尔MC","status":"ai"}
+{"id":"DJQzfZkz","en":"SwiftGens","zh_draft":"","zh_ai":"快速生成器","zh_human":"","zh":"快速生成器","status":"ai"}
+{"id":"EUtAQQcY","en":"Another Potato Server","zh_draft":"","zh_ai":"另一个土豆服务器","zh_human":"","zh":"另一个土豆服务器","status":"ai"}
+{"id":"Hb2TbvmB","en":"SmashMC","zh_draft":"","zh_ai":"破坏MC","zh_human":"","zh":"破坏MC","status":"ai"}
+{"id":"NQ6ogbSA","en":"Immersive Portals Server","zh_draft":"","zh_ai":"沉浸式传送门服务器","zh_human":"","zh":"沉浸式传送门服务器","status":"ai"}
+{"id":"NwP9uddq","en":"HrdaValorant Test Server","zh_draft":"","zh_ai":"Hrda Valorant 测试服务器","zh_human":"","zh":"Hrda Valorant 测试服务器","status":"ai"}
+{"id":"SmX8Ue5w","en":"UHC Royale","zh_draft":"","zh_ai":"UHC皇家","zh_human":"","zh":"UHC皇家","status":"ai"}
+{"id":"Vt15LtH4","en":"Chegg MC","zh_draft":"","zh_ai":"Chegg MC","zh_human":"","zh":"Chegg MC","status":"ai"}
+{"id":"aedqr2at","en":"Streets Of London MC","zh_draft":"","zh_ai":"伦敦街头MC","zh_human":"","zh":"伦敦街头MC","status":"ai"}
+{"id":"am5EzIz9","en":"Dusty","zh_draft":"","zh_ai":"尘土","zh_human":"","zh":"尘土","status":"ai"}
+{"id":"b12NagMH","en":"VoidSMP","zh_draft":"","zh_ai":"虚空生存模式","zh_human":"","zh":"虚空生存模式","status":"ai"}
+{"id":"kao5HJqL","en":"Cobble Wilds SMP","zh_draft":"","zh_ai":"圆石荒野生存模式","zh_human":"","zh":"圆石荒野生存模式","status":"ai"}
+{"id":"oUwZf4qB","en":"RelicMC","zh_draft":"","zh_ai":"遗迹MC","zh_human":"","zh":"遗迹MC","status":"ai"}
+{"id":"qVmJJ91q","en":"WorldOfKingdoms","zh_draft":"","zh_ai":"王国世界","zh_human":"","zh":"王国世界","status":"ai"}
+{"id":"wLZHeYxs","en":"TechSMP","zh_draft":"","zh_ai":"科技生存模式","zh_human":"","zh":"科技生存模式","status":"ai"}
+{"id":"yfKsP9cS","en":"Rajče.pro","zh_draft":"","zh_ai":"Rajče.pro","zh_human":"","zh":"Rajče.pro","status":"ai"}
+{"id":"zjMffIj2","en":"RushMC NetWork","zh_draft":"","zh_ai":"RushMC 网络","zh_human":"","zh":"RushMC 网络","status":"ai"}

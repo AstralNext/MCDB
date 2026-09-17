@@ -1125,35 +1125,35 @@
 {"id":"rwXen1MZ","en":"Smooth Sneak","zh_draft":"","zh_ai":"平滑潜行","zh_human":"","zh":"平滑潜行","status":"ai"}
 {"id":"vRs2xrUB","en":"sChatManager","zh_draft":"","zh_ai":"s聊天管理器","zh_human":"","zh":"s聊天管理器","status":"ai"}
 {"id":"wYy0lLnX","en":"SimpleEventLogger Mods","zh_draft":"","zh_ai":"简单事件记录器模组","zh_human":"","zh":"简单事件记录器模组","status":"ai"}
-{"id":"KbwNRCY7","en":"Create: Pocket Sized","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Lhgk41aC","en":"Companion Codex - Vault Hunters Addon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zqLZRDpz","en":"Observer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"M8szwdmV","en":"ChallengeX","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zMlsULJg","en":"pisancars","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Zu6N4I2P","en":"Ender's Vein Mine","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7z01JBWC","en":"CloudGuardLite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fn5MiZru","en":"Ectoluminescence Reforged","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xhPZApDl","en":"MrUltimateGenerators","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"BrHpl3rq","en":"Void Floors","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IfaRt0Is","en":"Longer Strength II","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Z1sQiK3V","en":"Craft Goal","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"BxDXFGP2","en":"Mouse Screen Keybinds","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PRFGh1AJ","en":"Simple Tickets","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Xor3WVYR","en":"Unplugged AFK - NeoForge","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dfsji3ms","en":"VIPSlots","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ev5ltlL2","en":"Olafs Relatively Placed Blocks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fqvUheV6","en":"Hunter's Moon 2","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"j5KpPeGw","en":"RMS","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uShD8rIV","en":"Trial Chambers Tweaks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2ibtXUwq","en":"Miner's Moon 2","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LGEGEx3p","en":"DynamicDistance","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZDaBiwjq","en":"AstikorCarts Sounds","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZIpUhSJW","en":"Endless Highways","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jCYJJmkT","en":"Vine Replacer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lLli7vkb","en":"Quiet World","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"r3iymZhv","en":"Paper Patterns","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"s6X42L5R","en":"Relic Fusion: Archaelogy Expansion","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"utYvMto0","en":"Yeow","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"345m3fxN","en":"Chaos Moon 2","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Adph7xj9","en":"Create: Mechanical Eels","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VEFhu3Ox","en":"Baby Horde Moon 2","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"KbwNRCY7","en":"Create: Pocket Sized","zh_draft":"","zh_ai":"创造：口袋大小","zh_human":"","zh":"创造：口袋大小","status":"ai"}
+{"id":"Lhgk41aC","en":"Companion Codex - Vault Hunters Addon","zh_draft":"","zh_ai":"伴侣法典 - 保管猎人插件","zh_human":"","zh":"伴侣法典 - 保管猎人插件","status":"ai"}
+{"id":"zqLZRDpz","en":"Observer","zh_draft":"","zh_ai":"观察者","zh_human":"","zh":"观察者","status":"ai"}
+{"id":"M8szwdmV","en":"ChallengeX","zh_draft":"","zh_ai":"挑战X","zh_human":"","zh":"挑战X","status":"ai"}
+{"id":"zMlsULJg","en":"pisancars","zh_draft":"","zh_ai":"pisancars","zh_human":"","zh":"pisancars","status":"ai"}
+{"id":"Zu6N4I2P","en":"Ender's Vein Mine","zh_draft":"","zh_ai":"末影之脉矿","zh_human":"","zh":"末影之脉矿","status":"ai"}
+{"id":"7z01JBWC","en":"CloudGuardLite","zh_draft":"","zh_ai":"云守护者轻量版","zh_human":"","zh":"云守护者轻量版","status":"ai"}
+{"id":"fn5MiZru","en":"Ectoluminescence Reforged","zh_draft":"","zh_ai":"生物发光重铸","zh_human":"","zh":"生物发光重铸","status":"ai"}
+{"id":"xhPZApDl","en":"MrUltimateGenerators","zh_draft":"","zh_ai":"Mr终极生成器","zh_human":"","zh":"Mr终极生成器","status":"ai"}
+{"id":"BrHpl3rq","en":"Void Floors","zh_draft":"","zh_ai":"虚空地板","zh_human":"","zh":"虚空地板","status":"ai"}
+{"id":"IfaRt0Is","en":"Longer Strength II","zh_draft":"","zh_ai":"更强的力量II","zh_human":"","zh":"更强的力量II","status":"ai"}
+{"id":"Z1sQiK3V","en":"Craft Goal","zh_draft":"","zh_ai":"工艺目标","zh_human":"","zh":"工艺目标","status":"ai"}
+{"id":"BxDXFGP2","en":"Mouse Screen Keybinds","zh_draft":"","zh_ai":"鼠标屏幕快捷键","zh_human":"","zh":"鼠标屏幕快捷键","status":"ai"}
+{"id":"PRFGh1AJ","en":"Simple Tickets","zh_draft":"","zh_ai":"简单门票","zh_human":"","zh":"简单门票","status":"ai"}
+{"id":"Xor3WVYR","en":"Unplugged AFK - NeoForge","zh_draft":"","zh_ai":"未插电AFK - NeoForge","zh_human":"","zh":"未插电AFK - NeoForge","status":"ai"}
+{"id":"dfsji3ms","en":"VIPSlots","zh_draft":"","zh_ai":"VIP插槽","zh_human":"","zh":"VIP插槽","status":"ai"}
+{"id":"ev5ltlL2","en":"Olafs Relatively Placed Blocks","zh_draft":"","zh_ai":"奥拉夫相对放置的方块","zh_human":"","zh":"奥拉夫相对放置的方块","status":"ai"}
+{"id":"fqvUheV6","en":"Hunter's Moon 2","zh_draft":"","zh_ai":"猎人月2","zh_human":"","zh":"猎人月2","status":"ai"}
+{"id":"j5KpPeGw","en":"RMS","zh_draft":"","zh_ai":"RMS","zh_human":"","zh":"RMS","status":"ai"}
+{"id":"uShD8rIV","en":"Trial Chambers Tweaks","zh_draft":"","zh_ai":"试炼室调整","zh_human":"","zh":"试炼室调整","status":"ai"}
+{"id":"2ibtXUwq","en":"Miner's Moon 2","zh_draft":"","zh_ai":"矿工之月2","zh_human":"","zh":"矿工之月2","status":"ai"}
+{"id":"LGEGEx3p","en":"DynamicDistance","zh_draft":"","zh_ai":"动态距离","zh_human":"","zh":"动态距离","status":"ai"}
+{"id":"ZDaBiwjq","en":"AstikorCarts Sounds","zh_draft":"","zh_ai":"阿斯蒂科尔车声效","zh_human":"","zh":"阿斯蒂科尔车声效","status":"ai"}
+{"id":"ZIpUhSJW","en":"Endless Highways","zh_draft":"","zh_ai":"无尽高速公路","zh_human":"","zh":"无尽高速公路","status":"ai"}
+{"id":"jCYJJmkT","en":"Vine Replacer","zh_draft":"","zh_ai":"藤蔓替代者","zh_human":"","zh":"藤蔓替代者","status":"ai"}
+{"id":"lLli7vkb","en":"Quiet World","zh_draft":"","zh_ai":"宁静世界","zh_human":"","zh":"宁静世界","status":"ai"}
+{"id":"r3iymZhv","en":"Paper Patterns","zh_draft":"","zh_ai":"纸张图案","zh_human":"","zh":"纸张图案","status":"ai"}
+{"id":"s6X42L5R","en":"Relic Fusion: Archaelogy Expansion","zh_draft":"","zh_ai":"遗物融合：考古扩展","zh_human":"","zh":"遗物融合：考古扩展","status":"ai"}
+{"id":"utYvMto0","en":"Yeow","zh_draft":"","zh_ai":"耶欧","zh_human":"","zh":"耶欧","status":"ai"}
+{"id":"345m3fxN","en":"Chaos Moon 2","zh_draft":"","zh_ai":"混沌之月2","zh_human":"","zh":"混沌之月2","status":"ai"}
+{"id":"Adph7xj9","en":"Create: Mechanical Eels","zh_draft":"","zh_ai":"机械鳗鱼：创造","zh_human":"","zh":"机械鳗鱼：创造","status":"ai"}
+{"id":"VEFhu3Ox","en":"Baby Horde Moon 2","zh_draft":"","zh_ai":"婴儿部落之月2","zh_human":"","zh":"婴儿部落之月2","status":"ai"}

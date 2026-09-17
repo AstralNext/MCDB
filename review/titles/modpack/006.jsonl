@@ -675,22 +675,22 @@
 {"id":"F1T6mXJu","en":"Structures Combat and Bosses oh my!","zh_draft":"","zh_ai":"建筑战斗与Boss","zh_human":"","zh":"建筑战斗与Boss","status":"ai"}
 {"id":"Zrs4Kl1f","en":"KaaaSMP","zh_draft":"","zh_ai":"KaaaSMP","zh_human":"","zh":"KaaaSMP","status":"ai"}
 {"id":"kUSmramu","en":"Ultimate Vanilla Plus","zh_draft":"","zh_ai":"终极原版增强","zh_human":"","zh":"终极原版增强","status":"ai"}
-{"id":"Ma4RWkP3","en":"Melon’s Premodded","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GSr962Kh","en":"TenVR","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QveBW8wH","en":"Leo's Collection","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GINji6sz","en":"RealCraft: Realistic MC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"f7Mendxk","en":"MEÇ Optimizer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vGqQnikK","en":"Basilisk","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9Bubajsz","en":"Simply Thumbnailing","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"G9NZQoVa","en":"TurakarudMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"OSUIBrjw","en":"MC: Medieval","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qKiPioPB","en":"Simply Real","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sxLVAy6k","en":"Vanilla Recalibrated","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QwNAS1vc","en":"Create Industries Horizon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Un8vVvp7","en":"ApoCraftZone","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"OXnDtDiS","en":"Fyxe's Classic+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"V7RGDdYz","en":"VillagePlus","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PAm4pr0v","en":"OptiCore","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nN956HOG","en":"Bells and Whistles [Clientside Tweaks]","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vOibe8TC","en":"Go Green","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zcaSKBGl","en":"Unlimited FPS","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Ma4RWkP3","en":"Melon’s Premodded","zh_draft":"","zh_ai":"美诺预配置","zh_human":"","zh":"美诺预配置","status":"ai"}
+{"id":"GSr962Kh","en":"TenVR","zh_draft":"","zh_ai":"TenVR","zh_human":"","zh":"TenVR","status":"ai"}
+{"id":"QveBW8wH","en":"Leo's Collection","zh_draft":"","zh_ai":"利奥的收藏","zh_human":"","zh":"利奥的收藏","status":"ai"}
+{"id":"GINji6sz","en":"RealCraft: Realistic MC","zh_draft":"","zh_ai":"真实工艺：真实Minecraft","zh_human":"","zh":"真实工艺：真实Minecraft","status":"ai"}
+{"id":"f7Mendxk","en":"MEÇ Optimizer","zh_draft":"","zh_ai":"MEÇ优化器","zh_human":"","zh":"MEÇ优化器","status":"ai"}
+{"id":"vGqQnikK","en":"Basilisk","zh_draft":"","zh_ai":"巴泽尔克","zh_human":"","zh":"巴泽尔克","status":"ai"}
+{"id":"9Bubajsz","en":"Simply Thumbnailing","zh_draft":"","zh_ai":"简单缩略图","zh_human":"","zh":"简单缩略图","status":"ai"}
+{"id":"G9NZQoVa","en":"TurakarudMC","zh_draft":"","zh_ai":"图拉卡鲁德Minecraft","zh_human":"","zh":"图拉卡鲁德Minecraft","status":"ai"}
+{"id":"OSUIBrjw","en":"MC: Medieval","zh_draft":"","zh_ai":"Minecraft：中世纪","zh_human":"","zh":"Minecraft：中世纪","status":"ai"}
+{"id":"qKiPioPB","en":"Simply Real","zh_draft":"","zh_ai":"简单真实","zh_human":"","zh":"简单真实","status":"ai"}
+{"id":"sxLVAy6k","en":"Vanilla Recalibrated","zh_draft":"","zh_ai":"香草重调","zh_human":"","zh":"香草重调","status":"ai"}
+{"id":"QwNAS1vc","en":"Create Industries Horizon","zh_draft":"","zh_ai":"创造工业地平线","zh_human":"","zh":"创造工业地平线","status":"ai"}
+{"id":"Un8vVvp7","en":"ApoCraftZone","zh_draft":"","zh_ai":"阿波克雷夫特区","zh_human":"","zh":"阿波克雷夫特区","status":"ai"}
+{"id":"OXnDtDiS","en":"Fyxe's Classic+","zh_draft":"","zh_ai":"菲克斯的经典+","zh_human":"","zh":"菲克斯的经典+","status":"ai"}
+{"id":"V7RGDdYz","en":"VillagePlus","zh_draft":"","zh_ai":"村庄+","zh_human":"","zh":"村庄+","status":"ai"}
+{"id":"PAm4pr0v","en":"OptiCore","zh_draft":"","zh_ai":"OptiCore","zh_human":"","zh":"OptiCore","status":"ai"}
+{"id":"nN956HOG","en":"Bells and Whistles [Clientside Tweaks]","zh_draft":"","zh_ai":"铃声与哨声[客户端调整]","zh_human":"","zh":"铃声与哨声[客户端调整]","status":"ai"}
+{"id":"vOibe8TC","en":"Go Green","zh_draft":"","zh_ai":"绿色出行","zh_human":"","zh":"绿色出行","status":"ai"}
+{"id":"zcaSKBGl","en":"Unlimited FPS","zh_draft":"","zh_ai":"无限帧率","zh_human":"","zh":"无限帧率","status":"ai"}
