@@ -2327,11 +2327,11 @@
 {"id":"9b5fGpoq","en":"GrandMu MC","zh_draft":"","zh_ai":"大姆模组","zh_human":"","zh":"大姆模组","status":"ai"}
 {"id":"DwNaLYFn","en":"GorodPap","zh_draft":"","zh_ai":"戈罗德帕普","zh_human":"","zh":"戈罗德帕普","status":"ai"}
 {"id":"RIexiIoU","en":"PLACE","zh_draft":"","zh_ai":"PLACE","zh_human":"","zh":"PLACE","status":"ai"}
-{"id":"k9BpBK8V","en":"CRE8 smp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"X3ZwTXas","en":"BekkemaCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Mz2o63sl","en":"FakeWorld","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PoEMWc7D","en":"blairdashSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QX3bo62n","en":"Horror SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Y6QPAluP","en":"Clean SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ik7CNUv7","en":"PuckSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qQyYQis1","en":"Taswell","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"k9BpBK8V","en":"CRE8 smp","zh_draft":"","zh_ai":"创意生存模式","zh_human":"","zh":"创意生存模式","status":"ai"}
+{"id":"X3ZwTXas","en":"BekkemaCraft","zh_draft":"","zh_ai":"贝克玛工坊","zh_human":"","zh":"贝克玛工坊","status":"ai"}
+{"id":"Mz2o63sl","en":"FakeWorld","zh_draft":"","zh_ai":"假世界","zh_human":"","zh":"假世界","status":"ai"}
+{"id":"PoEMWc7D","en":"blairdashSMP","zh_draft":"","zh_ai":"布莱尔生存模式","zh_human":"","zh":"布莱尔生存模式","status":"ai"}
+{"id":"QX3bo62n","en":"Horror SMP","zh_draft":"","zh_ai":"恐怖生存模式","zh_human":"","zh":"恐怖生存模式","status":"ai"}
+{"id":"Y6QPAluP","en":"Clean SMP","zh_draft":"","zh_ai":"纯净生存模式","zh_human":"","zh":"纯净生存模式","status":"ai"}
+{"id":"ik7CNUv7","en":"PuckSMP","zh_draft":"","zh_ai":"普克生存模式","zh_human":"","zh":"普克生存模式","status":"ai"}
+{"id":"qQyYQis1","en":"Taswell","zh_draft":"","zh_ai":"塔斯威尔","zh_human":"","zh":"塔斯威尔","status":"ai"}

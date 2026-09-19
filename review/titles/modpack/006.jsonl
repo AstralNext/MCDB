@@ -711,12 +711,12 @@
 {"id":"ffyH8hXU","en":"CasiVanilla","zh_draft":"","zh_ai":"类似原版","zh_human":"","zh":"类似原版","status":"ai"}
 {"id":"kLeGNP6L","en":"Optimized Plus","zh_draft":"","zh_ai":"优化增强版","zh_human":"","zh":"优化增强版","status":"ai"}
 {"id":"w1p4d3sP","en":"Zogom","zh_draft":"","zh_ai":"Zogom","zh_human":"","zh":"Zogom","status":"ai"}
-{"id":"zL6vpkjB","en":"Xynovia","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Ur829prT","en":"Strictly Optimized","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lIktCUlO","en":"Medieval Ultimate","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4lqtOCnZ","en":"Medieval Town","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QFWaaA1C","en":"Action and Punchy!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"t08v6QyJ","en":"PVP Aura Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GzW07L8x","en":"Optimization +","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jW2uEvVw","en":"Redstonized","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qyu5riK3","en":"Enchant infinite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"zL6vpkjB","en":"Xynovia","zh_draft":"","zh_ai":"Xynovia","zh_human":"","zh":"Xynovia","status":"ai"}
+{"id":"Ur829prT","en":"Strictly Optimized","zh_draft":"","zh_ai":"严格优化","zh_human":"","zh":"严格优化","status":"ai"}
+{"id":"lIktCUlO","en":"Medieval Ultimate","zh_draft":"","zh_ai":"中世纪终极","zh_human":"","zh":"中世纪终极","status":"ai"}
+{"id":"4lqtOCnZ","en":"Medieval Town","zh_draft":"","zh_ai":"中世纪城镇","zh_human":"","zh":"中世纪城镇","status":"ai"}
+{"id":"QFWaaA1C","en":"Action and Punchy!","zh_draft":"","zh_ai":"动作和有力！","zh_human":"","zh":"动作和有力！","status":"ai"}
+{"id":"t08v6QyJ","en":"PVP Aura Pack","zh_draft":"","zh_ai":"PVP 光环包","zh_human":"","zh":"PVP 光环包","status":"ai"}
+{"id":"GzW07L8x","en":"Optimization +","zh_draft":"","zh_ai":"优化+","zh_human":"","zh":"优化+","status":"ai"}
+{"id":"jW2uEvVw","en":"Redstonized","zh_draft":"","zh_ai":"红石化","zh_human":"","zh":"红石化","status":"ai"}
+{"id":"qyu5riK3","en":"Enchant infinite","zh_draft":"","zh_ai":"无限附魔","zh_human":"","zh":"无限附魔","status":"ai"}
