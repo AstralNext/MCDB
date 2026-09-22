@@ -2337,26 +2337,26 @@
 {"id":"qQyYQis1","en":"Taswell","zh_draft":"","zh_ai":"塔斯威尔","zh_human":"","zh":"塔斯威尔","status":"ai"}
 {"id":"gz9iUTYp","en":"Create Aero SMP Server","zh_draft":"","zh_ai":"机械动力航空 SMP 服务器","zh_human":"","zh":"机械动力航空 SMP 服务器","status":"ai"}
 {"id":"pDwbwwdL","en":"DangoSMP","zh_draft":"","zh_ai":"丹果 SMP","zh_human":"","zh":"丹果 SMP","status":"ai"}
-{"id":"BUOpJn6J","en":"Hivecrafting","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HlneDZk6","en":"LDE 3","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Ju1Hl0ed","en":"RoyxZea MC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kgE55nSD","en":"StonedSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"65unlahI","en":"Aetheria SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3G6JsP0f","en":"Fenza","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DZ0e55fG","en":"CMFr","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GhdA77Nv","en":"FC-SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HsAl4CH8","en":"GTAMINE","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IoYCN3fY","en":"Avocado SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LD5LTLWO","en":"NEVERMORE-MC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LQ6YEdZt","en":"Royal SMP Bangladesh","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"M7rdpL4m","en":"HuaxiaPvP - 華夏PvP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QTBuVfrq","en":"EpicQuestz","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TzRqrC6g","en":"UNREAL SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VLaFf5v6","en":"MakeABuilders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XaNPkqa6","en":"SlayMine","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"c8YTIXcz","en":"Skyworld","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"e3ymOTyn","en":"AlpineCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fnxXyyAt","en":"BlockHaven","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iVNa2YA6","en":"ISSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iuyiy3Wb","en":"TitanetMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vrmgG6d6","en":"PotPvP Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"BUOpJn6J","en":"Hivecrafting","zh_draft":"","zh_ai":"蜂巢建造","zh_human":"","zh":"蜂巢建造","status":"ai"}
+{"id":"HlneDZk6","en":"LDE 3","zh_draft":"","zh_ai":"LDE 3","zh_human":"","zh":"LDE 3","status":"ai"}
+{"id":"Ju1Hl0ed","en":"RoyxZea MC","zh_draft":"","zh_ai":"RoyxZea MC","zh_human":"","zh":"RoyxZea MC","status":"ai"}
+{"id":"kgE55nSD","en":"StonedSMP","zh_draft":"","zh_ai":"石质生存","zh_human":"","zh":"石质生存","status":"ai"}
+{"id":"65unlahI","en":"Aetheria SMP","zh_draft":"","zh_ai":"以太界生存","zh_human":"","zh":"以太界生存","status":"ai"}
+{"id":"3G6JsP0f","en":"Fenza","zh_draft":"","zh_ai":"Fenza","zh_human":"","zh":"Fenza","status":"ai"}
+{"id":"DZ0e55fG","en":"CMFr","zh_draft":"","zh_ai":"CMFr","zh_human":"","zh":"CMFr","status":"ai"}
+{"id":"GhdA77Nv","en":"FC-SMP","zh_draft":"","zh_ai":"FC生存模式","zh_human":"","zh":"FC生存模式","status":"ai"}
+{"id":"HsAl4CH8","en":"GTAMINE","zh_draft":"","zh_ai":"GTAMINE","zh_human":"","zh":"GTAMINE","status":"ai"}
+{"id":"IoYCN3fY","en":"Avocado SMP","zh_draft":"","zh_ai":"鳄梨生存","zh_human":"","zh":"鳄梨生存","status":"ai"}
+{"id":"LD5LTLWO","en":"NEVERMORE-MC","zh_draft":"","zh_ai":"永不消逝","zh_human":"","zh":"永不消逝","status":"ai"}
+{"id":"LQ6YEdZt","en":"Royal SMP Bangladesh","zh_draft":"","zh_ai":"皇家生存孟加拉国","zh_human":"","zh":"皇家生存孟加拉国","status":"ai"}
+{"id":"M7rdpL4m","en":"HuaxiaPvP - 華夏PvP","zh_draft":"","zh_ai":"华夏PvP","zh_human":"","zh":"华夏PvP","status":"ai"}
+{"id":"QTBuVfrq","en":"EpicQuestz","zh_draft":"","zh_ai":"史诗寻宝","zh_human":"","zh":"史诗寻宝","status":"ai"}
+{"id":"TzRqrC6g","en":"UNREAL SMP","zh_draft":"","zh_ai":"虚幻生存","zh_human":"","zh":"虚幻生存","status":"ai"}
+{"id":"VLaFf5v6","en":"MakeABuilders","zh_draft":"","zh_ai":"建造者","zh_human":"","zh":"建造者","status":"ai"}
+{"id":"XaNPkqa6","en":"SlayMine","zh_draft":"","zh_ai":"屠矿","zh_human":"","zh":"屠矿","status":"ai"}
+{"id":"c8YTIXcz","en":"Skyworld","zh_draft":"","zh_ai":"天空世界","zh_human":"","zh":"天空世界","status":"ai"}
+{"id":"e3ymOTyn","en":"AlpineCraft","zh_draft":"","zh_ai":"阿尔卑斯工坊","zh_human":"","zh":"阿尔卑斯工坊","status":"ai"}
+{"id":"fnxXyyAt","en":"BlockHaven","zh_draft":"","zh_ai":"方块避难所","zh_human":"","zh":"方块避难所","status":"ai"}
+{"id":"iVNa2YA6","en":"ISSMP","zh_draft":"","zh_ai":"ISS生存模式","zh_human":"","zh":"ISS生存模式","status":"ai"}
+{"id":"iuyiy3Wb","en":"TitanetMC","zh_draft":"","zh_ai":"泰坦网络","zh_human":"","zh":"泰坦网络","status":"ai"}
+{"id":"vrmgG6d6","en":"PotPvP Network","zh_draft":"","zh_ai":"PvP网络","zh_human":"","zh":"PvP网络","status":"ai"}

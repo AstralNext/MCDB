@@ -728,27 +728,27 @@
 {"id":"nRXwiL5V","en":"Maybe Optimized","zh_draft":"","zh_ai":"也许优化","zh_human":"","zh":"也许优化","status":"ai"}
 {"id":"iEsS9pdk","en":"Lightest","zh_draft":"","zh_ai":"最轻","zh_human":"","zh":"最轻","status":"ai"}
 {"id":"hxHTviOD","en":"Pitch Black__","zh_draft":"","zh_ai":"漆黑","zh_human":"","zh":"漆黑","status":"ai"}
-{"id":"RJMGLZ41","en":"RegnaSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VumXJ38S","en":"Backrooms4time","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"celwpzOf","en":"AdventureCogwheels","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5M6Mn38W","en":"Pretty good optimized (Neoforge)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ULAITRUT","en":"cheesiepvp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dgkD7eXJ","en":"Shades 'n' Shine","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nIg3xzXz","en":"Farbound","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KE9O9Evh","en":"WalksysDev Crystal PvP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eYBGNrK1","en":"Dude's Awsome PvP Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MDwesHCq","en":"MCNS ModPack - Create Edition","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7Y9HVwG1","en":"Vybrant Visuals","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"a3zhtpyl","en":"TheoBalds PvP Map","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gpcCiN3A","en":"Handy Servers","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mM1n0y5e","en":"The Herobrine and Null Dweller","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"q2N5Rw2C","en":"Vanilla+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GJwOhCdZ","en":"X's Vanill-ish","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KWBtD9oM","en":"Wildez's Choicepack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"bGj8Nqef","en":"KBGAMING420 ultimate fps bosting pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DVwX5IaF","en":"Rail & Rivet","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RDdXmChQ","en":"Elictra Optimized","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"bSIbm6Pa","en":"Certified Homies Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cTFG2wLq","en":"Mill & Skillet","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jzaM5Uqh","en":"Cobblemon x Confluence","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vMVbv71D","en":"ChuddyPvP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"RJMGLZ41","en":"RegnaSMP","zh_draft":"","zh_ai":"RegnaSMP","zh_human":"","zh":"RegnaSMP","status":"ai"}
+{"id":"VumXJ38S","en":"Backrooms4time","zh_draft":"","zh_ai":"Backrooms4time","zh_human":"","zh":"Backrooms4time","status":"ai"}
+{"id":"celwpzOf","en":"AdventureCogwheels","zh_draft":"","zh_ai":"冒险齿轮","zh_human":"","zh":"冒险齿轮","status":"ai"}
+{"id":"5M6Mn38W","en":"Pretty good optimized (Neoforge)","zh_draft":"","zh_ai":"相当不错的优化(Neoforge)","zh_human":"","zh":"相当不错的优化(Neoforge)","status":"ai"}
+{"id":"ULAITRUT","en":"cheesiepvp","zh_draft":"","zh_ai":"cheesiepvp","zh_human":"","zh":"cheesiepvp","status":"ai"}
+{"id":"dgkD7eXJ","en":"Shades 'n' Shine","zh_draft":"","zh_ai":"阴影与光辉","zh_human":"","zh":"阴影与光辉","status":"ai"}
+{"id":"nIg3xzXz","en":"Farbound","zh_draft":"","zh_ai":"远界","zh_human":"","zh":"远界","status":"ai"}
+{"id":"KE9O9Evh","en":"WalksysDev Crystal PvP","zh_draft":"","zh_ai":"WalksysDev 晶石PvP","zh_human":"","zh":"WalksysDev 晶石PvP","status":"ai"}
+{"id":"eYBGNrK1","en":"Dude's Awsome PvP Pack","zh_draft":"","zh_ai":"Dude的出色PvP包","zh_human":"","zh":"Dude的出色PvP包","status":"ai"}
+{"id":"MDwesHCq","en":"MCNS ModPack - Create Edition","zh_draft":"","zh_ai":"MCNS 模组包 - Create版","zh_human":"","zh":"MCNS 模组包 - Create版","status":"ai"}
+{"id":"7Y9HVwG1","en":"Vybrant Visuals","zh_draft":"","zh_ai":"鲜艳视觉效果","zh_human":"","zh":"鲜艳视觉效果","status":"ai"}
+{"id":"a3zhtpyl","en":"TheoBalds PvP Map","zh_draft":"","zh_ai":"TheoBalds PvP 地图","zh_human":"","zh":"TheoBalds PvP 地图","status":"ai"}
+{"id":"gpcCiN3A","en":"Handy Servers","zh_draft":"","zh_ai":"便捷服务器","zh_human":"","zh":"便捷服务器","status":"ai"}
+{"id":"mM1n0y5e","en":"The Herobrine and Null Dweller","zh_draft":"","zh_ai":"赫洛布林的空行者","zh_human":"","zh":"赫洛布林的空行者","status":"ai"}
+{"id":"q2N5Rw2C","en":"Vanilla+","zh_draft":"","zh_ai":"纯净+","zh_human":"","zh":"纯净+","status":"ai"}
+{"id":"GJwOhCdZ","en":"X's Vanill-ish","zh_draft":"","zh_ai":"X的香草风","zh_human":"","zh":"X的香草风","status":"ai"}
+{"id":"KWBtD9oM","en":"Wildez's Choicepack","zh_draft":"","zh_ai":"Wildez的选择包","zh_human":"","zh":"Wildez的选择包","status":"ai"}
+{"id":"bGj8Nqef","en":"KBGAMING420 ultimate fps bosting pack","zh_draft":"","zh_ai":"KBGAMING420终极FPS提升包","zh_human":"","zh":"KBGAMING420终极FPS提升包","status":"ai"}
+{"id":"DVwX5IaF","en":"Rail & Rivet","zh_draft":"","zh_ai":"轨道与铆钉","zh_human":"","zh":"轨道与铆钉","status":"ai"}
+{"id":"RDdXmChQ","en":"Elictra Optimized","zh_draft":"","zh_ai":"Elictra优化版","zh_human":"","zh":"Elictra优化版","status":"ai"}
+{"id":"bSIbm6Pa","en":"Certified Homies Modpack","zh_draft":"","zh_ai":"认证好友模组包","zh_human":"","zh":"认证好友模组包","status":"ai"}
+{"id":"cTFG2wLq","en":"Mill & Skillet","zh_draft":"","zh_ai":"磨坊与锅","zh_human":"","zh":"磨坊与锅","status":"ai"}
+{"id":"jzaM5Uqh","en":"Cobblemon x Confluence","zh_draft":"","zh_ai":"圆石兽x融合","zh_human":"","zh":"圆石兽x融合","status":"ai"}
+{"id":"vMVbv71D","en":"ChuddyPvP","zh_draft":"","zh_ai":"ChuddyPvP","zh_human":"","zh":"ChuddyPvP","status":"ai"}
