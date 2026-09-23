@@ -752,16 +752,16 @@
 {"id":"cTFG2wLq","en":"Mill & Skillet","zh_draft":"","zh_ai":"磨坊与锅","zh_human":"","zh":"磨坊与锅","status":"ai"}
 {"id":"jzaM5Uqh","en":"Cobblemon x Confluence","zh_draft":"","zh_ai":"圆石兽x融合","zh_human":"","zh":"圆石兽x融合","status":"ai"}
 {"id":"vMVbv71D","en":"ChuddyPvP","zh_draft":"","zh_ai":"ChuddyPvP","zh_human":"","zh":"ChuddyPvP","status":"ai"}
-{"id":"y1jCSrnU","en":"Ashes of Imperium pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xxfYl72c","en":"Abgehebt Mods","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qOtsS8ff","en":"Poorly Optimized","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eU0MvHfc","en":"Fps Perfected","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VZkQjBKJ","en":"Crystal Client","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uiMvO4H9","en":"Donutpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RE3hJFJb","en":"Create: Gridworks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HDkRvSAN","en":"MeepPack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8ytNsraz","en":"DonutSMP Pack 2026","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"y99NMui3","en":"MTR Germany","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2TzgG7Re","en":"The Broken Script Chronicles","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5XK91GQQ","en":"Create: The Air Adventure LITE","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ngKnp40h","en":"Create Purist","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"y1jCSrnU","en":"Ashes of Imperium pack","zh_draft":"","zh_ai":"帝国灰烬包","zh_human":"","zh":"帝国灰烬包","status":"ai"}
+{"id":"xxfYl72c","en":"Abgehebt Mods","zh_draft":"","zh_ai":"Abgehebt模组","zh_human":"","zh":"Abgehebt模组","status":"ai"}
+{"id":"qOtsS8ff","en":"Poorly Optimized","zh_draft":"","zh_ai":"优化不佳","zh_human":"","zh":"优化不佳","status":"ai"}
+{"id":"eU0MvHfc","en":"Fps Perfected","zh_draft":"","zh_ai":"FPS完美化","zh_human":"","zh":"FPS完美化","status":"ai"}
+{"id":"VZkQjBKJ","en":"Crystal Client","zh_draft":"","zh_ai":"水晶客户端","zh_human":"","zh":"水晶客户端","status":"ai"}
+{"id":"uiMvO4H9","en":"Donutpack","zh_draft":"","zh_ai":"甜甜圈包","zh_human":"","zh":"甜甜圈包","status":"ai"}
+{"id":"RE3hJFJb","en":"Create: Gridworks","zh_draft":"","zh_ai":"Create：网格工作","zh_human":"","zh":"Create：网格工作","status":"ai"}
+{"id":"HDkRvSAN","en":"MeepPack","zh_draft":"","zh_ai":"Meep包","zh_human":"","zh":"Meep包","status":"ai"}
+{"id":"8ytNsraz","en":"DonutSMP Pack 2026","zh_draft":"","zh_ai":"甜甜圈SMP包2026","zh_human":"","zh":"甜甜圈SMP包2026","status":"ai"}
+{"id":"y99NMui3","en":"MTR Germany","zh_draft":"","zh_ai":"德国MTR","zh_human":"","zh":"德国MTR","status":"ai"}
+{"id":"2TzgG7Re","en":"The Broken Script Chronicles","zh_draft":"","zh_ai":"破碎脚本纪元","zh_human":"","zh":"破碎脚本纪元","status":"ai"}
+{"id":"5XK91GQQ","en":"Create: The Air Adventure LITE","zh_draft":"","zh_ai":"创造：空中冒险LITE","zh_human":"","zh":"创造：空中冒险LITE","status":"ai"}
+{"id":"ngKnp40h","en":"Create Purist","zh_draft":"","zh_ai":"创造纯净版","zh_human":"","zh":"创造纯净版","status":"ai"}
