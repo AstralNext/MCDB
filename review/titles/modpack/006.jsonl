@@ -781,17 +781,17 @@
 {"id":"eO7ZhxtL","en":"Footlickers Recommended Mods","zh_draft":"","zh_ai":"Footlickers推荐模组","zh_human":"","zh":"Footlickers推荐模组","status":"ai"}
 {"id":"oTqGiAA4","en":"Vulkan Optimized (Covx Edit)","zh_draft":"","zh_ai":"Vulkan优化（Covx编辑）","zh_human":"","zh":"Vulkan优化（Covx编辑）","status":"ai"}
 {"id":"f2vX4qzr","en":"DragonFire CobbleMon","zh_draft":"","zh_ai":"龙火圆石兽","zh_human":"","zh":"龙火圆石兽","status":"ai"}
-{"id":"naJluPmg","en":"Naruto Destination Showcase","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"C5YzQQgW","en":"Complexly Optimized","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Cdfb92wm","en":"MoriaModded","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qscqiOnB","en":"benchy for fantasy","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IFlGdGW4","en":"Sights and Frights","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gScOfKIe","en":"Create: More Factory","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"j2FKvUW8","en":"Matcha Tinted","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2Jd5tq9I","en":"Cobblemon: Dreams & Nightmares","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8AqGnqm6","en":"Smooth Moves","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Hl5ThMJ2","en":"TravellersDelight","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xQFbykzJ","en":"Cheese SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"h89HHJLO","en":"Burger Elite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"tzHmsnUK","en":"my real-world life","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"oIUgozAX","en":"Performance & Visuals","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"naJluPmg","en":"Naruto Destination Showcase","zh_draft":"","zh_ai":"火影忍者目的地展示","zh_human":"","zh":"火影忍者目的地展示","status":"ai"}
+{"id":"C5YzQQgW","en":"Complexly Optimized","zh_draft":"","zh_ai":"深度优化","zh_human":"","zh":"深度优化","status":"ai"}
+{"id":"Cdfb92wm","en":"MoriaModded","zh_draft":"","zh_ai":"莫里亚模组版","zh_human":"","zh":"莫里亚模组版","status":"ai"}
+{"id":"qscqiOnB","en":"benchy for fantasy","zh_draft":"","zh_ai":"奇幻基准测试","zh_human":"","zh":"奇幻基准测试","status":"ai"}
+{"id":"IFlGdGW4","en":"Sights and Frights","zh_draft":"","zh_ai":"奇观与惊悚","zh_human":"","zh":"奇观与惊悚","status":"ai"}
+{"id":"gScOfKIe","en":"Create: More Factory","zh_draft":"","zh_ai":"机械动力：更多工厂","zh_human":"","zh":"机械动力：更多工厂","status":"ai"}
+{"id":"j2FKvUW8","en":"Matcha Tinted","zh_draft":"","zh_ai":"抹茶着色","zh_human":"","zh":"抹茶着色","status":"ai"}
+{"id":"2Jd5tq9I","en":"Cobblemon: Dreams & Nightmares","zh_draft":"","zh_ai":"可博mon：梦想与噩梦","zh_human":"","zh":"可博mon：梦想与噩梦","status":"ai"}
+{"id":"8AqGnqm6","en":"Smooth Moves","zh_draft":"","zh_ai":"平滑移动","zh_human":"","zh":"平滑移动","status":"ai"}
+{"id":"Hl5ThMJ2","en":"TravellersDelight","zh_draft":"","zh_ai":"旅人之悦","zh_human":"","zh":"旅人之悦","status":"ai"}
+{"id":"xQFbykzJ","en":"Cheese SMP","zh_draft":"","zh_ai":"奶酪生存","zh_human":"","zh":"奶酪生存","status":"ai"}
+{"id":"h89HHJLO","en":"Burger Elite","zh_draft":"","zh_ai":"精英汉堡","zh_human":"","zh":"精英汉堡","status":"ai"}
+{"id":"tzHmsnUK","en":"my real-world life","zh_draft":"","zh_ai":"我的现实生活","zh_human":"","zh":"我的现实生活","status":"ai"}
+{"id":"oIUgozAX","en":"Performance & Visuals","zh_draft":"","zh_ai":"性能与画质","zh_human":"","zh":"性能与画质","status":"ai"}
