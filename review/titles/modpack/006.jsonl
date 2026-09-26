@@ -795,8 +795,8 @@
 {"id":"h89HHJLO","en":"Burger Elite","zh_draft":"","zh_ai":"精英汉堡","zh_human":"","zh":"精英汉堡","status":"ai"}
 {"id":"tzHmsnUK","en":"my real-world life","zh_draft":"","zh_ai":"我的现实生活","zh_human":"","zh":"我的现实生活","status":"ai"}
 {"id":"oIUgozAX","en":"Performance & Visuals","zh_draft":"","zh_ai":"性能与画质","zh_human":"","zh":"性能与画质","status":"ai"}
-{"id":"yAkEipq1","en":"NiceMC LTS","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1LHRVwYS","en":"JS: Survival","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RFDd88V5","en":"CASE: Create Aeronautics - Space Exploration","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"reqOgw8U","en":"luay's PvP Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GJpyZsua","en":"Core Optimized","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"yAkEipq1","en":"NiceMC LTS","zh_draft":"","zh_ai":"NiceMC 长期支持版","zh_human":"","zh":"NiceMC 长期支持版","status":"ai"}
+{"id":"1LHRVwYS","en":"JS: Survival","zh_draft":"","zh_ai":"JS 生存","zh_human":"","zh":"JS 生存","status":"ai"}
+{"id":"RFDd88V5","en":"CASE: Create Aeronautics - Space Exploration","zh_draft":"","zh_ai":"创造航空：太空探索","zh_human":"","zh":"创造航空：太空探索","status":"ai"}
+{"id":"reqOgw8U","en":"luay's PvP Modpack","zh_draft":"","zh_ai":"luay 的 PvP 整合包","zh_human":"","zh":"luay 的 PvP 整合包","status":"ai"}
+{"id":"GJpyZsua","en":"Core Optimized","zh_draft":"","zh_ai":"核心优化","zh_human":"","zh":"核心优化","status":"ai"}
