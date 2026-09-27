@@ -2378,29 +2378,29 @@
 {"id":"luow2O1B","en":"AusGG","zh_draft":"","zh_ai":"奥格斯","zh_human":"","zh":"奥格斯","status":"ai"}
 {"id":"oIKvZkGU","en":"Relic smp","zh_draft":"","zh_ai":"遗迹生存模式","zh_human":"","zh":"遗迹生存模式","status":"ai"}
 {"id":"sTzWKUgU","en":"Forged SMP Season 2","zh_draft":"","zh_ai":"锻造生存模式第二赛季","zh_human":"","zh":"锻造生存模式第二赛季","status":"ai"}
-{"id":"FUe8tIJz","en":"gunpvp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"I8BDtnkB","en":"Iron Front","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YwhbhEyY","en":"CobbleChaos_SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FBURlHvu","en":"Factorysmp.net","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vQgAirsZ","en":"Creatify SMP [SEASON 3]","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"59U2Sm1T","en":"CapeSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5kWsz24C","en":"SodaCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FObl3bR9","en":"PancakeSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JditXp7z","en":"Just SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JyKsBRSK","en":"BMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"OzVOEC4L","en":"MigosMc","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"P7qeG4p3","en":"Bloodlines SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SLnEVyOG","en":"PVPBattles","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WQziTxr1","en":"Unstable Universe SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"X2sMqMV1","en":"VanillaFlux","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XA2ftbOG","en":"IdiotSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"a4gA2LR7","en":"Cookiesmp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"alZx3CxU","en":"FifaCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dd9q42z3","en":"CoffeeLand SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dl4P7bn9","en":"Ederus Network - VIP GRATIS /VIP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jUvjilld","en":"UnstablePvP1","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kmob4gad","en":"Moonvale","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lmmdb9hP","en":"unstable remake","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"tAnyQPHa","en":"0w0","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uFsAmThx","en":"maimodserver","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uSjtvjZj","en":"Potato's Café","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"FUe8tIJz","en":"gunpvp","zh_draft":"","zh_ai":"枪战PVP","zh_human":"","zh":"枪战PVP","status":"ai"}
+{"id":"I8BDtnkB","en":"Iron Front","zh_draft":"","zh_ai":"铁甲前线","zh_human":"","zh":"铁甲前线","status":"ai"}
+{"id":"YwhbhEyY","en":"CobbleChaos_SMP","zh_draft":"","zh_ai":"方块混乱SMP","zh_human":"","zh":"方块混乱SMP","status":"ai"}
+{"id":"FBURlHvu","en":"Factorysmp.net","zh_draft":"","zh_ai":"工厂SMP网","zh_human":"","zh":"工厂SMP网","status":"ai"}
+{"id":"vQgAirsZ","en":"Creatify SMP [SEASON 3]","zh_draft":"","zh_ai":"创意SMP [第三季]","zh_human":"","zh":"创意SMP [第三季]","status":"ai"}
+{"id":"59U2Sm1T","en":"CapeSMP","zh_draft":"","zh_ai":"披风SMP","zh_human":"","zh":"披风SMP","status":"ai"}
+{"id":"5kWsz24C","en":"SodaCraft","zh_draft":"","zh_ai":"苏打工坊","zh_human":"","zh":"苏打工坊","status":"ai"}
+{"id":"FObl3bR9","en":"PancakeSMP","zh_draft":"","zh_ai":"煎饼SMP","zh_human":"","zh":"煎饼SMP","status":"ai"}
+{"id":"JditXp7z","en":"Just SMP","zh_draft":"","zh_ai":"简单SMP","zh_human":"","zh":"简单SMP","status":"ai"}
+{"id":"JyKsBRSK","en":"BMC","zh_draft":"","zh_ai":"BMC","zh_human":"","zh":"BMC","status":"ai"}
+{"id":"OzVOEC4L","en":"MigosMc","zh_draft":"","zh_ai":"MigosMc","zh_human":"","zh":"MigosMc","status":"ai"}
+{"id":"P7qeG4p3","en":"Bloodlines SMP","zh_draft":"","zh_ai":"血统SMP","zh_human":"","zh":"血统SMP","status":"ai"}
+{"id":"SLnEVyOG","en":"PVPBattles","zh_draft":"","zh_ai":"PVP战斗","zh_human":"","zh":"PVP战斗","status":"ai"}
+{"id":"WQziTxr1","en":"Unstable Universe SMP","zh_draft":"","zh_ai":"不稳定宇宙SMP","zh_human":"","zh":"不稳定宇宙SMP","status":"ai"}
+{"id":"X2sMqMV1","en":"VanillaFlux","zh_draft":"","zh_ai":"香草流","zh_human":"","zh":"香草流","status":"ai"}
+{"id":"XA2ftbOG","en":"IdiotSMP","zh_draft":"","zh_ai":"傻瓜SMP","zh_human":"","zh":"傻瓜SMP","status":"ai"}
+{"id":"a4gA2LR7","en":"Cookiesmp","zh_draft":"","zh_ai":"饼干SMP","zh_human":"","zh":"饼干SMP","status":"ai"}
+{"id":"alZx3CxU","en":"FifaCraft","zh_draft":"","zh_ai":"FIFA工坊","zh_human":"","zh":"FIFA工坊","status":"ai"}
+{"id":"dd9q42z3","en":"CoffeeLand SMP","zh_draft":"","zh_ai":"咖啡土地SMP","zh_human":"","zh":"咖啡土地SMP","status":"ai"}
+{"id":"dl4P7bn9","en":"Ederus Network - VIP GRATIS /VIP","zh_draft":"","zh_ai":"Ederus网络 - VIP免费/VIP","zh_human":"","zh":"Ederus网络 - VIP免费/VIP","status":"ai"}
+{"id":"jUvjilld","en":"UnstablePvP1","zh_draft":"","zh_ai":"不稳定PvP1","zh_human":"","zh":"不稳定PvP1","status":"ai"}
+{"id":"kmob4gad","en":"Moonvale","zh_draft":"","zh_ai":"月谷","zh_human":"","zh":"月谷","status":"ai"}
+{"id":"lmmdb9hP","en":"unstable remake","zh_draft":"","zh_ai":"不稳定重制版","zh_human":"","zh":"不稳定重制版","status":"ai"}
+{"id":"tAnyQPHa","en":"0w0","zh_draft":"","zh_ai":"0w0","zh_human":"","zh":"0w0","status":"ai"}
+{"id":"uFsAmThx","en":"maimodserver","zh_draft":"","zh_ai":"Mai模组服务器","zh_human":"","zh":"Mai模组服务器","status":"ai"}
+{"id":"uSjtvjZj","en":"Potato's Café","zh_draft":"","zh_ai":"土豆咖啡厅","zh_human":"","zh":"土豆咖啡厅","status":"ai"}

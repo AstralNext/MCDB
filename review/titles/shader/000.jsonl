@@ -874,23 +874,23 @@
 {"id":"elg5yc8k","en":"VarianceFog","zh_draft":"","zh_ai":"方差雾","zh_human":"","zh":"方差雾","status":"ai"}
 {"id":"eyZ7qEt5","en":"Sunlitshaders","zh_draft":"","zh_ai":"阳光着色器","zh_human":"","zh":"阳光着色器","status":"ai"}
 {"id":"jbA7c5LN","en":"Abyss","zh_draft":"","zh_ai":"深渊","zh_human":"","zh":"深渊","status":"ai"}
-{"id":"dJEvIEin","en":"Cealith Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UfByrKDb","en":"United Shader(Beta)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sp1FliB0","en":"Soft Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"T3DBNJDQ","en":"SolisLite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PPtMEiLU","en":"Frangilus Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"M0BPI7hI","en":"procPromo","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uh5zMOHB","en":"Hearthlight","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nXx7itrW","en":"LiteCraft Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WwzQD0SU","en":"PS FPS SHADER","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WWnqhWeH","en":"NeoLux","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PccXNiQo","en":"Fnaf Static Cam Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Sg9Xk4th","en":"AuroraLite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Y2J6yRI1","en":"OD-Horizon Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FXpJpBF6","en":"Lunaris Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JS0DDk1D","en":"AALab","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"R9p5LgWC","en":"Roblox 2008 Hud","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"prStxnfl","en":"Dappled Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wbbGdolS","en":"Black Hole Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wlMXrWqB","en":"AmiArchiveShader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"woNcvB9X","en":"Seconds Before Purge","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"dJEvIEin","en":"Cealith Shaders","zh_draft":"","zh_ai":"Cealith光影","zh_human":"","zh":"Cealith光影","status":"ai"}
+{"id":"UfByrKDb","en":"United Shader(Beta)","zh_draft":"","zh_ai":"联合光影（测试版）","zh_human":"","zh":"联合光影（测试版）","status":"ai"}
+{"id":"sp1FliB0","en":"Soft Shader","zh_draft":"","zh_ai":"柔和光影","zh_human":"","zh":"柔和光影","status":"ai"}
+{"id":"T3DBNJDQ","en":"SolisLite","zh_draft":"","zh_ai":"SolisLite光影","zh_human":"","zh":"SolisLite光影","status":"ai"}
+{"id":"PPtMEiLU","en":"Frangilus Shaders","zh_draft":"","zh_ai":"Frangilus光影","zh_human":"","zh":"Frangilus光影","status":"ai"}
+{"id":"M0BPI7hI","en":"procPromo","zh_draft":"","zh_ai":"procPromo","zh_human":"","zh":"procPromo","status":"ai"}
+{"id":"uh5zMOHB","en":"Hearthlight","zh_draft":"","zh_ai":"炉火之光","zh_human":"","zh":"炉火之光","status":"ai"}
+{"id":"nXx7itrW","en":"LiteCraft Shader","zh_draft":"","zh_ai":"LiteCraft光影","zh_human":"","zh":"LiteCraft光影","status":"ai"}
+{"id":"WwzQD0SU","en":"PS FPS SHADER","zh_draft":"","zh_ai":"PS风格FPS光影","zh_human":"","zh":"PS风格FPS光影","status":"ai"}
+{"id":"WWnqhWeH","en":"NeoLux","zh_draft":"","zh_ai":"NeoLux光影","zh_human":"","zh":"NeoLux光影","status":"ai"}
+{"id":"PccXNiQo","en":"Fnaf Static Cam Shader","zh_draft":"","zh_ai":"FNAF静态监控光影","zh_human":"","zh":"FNAF静态监控光影","status":"ai"}
+{"id":"Sg9Xk4th","en":"AuroraLite","zh_draft":"","zh_ai":"AuroraLite光影","zh_human":"","zh":"AuroraLite光影","status":"ai"}
+{"id":"Y2J6yRI1","en":"OD-Horizon Shaders","zh_draft":"","zh_ai":"OD地平线光影","zh_human":"","zh":"OD地平线光影","status":"ai"}
+{"id":"FXpJpBF6","en":"Lunaris Shader","zh_draft":"","zh_ai":"Lunaris光影","zh_human":"","zh":"Lunaris光影","status":"ai"}
+{"id":"JS0DDk1D","en":"AALab","zh_draft":"","zh_ai":"AALab","zh_human":"","zh":"AALab","status":"ai"}
+{"id":"R9p5LgWC","en":"Roblox 2008 Hud","zh_draft":"","zh_ai":"Roblox 2008 HUD","zh_human":"","zh":"Roblox 2008 HUD","status":"ai"}
+{"id":"prStxnfl","en":"Dappled Shaders","zh_draft":"","zh_ai":"Dappled光影","zh_human":"","zh":"Dappled光影","status":"ai"}
+{"id":"wbbGdolS","en":"Black Hole Shader","zh_draft":"","zh_ai":"黑洞光影","zh_human":"","zh":"黑洞光影","status":"ai"}
+{"id":"wlMXrWqB","en":"AmiArchiveShader","zh_draft":"","zh_ai":"AmiArchive光影","zh_human":"","zh":"AmiArchive光影","status":"ai"}
+{"id":"woNcvB9X","en":"Seconds Before Purge","zh_draft":"","zh_ai":"净化倒计时","zh_human":"","zh":"净化倒计时","status":"ai"}
