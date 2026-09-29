@@ -2406,14 +2406,14 @@
 {"id":"uSjtvjZj","en":"Potato's Café","zh_draft":"","zh_ai":"土豆咖啡厅","zh_human":"","zh":"土豆咖啡厅","status":"ai"}
 {"id":"7vIlJRCG","en":"DuduSMP","zh_draft":"","zh_ai":"嘟嘟生存模式","zh_human":"","zh":"嘟嘟生存模式","status":"ai"}
 {"id":"k0HDjagp","en":"madosy","zh_draft":"","zh_ai":"马多西","zh_human":"","zh":"马多西","status":"ai"}
-{"id":"3vD6rYM6","en":"ReignMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"t3dTlg2d","en":"PETABLOCKS: Create 2","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8Aez2khr","en":"Kaizen Network (Minecraft Server Indonesia)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8K5yhseD","en":"Steal A Spawner","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CaLT36uL","en":"LoyalSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GwXCrjoc","en":"Classic SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HdbIeoyc","en":"WizeCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QMxhyY23","en":"RemnantSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"g4z8o5bP","en":"LushVanilla","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sxjsI1QK","en":"EpsiMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vyZTLve3","en":"Stellovia No Grief SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"3vD6rYM6","en":"ReignMC","zh_draft":"","zh_ai":"ReignMC","zh_human":"","zh":"ReignMC","status":"ai"}
+{"id":"t3dTlg2d","en":"PETABLOCKS: Create 2","zh_draft":"","zh_ai":"PETABLOCKS: 创建2","zh_human":"","zh":"PETABLOCKS: 创建2","status":"ai"}
+{"id":"8Aez2khr","en":"Kaizen Network (Minecraft Server Indonesia)","zh_draft":"","zh_ai":"Kaizen网络（印度尼西亚Minecraft服务器）","zh_human":"","zh":"Kaizen网络（印度尼西亚Minecraft服务器）","status":"ai"}
+{"id":"8K5yhseD","en":"Steal A Spawner","zh_draft":"","zh_ai":"偷取刷怪笼","zh_human":"","zh":"偷取刷怪笼","status":"ai"}
+{"id":"CaLT36uL","en":"LoyalSMP","zh_draft":"","zh_ai":"忠诚生存模式","zh_human":"","zh":"忠诚生存模式","status":"ai"}
+{"id":"GwXCrjoc","en":"Classic SMP","zh_draft":"","zh_ai":"经典生存模式","zh_human":"","zh":"经典生存模式","status":"ai"}
+{"id":"HdbIeoyc","en":"WizeCraft","zh_draft":"","zh_ai":"WizeCraft","zh_human":"","zh":"WizeCraft","status":"ai"}
+{"id":"QMxhyY23","en":"RemnantSMP","zh_draft":"","zh_ai":"遗迹生存模式","zh_human":"","zh":"遗迹生存模式","status":"ai"}
+{"id":"g4z8o5bP","en":"LushVanilla","zh_draft":"","zh_ai":"繁茂原版","zh_human":"","zh":"繁茂原版","status":"ai"}
+{"id":"sxjsI1QK","en":"EpsiMC","zh_draft":"","zh_ai":"EpsiMC","zh_human":"","zh":"EpsiMC","status":"ai"}
+{"id":"vyZTLve3","en":"Stellovia No Grief SMP","zh_draft":"","zh_ai":"Stellovia无破坏生存模式","zh_human":"","zh":"Stellovia无破坏生存模式","status":"ai"}
