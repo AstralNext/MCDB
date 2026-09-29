@@ -801,19 +801,19 @@
 {"id":"reqOgw8U","en":"luay's PvP Modpack","zh_draft":"","zh_ai":"luay 的 PvP 整合包","zh_human":"","zh":"luay 的 PvP 整合包","status":"ai"}
 {"id":"GJpyZsua","en":"Core Optimized","zh_draft":"","zh_ai":"核心优化","zh_human":"","zh":"核心优化","status":"ai"}
 {"id":"w4SHS2Zp","en":"OTV Micheal Reeves Techpack","zh_draft":"","zh_ai":"OTV迈克尔·里夫斯科技包","zh_human":"","zh":"OTV迈克尔·里夫斯科技包","status":"ai"}
-{"id":"YHeRdgxP","en":"Fabulously Matcha","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"G1g1OMYm","en":"SWS 4 Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"raICYAQr","en":"FoxAndCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NpY7iKjJ","en":"SkyCraft Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9YASU5Cd","en":"CraftAttack14","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"M8NZmd2I","en":"D3XTERS MC PACK","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"48ckb6s5","en":"Timeworn Kingdoms","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"C3gkhuQl","en":"Lightweight [FPS]","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FTEupt75","en":"guns & tanks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TbBDZoo7","en":"VastCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mTSrSidX","en":"Frozen Horror Scape","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4pqoJasf","en":"AntiUtopia","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"BiIDD78g","en":"Nexora Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PH1p4yVR","en":"Vons Animation and More","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SSldMtYC","en":"Squaredlemon's Universe","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nWugCPas","en":"Seth adv","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"YHeRdgxP","en":"Fabulously Matcha","zh_draft":"","zh_ai":"奇妙抹茶","zh_human":"","zh":"奇妙抹茶","status":"ai"}
+{"id":"G1g1OMYm","en":"SWS 4 Modpack","zh_draft":"","zh_ai":"SWS 4 整合包","zh_human":"","zh":"SWS 4 整合包","status":"ai"}
+{"id":"raICYAQr","en":"FoxAndCraft","zh_draft":"","zh_ai":"狐狸与工艺","zh_human":"","zh":"狐狸与工艺","status":"ai"}
+{"id":"NpY7iKjJ","en":"SkyCraft Modpack","zh_draft":"","zh_ai":"天空工艺整合包","zh_human":"","zh":"天空工艺整合包","status":"ai"}
+{"id":"9YASU5Cd","en":"CraftAttack14","zh_draft":"","zh_ai":"工艺攻击14","zh_human":"","zh":"工艺攻击14","status":"ai"}
+{"id":"M8NZmd2I","en":"D3XTERS MC PACK","zh_draft":"","zh_ai":"D3XTERS MC 包","zh_human":"","zh":"D3XTERS MC 包","status":"ai"}
+{"id":"48ckb6s5","en":"Timeworn Kingdoms","zh_draft":"","zh_ai":"时光王国","zh_human":"","zh":"时光王国","status":"ai"}
+{"id":"C3gkhuQl","en":"Lightweight [FPS]","zh_draft":"","zh_ai":"轻量级 [FPS]","zh_human":"","zh":"轻量级 [FPS]","status":"ai"}
+{"id":"FTEupt75","en":"guns & tanks","zh_draft":"","zh_ai":"枪与坦克","zh_human":"","zh":"枪与坦克","status":"ai"}
+{"id":"TbBDZoo7","en":"VastCraft","zh_draft":"","zh_ai":"广阔工艺","zh_human":"","zh":"广阔工艺","status":"ai"}
+{"id":"mTSrSidX","en":"Frozen Horror Scape","zh_draft":"","zh_ai":"冰冻恐怖世界","zh_human":"","zh":"冰冻恐怖世界","status":"ai"}
+{"id":"4pqoJasf","en":"AntiUtopia","zh_draft":"","zh_ai":"反乌托邦","zh_human":"","zh":"反乌托邦","status":"ai"}
+{"id":"BiIDD78g","en":"Nexora Modpack","zh_draft":"","zh_ai":"Nexora 整合包","zh_human":"","zh":"Nexora 整合包","status":"ai"}
+{"id":"PH1p4yVR","en":"Vons Animation and More","zh_draft":"","zh_ai":"Vons 动画与更多","zh_human":"","zh":"Vons 动画与更多","status":"ai"}
+{"id":"SSldMtYC","en":"Squaredlemon's Universe","zh_draft":"","zh_ai":"Squaredlemon 的宇宙","zh_human":"","zh":"Squaredlemon 的宇宙","status":"ai"}
+{"id":"nWugCPas","en":"Seth adv","zh_draft":"","zh_ai":"Seth 高级版","zh_human":"","zh":"Seth 高级版","status":"ai"}
