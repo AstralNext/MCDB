@@ -835,38 +835,38 @@
 {"id":"FIoF4Z0p","en":"Wonderland Investigation Corp","zh_draft":"","zh_ai":"仙境调查公司","zh_human":"","zh":"仙境调查公司","status":"ai"}
 {"id":"NxbqvIPg","en":"Perfected by Kittyu","zh_draft":"","zh_ai":"Kittyu完善版","zh_human":"","zh":"Kittyu完善版","status":"ai"}
 {"id":"yB0DGMLq","en":"Pringle's Optimizations Modpack","zh_draft":"","zh_ai":"普林的优化整合包","zh_human":"","zh":"普林的优化整合包","status":"ai"}
-{"id":"mIPq8s0V","en":"Crazy Craft Server Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZDWaC32U","en":"OneClient (SkyBlock)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nO0JyMGs","en":"Fishy's Client","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZwagWG3A","en":"lilacs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1Zyzx84h","en":"Hydra Studio opti-Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jSYfn9oO","en":"小方小镇推荐整合包(xiaofang-server-pack)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"n2h9UpVl","en":"mechatronics","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qK6BIywV","en":"Familiar but Better","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZrCapNpF","en":"Radoemon Vanilla Plus","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nVzzAi4D","en":"Just Good Enough","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"H7hMaagU","en":"Helios Lite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lCAwcLam","en":"Coffee Flavored","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7p8KKsFq","en":"Fps+ Optimised","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"H9HaTVjp","en":"Horror Mecanisms","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5ZDOF02q","en":"optimized customDV","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Bumw7al7","en":"Slairian SMP Core","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"q7IhdhwU","en":"Matcha Plus Plus","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1jyA9DfB","en":"Nights in Misthelm","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"N6XDUoYg","en":"Vanilla Perfected: PvP & Performance","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QuPh0YK2","en":"Create: No Man's Land","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YIzUlzC0","en":"rbzcraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5n0KOjuW","en":"Pure Vision","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RhxXv78l","en":"All Of Utility 3","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"tNwaeFhN","en":"Create: Maximized","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vYY3pUB6","en":"Vanilla Velocity","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3EViPAcR","en":"Nexo's MC Renewed","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Oxan3sQ1","en":"Modern Optimized","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YQCFJCSm","en":"G&R SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pM3U6lTy","en":"CoreX: CombatBoost","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"q7ebU6by","en":"OptiAll","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zWZvR5GU","en":"Refined Vanilla: Explore","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DQ75OSPO","en":"Ultimate Hypixel Dungeons","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"mIPq8s0V","en":"Crazy Craft Server Modpack","zh_draft":"","zh_ai":"疯狂工艺服务器整合包","zh_human":"","zh":"疯狂工艺服务器整合包","status":"ai"}
+{"id":"ZDWaC32U","en":"OneClient (SkyBlock)","zh_draft":"","zh_ai":"OneClient空岛版","zh_human":"","zh":"OneClient空岛版","status":"ai"}
+{"id":"nO0JyMGs","en":"Fishy's Client","zh_draft":"","zh_ai":"Fishy的客户端","zh_human":"","zh":"Fishy的客户端","status":"ai"}
+{"id":"ZwagWG3A","en":"lilacs","zh_draft":"","zh_ai":"丁香花","zh_human":"","zh":"丁香花","status":"ai"}
+{"id":"1Zyzx84h","en":"Hydra Studio opti-Modpack","zh_draft":"","zh_ai":"九头蛇工作室优化整合包","zh_human":"","zh":"九头蛇工作室优化整合包","status":"ai"}
+{"id":"jSYfn9oO","en":"小方小镇推荐整合包(xiaofang-server-pack)","zh_draft":"","zh_ai":"小方小镇推荐整合包","zh_human":"","zh":"小方小镇推荐整合包","status":"ai"}
+{"id":"n2h9UpVl","en":"mechatronics","zh_draft":"","zh_ai":"机电","zh_human":"","zh":"机电","status":"ai"}
+{"id":"qK6BIywV","en":"Familiar but Better","zh_draft":"","zh_ai":"熟悉但更好","zh_human":"","zh":"熟悉但更好","status":"ai"}
+{"id":"ZrCapNpF","en":"Radoemon Vanilla Plus","zh_draft":"","zh_ai":"Radoemon原版增强","zh_human":"","zh":"Radoemon原版增强","status":"ai"}
+{"id":"nVzzAi4D","en":"Just Good Enough","zh_draft":"","zh_ai":"刚刚好","zh_human":"","zh":"刚刚好","status":"ai"}
+{"id":"H7hMaagU","en":"Helios Lite","zh_draft":"","zh_ai":"赫利俄斯精简版","zh_human":"","zh":"赫利俄斯精简版","status":"ai"}
+{"id":"lCAwcLam","en":"Coffee Flavored","zh_draft":"","zh_ai":"咖啡味","zh_human":"","zh":"咖啡味","status":"ai"}
+{"id":"7p8KKsFq","en":"Fps+ Optimised","zh_draft":"","zh_ai":"帧数增强优化","zh_human":"","zh":"帧数增强优化","status":"ai"}
+{"id":"H9HaTVjp","en":"Horror Mecanisms","zh_draft":"","zh_ai":"恐怖机制","zh_human":"","zh":"恐怖机制","status":"ai"}
+{"id":"5ZDOF02q","en":"optimized customDV","zh_draft":"","zh_ai":"优化自定义DV","zh_human":"","zh":"优化自定义DV","status":"ai"}
+{"id":"Bumw7al7","en":"Slairian SMP Core","zh_draft":"","zh_ai":"Slairian生存服核心","zh_human":"","zh":"Slairian生存服核心","status":"ai"}
+{"id":"q7IhdhwU","en":"Matcha Plus Plus","zh_draft":"","zh_ai":"抹茶增强版","zh_human":"","zh":"抹茶增强版","status":"ai"}
+{"id":"1jyA9DfB","en":"Nights in Misthelm","zh_draft":"","zh_ai":"迷雾头盔之夜","zh_human":"","zh":"迷雾头盔之夜","status":"ai"}
+{"id":"N6XDUoYg","en":"Vanilla Perfected: PvP & Performance","zh_draft":"","zh_ai":"完美原版：PVP与性能","zh_human":"","zh":"完美原版：PVP与性能","status":"ai"}
+{"id":"QuPh0YK2","en":"Create: No Man's Land","zh_draft":"","zh_ai":"机械动力：无人区","zh_human":"","zh":"机械动力：无人区","status":"ai"}
+{"id":"YIzUlzC0","en":"rbzcraft","zh_draft":"","zh_ai":"rbz工艺","zh_human":"","zh":"rbz工艺","status":"ai"}
+{"id":"5n0KOjuW","en":"Pure Vision","zh_draft":"","zh_ai":"纯净视野","zh_human":"","zh":"纯净视野","status":"ai"}
+{"id":"RhxXv78l","en":"All Of Utility 3","zh_draft":"","zh_ai":"实用工具大全3","zh_human":"","zh":"实用工具大全3","status":"ai"}
+{"id":"tNwaeFhN","en":"Create: Maximized","zh_draft":"","zh_ai":"机械动力：极致","zh_human":"","zh":"机械动力：极致","status":"ai"}
+{"id":"vYY3pUB6","en":"Vanilla Velocity","zh_draft":"","zh_ai":"原版速度","zh_human":"","zh":"原版速度","status":"ai"}
+{"id":"3EViPAcR","en":"Nexo's MC Renewed","zh_draft":"","zh_ai":"Nexo的MC重制版","zh_human":"","zh":"Nexo的MC重制版","status":"ai"}
+{"id":"Oxan3sQ1","en":"Modern Optimized","zh_draft":"","zh_ai":"现代优化","zh_human":"","zh":"现代优化","status":"ai"}
+{"id":"YQCFJCSm","en":"G&R SMP","zh_draft":"","zh_ai":"G&R生存服","zh_human":"","zh":"G&R生存服","status":"ai"}
+{"id":"pM3U6lTy","en":"CoreX: CombatBoost","zh_draft":"","zh_ai":"CoreX：战斗增强","zh_human":"","zh":"CoreX：战斗增强","status":"ai"}
+{"id":"q7ebU6by","en":"OptiAll","zh_draft":"","zh_ai":"全面优化","zh_human":"","zh":"全面优化","status":"ai"}
+{"id":"zWZvR5GU","en":"Refined Vanilla: Explore","zh_draft":"","zh_ai":"精炼原版：探索","zh_human":"","zh":"精炼原版：探索","status":"ai"}
+{"id":"DQ75OSPO","en":"Ultimate Hypixel Dungeons","zh_draft":"","zh_ai":"终极Hypixel地牢","zh_human":"","zh":"终极Hypixel地牢","status":"ai"}
 {"id":"NapA6VeM","en":"Cool Guns V1","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
 {"id":"kDi5GUz1","en":"BLOKEDEX","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
 {"id":"mM6B7mxo","en":"Age of Cataclysm","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}

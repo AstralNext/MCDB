@@ -2417,9 +2417,9 @@
 {"id":"g4z8o5bP","en":"LushVanilla","zh_draft":"","zh_ai":"繁茂原版","zh_human":"","zh":"繁茂原版","status":"ai"}
 {"id":"sxjsI1QK","en":"EpsiMC","zh_draft":"","zh_ai":"EpsiMC","zh_human":"","zh":"EpsiMC","status":"ai"}
 {"id":"vyZTLve3","en":"Stellovia No Grief SMP","zh_draft":"","zh_ai":"Stellovia无破坏生存模式","zh_human":"","zh":"Stellovia无破坏生存模式","status":"ai"}
-{"id":"TjmynZpl","en":"WanderCraft Server Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jepX5eQt","en":"Cogweels+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Bf3mM1hX","en":"CobblemonsOCE","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CUBaQaUO","en":"CheeseySMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"aE9LHi7Z","en":"KooshiranSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wkNkaALf","en":"AlexMC Survival","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"TjmynZpl","en":"WanderCraft Server Modpack","zh_draft":"","zh_ai":"流浪工艺服模组包","zh_human":"","zh":"流浪工艺服模组包","status":"ai"}
+{"id":"jepX5eQt","en":"Cogweels+","zh_draft":"","zh_ai":"齿轮之翼+","zh_human":"","zh":"齿轮之翼+","status":"ai"}
+{"id":"Bf3mM1hX","en":"CobblemonsOCE","zh_draft":"","zh_ai":"石头兽 OCE","zh_human":"","zh":"石头兽 OCE","status":"ai"}
+{"id":"CUBaQaUO","en":"CheeseySMP","zh_draft":"","zh_ai":"奶酪生存模式","zh_human":"","zh":"奶酪生存模式","status":"ai"}
+{"id":"aE9LHi7Z","en":"KooshiranSMP","zh_draft":"","zh_ai":"库希兰生存模式","zh_human":"","zh":"库希兰生存模式","status":"ai"}
+{"id":"wkNkaALf","en":"AlexMC Survival","zh_draft":"","zh_ai":"亚历克斯生存模式","zh_human":"","zh":"亚历克斯生存模式","status":"ai"}
