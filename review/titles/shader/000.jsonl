@@ -902,6 +902,6 @@
 {"id":"cOGguazG","en":"Daydream","zh_draft":"","zh_ai":"白日梦","zh_human":"","zh":"白日梦","status":"ai"}
 {"id":"GboFX9a3","en":"Potato Lite Shader - low performance","zh_draft":"","zh_ai":"土豆Lite光影-低性能","zh_human":"","zh":"土豆Lite光影-低性能","status":"ai"}
 {"id":"YyPJLm6m","en":"Elytrune Shaders","zh_draft":"","zh_ai":"Elytrune光影","zh_human":"","zh":"Elytrune光影","status":"ai"}
-{"id":"HSeYKX4p","en":"UltraLow Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"y4W832kH","en":"ReasonableView","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nshTeIRo","en":"MiniatureXL","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"HSeYKX4p","en":"UltraLow Shader","zh_draft":"","zh_ai":"超低画质光影","zh_human":"","zh":"超低画质光影","status":"ai"}
+{"id":"y4W832kH","en":"ReasonableView","zh_draft":"","zh_ai":"合理视野","zh_human":"","zh":"合理视野","status":"ai"}
+{"id":"nshTeIRo","en":"MiniatureXL","zh_draft":"","zh_ai":"微缩 XL","zh_human":"","zh":"微缩 XL","status":"ai"}
