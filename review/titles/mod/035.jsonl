@@ -207,3 +207,230 @@
 {"id":"ye7RkjPH","en":"Cobblestone/BetonQuest","zh_draft":"","zh_ai":"圆石/混凝土任务","zh_human":"","zh":"圆石/混凝土任务","status":"ai"}
 {"id":"yvAuwtSz","en":"ViewTune","zh_draft":"","zh_ai":"视图调整","zh_human":"","zh":"视图调整","status":"ai"}
 {"id":"yymA1eNT","en":"Alx100k's Easier Armor Trims","zh_draft":"","zh_ai":"Alx100k 的简化护甲修剪","zh_human":"","zh":"Alx100k 的简化护甲修剪","status":"ai"}
+{"id":"ygrTCMCg","en":"Quick Chat Improvement","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"BOHUKqOz","en":"MezzConfigGUI","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"71o627pK","en":"Rutile","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"86Ej6Ufa","en":"MultiverseNets","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"wgDhY8a5","en":"TitleScape","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"qfyfplVv","en":"Helden Grappling Hook","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"rI3KHFuu","en":"Octane","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"J0G2d9dS","en":"ChatColorGUI","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"R5HVf1Pm","en":"AdvancedVillages","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"fAEQcmuJ","en":"Fabric Guard","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"3NZltmXU","en":"ShopPlusPlus","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"3ChpDEi0","en":"Altar arc 2","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Rb2yxGrH","en":"headfirework-paper","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Ucb3qQMX","en":"LifeStealExtras","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"b3JpEAnf","en":"RodStasis","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Doch4aP1","en":"RoGuard","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"qQfjLbhT","en":"Kyouyuu","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"MkbjQw8C","en":"Walking Generates the World","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"3TZY2i7f","en":"STALKER Cubed | Reborn (SCR)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"O80X5A2X","en":"Block Variant Swapper","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"XrtcfUrP","en":"Runes SMP Plugin","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"cXpi1W3M","en":"MCrosAuthRegister","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"TdPnUcYg","en":"Server Ping Display","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"rFotOi0p","en":"StaffUtils","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"sBsIFZf0","en":"Flood Guard","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"5tVh4IT7","en":"Caves Everywhere","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"DR973FAN","en":"GigaProtect","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"IzR2Tleh","en":"VerityAi","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"bbg3fxPk","en":"Reposte","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"fSWiyp6P","en":"GensCore","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"wao9iPVR","en":"aura mod","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"z75uv1Pl","en":"Create Connected: Encased","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"8zsKQb1f","en":"Oreo Sushi","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"9KmtE7kB","en":"Force Item Battle","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"DWWbGJmF","en":"Hollow Purple","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"FIZvTgMF","en":"ecotp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"GSB9UeFn","en":"AxoTools","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"HZSrlFnH","en":"TomVanish","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"KRkUREPv","en":"PolyZoom","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"eYEHVuOQ","en":"Fully Loaded from the Start","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ih49bvPH","en":"TelegramDiscordBridge","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ndjjjOtb","en":"Dungeons & Dominion: The Dark Age","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"pd2X3PHk","en":"ReimaginedParticles","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ulp1v2NZ","en":"Tech Ascension","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"vdbb0fEL","en":"Bridge","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"zbKBIl2c","en":"Anvil Insight","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"zltG2GkM","en":"Blocksmith - Voxel Weapons","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"6JIVR8bP","en":"MaxSmp Lifesteal","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"6fGN6rei","en":"[NCB]新世纪道路方块","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"886J0am9","en":"SpectrumOnlineReward","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"APSF0h7I","en":"OPMace","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"OyX9kium","en":"Elytra Limiter","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Q4pnfz2R","en":"Sethome, TPA, Warp, Back","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"RXZNENBE","en":"AsyncRTP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"RZ9M5fg4","en":"Gem Mod","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"RoN37xk2","en":"redstone radioactive","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"UNVgxtQW","en":"Legi Timer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"VuB74FtY","en":"Censera's Teleportation","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"WhwKe8Qt","en":"SpectraEvents","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"YxjJrCsC","en":"libaiplugin","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ZTol5toM","en":"Wandering traders selling car insurance","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ZskwRrqO","en":"ImageMOTD","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"auYPWPM7","en":"Simple Redstone Remote","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"b2P2YNKy","en":"Multi Shop","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"bBDwmmdd","en":"ShulkerGames","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ekX2Nsqa","en":"Appli Juice","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"mpwwYmep","en":"All Items by OPNiki","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"nsK1gIMc","en":"Forced Emoting","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"rB4xUTza","en":"Vivid AFK Camera","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"rOn6C8vE","en":"SafetyCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"u7QmGaH2","en":"Wandering Merchants","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"zDuFA9Er","en":"uuidswap","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"1AF145cM","en":"GodX","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"HCsFwvGx","en":"SMPlugin","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"R6It6Qkz","en":"MoneySMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Ua09hxKJ","en":"stasis_paper_fix","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"clnq73Lf","en":"PVPInvite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"fTYwLO9n","en":"AutoAirdrop","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"k4kdMvNt","en":"Fake Player Count","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"kCN2ztRA","en":"Bat Friend","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ksvlohJU","en":"potionsmp server plugin","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"yDzmXPQ9","en":"HeadEmotes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"zZPiL6P1","en":"Storm Survival Runtime Compat","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"4QltgJpy","en":"Potion of Flight","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"68OqXNL4","en":"ArenaCore","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"872kLGkM","en":"ThrowableThings","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"BfVcQE99","en":"Can it break?","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"C72APnC6","en":"SpiritEnd","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"CWgmVQua","en":"TNT Hopper Protect","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"CvfjNrzA","en":"EasyNBT","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Dke5HQyw","en":"ClaimParticles","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"FhuOseLc","en":"LubruCore","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"FzyohVQd","en":"Activity Economy","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"KHz5kIcW","en":"Faster Bamboo","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"O8CJkobo","en":"Metoor's Player Contracts","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"QjT24JN9","en":"NickName","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"V1qVM86W","en":"Woodcarved","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"a0Fv8C8s","en":"Even More Swords","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"bqdkggkU","en":"Create: Petro Deposits","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"c5qLB9YR","en":"Jellow's Extra Hearts","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"cIG9O6Jj","en":"BuildBattle","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ci9lYVkV","en":"Throw and Slingshot","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"dMMaBxfo","en":"MultiDrop","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"dOvP0KVE","en":"Battle Pass","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"dfkiZ9eX","en":"Altar Pedestal Raplica","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"eB9NgMFU","en":"VerityKick","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"i2fiZ1Bi","en":"Woods","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"iCKofzyn","en":"Fungal Footing","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"iEMMfnk0","en":"MyRegion","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"j8VEYlIP","en":"[咱们下棋吧！] Let's Chess!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"kfau7nXS","en":"Ancient Tech","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"o9zoTkWZ","en":"Purple Infection Mod","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"pWRnz2cA","en":"ArkShield-AI","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"psl2aJwV","en":"Custom Generators","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"rAa0vCoN","en":"Black Wood","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"rUVwMyWX","en":"Tab List Hider","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"t0EZOk4Z","en":"eEconomy","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"tGhsxSxq","en":"copperboost","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"umQNMx1f","en":"Changepassword for proxy ( GolabPassword )","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"yevB8ob1","en":"BeastMcMMORedeem","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"1qUB1bxy","en":"Right Click Harvest","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"54fBj5Kh","en":"OmniRepair","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"5h6Y2HxU","en":"ValleyAuth","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"5zbgvVH1","en":"Battlepoint Team Tool","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"6KQ59sXK","en":"Particle Text","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"6hd8fYaQ","en":"Homes GUI","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"76Usiuyg","en":"Plugin Reload","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"7Iv0mGEN","en":"Bloody Name Tag","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"8JOpVQ8g","en":"eHome","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"91rOadIt","en":"MaceNerf","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"9DNHe7uv","en":"Server Steady","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"AiljoYTz","en":"BetterSurvival","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"CIB5QHV3","en":"nnpc","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"CTiYVVf1","en":"Golem Spawn Animation: Copper Golem Addon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"GCKBqF7u","en":"CozyTools","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"GEXe5lQU","en":"TerrainPlace","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"GbF5N39G","en":"Harmless Creepers","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Jj20wPjS","en":"flow smp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"N5fsXuVG","en":"OwnServerStatus","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"NicfxcWZ","en":"Vanta FFA","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"NkM3ubnn","en":"Team tool","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"SAVZFGiS","en":"MiniRanks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"SiKHnBqg","en":"CombatKeepInventory Velocity","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"SxqfhQNM","en":"Auto Broadcast","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"UAcomlOO","en":"Simple Verify","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"VCTbPhOE","en":"Soundwave","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"W6D9dXcc","en":"Block_ID","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"WLKJc3Xs","en":"AxoDisplay","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"YA7FY15q","en":"PrismCoords","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"canIjZ5v","en":"Special Items","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"duOXFGEm","en":"Durability Ping","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"gKefL22m","en":"RTP Duels","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"h2ti6TyY","en":"Fun's Simple Tpa !","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"hmsyeAkL","en":"AquaClan","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"iCLQHLke","en":"SimpleInfection","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"iZSy5nGx","en":"JarFetcher","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"imf6X3t7","en":"SmpRestrictions","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"l3O7n4fi","en":"Server Error Tool","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"nr4MLt0s","en":"Crystal Hit's","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"oC9RP7t0","en":"Backpacks1653","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"oFUj8Q2N","en":"AdminTools Lite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"qxPeA7DR","en":"SpeedVaro","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"rGsD6ZfH","en":"NekoMusume","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"tW3mxxRW","en":"Increased Tool Damage","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"uhBecpA4","en":"ApxBounty","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"xU0f3pxv","en":"ServerOptimiserX","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ymHaVIO4","en":"KAISET","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"zpoqD4CV","en":"PotionStacker","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"25l8hHDZ","en":"ChestPin","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"3mxoFAqu","en":"Staff Bhop","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"5rJ6kQTe","en":"carestySMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"5uCaPwjL","en":"LifeForge","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"99q83kcy","en":"XenPacks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"9snurfLu","en":"AlamHeadsAPI","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ARR1eAsa","en":"ChunkDelete","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"B35ezMEC","en":"ApxHome","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"C8xqAdX4","en":"WeaponsUltimate","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"CUVG17EU","en":"CombatKeepInventory","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"CqBCPXfj","en":"ApxSell","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"FuoG3x7W","en":"DDS-Manager","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"HLqenVPJ","en":"Orbital Arrow Rod","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"IlA8wzoP","en":"PetOwnershipUtils","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"JCHJZbMw","en":"Shopify","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"M30jZapy","en":"alamteams","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"MI1qnHAK","en":"Proximity Text Chat","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"NuNy9IXG","en":"Death Swap Advanced","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"QCPjZCIM","en":"BakaKits","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"VfKleupN","en":"DuelsPlugin","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"VmXypBCd","en":"WiwaWarn","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"XgdsMEUE","en":"Chadplus","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Xn5iSUcN","en":"Hardcore Reset - Shared Lives SMP World Reset","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"YwDJNNGX","en":"Bounty Plus","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ZRoJQUDG","en":"ArtifactForge","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ZpikW0k9","en":"Optimizer(Redstone,Mob) TPS NO LAG","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"aaUHxaCB","en":"AxoMobs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"asXxtVAY","en":"Ultimate Chat","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"bUuFS2Zb","en":"PlayersWarpsPlus","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"d3D8O4kP","en":"LiteAuth","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"i7Ek7UiM","en":"WildTame","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ij2tr6GV","en":"NoLagLite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"lPTAyRo8","en":"Brewhouse","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"o2aqgR1Y","en":"HubPilot Interact","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"q1gfg6mr","en":"TrimChanger","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"qZXKw3x6","en":"SpawnerShopBridge","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"tL73vijp","en":"LLib","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"u9H4ZeMr","en":"RamOptimiserX","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"z06eGwHM","en":"Armo","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"zDy23o4T","en":"Arena Regeneration","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"3rpkQcGW","en":"Discord Link","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"4cVFQ3ps","en":"SoulsPlugin","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"6tCGspl8","en":"Geyser Auto Updater","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"8I5mZ0Aq","en":"Auction House","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"AlSGhM8C","en":"StrikePlus","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"E3RZDAYw","en":"Orders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"MUM3kvnX","en":"Kits+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"P6pnfSLj","en":"EmailBind","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"QJJHEsAJ","en":"ChatToggler(SmileSMP)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"RBomt3pe","en":"Auto Eat","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"UBHbIMK7","en":"JujutsuFight","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"WMAgLUtG","en":"StormCrates","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Wp95LD2m","en":"MeowProfile","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"j1dsZiV5","en":"Voice Chat | Admin Addons","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"k1YexFb4","en":"BotX","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"kz5nr6OW","en":"RelicShard","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"oMWxhAu0","en":"NowTheyTalk","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"rTaM1TDE","en":"WaitingPL","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"uG0JAhIq","en":"ECOSHARD","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
