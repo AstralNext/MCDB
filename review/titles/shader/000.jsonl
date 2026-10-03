@@ -908,11 +908,11 @@
 {"id":"2cw8yKvY","en":"PotatoGlow","zh_draft":"","zh_ai":"土豆发光","zh_human":"","zh":"土豆发光","status":"ai"}
 {"id":"1L9qsAbm","en":"Colorblindness Shaders","zh_draft":"","zh_ai":"色盲着色器","zh_human":"","zh":"色盲着色器","status":"ai"}
 {"id":"wzS9q73B","en":"EchoShader","zh_draft":"","zh_ai":"回声着色器","zh_human":"","zh":"回声着色器","status":"ai"}
-{"id":"vU3ltJcl","en":"Super-Duper-Vanilla-2","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"y5vfr9HA","en":"Realis","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CNDxwBeO","en":"AetherRealism","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"grDZyCea","en":"WarmToon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xRdgoveU","en":"CineFrame","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"94NeFeu4","en":"Salicylic Lite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Bw9ayJxa","en":"TB Shader BestGraphic","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QtsvJBsT","en":"Flow Reimagined","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"vU3ltJcl","en":"Super-Duper-Vanilla-2","zh_draft":"","zh_ai":"超级原版2","zh_human":"","zh":"超级原版2","status":"ai"}
+{"id":"y5vfr9HA","en":"Realis","zh_draft":"","zh_ai":"写实","zh_human":"","zh":"写实","status":"ai"}
+{"id":"CNDxwBeO","en":"AetherRealism","zh_draft":"","zh_ai":"天堂写实","zh_human":"","zh":"天堂写实","status":"ai"}
+{"id":"grDZyCea","en":"WarmToon","zh_draft":"","zh_ai":"暖色卡通","zh_human":"","zh":"暖色卡通","status":"ai"}
+{"id":"xRdgoveU","en":"CineFrame","zh_draft":"","zh_ai":"电影帧","zh_human":"","zh":"电影帧","status":"ai"}
+{"id":"94NeFeu4","en":"Salicylic Lite","zh_draft":"","zh_ai":"水杨酸Lite","zh_human":"","zh":"水杨酸Lite","status":"ai"}
+{"id":"Bw9ayJxa","en":"TB Shader BestGraphic","zh_draft":"","zh_ai":"TB光影最佳画质","zh_human":"","zh":"TB光影最佳画质","status":"ai"}
+{"id":"QtsvJBsT","en":"Flow Reimagined","zh_draft":"","zh_ai":"流动重制","zh_human":"","zh":"流动重制","status":"ai"}

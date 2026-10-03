@@ -1017,12 +1017,12 @@
 {"id":"KbW1OXyO","en":"Z's Cobblemon+ Modpack","zh_draft":"","zh_ai":"Z 的宝可梦增强整合包","zh_human":"","zh":"Z 的宝可梦增强整合包","status":"ai"}
 {"id":"HjkxpgBu","en":"Horror+ : untitled.log","zh_draft":"","zh_ai":"恐怖+：未命名日志","zh_human":"","zh":"恐怖+：未命名日志","status":"ai"}
 {"id":"lrQ5GqzI","en":"Medieval Miraculous","zh_draft":"","zh_ai":"中世纪奇迹","zh_human":"","zh":"中世纪奇迹","status":"ai"}
-{"id":"PzDWscEf","en":"Starry Shark","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4xNojz4S","en":"Better & Vanilla","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Z6KvgfSv","en":"Vanilla Awakened – Geronimo Server Edition","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HIajUweM","en":"Cave Game Archives","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"u3LoRMtr","en":"ZXoptifabric","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"l0dHczzV","en":"Distance Horizion","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6gt4aYf6","en":"The X95 PVP Client","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Ec8FowtS","en":"BROKEN CRAFT","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dqAA0nOp","en":"Roleplay Basics","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"PzDWscEf","en":"Starry Shark","zh_draft":"","zh_ai":"星鲨","zh_human":"","zh":"星鲨","status":"ai"}
+{"id":"4xNojz4S","en":"Better & Vanilla","zh_draft":"","zh_ai":"更好与原版","zh_human":"","zh":"更好与原版","status":"ai"}
+{"id":"Z6KvgfSv","en":"Vanilla Awakened – Geronimo Server Edition","zh_draft":"","zh_ai":"原版觉醒-杰罗尼莫服务器版","zh_human":"","zh":"原版觉醒-杰罗尼莫服务器版","status":"ai"}
+{"id":"HIajUweM","en":"Cave Game Archives","zh_draft":"","zh_ai":"洞穴游戏档案","zh_human":"","zh":"洞穴游戏档案","status":"ai"}
+{"id":"u3LoRMtr","en":"ZXoptifabric","zh_draft":"","zh_ai":"ZX优化织物","zh_human":"","zh":"ZX优化织物","status":"ai"}
+{"id":"l0dHczzV","en":"Distance Horizion","zh_draft":"","zh_ai":"距离地平线","zh_human":"","zh":"距离地平线","status":"ai"}
+{"id":"6gt4aYf6","en":"The X95 PVP Client","zh_draft":"","zh_ai":"X95 PVP 客户端","zh_human":"","zh":"X95 PVP 客户端","status":"ai"}
+{"id":"Ec8FowtS","en":"BROKEN CRAFT","zh_draft":"","zh_ai":"破碎工艺","zh_human":"","zh":"破碎工艺","status":"ai"}
+{"id":"dqAA0nOp","en":"Roleplay Basics","zh_draft":"","zh_ai":"角色扮演基础","zh_human":"","zh":"角色扮演基础","status":"ai"}
