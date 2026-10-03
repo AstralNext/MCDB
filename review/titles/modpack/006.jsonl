@@ -1003,17 +1003,17 @@
 {"id":"QoM7iN3C","en":"Berko's Vanilla+","zh_draft":"","zh_ai":"贝尔科的纯净+","zh_human":"","zh":"贝尔科的纯净+","status":"ai"}
 {"id":"apQRY5O7","en":"GloveCraft Life","zh_draft":"","zh_ai":"手套工艺生活","zh_human":"","zh":"手套工艺生活","status":"ai"}
 {"id":"jySaUp68","en":"Endless Ocean Survival","zh_draft":"","zh_ai":"无尽海洋生存","zh_human":"","zh":"无尽海洋生存","status":"ai"}
-{"id":"GKWrypX6","en":"AJ's Vanilla Enhanced","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rvD7OeRU","en":"ZenkaiSmp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jt7uoFO1","en":"OptiVisuals","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"oYPBphFE","en":"Horror+ : Wonderland.jar","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TAQBIYRG","en":"Vanilla Refined","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"b9z1Y9RN","en":"Live and Let","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5mAnpurW","en":"Fine - Beautiful Vanilla","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"agxBtrPP","en":"NotchHaveMercy","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vQbVy0y7","en":"Create: Skyborn","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"aw2PxPI0","en":"SoulModpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uD3fFdcS","en":"Create: Overdrive","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KbW1OXyO","en":"Z's Cobblemon+ Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HjkxpgBu","en":"Horror+ : untitled.log","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lrQ5GqzI","en":"Medieval Miraculous","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"GKWrypX6","en":"AJ's Vanilla Enhanced","zh_draft":"","zh_ai":"AJ 原版增强","zh_human":"","zh":"AJ 原版增强","status":"ai"}
+{"id":"rvD7OeRU","en":"ZenkaiSmp","zh_draft":"","zh_ai":"赛亚人 SMP","zh_human":"","zh":"赛亚人 SMP","status":"ai"}
+{"id":"jt7uoFO1","en":"OptiVisuals","zh_draft":"","zh_ai":"视觉优化","zh_human":"","zh":"视觉优化","status":"ai"}
+{"id":"oYPBphFE","en":"Horror+ : Wonderland.jar","zh_draft":"","zh_ai":"恐怖+：仙境","zh_human":"","zh":"恐怖+：仙境","status":"ai"}
+{"id":"TAQBIYRG","en":"Vanilla Refined","zh_draft":"","zh_ai":"精致原版","zh_human":"","zh":"精致原版","status":"ai"}
+{"id":"b9z1Y9RN","en":"Live and Let","zh_draft":"","zh_ai":"生活与自由","zh_human":"","zh":"生活与自由","status":"ai"}
+{"id":"5mAnpurW","en":"Fine - Beautiful Vanilla","zh_draft":"","zh_ai":"精美原版","zh_human":"","zh":"精美原版","status":"ai"}
+{"id":"agxBtrPP","en":"NotchHaveMercy","zh_draft":"","zh_ai":"诺奇怜悯","zh_human":"","zh":"诺奇怜悯","status":"ai"}
+{"id":"vQbVy0y7","en":"Create: Skyborn","zh_draft":"","zh_ai":"机械动力：天启","zh_human":"","zh":"机械动力：天启","status":"ai"}
+{"id":"aw2PxPI0","en":"SoulModpack","zh_draft":"","zh_ai":"灵魂整合包","zh_human":"","zh":"灵魂整合包","status":"ai"}
+{"id":"uD3fFdcS","en":"Create: Overdrive","zh_draft":"","zh_ai":"机械动力：超频","zh_human":"","zh":"机械动力：超频","status":"ai"}
+{"id":"KbW1OXyO","en":"Z's Cobblemon+ Modpack","zh_draft":"","zh_ai":"Z 的宝可梦增强整合包","zh_human":"","zh":"Z 的宝可梦增强整合包","status":"ai"}
+{"id":"HjkxpgBu","en":"Horror+ : untitled.log","zh_draft":"","zh_ai":"恐怖+：未命名日志","zh_human":"","zh":"恐怖+：未命名日志","status":"ai"}
+{"id":"lrQ5GqzI","en":"Medieval Miraculous","zh_draft":"","zh_ai":"中世纪奇迹","zh_human":"","zh":"中世纪奇迹","status":"ai"}
