@@ -1026,8 +1026,8 @@
 {"id":"6gt4aYf6","en":"The X95 PVP Client","zh_draft":"","zh_ai":"X95 PVP 客户端","zh_human":"","zh":"X95 PVP 客户端","status":"ai"}
 {"id":"Ec8FowtS","en":"BROKEN CRAFT","zh_draft":"","zh_ai":"破碎工艺","zh_human":"","zh":"破碎工艺","status":"ai"}
 {"id":"dqAA0nOp","en":"Roleplay Basics","zh_draft":"","zh_ai":"角色扮演基础","zh_human":"","zh":"角色扮演基础","status":"ai"}
-{"id":"Czpd74HA","en":"Secure Contain Profit","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fMdxDJMf","en":"Jarton's Create","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HWGOXeDT","en":"Aetheria: Create & Horizon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ztjdQDqT","en":"Bridger","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Y3GevD8h","en":"Vnator's Modpack Evolution","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Czpd74HA","en":"Secure Contain Profit","zh_draft":"","zh_ai":"SCP 基金会","zh_human":"","zh":"SCP 基金会","status":"ai"}
+{"id":"fMdxDJMf","en":"Jarton's Create","zh_draft":"","zh_ai":"Jarton 的机械动力","zh_human":"","zh":"Jarton 的机械动力","status":"ai"}
+{"id":"HWGOXeDT","en":"Aetheria: Create & Horizon","zh_draft":"","zh_ai":"艾瑟利亚：机械动力与地平线","zh_human":"","zh":"艾瑟利亚：机械动力与地平线","status":"ai"}
+{"id":"ztjdQDqT","en":"Bridger","zh_draft":"","zh_ai":"架桥者","zh_human":"","zh":"架桥者","status":"ai"}
+{"id":"Y3GevD8h","en":"Vnator's Modpack Evolution","zh_draft":"","zh_ai":"Vnator 的模组包进化","zh_human":"","zh":"Vnator 的模组包进化","status":"ai"}

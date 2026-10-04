@@ -461,46 +461,46 @@
 {"id":"GvBK0NR7","en":"Enchanting Tooltip","zh_draft":"","zh_ai":"附魔提示框","zh_human":"","zh":"附魔提示框","status":"ai"}
 {"id":"fWy5ocNd","en":"Bundle Tweak","zh_draft":"","zh_ai":"捆绑调整","zh_human":"","zh":"捆绑调整","status":"ai"}
 {"id":"N5xY3Q5Z","en":"BetaDecayTweaks","zh_draft":"","zh_ai":"Beta衰减调整","zh_human":"","zh":"Beta衰减调整","status":"ai"}
-{"id":"VpjoJklj","en":"Mega Axe","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QTlibMMD","en":"Sodium Zoom","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QimgLR9Y","en":"Emerald Uses","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RM4GgEYC","en":"Better Smelting","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iBWCJrIY","en":"The Reverie - Your First Dreams","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"k35Zgpww","en":"The Roots of Ancient Magic","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qJTROISx","en":"FoilCarpet","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"OshIlsdQ","en":"ContextKeys","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QGwkCy7k","en":"Transcendental","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Wku0sf1m","en":"Seed 404","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XIb19KRF","en":"Endless Dunes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"scy9C0gB","en":"Worldborder Plus","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3xhpjTms","en":"Animal Kingdom:Coypu","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4ueML5nI","en":"Dreamy mcmmo","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JZog1vTO","en":"Papermatica","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MyOaxqYp","en":"Qommons","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"O3Hawscb","en":"SkyTrainFolia","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"R6C9M89a","en":"Dash Mace","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SSuF9Eow","en":"Grenadier","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"V4aJ8ImJ","en":"HYPER MC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZMcGQnNy","en":"Whiplash (Hooklash)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"aCnkA16l","en":"X-tra Vehicles","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"reeR1x6Y","en":"Recondite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"u87mvDvX","en":"The Ferryman","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"v4D94QEV","en":"Fake Bedrock (Real)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wxElr9IO","en":"Ar1a's Music Disc Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"33xu0AZi","en":"AutoBuyChest","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3BMYnPi5","en":"ShelfNames","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QLBN0OG0","en":"Abel's Expression Recipes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"f6aKxUrg","en":"Watchdog","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4Wm3YdA6","en":"SteelWorks Weapons n' Equipment","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"N63dUNZc","en":"Alpha Tweaks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"P1iTqBYB","en":"Ultimate Casino","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SQcP6Vfq","en":"Do an Over Roll","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YE9eRgok","en":"Advancement Count","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"beuyrsNC","en":"Adaptation Wheel - [JJK]","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dv910YUb","en":"SpookySeason","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gJ8oc1HS","en":"RedPaw's Cookies & More!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"igVGiWKH","en":"TPSGraph","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ix1BkV6q","en":"Wanted","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"VpjoJklj","en":"Mega Axe","zh_draft":"","zh_ai":"巨斧","zh_human":"","zh":"巨斧","status":"ai"}
+{"id":"QTlibMMD","en":"Sodium Zoom","zh_draft":"","zh_ai":"钠缩放","zh_human":"","zh":"钠缩放","status":"ai"}
+{"id":"QimgLR9Y","en":"Emerald Uses","zh_draft":"","zh_ai":"翡翠用途","zh_human":"","zh":"翡翠用途","status":"ai"}
+{"id":"RM4GgEYC","en":"Better Smelting","zh_draft":"","zh_ai":"更好的熔炼","zh_human":"","zh":"更好的熔炼","status":"ai"}
+{"id":"iBWCJrIY","en":"The Reverie - Your First Dreams","zh_draft":"","zh_ai":"梦境 - 你的第一个梦","zh_human":"","zh":"梦境 - 你的第一个梦","status":"ai"}
+{"id":"k35Zgpww","en":"The Roots of Ancient Magic","zh_draft":"","zh_ai":"古代魔法的根源","zh_human":"","zh":"古代魔法的根源","status":"ai"}
+{"id":"qJTROISx","en":"FoilCarpet","zh_draft":"","zh_ai":"箔纸地毯","zh_human":"","zh":"箔纸地毯","status":"ai"}
+{"id":"OshIlsdQ","en":"ContextKeys","zh_draft":"","zh_ai":"上下文键","zh_human":"","zh":"上下文键","status":"ai"}
+{"id":"QGwkCy7k","en":"Transcendental","zh_draft":"","zh_ai":"超越的","zh_human":"","zh":"超越的","status":"ai"}
+{"id":"Wku0sf1m","en":"Seed 404","zh_draft":"","zh_ai":"种子 404","zh_human":"","zh":"种子 404","status":"ai"}
+{"id":"XIb19KRF","en":"Endless Dunes","zh_draft":"","zh_ai":"无尽沙丘","zh_human":"","zh":"无尽沙丘","status":"ai"}
+{"id":"scy9C0gB","en":"Worldborder Plus","zh_draft":"","zh_ai":"世界边界增强版","zh_human":"","zh":"世界边界增强版","status":"ai"}
+{"id":"3xhpjTms","en":"Animal Kingdom:Coypu","zh_draft":"","zh_ai":"动物王国:水豚","zh_human":"","zh":"动物王国:水豚","status":"ai"}
+{"id":"4ueML5nI","en":"Dreamy mcmmo","zh_draft":"","zh_ai":"梦幻 mcmmo","zh_human":"","zh":"梦幻 mcmmo","status":"ai"}
+{"id":"JZog1vTO","en":"Papermatica","zh_draft":"","zh_ai":"纸制机械","zh_human":"","zh":"纸制机械","status":"ai"}
+{"id":"MyOaxqYp","en":"Qommons","zh_draft":"","zh_ai":"Qommons","zh_human":"","zh":"Qommons","status":"ai"}
+{"id":"O3Hawscb","en":"SkyTrainFolia","zh_draft":"","zh_ai":"天空列车叶","zh_human":"","zh":"天空列车叶","status":"ai"}
+{"id":"R6C9M89a","en":"Dash Mace","zh_draft":"","zh_ai":"冲刺战锤","zh_human":"","zh":"冲刺战锤","status":"ai"}
+{"id":"SSuF9Eow","en":"Grenadier","zh_draft":"","zh_ai":"榴弹兵","zh_human":"","zh":"榴弹兵","status":"ai"}
+{"id":"V4aJ8ImJ","en":"HYPER MC","zh_draft":"","zh_ai":"超 MC","zh_human":"","zh":"超 MC","status":"ai"}
+{"id":"ZMcGQnNy","en":"Whiplash (Hooklash)","zh_draft":"","zh_ai":"鞭子 (钩刺)","zh_human":"","zh":"鞭子 (钩刺)","status":"ai"}
+{"id":"aCnkA16l","en":"X-tra Vehicles","zh_draft":"","zh_ai":"X-tra 车辆","zh_human":"","zh":"X-tra 车辆","status":"ai"}
+{"id":"reeR1x6Y","en":"Recondite","zh_draft":"","zh_ai":"深奥的","zh_human":"","zh":"深奥的","status":"ai"}
+{"id":"u87mvDvX","en":"The Ferryman","zh_draft":"","zh_ai":"渡船夫","zh_human":"","zh":"渡船夫","status":"ai"}
+{"id":"v4D94QEV","en":"Fake Bedrock (Real)","zh_draft":"","zh_ai":"假基岩 (真实)","zh_human":"","zh":"假基岩 (真实)","status":"ai"}
+{"id":"wxElr9IO","en":"Ar1a's Music Disc Pack","zh_draft":"","zh_ai":"Ar1a音乐唱片包","zh_human":"","zh":"Ar1a音乐唱片包","status":"ai"}
+{"id":"33xu0AZi","en":"AutoBuyChest","zh_draft":"","zh_ai":"自动购买箱子","zh_human":"","zh":"自动购买箱子","status":"ai"}
+{"id":"3BMYnPi5","en":"ShelfNames","zh_draft":"","zh_ai":"货架名称","zh_human":"","zh":"货架名称","status":"ai"}
+{"id":"QLBN0OG0","en":"Abel's Expression Recipes","zh_draft":"","zh_ai":"亚伯的表情食谱","zh_human":"","zh":"亚伯的表情食谱","status":"ai"}
+{"id":"f6aKxUrg","en":"Watchdog","zh_draft":"","zh_ai":"看门狗","zh_human":"","zh":"看门狗","status":"ai"}
+{"id":"4Wm3YdA6","en":"SteelWorks Weapons n' Equipment","zh_draft":"","zh_ai":"钢铁工坊武器与装备","zh_human":"","zh":"钢铁工坊武器与装备","status":"ai"}
+{"id":"N63dUNZc","en":"Alpha Tweaks","zh_draft":"","zh_ai":"阿尔法调整","zh_human":"","zh":"阿尔法调整","status":"ai"}
+{"id":"P1iTqBYB","en":"Ultimate Casino","zh_draft":"","zh_ai":"终极赌场","zh_human":"","zh":"终极赌场","status":"ai"}
+{"id":"SQcP6Vfq","en":"Do an Over Roll","zh_draft":"","zh_ai":"进行一次翻滚","zh_human":"","zh":"进行一次翻滚","status":"ai"}
+{"id":"YE9eRgok","en":"Advancement Count","zh_draft":"","zh_ai":"进度计数","zh_human":"","zh":"进度计数","status":"ai"}
+{"id":"beuyrsNC","en":"Adaptation Wheel - [JJK]","zh_draft":"","zh_ai":"适应轮 - [JJK]","zh_human":"","zh":"适应轮 - [JJK]","status":"ai"}
+{"id":"dv910YUb","en":"SpookySeason","zh_draft":"","zh_ai":"诡异季节","zh_human":"","zh":"诡异季节","status":"ai"}
+{"id":"gJ8oc1HS","en":"RedPaw's Cookies & More!","zh_draft":"","zh_ai":"红爪饼干与更多！","zh_human":"","zh":"红爪饼干与更多！","status":"ai"}
+{"id":"igVGiWKH","en":"TPSGraph","zh_draft":"","zh_ai":"TPS图","zh_human":"","zh":"TPS图","status":"ai"}
+{"id":"ix1BkV6q","en":"Wanted","zh_draft":"","zh_ai":"通缉","zh_human":"","zh":"通缉","status":"ai"}
 {"id":"rOCKAz5M","en":"Zipline","zh_draft":"","zh_ai":"滑索","zh_human":"","zh":"滑索","status":"ai"}
 {"id":"4I5z9R6N","en":"mc-fallback","zh_draft":"","zh_ai":"备用模式","zh_human":"","zh":"备用模式","status":"ai"}
 {"id":"5TM1qVWb","en":"Vanish Max","zh_draft":"","zh_ai":"隐身大师","zh_human":"","zh":"隐身大师","status":"ai"}
@@ -550,173 +550,173 @@
 {"id":"rv7gPknA","en":"Beyond hardcore","zh_draft":"","zh_ai":"超越极限","zh_human":"","zh":"超越极限","status":"ai"}
 {"id":"sprVeX4l","en":"W's Not So Fast!","zh_draft":"","zh_ai":"W并不快！","zh_human":"","zh":"W并不快！","status":"ai"}
 {"id":"zNrJNOMt","en":"TsunamiLib","zh_draft":"","zh_ai":"海啸库","zh_human":"","zh":"海啸库","status":"ai"}
-{"id":"WMfrqhiq","en":"Player Death Count","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hFwdrY43","en":"Hoverboards","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Z8QEczA1","en":"QOL Recipes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"tzz89uO2","en":"SHIELD SIGHT","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nypVYIsZ","en":"LogPass","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vwXIDHcR","en":"Sedq's Invis Particle Exception","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lyNkLzLc","en":"Looping Discs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4gjoyw3M","en":"FriendGUI","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QsWiy0Ar","en":"Better End Cities","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"U91EpUMZ","en":"Customitems","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"aNudKo6A","en":"BigBazedAndCazed","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hVpxuOxt","en":"Advanced Staff","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KRPNQzFP","en":"Incognito","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SPh6m4k5","en":"MikuHAProxy","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ku29fH0z","en":"Just Races","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3icQINIy","en":"Tessera","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cq9zgGOl","en":"Logged Out","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xk0cx4UM","en":"mAuth","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"BTUvA5MV","en":"AnonymousPotion","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LGopUhqV","en":"No Totem Pop","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Om56fQuY","en":"Go-Rin No Sho: A Sengoku Jidai Addon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dmko4TIa","en":"In RP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xY9ABlqT","en":"RG_WEAPONS","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yMOXWXJo","en":"Proximity Radio Client","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5JEQS9GX","en":"Bonemeal sugarcane","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VkfvHOVI","en":"DarkyDev Stats","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1IVTblBO","en":"LandBuy","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4HrUUvRT","en":"LuckyOre","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Ee9ROVpv","en":"UnderRated CoreX","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"H3gLwDNX","en":"Zoomyy","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LEurqogI","en":"DependencyManager","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"z8BJJSIe","en":"DsmpMusic","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"AHHRwmPt","en":"PauseButton","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DYGvKVGB","en":"Slime Height Spawn 69–150","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eCKYdSbN","en":"Hardcore Soulbound","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3D4Vemsj","en":"Staff-Investigator","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GK7MDjqv","en":"Flux Spear","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TuKJ7sFk","en":"CoordinatesIE","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Uhe8RN30","en":"Vanilla NPCs And Quests","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Xf3Phnsb","en":"NeonFX","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hTIrhm2M","en":"SpawnReset","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"q7LjMyfO","en":"CauldronDispensers","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2T9CuOZC","en":"Beehive Blaster","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3bzuRXr6","en":"AutoModpack4Paper","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7KKCMHOd","en":"HeartWarden","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9VbHpjao","en":"Unstrip","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9fR5E9SY","en":"hNoArmorstand","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SKVa9CUN","en":"Overclock","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UQzNYkqI","en":"Unistats","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"a1PgECKA","en":"Happy Filter","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dkC7RUDm","en":"Berry holograms","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eERDa8Ka","en":"Resource World","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gNP9YNab","en":"GuardPlus","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"i6mjW3z6","en":"Nouveau Enchanting","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mKyPYB6E","en":"MicroDiscord","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"o5vqh1aW","en":"ModerationPlugin","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"w02ntftQ","en":"RexGraves","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Yb9HK7jH","en":"Jukebox Records","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZRybXlNb","en":"mReports","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mTf5b8aO","en":"Enchanting Table","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qKOaJHpD","en":"ControlMaces","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zJN1Id0Z","en":"PobBlob","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1whVY6bc","en":"Orbit Auctions","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2sjgkHP1","en":"KyleTeamLite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3PFd8ZSk","en":"Pale Cannon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"49loBBFR","en":"BluesAnnouncements","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"52mf8riO","en":"talismatics","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"592QMg96","en":"VaultChatProvider","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5Ve6NOo7","en":"Vulcans Crossbow","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6aRppTYl","en":"FastGamma","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7j4hZ8Wc","en":"Orbit Utilities","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8XLqyaEN","en":"Nightpiercer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8a7zeQlo","en":"Hypnosis Staff","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8nVPoFl5","en":"Echo","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"96Ym9kEe","en":"Dragon Katana","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9hSQiwy8","en":"MaskUI","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"APr1VBaX","en":"Force AegisAC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"BL55bayj","en":"Chaos Lives","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Br9Be9MS","en":"FulInv","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DSTe3gu4","en":"Orbit Bounties","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Dki5IPWT","en":"ErNews","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ErDuK582","en":"Bloodlust","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FeKSSsD7","en":"Sculkweavers Lantern","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FgaegnX4","en":"GGFeatures","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GQqobHiT","en":"DASHSWORD PLUGIN","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GT50AlHF","en":"RS GoldenHeads","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"I7GnQouP","en":"mAuction","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KaX6C15M","en":"Pure Blade","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KdGswqCW","en":"WartAdmin","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"L4jRQRRW","en":"Orbit Shops","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Luqh03Jf","en":"Wand Of Illusion","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LwnyU9u0","en":"Trodden","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"M5cgpJSl","en":"Immortal's Admin Tools","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"M7IRqUKw","en":"Map Clear","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MATBry27","en":"Orbit Crates","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MPp4nAJF","en":"EasyHomes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NFc9BNZA","en":"Wither Bone Blade","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NZugWzQo","en":"Universal Voice Connector","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Nw0mUhPp","en":"Emerald Blade","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"OiAyYOkE","en":"Magma Cannon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"P6tyy9lz","en":"Clicky Links","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QatbRndr","en":"Orbit Warps","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"R9YAyf4p","en":"Tidebreaker","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SXOnxsxd","en":"Hyperion","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Tkp054CP","en":"Clutching Gives OP Loot","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"U94X953Z","en":"Sonic Crossbow","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UaO9XjUN","en":"Knightfall","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VIEc33gz","en":"mProfile","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VJtq8DR3","en":"Loadoutsmp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VdgSEA7m","en":"Windweaver","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VoGJIntS","en":"Wither Symbiote","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WPDQ50Yv","en":"Midas Sword","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WdKczM5e","en":"Nuke Remote","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XmUXnM6h","en":"LiverTab","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Xy4mkk6q","en":"DailyRewards+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YhQCnm5j","en":"AFK Area","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZnBk9SRG","en":"Orbit Skills","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"aYBuZ1oa","en":"Random World Spawn","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"b3LQhDSZ","en":"Omen","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"bUqHHGh0","en":"Zenith AntiCheat Lite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"bnR7CtdS","en":"CropPlantPlugin","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"c8GRebd6","en":"Orbit Quests","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cpvp2YBv","en":"PlayersStats","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"d0TveZYq","en":"Gift Codes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dIqAd2sh","en":"mcimporter","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dhCOrWg7","en":"LongerPotions","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eu5pXdHN","en":"Orbit Kits","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"f24UUNJ6","en":"mEvents","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fJ5iFLOV","en":"HomesIE","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fUXw3gJ5","en":"Expconomy","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fzN2sem1","en":"Orbit Homes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gF6zpPcK","en":"Shadow Blade","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gN09lkPg","en":"Wtrade","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gWdzxTvV","en":"Poseidons Trident","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gyQHQE4t","en":"Wtpa","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iGtgi0ng","en":"CryptoCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iYKNr2Ja","en":"Orbit Trading","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jJ7GFrDR","en":"Killstreak","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jJwAGApd","en":"DiscForge Runtime","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jj786PYf","en":"Easy Lectern Reroll","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lGnVoLgR","en":"VxTIPSPlugin","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"la0bTS5Z","en":"Striker","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nNxbGXMG","en":"Frost Scythe","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nzb4MOyk","en":"MegaFo Pickaxe","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"oRLcpNvd","en":"smilkiisSuffixes - Titles","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pX0qG7nf","en":"SimpleAFK+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"phZcJKjN","en":"War Pick","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rGEeqjUJ","en":"checkpoint","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"tXNtnWDy","en":"qUtils","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"tYLbDXhh","en":"AnonymByInvis","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"tvKUKvcp","en":"DeathBan","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vYP3GdAq","en":"bloodbound smp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"w6WNca70","en":"Paladins Battle Axe","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wPrb3icr","en":"Cutlass","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wkpPyXi2","en":"Offline Pause","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xRnPO3qS","en":"Chests Ultimate","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yAtguAQw","en":"Epic Homes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yORZQEJg","en":"Vanish","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zF0GlpLK","en":"Eclipse","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zQzmeJcF","en":"Dragon Egg Netherite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8j6aIUvM","en":"ForgeEngine","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GvsVln9G","en":"FxHomes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IREfxsxp","en":"mCases","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"OdAuarAy","en":"SafeTPFirewall","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Qkl2V5oh","en":"Flour and Dough Recipes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"aQYVxu4G","en":"mCodes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uhx7d5RL","en":"BungeeJoinMessages","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"v2hBxjI6","en":"AutoSellChest","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vM678ked","en":"Tiers Packs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9h8KCIbX","en":"Early Game Shulker Boxes (Travel Boxes)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"WMfrqhiq","en":"Player Death Count","zh_draft":"","zh_ai":"玩家死亡计数","zh_human":"","zh":"玩家死亡计数","status":"ai"}
+{"id":"hFwdrY43","en":"Hoverboards","zh_draft":"","zh_ai":"悬浮滑板","zh_human":"","zh":"悬浮滑板","status":"ai"}
+{"id":"Z8QEczA1","en":"QOL Recipes","zh_draft":"","zh_ai":"品质生活配方","zh_human":"","zh":"品质生活配方","status":"ai"}
+{"id":"tzz89uO2","en":"SHIELD SIGHT","zh_draft":"","zh_ai":"盾牌视野","zh_human":"","zh":"盾牌视野","status":"ai"}
+{"id":"nypVYIsZ","en":"LogPass","zh_draft":"","zh_ai":"日志通行证","zh_human":"","zh":"日志通行证","status":"ai"}
+{"id":"vwXIDHcR","en":"Sedq's Invis Particle Exception","zh_draft":"","zh_ai":"Sedq隐形粒子异常","zh_human":"","zh":"Sedq隐形粒子异常","status":"ai"}
+{"id":"lyNkLzLc","en":"Looping Discs","zh_draft":"","zh_ai":"循环唱片","zh_human":"","zh":"循环唱片","status":"ai"}
+{"id":"4gjoyw3M","en":"FriendGUI","zh_draft":"","zh_ai":"好友GUI","zh_human":"","zh":"好友GUI","status":"ai"}
+{"id":"QsWiy0Ar","en":"Better End Cities","zh_draft":"","zh_ai":"更好的末地城市","zh_human":"","zh":"更好的末地城市","status":"ai"}
+{"id":"U91EpUMZ","en":"Customitems","zh_draft":"","zh_ai":"自定义物品","zh_human":"","zh":"自定义物品","status":"ai"}
+{"id":"aNudKo6A","en":"BigBazedAndCazed","zh_draft":"","zh_ai":"大弓与长弓","zh_human":"","zh":"大弓与长弓","status":"ai"}
+{"id":"hVpxuOxt","en":"Advanced Staff","zh_draft":"","zh_ai":"高级法杖","zh_human":"","zh":"高级法杖","status":"ai"}
+{"id":"KRPNQzFP","en":"Incognito","zh_draft":"","zh_ai":"匿名","zh_human":"","zh":"匿名","status":"ai"}
+{"id":"SPh6m4k5","en":"MikuHAProxy","zh_draft":"","zh_ai":"MikuHAProxy","zh_human":"","zh":"MikuHAProxy","status":"ai"}
+{"id":"ku29fH0z","en":"Just Races","zh_draft":"","zh_ai":"只是比赛","zh_human":"","zh":"只是比赛","status":"ai"}
+{"id":"3icQINIy","en":"Tessera","zh_draft":"","zh_ai":"特塞拉","zh_human":"","zh":"特塞拉","status":"ai"}
+{"id":"cq9zgGOl","en":"Logged Out","zh_draft":"","zh_ai":"已注销","zh_human":"","zh":"已注销","status":"ai"}
+{"id":"xk0cx4UM","en":"mAuth","zh_draft":"","zh_ai":"mAuth","zh_human":"","zh":"mAuth","status":"ai"}
+{"id":"BTUvA5MV","en":"AnonymousPotion","zh_draft":"","zh_ai":"匿名药水","zh_human":"","zh":"匿名药水","status":"ai"}
+{"id":"LGopUhqV","en":"No Totem Pop","zh_draft":"","zh_ai":"无图腾弹出","zh_human":"","zh":"无图腾弹出","status":"ai"}
+{"id":"Om56fQuY","en":"Go-Rin No Sho: A Sengoku Jidai Addon","zh_draft":"","zh_ai":"战国时代插件 Go-Rin No Sho","zh_human":"","zh":"战国时代插件 Go-Rin No Sho","status":"ai"}
+{"id":"dmko4TIa","en":"In RP","zh_draft":"","zh_ai":"在角色扮演中","zh_human":"","zh":"在角色扮演中","status":"ai"}
+{"id":"xY9ABlqT","en":"RG_WEAPONS","zh_draft":"","zh_ai":"RG武器","zh_human":"","zh":"RG武器","status":"ai"}
+{"id":"yMOXWXJo","en":"Proximity Radio Client","zh_draft":"","zh_ai":"近距离无线电客户端","zh_human":"","zh":"近距离无线电客户端","status":"ai"}
+{"id":"5JEQS9GX","en":"Bonemeal sugarcane","zh_draft":"","zh_ai":"骨粉甘蔗","zh_human":"","zh":"骨粉甘蔗","status":"ai"}
+{"id":"VkfvHOVI","en":"DarkyDev Stats","zh_draft":"","zh_ai":"DarkyDev 统计器","zh_human":"","zh":"DarkyDev 统计器","status":"ai"}
+{"id":"1IVTblBO","en":"LandBuy","zh_draft":"","zh_ai":"土地购买","zh_human":"","zh":"土地购买","status":"ai"}
+{"id":"4HrUUvRT","en":"LuckyOre","zh_draft":"","zh_ai":"幸运矿石","zh_human":"","zh":"幸运矿石","status":"ai"}
+{"id":"Ee9ROVpv","en":"UnderRated CoreX","zh_draft":"","zh_ai":"低估核心X","zh_human":"","zh":"低估核心X","status":"ai"}
+{"id":"H3gLwDNX","en":"Zoomyy","zh_draft":"","zh_ai":"Zoomyy","zh_human":"","zh":"Zoomyy","status":"ai"}
+{"id":"LEurqogI","en":"DependencyManager","zh_draft":"","zh_ai":"依赖管理器","zh_human":"","zh":"依赖管理器","status":"ai"}
+{"id":"z8BJJSIe","en":"DsmpMusic","zh_draft":"","zh_ai":"Dsmp 音乐","zh_human":"","zh":"Dsmp 音乐","status":"ai"}
+{"id":"AHHRwmPt","en":"PauseButton","zh_draft":"","zh_ai":"暂停按钮","zh_human":"","zh":"暂停按钮","status":"ai"}
+{"id":"DYGvKVGB","en":"Slime Height Spawn 69–150","zh_draft":"","zh_ai":"史莱姆高度生成 69–150","zh_human":"","zh":"史莱姆高度生成 69–150","status":"ai"}
+{"id":"eCKYdSbN","en":"Hardcore Soulbound","zh_draft":"","zh_ai":"极限灵魂绑定","zh_human":"","zh":"极限灵魂绑定","status":"ai"}
+{"id":"3D4Vemsj","en":"Staff-Investigator","zh_draft":"","zh_ai":"调查员","zh_human":"","zh":"调查员","status":"ai"}
+{"id":"GK7MDjqv","en":"Flux Spear","zh_draft":"","zh_ai":"流动之矛","zh_human":"","zh":"流动之矛","status":"ai"}
+{"id":"TuKJ7sFk","en":"CoordinatesIE","zh_draft":"","zh_ai":"坐标IE","zh_human":"","zh":"坐标IE","status":"ai"}
+{"id":"Uhe8RN30","en":"Vanilla NPCs And Quests","zh_draft":"","zh_ai":"原版NPC和任务","zh_human":"","zh":"原版NPC和任务","status":"ai"}
+{"id":"Xf3Phnsb","en":"NeonFX","zh_draft":"","zh_ai":"霓虹效果","zh_human":"","zh":"霓虹效果","status":"ai"}
+{"id":"hTIrhm2M","en":"SpawnReset","zh_draft":"","zh_ai":"重生点重置","zh_human":"","zh":"重生点重置","status":"ai"}
+{"id":"q7LjMyfO","en":"CauldronDispensers","zh_draft":"","zh_ai":"大锅分配器","zh_human":"","zh":"大锅分配器","status":"ai"}
+{"id":"2T9CuOZC","en":"Beehive Blaster","zh_draft":"","zh_ai":"蜂巢炮弹","zh_human":"","zh":"蜂巢炮弹","status":"ai"}
+{"id":"3bzuRXr6","en":"AutoModpack4Paper","zh_draft":"","zh_ai":"AutoModpack4Paper","zh_human":"","zh":"AutoModpack4Paper","status":"ai"}
+{"id":"7KKCMHOd","en":"HeartWarden","zh_draft":"","zh_ai":"心之守护者","zh_human":"","zh":"心之守护者","status":"ai"}
+{"id":"9VbHpjao","en":"Unstrip","zh_draft":"","zh_ai":"去色","zh_human":"","zh":"去色","status":"ai"}
+{"id":"9fR5E9SY","en":"hNoArmorstand","zh_draft":"","zh_ai":"无盔甲方块","zh_human":"","zh":"无盔甲方块","status":"ai"}
+{"id":"SKVa9CUN","en":"Overclock","zh_draft":"","zh_ai":"超频","zh_human":"","zh":"超频","status":"ai"}
+{"id":"UQzNYkqI","en":"Unistats","zh_draft":"","zh_ai":"Unistats","zh_human":"","zh":"Unistats","status":"ai"}
+{"id":"a1PgECKA","en":"Happy Filter","zh_draft":"","zh_ai":"快乐过滤器","zh_human":"","zh":"快乐过滤器","status":"ai"}
+{"id":"dkC7RUDm","en":"Berry holograms","zh_draft":"","zh_ai":"浆果全息图","zh_human":"","zh":"浆果全息图","status":"ai"}
+{"id":"eERDa8Ka","en":"Resource World","zh_draft":"","zh_ai":"资源世界","zh_human":"","zh":"资源世界","status":"ai"}
+{"id":"gNP9YNab","en":"GuardPlus","zh_draft":"","zh_ai":"GuardPlus","zh_human":"","zh":"GuardPlus","status":"ai"}
+{"id":"i6mjW3z6","en":"Nouveau Enchanting","zh_draft":"","zh_ai":"新附魔","zh_human":"","zh":"新附魔","status":"ai"}
+{"id":"mKyPYB6E","en":"MicroDiscord","zh_draft":"","zh_ai":"MicroDiscord","zh_human":"","zh":"MicroDiscord","status":"ai"}
+{"id":"o5vqh1aW","en":"ModerationPlugin","zh_draft":"","zh_ai":"管理插件","zh_human":"","zh":"管理插件","status":"ai"}
+{"id":"w02ntftQ","en":"RexGraves","zh_draft":"","zh_ai":"雷克斯墓碑","zh_human":"","zh":"雷克斯墓碑","status":"ai"}
+{"id":"Yb9HK7jH","en":"Jukebox Records","zh_draft":"","zh_ai":"点唱机唱片","zh_human":"","zh":"点唱机唱片","status":"ai"}
+{"id":"ZRybXlNb","en":"mReports","zh_draft":"","zh_ai":"mReports","zh_human":"","zh":"mReports","status":"ai"}
+{"id":"mTf5b8aO","en":"Enchanting Table","zh_draft":"","zh_ai":"附魔台","zh_human":"","zh":"附魔台","status":"ai"}
+{"id":"qKOaJHpD","en":"ControlMaces","zh_draft":"","zh_ai":"控制棍棒","zh_human":"","zh":"控制棍棒","status":"ai"}
+{"id":"zJN1Id0Z","en":"PobBlob","zh_draft":"","zh_ai":"PobBlob","zh_human":"","zh":"PobBlob","status":"ai"}
+{"id":"1whVY6bc","en":"Orbit Auctions","zh_draft":"","zh_ai":"轨道拍卖","zh_human":"","zh":"轨道拍卖","status":"ai"}
+{"id":"2sjgkHP1","en":"KyleTeamLite","zh_draft":"","zh_ai":"KyleTeamLite","zh_human":"","zh":"KyleTeamLite","status":"ai"}
+{"id":"3PFd8ZSk","en":"Pale Cannon","zh_draft":"","zh_ai":"苍白加农炮","zh_human":"","zh":"苍白加农炮","status":"ai"}
+{"id":"49loBBFR","en":"BluesAnnouncements","zh_draft":"","zh_ai":"蓝调公告","zh_human":"","zh":"蓝调公告","status":"ai"}
+{"id":"52mf8riO","en":"talismatics","zh_draft":"","zh_ai":"符文","zh_human":"","zh":"符文","status":"ai"}
+{"id":"592QMg96","en":"VaultChatProvider","zh_draft":"","zh_ai":"宝库聊天提供者","zh_human":"","zh":"宝库聊天提供者","status":"ai"}
+{"id":"5Ve6NOo7","en":"Vulcans Crossbow","zh_draft":"","zh_ai":"火神十字弓","zh_human":"","zh":"火神十字弓","status":"ai"}
+{"id":"6aRppTYl","en":"FastGamma","zh_draft":"","zh_ai":"快速伽马","zh_human":"","zh":"快速伽马","status":"ai"}
+{"id":"7j4hZ8Wc","en":"Orbit Utilities","zh_draft":"","zh_ai":"轨道工具","zh_human":"","zh":"轨道工具","status":"ai"}
+{"id":"8XLqyaEN","en":"Nightpiercer","zh_draft":"","zh_ai":"夜行者","zh_human":"","zh":"夜行者","status":"ai"}
+{"id":"8a7zeQlo","en":"Hypnosis Staff","zh_draft":"","zh_ai":"催眠法杖","zh_human":"","zh":"催眠法杖","status":"ai"}
+{"id":"8nVPoFl5","en":"Echo","zh_draft":"","zh_ai":"回声","zh_human":"","zh":"回声","status":"ai"}
+{"id":"96Ym9kEe","en":"Dragon Katana","zh_draft":"","zh_ai":"龙形刀","zh_human":"","zh":"龙形刀","status":"ai"}
+{"id":"9hSQiwy8","en":"MaskUI","zh_draft":"","zh_ai":"面具界面","zh_human":"","zh":"面具界面","status":"ai"}
+{"id":"APr1VBaX","en":"Force AegisAC","zh_draft":"","zh_ai":"力量盾牌AC","zh_human":"","zh":"力量盾牌AC","status":"ai"}
+{"id":"BL55bayj","en":"Chaos Lives","zh_draft":"","zh_ai":"混沌生活","zh_human":"","zh":"混沌生活","status":"ai"}
+{"id":"Br9Be9MS","en":"FulInv","zh_draft":"","zh_ai":"完全物品","zh_human":"","zh":"完全物品","status":"ai"}
+{"id":"DSTe3gu4","en":"Orbit Bounties","zh_draft":"","zh_ai":"轨道赏金","zh_human":"","zh":"轨道赏金","status":"ai"}
+{"id":"Dki5IPWT","en":"ErNews","zh_draft":"","zh_ai":"新闻","zh_human":"","zh":"新闻","status":"ai"}
+{"id":"ErDuK582","en":"Bloodlust","zh_draft":"","zh_ai":"嗜血","zh_human":"","zh":"嗜血","status":"ai"}
+{"id":"FeKSSsD7","en":"Sculkweavers Lantern","zh_draft":"","zh_ai":"迷雾编织者灯笼","zh_human":"","zh":"迷雾编织者灯笼","status":"ai"}
+{"id":"FgaegnX4","en":"GGFeatures","zh_draft":"","zh_ai":"GG功能","zh_human":"","zh":"GG功能","status":"ai"}
+{"id":"GQqobHiT","en":"DASHSWORD PLUGIN","zh_draft":"","zh_ai":"DASH剑插件","zh_human":"","zh":"DASH剑插件","status":"ai"}
+{"id":"GT50AlHF","en":"RS GoldenHeads","zh_draft":"","zh_ai":"RS金色头盔","zh_human":"","zh":"RS金色头盔","status":"ai"}
+{"id":"I7GnQouP","en":"mAuction","zh_draft":"","zh_ai":"拍卖","zh_human":"","zh":"拍卖","status":"ai"}
+{"id":"KaX6C15M","en":"Pure Blade","zh_draft":"","zh_ai":"纯刀","zh_human":"","zh":"纯刀","status":"ai"}
+{"id":"KdGswqCW","en":"WartAdmin","zh_draft":"","zh_ai":"疣管理员","zh_human":"","zh":"疣管理员","status":"ai"}
+{"id":"L4jRQRRW","en":"Orbit Shops","zh_draft":"","zh_ai":"轨道商店","zh_human":"","zh":"轨道商店","status":"ai"}
+{"id":"Luqh03Jf","en":"Wand Of Illusion","zh_draft":"","zh_ai":"幻术魔杖","zh_human":"","zh":"幻术魔杖","status":"ai"}
+{"id":"LwnyU9u0","en":"Trodden","zh_draft":"","zh_ai":"践踏","zh_human":"","zh":"践踏","status":"ai"}
+{"id":"M5cgpJSl","en":"Immortal's Admin Tools","zh_draft":"","zh_ai":"不朽管理员工具","zh_human":"","zh":"不朽管理员工具","status":"ai"}
+{"id":"M7IRqUKw","en":"Map Clear","zh_draft":"","zh_ai":"地图清理","zh_human":"","zh":"地图清理","status":"ai"}
+{"id":"MATBry27","en":"Orbit Crates","zh_draft":"","zh_ai":"轨道箱子","zh_human":"","zh":"轨道箱子","status":"ai"}
+{"id":"MPp4nAJF","en":"EasyHomes","zh_draft":"","zh_ai":"简易家园","zh_human":"","zh":"简易家园","status":"ai"}
+{"id":"NFc9BNZA","en":"Wither Bone Blade","zh_draft":"","zh_ai":"枯萎骨刃","zh_human":"","zh":"枯萎骨刃","status":"ai"}
+{"id":"NZugWzQo","en":"Universal Voice Connector","zh_draft":"","zh_ai":"通用语音连接器","zh_human":"","zh":"通用语音连接器","status":"ai"}
+{"id":"Nw0mUhPp","en":"Emerald Blade","zh_draft":"","zh_ai":"绿宝石刀","zh_human":"","zh":"绿宝石刀","status":"ai"}
+{"id":"OiAyYOkE","en":"Magma Cannon","zh_draft":"","zh_ai":"岩浆炮","zh_human":"","zh":"岩浆炮","status":"ai"}
+{"id":"P6tyy9lz","en":"Clicky Links","zh_draft":"","zh_ai":"点击链接","zh_human":"","zh":"点击链接","status":"ai"}
+{"id":"QatbRndr","en":"Orbit Warps","zh_draft":"","zh_ai":"轨道传送门","zh_human":"","zh":"轨道传送门","status":"ai"}
+{"id":"R9YAyf4p","en":"Tidebreaker","zh_draft":"","zh_ai":"潮汐破坏者","zh_human":"","zh":"潮汐破坏者","status":"ai"}
+{"id":"SXOnxsxd","en":"Hyperion","zh_draft":"","zh_ai":"赫利俄斯","zh_human":"","zh":"赫利俄斯","status":"ai"}
+{"id":"Tkp054CP","en":"Clutching Gives OP Loot","zh_draft":"","zh_ai":"紧握给予强力战利品","zh_human":"","zh":"紧握给予强力战利品","status":"ai"}
+{"id":"U94X953Z","en":"Sonic Crossbow","zh_draft":"","zh_ai":"音速弩","zh_human":"","zh":"音速弩","status":"ai"}
+{"id":"UaO9XjUN","en":"Knightfall","zh_draft":"","zh_ai":"骑士陨落","zh_human":"","zh":"骑士陨落","status":"ai"}
+{"id":"VIEc33gz","en":"mProfile","zh_draft":"","zh_ai":"个人资料","zh_human":"","zh":"个人资料","status":"ai"}
+{"id":"VJtq8DR3","en":"Loadoutsmp","zh_draft":"","zh_ai":"装备配置SMP","zh_human":"","zh":"装备配置SMP","status":"ai"}
+{"id":"VdgSEA7m","en":"Windweaver","zh_draft":"","zh_ai":"织风者","zh_human":"","zh":"织风者","status":"ai"}
+{"id":"VoGJIntS","en":"Wither Symbiote","zh_draft":"","zh_ai":"凋灵共生体","zh_human":"","zh":"凋灵共生体","status":"ai"}
+{"id":"WPDQ50Yv","en":"Midas Sword","zh_draft":"","zh_ai":"点金剑","zh_human":"","zh":"点金剑","status":"ai"}
+{"id":"WdKczM5e","en":"Nuke Remote","zh_draft":"","zh_ai":"核弹遥控器","zh_human":"","zh":"核弹遥控器","status":"ai"}
+{"id":"XmUXnM6h","en":"LiverTab","zh_draft":"","zh_ai":"肝脏标签","zh_human":"","zh":"肝脏标签","status":"ai"}
+{"id":"Xy4mkk6q","en":"DailyRewards+","zh_draft":"","zh_ai":"每日奖励+","zh_human":"","zh":"每日奖励+","status":"ai"}
+{"id":"YhQCnm5j","en":"AFK Area","zh_draft":"","zh_ai":"挂机区域","zh_human":"","zh":"挂机区域","status":"ai"}
+{"id":"ZnBk9SRG","en":"Orbit Skills","zh_draft":"","zh_ai":"轨道技能","zh_human":"","zh":"轨道技能","status":"ai"}
+{"id":"aYBuZ1oa","en":"Random World Spawn","zh_draft":"","zh_ai":"随机出生点","zh_human":"","zh":"随机出生点","status":"ai"}
+{"id":"b3LQhDSZ","en":"Omen","zh_draft":"","zh_ai":"预兆","zh_human":"","zh":"预兆","status":"ai"}
+{"id":"bUqHHGh0","en":"Zenith AntiCheat Lite","zh_draft":"","zh_ai":"天顶反作弊精简版","zh_human":"","zh":"天顶反作弊精简版","status":"ai"}
+{"id":"bnR7CtdS","en":"CropPlantPlugin","zh_draft":"","zh_ai":"作物种植插件","zh_human":"","zh":"作物种植插件","status":"ai"}
+{"id":"c8GRebd6","en":"Orbit Quests","zh_draft":"","zh_ai":"轨道任务","zh_human":"","zh":"轨道任务","status":"ai"}
+{"id":"cpvp2YBv","en":"PlayersStats","zh_draft":"","zh_ai":"玩家统计","zh_human":"","zh":"玩家统计","status":"ai"}
+{"id":"d0TveZYq","en":"Gift Codes","zh_draft":"","zh_ai":"兑换码","zh_human":"","zh":"兑换码","status":"ai"}
+{"id":"dIqAd2sh","en":"mcimporter","zh_draft":"","zh_ai":"MC导入器","zh_human":"","zh":"MC导入器","status":"ai"}
+{"id":"dhCOrWg7","en":"LongerPotions","zh_draft":"","zh_ai":"持久药水","zh_human":"","zh":"持久药水","status":"ai"}
+{"id":"eu5pXdHN","en":"Orbit Kits","zh_draft":"","zh_ai":"轨道套装","zh_human":"","zh":"轨道套装","status":"ai"}
+{"id":"f24UUNJ6","en":"mEvents","zh_draft":"","zh_ai":"活动事件","zh_human":"","zh":"活动事件","status":"ai"}
+{"id":"fJ5iFLOV","en":"HomesIE","zh_draft":"","zh_ai":"家园系统","zh_human":"","zh":"家园系统","status":"ai"}
+{"id":"fUXw3gJ5","en":"Expconomy","zh_draft":"","zh_ai":"经验经济","zh_human":"","zh":"经验经济","status":"ai"}
+{"id":"fzN2sem1","en":"Orbit Homes","zh_draft":"","zh_ai":"轨道家园","zh_human":"","zh":"轨道家园","status":"ai"}
+{"id":"gF6zpPcK","en":"Shadow Blade","zh_draft":"","zh_ai":"暗影之刃","zh_human":"","zh":"暗影之刃","status":"ai"}
+{"id":"gN09lkPg","en":"Wtrade","zh_draft":"","zh_ai":"交易","zh_human":"","zh":"交易","status":"ai"}
+{"id":"gWdzxTvV","en":"Poseidons Trident","zh_draft":"","zh_ai":"海神之三叉戟","zh_human":"","zh":"海神之三叉戟","status":"ai"}
+{"id":"gyQHQE4t","en":"Wtpa","zh_draft":"","zh_ai":"世界传送","zh_human":"","zh":"世界传送","status":"ai"}
+{"id":"iGtgi0ng","en":"CryptoCraft","zh_draft":"","zh_ai":"加密工艺","zh_human":"","zh":"加密工艺","status":"ai"}
+{"id":"iYKNr2Ja","en":"Orbit Trading","zh_draft":"","zh_ai":"轨道交易","zh_human":"","zh":"轨道交易","status":"ai"}
+{"id":"jJ7GFrDR","en":"Killstreak","zh_draft":"","zh_ai":"击杀连击","zh_human":"","zh":"击杀连击","status":"ai"}
+{"id":"jJwAGApd","en":"DiscForge Runtime","zh_draft":"","zh_ai":"唱片锻造运行时","zh_human":"","zh":"唱片锻造运行时","status":"ai"}
+{"id":"jj786PYf","en":"Easy Lectern Reroll","zh_draft":"","zh_ai":"简易讲道台重抽","zh_human":"","zh":"简易讲道台重抽","status":"ai"}
+{"id":"lGnVoLgR","en":"VxTIPSPlugin","zh_draft":"","zh_ai":"VxTIPS插件","zh_human":"","zh":"VxTIPS插件","status":"ai"}
+{"id":"la0bTS5Z","en":"Striker","zh_draft":"","zh_ai":"突击者","zh_human":"","zh":"突击者","status":"ai"}
+{"id":"nNxbGXMG","en":"Frost Scythe","zh_draft":"","zh_ai":"冰霜之镰","zh_human":"","zh":"冰霜之镰","status":"ai"}
+{"id":"nzb4MOyk","en":"MegaFo Pickaxe","zh_draft":"","zh_ai":"超级镐","zh_human":"","zh":"超级镐","status":"ai"}
+{"id":"oRLcpNvd","en":"smilkiisSuffixes - Titles","zh_draft":"","zh_ai":"称号后缀","zh_human":"","zh":"称号后缀","status":"ai"}
+{"id":"pX0qG7nf","en":"SimpleAFK+","zh_draft":"","zh_ai":"简易挂机+","zh_human":"","zh":"简易挂机+","status":"ai"}
+{"id":"phZcJKjN","en":"War Pick","zh_draft":"","zh_ai":"战镐","zh_human":"","zh":"战镐","status":"ai"}
+{"id":"rGEeqjUJ","en":"checkpoint","zh_draft":"","zh_ai":"检查点","zh_human":"","zh":"检查点","status":"ai"}
+{"id":"tXNtnWDy","en":"qUtils","zh_draft":"","zh_ai":"q 工具","zh_human":"","zh":"q 工具","status":"ai"}
+{"id":"tYLbDXhh","en":"AnonymByInvis","zh_draft":"","zh_ai":"隐身匿踪","zh_human":"","zh":"隐身匿踪","status":"ai"}
+{"id":"tvKUKvcp","en":"DeathBan","zh_draft":"","zh_ai":"死亡封禁","zh_human":"","zh":"死亡封禁","status":"ai"}
+{"id":"vYP3GdAq","en":"bloodbound smp","zh_draft":"","zh_ai":"血契 SMP","zh_human":"","zh":"血契 SMP","status":"ai"}
+{"id":"w6WNca70","en":"Paladins Battle Axe","zh_draft":"","zh_ai":"圣骑士战斧","zh_human":"","zh":"圣骑士战斧","status":"ai"}
+{"id":"wPrb3icr","en":"Cutlass","zh_draft":"","zh_ai":"弯刀","zh_human":"","zh":"弯刀","status":"ai"}
+{"id":"wkpPyXi2","en":"Offline Pause","zh_draft":"","zh_ai":"离线暂停","zh_human":"","zh":"离线暂停","status":"ai"}
+{"id":"xRnPO3qS","en":"Chests Ultimate","zh_draft":"","zh_ai":"终极箱子","zh_human":"","zh":"终极箱子","status":"ai"}
+{"id":"yAtguAQw","en":"Epic Homes","zh_draft":"","zh_ai":"史诗家园","zh_human":"","zh":"史诗家园","status":"ai"}
+{"id":"yORZQEJg","en":"Vanish","zh_draft":"","zh_ai":"隐身","zh_human":"","zh":"隐身","status":"ai"}
+{"id":"zF0GlpLK","en":"Eclipse","zh_draft":"","zh_ai":"日蚀","zh_human":"","zh":"日蚀","status":"ai"}
+{"id":"zQzmeJcF","en":"Dragon Egg Netherite","zh_draft":"","zh_ai":"龙蛋下界合金","zh_human":"","zh":"龙蛋下界合金","status":"ai"}
+{"id":"8j6aIUvM","en":"ForgeEngine","zh_draft":"","zh_ai":"锻造引擎","zh_human":"","zh":"锻造引擎","status":"ai"}
+{"id":"GvsVln9G","en":"FxHomes","zh_draft":"","zh_ai":"特效家园","zh_human":"","zh":"特效家园","status":"ai"}
+{"id":"IREfxsxp","en":"mCases","zh_draft":"","zh_ai":"m 箱子","zh_human":"","zh":"m 箱子","status":"ai"}
+{"id":"OdAuarAy","en":"SafeTPFirewall","zh_draft":"","zh_ai":"安全传送防火墙","zh_human":"","zh":"安全传送防火墙","status":"ai"}
+{"id":"Qkl2V5oh","en":"Flour and Dough Recipes","zh_draft":"","zh_ai":"面粉与面团配方","zh_human":"","zh":"面粉与面团配方","status":"ai"}
+{"id":"aQYVxu4G","en":"mCodes","zh_draft":"","zh_ai":"m 代码","zh_human":"","zh":"m 代码","status":"ai"}
+{"id":"uhx7d5RL","en":"BungeeJoinMessages","zh_draft":"","zh_ai":"Bungee 加入消息","zh_human":"","zh":"Bungee 加入消息","status":"ai"}
+{"id":"v2hBxjI6","en":"AutoSellChest","zh_draft":"","zh_ai":"自动售卖箱","zh_human":"","zh":"自动售卖箱","status":"ai"}
+{"id":"vM678ked","en":"Tiers Packs","zh_draft":"","zh_ai":"等级包","zh_human":"","zh":"等级包","status":"ai"}
+{"id":"9h8KCIbX","en":"Early Game Shulker Boxes (Travel Boxes)","zh_draft":"","zh_ai":"前期潜影盒（旅行盒）","zh_human":"","zh":"前期潜影盒（旅行盒）","status":"ai"}
