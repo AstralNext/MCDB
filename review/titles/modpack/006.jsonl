@@ -1050,13 +1050,13 @@
 {"id":"t9f58PVr","en":"The modpack that completes when you press the button: EVOLVED!","zh_draft":"","zh_ai":"按下按钮即可完成的整合包：进化！","zh_human":"","zh":"按下按钮即可完成的整合包：进化！","status":"ai"}
 {"id":"BekY9fip","en":"SPIRALS","zh_draft":"","zh_ai":"螺旋","zh_human":"","zh":"螺旋","status":"ai"}
 {"id":"Lio4sGMl","en":"SEVENTH HEAVEN","zh_draft":"","zh_ai":"七重天","zh_human":"","zh":"七重天","status":"ai"}
-{"id":"YFqS15M1","en":"HomesteadCraft ModPack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YEX8zizb","en":"Alive & Animated","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IPjFrnU8","en":"Exploring: Places (Backrooms)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WrCro4iR","en":"[Iso's] Adventure","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7Bf7LBfc","en":"Finding Balance","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UEQi2Kcw","en":"Undead Ascension","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"bZd874wo","en":"The Not Secret Vanilla Plus SMP ModPack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dS81Pj5Q","en":"FriendZ Server","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7M0vX5Pj","en":"Crashout's Endless Horizons","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MQgBwvyj","en":"Create: Potato","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"YFqS15M1","en":"HomesteadCraft ModPack","zh_draft":"","zh_ai":"家园工艺整合包","zh_human":"","zh":"家园工艺整合包","status":"ai"}
+{"id":"YEX8zizb","en":"Alive & Animated","zh_draft":"","zh_ai":"生动动画","zh_human":"","zh":"生动动画","status":"ai"}
+{"id":"IPjFrnU8","en":"Exploring: Places (Backrooms)","zh_draft":"","zh_ai":"探索：后室","zh_human":"","zh":"探索：后室","status":"ai"}
+{"id":"WrCro4iR","en":"[Iso's] Adventure","zh_draft":"","zh_ai":"Iso 的冒险","zh_human":"","zh":"Iso 的冒险","status":"ai"}
+{"id":"7Bf7LBfc","en":"Finding Balance","zh_draft":"","zh_ai":"寻找平衡","zh_human":"","zh":"寻找平衡","status":"ai"}
+{"id":"UEQi2Kcw","en":"Undead Ascension","zh_draft":"","zh_ai":"亡灵飞升","zh_human":"","zh":"亡灵飞升","status":"ai"}
+{"id":"bZd874wo","en":"The Not Secret Vanilla Plus SMP ModPack","zh_draft":"","zh_ai":"非秘密原版增强 SMP 整合包","zh_human":"","zh":"非秘密原版增强 SMP 整合包","status":"ai"}
+{"id":"dS81Pj5Q","en":"FriendZ Server","zh_draft":"","zh_ai":"好友服务器","zh_human":"","zh":"好友服务器","status":"ai"}
+{"id":"7M0vX5Pj","en":"Crashout's Endless Horizons","zh_draft":"","zh_ai":"Crashout 的无尽地平线","zh_human":"","zh":"Crashout 的无尽地平线","status":"ai"}
+{"id":"MQgBwvyj","en":"Create: Potato","zh_draft":"","zh_ai":"机械动力：土豆","zh_human":"","zh":"机械动力：土豆","status":"ai"}

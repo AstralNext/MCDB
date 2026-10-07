@@ -368,10 +368,10 @@
 {"id":"Lj91oByh","en":"Ominous Enchantment","zh_draft":"","zh_ai":"不祥附魔","zh_human":"","zh":"不祥附魔","status":"ai"}
 {"id":"ShbxBgtC","en":"Mono-Rails Pack","zh_draft":"","zh_ai":"单轨包","zh_human":"","zh":"单轨包","status":"ai"}
 {"id":"VMlsSO2U","en":"Shep","zh_draft":"","zh_ai":"Shep","zh_human":"","zh":"Shep","status":"ai"}
-{"id":"NxRyagZM","en":"Goety Refresh","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HTE8eMtJ","en":"Sift Dimension Panorama","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CnKoGjSg","en":"Nebula Dust Sky Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mjCYcuwy","en":"UPGRADED netherite!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pIVEUFJB","en":"Undertale Sans Moon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"EZqvGGsN","en":"Better Suspicious sand & gravel + Visible Trapped chest","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TLoYtVO0","en":"Crystal Arsenal","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"NxRyagZM","en":"Goety Refresh","zh_draft":"","zh_ai":"Goety 重制","zh_human":"","zh":"Goety 重制","status":"ai"}
+{"id":"HTE8eMtJ","en":"Sift Dimension Panorama","zh_draft":"","zh_ai":"Sift 维度全景","zh_human":"","zh":"Sift 维度全景","status":"ai"}
+{"id":"CnKoGjSg","en":"Nebula Dust Sky Pack","zh_draft":"","zh_ai":"星云尘埃天空包","zh_human":"","zh":"星云尘埃天空包","status":"ai"}
+{"id":"mjCYcuwy","en":"UPGRADED netherite!","zh_draft":"","zh_ai":"升级下界合金！","zh_human":"","zh":"升级下界合金！","status":"ai"}
+{"id":"pIVEUFJB","en":"Undertale Sans Moon","zh_draft":"","zh_ai":"传说之下 Sans 月亮","zh_human":"","zh":"传说之下 Sans 月亮","status":"ai"}
+{"id":"EZqvGGsN","en":"Better Suspicious sand & gravel + Visible Trapped chest","zh_draft":"","zh_ai":"改进可疑沙砾与可见陷阱箱","zh_human":"","zh":"改进可疑沙砾与可见陷阱箱","status":"ai"}
+{"id":"TLoYtVO0","en":"Crystal Arsenal","zh_draft":"","zh_ai":"水晶军火库","zh_human":"","zh":"水晶军火库","status":"ai"}
