@@ -2466,19 +2466,19 @@
 {"id":"6jWxH4U5","en":"SLG Network","zh_draft":"","zh_ai":"SLG网络","zh_human":"","zh":"SLG网络","status":"ai"}
 {"id":"h16Ra2Kp","en":"RedishSMP","zh_draft":"","zh_ai":"红石极限生存","zh_human":"","zh":"红石极限生存","status":"ai"}
 {"id":"1PxDf553","en":"Victory Road Cobblemon SMP","zh_draft":"","zh_ai":"胜利之路方块兽SMP","zh_human":"","zh":"胜利之路方块兽SMP","status":"ai"}
-{"id":"YOEFgTXd","en":"Empyrium MC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8YU4g68j","en":"CobbleSky","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"65yR8kWg","en":"ATLANTIS","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"AfHnAh46","en":"Gempowered","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"B9N6X4fv","en":"CorvoxCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"C8qwBout","en":"MCPLArena","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GFq3BY0G","en":"KittenPvP Club","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"O4r19M2O","en":"Yarm Yen","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PwBBK0fR","en":"Cyperia","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TVIOyl73","en":"VANAKAMSMPs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Uui9qVJs","en":"GermanPVP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Ve0FoeAS","en":"Precision PvP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"aVr0HLFY","en":"United Smp S2: Aeronautics Exploration","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"r4pM1YTh","en":"FriendsSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rnG5XshS","en":"Hprac","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yM7RCJ9P","en":"Crystalchaos","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"YOEFgTXd","en":"Empyrium MC","zh_draft":"","zh_ai":"艾普里乌姆MC","zh_human":"","zh":"艾普里乌姆MC","status":"ai"}
+{"id":"8YU4g68j","en":"CobbleSky","zh_draft":"","zh_ai":"圆石天空","zh_human":"","zh":"圆石天空","status":"ai"}
+{"id":"65yR8kWg","en":"ATLANTIS","zh_draft":"","zh_ai":"亚特兰蒂斯","zh_human":"","zh":"亚特兰蒂斯","status":"ai"}
+{"id":"AfHnAh46","en":"Gempowered","zh_draft":"","zh_ai":"宝石之力","zh_human":"","zh":"宝石之力","status":"ai"}
+{"id":"B9N6X4fv","en":"CorvoxCraft","zh_draft":"","zh_ai":"科沃克斯工坊","zh_human":"","zh":"科沃克斯工坊","status":"ai"}
+{"id":"C8qwBout","en":"MCPLArena","zh_draft":"","zh_ai":"MCPL竞技场","zh_human":"","zh":"MCPL竞技场","status":"ai"}
+{"id":"GFq3BY0G","en":"KittenPvP Club","zh_draft":"","zh_ai":"小猫PvP俱乐部","zh_human":"","zh":"小猫PvP俱乐部","status":"ai"}
+{"id":"O4r19M2O","en":"Yarm Yen","zh_draft":"","zh_ai":"雅姆银币","zh_human":"","zh":"雅姆银币","status":"ai"}
+{"id":"PwBBK0fR","en":"Cyperia","zh_draft":"","zh_ai":"赛皮里亚","zh_human":"","zh":"赛皮里亚","status":"ai"}
+{"id":"TVIOyl73","en":"VANAKAMSMPs","zh_draft":"","zh_ai":"VANAKAM SMPs","zh_human":"","zh":"VANAKAM SMPs","status":"ai"}
+{"id":"Uui9qVJs","en":"GermanPVP","zh_draft":"","zh_ai":"德国PVP","zh_human":"","zh":"德国PVP","status":"ai"}
+{"id":"Ve0FoeAS","en":"Precision PvP","zh_draft":"","zh_ai":"精准PvP","zh_human":"","zh":"精准PvP","status":"ai"}
+{"id":"aVr0HLFY","en":"United Smp S2: Aeronautics Exploration","zh_draft":"","zh_ai":"联合SMP S2: 航空探索","zh_human":"","zh":"联合SMP S2: 航空探索","status":"ai"}
+{"id":"r4pM1YTh","en":"FriendsSMP","zh_draft":"","zh_ai":"朋友SMP","zh_human":"","zh":"朋友SMP","status":"ai"}
+{"id":"rnG5XshS","en":"Hprac","zh_draft":"","zh_ai":"Hprac","zh_human":"","zh":"Hprac","status":"ai"}
+{"id":"yM7RCJ9P","en":"Crystalchaos","zh_draft":"","zh_ai":"水晶混沌","zh_human":"","zh":"水晶混沌","status":"ai"}

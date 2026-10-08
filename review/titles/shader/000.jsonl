@@ -931,18 +931,18 @@
 {"id":"Ex07lTtc","en":"RealisticLite","zh_draft":"","zh_ai":"轻量真实感","zh_human":"","zh":"轻量真实感","status":"ai"}
 {"id":"69WtIL3W","en":"Reminisce","zh_draft":"","zh_ai":"追忆","zh_human":"","zh":"追忆","status":"ai"}
 {"id":"vG5QtNwT","en":"Crownlight Shader","zh_draft":"","zh_ai":"皇冠之光","zh_human":"","zh":"皇冠之光","status":"ai"}
-{"id":"4X4NFRB3","en":"Lomborebi Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"V2DYYxvS","en":"Native Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"quyQHxX7","en":"Boralancesshaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yFimxtNu","en":"cirrus shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"F03D4KFh","en":"ReLighting","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"E3OFlt83","en":"Lavi_bloomz","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"F02G3fXw","en":"DepthStyle Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZQ2ILXE5","en":"Hyperion Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZZVgotgI","en":"SoVanilla","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"b8176M1z","en":"Catsune","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"bWgFkY1H","en":"CosmicGlow Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dECMsfLq","en":"RocketShaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"itGx8EqQ","en":"Brisa Lite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dti7mEIx","en":"7amada Panini Projection Lite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"L5dehyse","en":"Shader that crashes the game","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"4X4NFRB3","en":"Lomborebi Shaders","zh_draft":"","zh_ai":"Lomborebi 光影","zh_human":"","zh":"Lomborebi 光影","status":"ai"}
+{"id":"V2DYYxvS","en":"Native Shaders","zh_draft":"","zh_ai":"原生光影","zh_human":"","zh":"原生光影","status":"ai"}
+{"id":"quyQHxX7","en":"Boralancesshaders","zh_draft":"","zh_ai":"Boralances 光影","zh_human":"","zh":"Boralances 光影","status":"ai"}
+{"id":"yFimxtNu","en":"cirrus shader","zh_draft":"","zh_ai":"cirrus 光影","zh_human":"","zh":"cirrus 光影","status":"ai"}
+{"id":"F03D4KFh","en":"ReLighting","zh_draft":"","zh_ai":"重光","zh_human":"","zh":"重光","status":"ai"}
+{"id":"E3OFlt83","en":"Lavi_bloomz","zh_draft":"","zh_ai":"Lavi_bloomz 光影","zh_human":"","zh":"Lavi_bloomz 光影","status":"ai"}
+{"id":"F02G3fXw","en":"DepthStyle Shaders","zh_draft":"","zh_ai":"DepthStyle 光影","zh_human":"","zh":"DepthStyle 光影","status":"ai"}
+{"id":"ZQ2ILXE5","en":"Hyperion Shaders","zh_draft":"","zh_ai":"Hyperion 光影","zh_human":"","zh":"Hyperion 光影","status":"ai"}
+{"id":"ZZVgotgI","en":"SoVanilla","zh_draft":"","zh_ai":"超原版","zh_human":"","zh":"超原版","status":"ai"}
+{"id":"b8176M1z","en":"Catsune","zh_draft":"","zh_ai":"Catsune 资源包","zh_human":"","zh":"Catsune 资源包","status":"ai"}
+{"id":"bWgFkY1H","en":"CosmicGlow Shaders","zh_draft":"","zh_ai":"CosmicGlow 光影","zh_human":"","zh":"CosmicGlow 光影","status":"ai"}
+{"id":"dECMsfLq","en":"RocketShaders","zh_draft":"","zh_ai":"Rocket 光影","zh_human":"","zh":"Rocket 光影","status":"ai"}
+{"id":"itGx8EqQ","en":"Brisa Lite","zh_draft":"","zh_ai":"Brisa 轻量版","zh_human":"","zh":"Brisa 轻量版","status":"ai"}
+{"id":"dti7mEIx","en":"7amada Panini Projection Lite","zh_draft":"","zh_ai":"7amada Panini 投影轻量版","zh_human":"","zh":"7amada Panini 投影轻量版","status":"ai"}
+{"id":"L5dehyse","en":"Shader that crashes the game","zh_draft":"","zh_ai":"崩溃光影","zh_human":"","zh":"崩溃光影","status":"ai"}
