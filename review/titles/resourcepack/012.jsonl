@@ -530,24 +530,24 @@
 {"id":"l8eCGYZh","en":"Catnap Beds","zh_draft":"","zh_ai":"猫咪午睡床","zh_human":"","zh":"猫咪午睡床","status":"ai"}
 {"id":"s1EIBS6a","en":"Better Spears","zh_draft":"","zh_ai":"更好的长矛","zh_human":"","zh":"更好的长矛","status":"ai"}
 {"id":"sMAf7ypj","en":"better bubbles","zh_draft":"","zh_ai":"更好的气泡","zh_human":"","zh":"更好的气泡","status":"ai"}
-{"id":"DRaHhW4R","en":"[MTR] FASTECH 360Z | Class E955 Shinkansen","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VM7DFhjd","en":"3D Mace","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jpK6U6Au","en":"Neptune PvP Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2M2KciGh","en":"Better Cushion","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5FIcz1mb","en":"ItsAndis's PvP Texture Pack (black & white version)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Gxhc6VUq","en":"Hearthloom Rugs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dK54ZmTU","en":"Jarona totem pop sound","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MXuGUNQT","en":"RandomPvP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hA2HdZ1L","en":"Jeanne-Mary (Limbus Company)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hT3qBE7K","en":"Eternityy 16x","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"o89f9UqU","en":"Damsou's Texture Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DaNgay0Q","en":"Dungeons Echo Shard","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jiEd9BXJ","en":"Wildflower Field Notes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GRLLQpxv","en":"Jeanne-Mary from LImbus Company (Small)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Sv2CPm3R","en":"Icons: Xaero's World Map","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2OJkyAg7","en":"qambs Sift Mobs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MkoVYHbv","en":"Brick.png","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SaqbIVvy","en":"Jurassic Archeology - F/A","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iFj4pub3","en":"Worse creeper","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"71VS7QyZ","en":"green enchant glint","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eVAWI4R3","en":"Potat of undying","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"DRaHhW4R","en":"[MTR] FASTECH 360Z | Class E955 Shinkansen","zh_draft":"","zh_ai":"[MTR] FASTECH 360Z | E955系新干线","zh_human":"","zh":"[MTR] FASTECH 360Z | E955系新干线","status":"ai"}
+{"id":"VM7DFhjd","en":"3D Mace","zh_draft":"","zh_ai":"3D战锤","zh_human":"","zh":"3D战锤","status":"ai"}
+{"id":"jpK6U6Au","en":"Neptune PvP Pack","zh_draft":"","zh_ai":"海王星PvP包","zh_human":"","zh":"海王星PvP包","status":"ai"}
+{"id":"2M2KciGh","en":"Better Cushion","zh_draft":"","zh_ai":"舒适坐垫","zh_human":"","zh":"舒适坐垫","status":"ai"}
+{"id":"5FIcz1mb","en":"ItsAndis's PvP Texture Pack (black & white version)","zh_draft":"","zh_ai":"ItsAndis的PvP材质包（黑白版）","zh_human":"","zh":"ItsAndis的PvP材质包（黑白版）","status":"ai"}
+{"id":"Gxhc6VUq","en":"Hearthloom Rugs","zh_draft":"","zh_ai":"炉边地毯","zh_human":"","zh":"炉边地毯","status":"ai"}
+{"id":"dK54ZmTU","en":"Jarona totem pop sound","zh_draft":"","zh_ai":"Jarona图腾破碎音效","zh_human":"","zh":"Jarona图腾破碎音效","status":"ai"}
+{"id":"MXuGUNQT","en":"RandomPvP","zh_draft":"","zh_ai":"随机PvP","zh_human":"","zh":"随机PvP","status":"ai"}
+{"id":"hA2HdZ1L","en":"Jeanne-Mary (Limbus Company)","zh_draft":"","zh_ai":"贞玛丽（边狱公司）","zh_human":"","zh":"贞玛丽（边狱公司）","status":"ai"}
+{"id":"hT3qBE7K","en":"Eternityy 16x","zh_draft":"","zh_ai":"Eternityy 16x","zh_human":"","zh":"Eternityy 16x","status":"ai"}
+{"id":"o89f9UqU","en":"Damsou's Texture Pack","zh_draft":"","zh_ai":"Damsou材质包","zh_human":"","zh":"Damsou材质包","status":"ai"}
+{"id":"DaNgay0Q","en":"Dungeons Echo Shard","zh_draft":"","zh_ai":"地牢回声碎片","zh_human":"","zh":"地牢回声碎片","status":"ai"}
+{"id":"jiEd9BXJ","en":"Wildflower Field Notes","zh_draft":"","zh_ai":"野花田野笔记","zh_human":"","zh":"野花田野笔记","status":"ai"}
+{"id":"GRLLQpxv","en":"Jeanne-Mary from LImbus Company (Small)","zh_draft":"","zh_ai":"边狱公司贞玛丽（小）","zh_human":"","zh":"边狱公司贞玛丽（小）","status":"ai"}
+{"id":"Sv2CPm3R","en":"Icons: Xaero's World Map","zh_draft":"","zh_ai":"图标：Xaero世界地图","zh_human":"","zh":"图标：Xaero世界地图","status":"ai"}
+{"id":"2OJkyAg7","en":"qambs Sift Mobs","zh_draft":"","zh_ai":"qambs生物筛选","zh_human":"","zh":"qambs生物筛选","status":"ai"}
+{"id":"MkoVYHbv","en":"Brick.png","zh_draft":"","zh_ai":"砖块.png","zh_human":"","zh":"砖块.png","status":"ai"}
+{"id":"SaqbIVvy","en":"Jurassic Archeology - F/A","zh_draft":"","zh_ai":"侏罗纪考古 - F/A","zh_human":"","zh":"侏罗纪考古 - F/A","status":"ai"}
+{"id":"iFj4pub3","en":"Worse creeper","zh_draft":"","zh_ai":"更糟的苦力怕","zh_human":"","zh":"更糟的苦力怕","status":"ai"}
+{"id":"71VS7QyZ","en":"green enchant glint","zh_draft":"","zh_ai":"绿色附魔闪光","zh_human":"","zh":"绿色附魔闪光","status":"ai"}
+{"id":"eVAWI4R3","en":"Potat of undying","zh_draft":"","zh_ai":"不死土豆","zh_human":"","zh":"不死土豆","status":"ai"}

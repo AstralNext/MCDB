@@ -1178,15 +1178,15 @@
 {"id":"lFusVDdL","en":"Create Aeroessentials","zh_draft":"","zh_ai":"机械动力航空基础","zh_human":"","zh":"机械动力航空基础","status":"ai"}
 {"id":"lkbSg2j8","en":"Wixidium","zh_draft":"","zh_ai":"Wixidium","zh_human":"","zh":"Wixidium","status":"ai"}
 {"id":"tDYi0LfW","en":"Ogglive","zh_draft":"","zh_ai":"Ogglive","zh_human":"","zh":"Ogglive","status":"ai"}
-{"id":"fGewd2Lg","en":"OptiMax","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"16B5SIRH","en":"Vanilla Motion","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"E8nqX40A","en":"Applekreate","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HrQYK1ZT","en":"The Last Golden Age Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nG5N0ztF","en":"Symbiote-Super Heroes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"caHJufbc","en":"Faster World","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cz1itfm6","en":"Yisan City Server Mods","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3i11YYv4","en":"Best Performance Modpacks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Xw3eiKiN","en":"Brokanly","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eR8sU0Z0","en":"soup's Cobbleverse","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Y6IAcFIM","en":"Celestia SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xfW0PXuu","en":"DV's cozy modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"fGewd2Lg","en":"OptiMax","zh_draft":"","zh_ai":"OptiMax","zh_human":"","zh":"OptiMax","status":"ai"}
+{"id":"16B5SIRH","en":"Vanilla Motion","zh_draft":"","zh_ai":"原味动作","zh_human":"","zh":"原味动作","status":"ai"}
+{"id":"E8nqX40A","en":"Applekreate","zh_draft":"","zh_ai":"Applekreate","zh_human":"","zh":"Applekreate","status":"ai"}
+{"id":"HrQYK1ZT","en":"The Last Golden Age Modpack","zh_draft":"","zh_ai":"最后的黄金时代模组包","zh_human":"","zh":"最后的黄金时代模组包","status":"ai"}
+{"id":"nG5N0ztF","en":"Symbiote-Super Heroes","zh_draft":"","zh_ai":"共生-超级英雄","zh_human":"","zh":"共生-超级英雄","status":"ai"}
+{"id":"caHJufbc","en":"Faster World","zh_draft":"","zh_ai":"更快的世界","zh_human":"","zh":"更快的世界","status":"ai"}
+{"id":"cz1itfm6","en":"Yisan City Server Mods","zh_draft":"","zh_ai":"宜山城服务器模组","zh_human":"","zh":"宜山城服务器模组","status":"ai"}
+{"id":"3i11YYv4","en":"Best Performance Modpacks","zh_draft":"","zh_ai":"最佳性能模组包","zh_human":"","zh":"最佳性能模组包","status":"ai"}
+{"id":"Xw3eiKiN","en":"Brokanly","zh_draft":"","zh_ai":"Brokanly","zh_human":"","zh":"Brokanly","status":"ai"}
+{"id":"eR8sU0Z0","en":"soup's Cobbleverse","zh_draft":"","zh_ai":"soup 的石块世界","zh_human":"","zh":"soup 的石块世界","status":"ai"}
+{"id":"Y6IAcFIM","en":"Celestia SMP","zh_draft":"","zh_ai":"Celestia 生存模式","zh_human":"","zh":"Celestia 生存模式","status":"ai"}
+{"id":"xfW0PXuu","en":"DV's cozy modpack","zh_draft":"","zh_ai":"DV的温馨整合包","zh_human":"","zh":"DV的温馨整合包","status":"ai"}
