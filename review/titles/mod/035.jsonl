@@ -1517,43 +1517,43 @@
 {"id":"y8GpGl7Z","en":"Economy","zh_draft":"","zh_ai":"经济","zh_human":"","zh":"经济","status":"ai"}
 {"id":"XKoq0W8P","en":"WalksyLibControl","zh_draft":"","zh_ai":"WalksyLib 控制","zh_human":"","zh":"WalksyLib 控制","status":"ai"}
 {"id":"dBwtCkH0","en":"Homebound","zh_draft":"","zh_ai":"归家","zh_human":"","zh":"归家","status":"ai"}
-{"id":"Yysh5NsL","en":"Integrated Patches","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jl8OdBmo","en":"Ht1box","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DpGfqQtj","en":"Unobstructed","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pHq2j7ZP","en":"Always Open Chests","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3b47syCW","en":"Sleep Percentage","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"oukVBmlY","en":"WynnComms","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PnQ3jjHB","en":"Aditions","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jfiYZRhE","en":"chinesecanfly","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lvNetTR6","en":"Breaking Blocks Spawns Mobs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CA2SCHBV","en":"Structure Spawn Point","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"X2jphpyc","en":"Advancement-reobtain","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XbVW8Y86","en":"Ballistics","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wiapEHNY","en":"Kaupenjoe's Translated Pompous Paintings","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yefY9Nhi","en":"Clean Chit Chat","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zGGoWa0V","en":"Milk Syringes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eFo7JE1z","en":"Flux's Fixes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kWFOrnCm","en":"Enchanted Hearts+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1VIdGFk5","en":"Blood-Line SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8vsqsCSL","en":"items-counter","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rBKDDJnY","en":"AutoShop","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8jxgbg4u","en":"UltraEconomy","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"AGOKaNBA","en":"OPsBodyGuard","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"B9iRWd49","en":"DriveBackup","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TaBs2veI","en":"Vmse","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hDcOe8Qi","en":"HandCuffs BETA","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qTQP8ZLk","en":"Paper Attribute Swap","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uIlkcj4b","en":"PvPGoldenHeads","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1lvmOyrJ","en":"EasyPlayerReport","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LUVSvOZu","en":"NoLungeHunger","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NBTn4MJx","en":"ChatManager","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VRpadZnw","en":"DiscoverPets","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jla27Ihe","en":"GalaxyEssentials","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"l8Y2ICIa","en":"QuickSmelt","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yWTv8lWL","en":"IccnexHomes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XZvfwAJ2","en":"Force Mob Battle","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ri2Aubzt","en":"AlbowsTipBot","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Lrm9Nn9I","en":"Dev API","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"d0e4yfoj","en":"Universal Input Sync","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ucL2BcTu","en":"QuickTable","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pNPtXbSz","en":"Shoots and Leaves","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Yysh5NsL","en":"Integrated Patches","zh_draft":"","zh_ai":"集成补丁","zh_human":"","zh":"集成补丁","status":"ai"}
+{"id":"jl8OdBmo","en":"Ht1box","zh_draft":"","zh_ai":"Ht1箱","zh_human":"","zh":"Ht1箱","status":"ai"}
+{"id":"DpGfqQtj","en":"Unobstructed","zh_draft":"","zh_ai":"无阻碍","zh_human":"","zh":"无阻碍","status":"ai"}
+{"id":"pHq2j7ZP","en":"Always Open Chests","zh_draft":"","zh_ai":"始终开启箱子","zh_human":"","zh":"始终开启箱子","status":"ai"}
+{"id":"3b47syCW","en":"Sleep Percentage","zh_draft":"","zh_ai":"睡眠百分比","zh_human":"","zh":"睡眠百分比","status":"ai"}
+{"id":"oukVBmlY","en":"WynnComms","zh_draft":"","zh_ai":"温恩通讯","zh_human":"","zh":"温恩通讯","status":"ai"}
+{"id":"PnQ3jjHB","en":"Aditions","zh_draft":"","zh_ai":"修订版","zh_human":"","zh":"修订版","status":"ai"}
+{"id":"jfiYZRhE","en":"chinesecanfly","zh_draft":"","zh_ai":"中国飞行","zh_human":"","zh":"中国飞行","status":"ai"}
+{"id":"lvNetTR6","en":"Breaking Blocks Spawns Mobs","zh_draft":"","zh_ai":"破坏方块生成怪物","zh_human":"","zh":"破坏方块生成怪物","status":"ai"}
+{"id":"CA2SCHBV","en":"Structure Spawn Point","zh_draft":"","zh_ai":"结构生成点","zh_human":"","zh":"结构生成点","status":"ai"}
+{"id":"X2jphpyc","en":"Advancement-reobtain","zh_draft":"","zh_ai":"重新获得进步","zh_human":"","zh":"重新获得进步","status":"ai"}
+{"id":"XbVW8Y86","en":"Ballistics","zh_draft":"","zh_ai":"弹道学","zh_human":"","zh":"弹道学","status":"ai"}
+{"id":"wiapEHNY","en":"Kaupenjoe's Translated Pompous Paintings","zh_draft":"","zh_ai":"考彭乔翻译的浮夸画作","zh_human":"","zh":"考彭乔翻译的浮夸画作","status":"ai"}
+{"id":"yefY9Nhi","en":"Clean Chit Chat","zh_draft":"","zh_ai":"清洁闲聊","zh_human":"","zh":"清洁闲聊","status":"ai"}
+{"id":"zGGoWa0V","en":"Milk Syringes","zh_draft":"","zh_ai":"牛奶注射器","zh_human":"","zh":"牛奶注射器","status":"ai"}
+{"id":"eFo7JE1z","en":"Flux's Fixes","zh_draft":"","zh_ai":"弗卢克斯的修复","zh_human":"","zh":"弗卢克斯的修复","status":"ai"}
+{"id":"kWFOrnCm","en":"Enchanted Hearts+","zh_draft":"","zh_ai":"附魔之心+","zh_human":"","zh":"附魔之心+","status":"ai"}
+{"id":"1VIdGFk5","en":"Blood-Line SMP","zh_draft":"","zh_ai":"血统SMP","zh_human":"","zh":"血统SMP","status":"ai"}
+{"id":"8vsqsCSL","en":"items-counter","zh_draft":"","zh_ai":"物品计数器","zh_human":"","zh":"物品计数器","status":"ai"}
+{"id":"rBKDDJnY","en":"AutoShop","zh_draft":"","zh_ai":"自动商店","zh_human":"","zh":"自动商店","status":"ai"}
+{"id":"8jxgbg4u","en":"UltraEconomy","zh_draft":"","zh_ai":"超经济","zh_human":"","zh":"超经济","status":"ai"}
+{"id":"AGOKaNBA","en":"OPsBodyGuard","zh_draft":"","zh_ai":"OP守护者","zh_human":"","zh":"OP守护者","status":"ai"}
+{"id":"B9iRWd49","en":"DriveBackup","zh_draft":"","zh_ai":"驱动备份","zh_human":"","zh":"驱动备份","status":"ai"}
+{"id":"TaBs2veI","en":"Vmse","zh_draft":"","zh_ai":"Vmse","zh_human":"","zh":"Vmse","status":"ai"}
+{"id":"hDcOe8Qi","en":"HandCuffs BETA","zh_draft":"","zh_ai":"手铐BETA","zh_human":"","zh":"手铐BETA","status":"ai"}
+{"id":"qTQP8ZLk","en":"Paper Attribute Swap","zh_draft":"","zh_ai":"纸张属性交换","zh_human":"","zh":"纸张属性交换","status":"ai"}
+{"id":"uIlkcj4b","en":"PvPGoldenHeads","zh_draft":"","zh_ai":"PvP黄金头","zh_human":"","zh":"PvP黄金头","status":"ai"}
+{"id":"1lvmOyrJ","en":"EasyPlayerReport","zh_draft":"","zh_ai":"简易玩家报告","zh_human":"","zh":"简易玩家报告","status":"ai"}
+{"id":"LUVSvOZu","en":"NoLungeHunger","zh_draft":"","zh_ai":"无冲刺饥饿","zh_human":"","zh":"无冲刺饥饿","status":"ai"}
+{"id":"NBTn4MJx","en":"ChatManager","zh_draft":"","zh_ai":"聊天管理器","zh_human":"","zh":"聊天管理器","status":"ai"}
+{"id":"VRpadZnw","en":"DiscoverPets","zh_draft":"","zh_ai":"发现宠物","zh_human":"","zh":"发现宠物","status":"ai"}
+{"id":"jla27Ihe","en":"GalaxyEssentials","zh_draft":"","zh_ai":"银河精华","zh_human":"","zh":"银河精华","status":"ai"}
+{"id":"l8Y2ICIa","en":"QuickSmelt","zh_draft":"","zh_ai":"快速熔炼","zh_human":"","zh":"快速熔炼","status":"ai"}
+{"id":"yWTv8lWL","en":"IccnexHomes","zh_draft":"","zh_ai":"Iccnex家园","zh_human":"","zh":"Iccnex家园","status":"ai"}
+{"id":"XZvfwAJ2","en":"Force Mob Battle","zh_draft":"","zh_ai":"强制怪物战斗","zh_human":"","zh":"强制怪物战斗","status":"ai"}
+{"id":"ri2Aubzt","en":"AlbowsTipBot","zh_draft":"","zh_ai":"弓箭手提示机器人","zh_human":"","zh":"弓箭手提示机器人","status":"ai"}
+{"id":"Lrm9Nn9I","en":"Dev API","zh_draft":"","zh_ai":"开发API","zh_human":"","zh":"开发API","status":"ai"}
+{"id":"d0e4yfoj","en":"Universal Input Sync","zh_draft":"","zh_ai":"通用输入同步","zh_human":"","zh":"通用输入同步","status":"ai"}
+{"id":"ucL2BcTu","en":"QuickTable","zh_draft":"","zh_ai":"快速表格","zh_human":"","zh":"快速表格","status":"ai"}
+{"id":"pNPtXbSz","en":"Shoots and Leaves","zh_draft":"","zh_ai":"植物与叶子","zh_human":"","zh":"植物与叶子","status":"ai"}
