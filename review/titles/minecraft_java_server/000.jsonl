@@ -2486,26 +2486,26 @@
 {"id":"18Xex3yh","en":"Heroes SMP","zh_draft":"","zh_ai":"英雄生存模式","zh_human":"","zh":"英雄生存模式","status":"ai"}
 {"id":"EUt1B27j","en":"Долина Капібар","zh_draft":"","zh_ai":"卡皮巴拉山谷","zh_human":"","zh":"卡皮巴拉山谷","status":"ai"}
 {"id":"incjoWkP","en":"Akoot&Co","zh_draft":"","zh_ai":"阿库特公司","zh_human":"","zh":"阿库特公司","status":"ai"}
-{"id":"dUBo1g4P","en":"Create:Cloudbount","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ITcVaXa8","en":"Serge's World","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sKDughVy","en":"MCPersist Official","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"taZ3nn9Q","en":"Avatar: The Last Buildbenders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2rY1PDk4","en":"MineSky Survival","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4bYAeRsW","en":"Build, Mine, Create - Minecraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5diJ2CdT","en":"Note Block SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GCcpXlIC","en":"SplitCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HwA07x67","en":"CovenMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MhM72FoT","en":"VoidSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"On6zh25d","en":"Survival Fun","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QlChf6VV","en":"SWRMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VSZxOOXm","en":"Lymion","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"X5lFs8uu","en":"Vex-SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YUcBEN44","en":"Mythical Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"a7dICBnU","en":"QuasarSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cf0YfJwa","en":"KenigCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"d8Vs9MdK","en":"SME MC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fjQAEzac","en":"Vanguards","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"orM44n8i","en":"Twilight Paws SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wDBCpedL","en":"Tiger Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yIFo7LwR","en":"Cobblemon Arena","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zFuobdbs","en":"mainoneworld","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"dUBo1g4P","en":"Create:Cloudbount","zh_draft":"","zh_ai":"云量创造者","zh_human":"","zh":"云量创造者","status":"ai"}
+{"id":"ITcVaXa8","en":"Serge's World","zh_draft":"","zh_ai":"瑟尔的世界","zh_human":"","zh":"瑟尔的世界","status":"ai"}
+{"id":"sKDughVy","en":"MCPersist Official","zh_draft":"","zh_ai":"MCPersist官方","zh_human":"","zh":"MCPersist官方","status":"ai"}
+{"id":"taZ3nn9Q","en":"Avatar: The Last Buildbenders","zh_draft":"","zh_ai":"最后的建造者","zh_human":"","zh":"最后的建造者","status":"ai"}
+{"id":"2rY1PDk4","en":"MineSky Survival","zh_draft":"","zh_ai":"矿空生存","zh_human":"","zh":"矿空生存","status":"ai"}
+{"id":"4bYAeRsW","en":"Build, Mine, Create - Minecraft","zh_draft":"","zh_ai":"建造，挖掘，创造 - Minecraft","zh_human":"","zh":"建造，挖掘，创造 - Minecraft","status":"ai"}
+{"id":"5diJ2CdT","en":"Note Block SMP","zh_draft":"","zh_ai":"音符方块SMP","zh_human":"","zh":"音符方块SMP","status":"ai"}
+{"id":"GCcpXlIC","en":"SplitCraft","zh_draft":"","zh_ai":"分割工艺","zh_human":"","zh":"分割工艺","status":"ai"}
+{"id":"HwA07x67","en":"CovenMC","zh_draft":"","zh_ai":"魔女会MC","zh_human":"","zh":"魔女会MC","status":"ai"}
+{"id":"MhM72FoT","en":"VoidSMP","zh_draft":"","zh_ai":"虚空SMP","zh_human":"","zh":"虚空SMP","status":"ai"}
+{"id":"On6zh25d","en":"Survival Fun","zh_draft":"","zh_ai":"生存乐趣","zh_human":"","zh":"生存乐趣","status":"ai"}
+{"id":"QlChf6VV","en":"SWRMC","zh_draft":"","zh_ai":"SWRMC","zh_human":"","zh":"SWRMC","status":"ai"}
+{"id":"VSZxOOXm","en":"Lymion","zh_draft":"","zh_ai":"Lymion","zh_human":"","zh":"Lymion","status":"ai"}
+{"id":"X5lFs8uu","en":"Vex-SMP","zh_draft":"","zh_ai":"复仇SMP","zh_human":"","zh":"复仇SMP","status":"ai"}
+{"id":"YUcBEN44","en":"Mythical Network","zh_draft":"","zh_ai":"神话网络","zh_human":"","zh":"神话网络","status":"ai"}
+{"id":"a7dICBnU","en":"QuasarSMP","zh_draft":"","zh_ai":"夸瑟SMP","zh_human":"","zh":"夸瑟SMP","status":"ai"}
+{"id":"cf0YfJwa","en":"KenigCraft","zh_draft":"","zh_ai":"肯宁工艺","zh_human":"","zh":"肯宁工艺","status":"ai"}
+{"id":"d8Vs9MdK","en":"SME MC","zh_draft":"","zh_ai":"SME MC","zh_human":"","zh":"SME MC","status":"ai"}
+{"id":"fjQAEzac","en":"Vanguards","zh_draft":"","zh_ai":"先锋","zh_human":"","zh":"先锋","status":"ai"}
+{"id":"orM44n8i","en":"Twilight Paws SMP","zh_draft":"","zh_ai":"暮光爪SMP","zh_human":"","zh":"暮光爪SMP","status":"ai"}
+{"id":"wDBCpedL","en":"Tiger Network","zh_draft":"","zh_ai":"虎网","zh_human":"","zh":"虎网","status":"ai"}
+{"id":"yIFo7LwR","en":"Cobblemon Arena","zh_draft":"","zh_ai":"方块龙竞技场","zh_human":"","zh":"方块龙竞技场","status":"ai"}
+{"id":"zFuobdbs","en":"mainoneworld","zh_draft":"","zh_ai":"主世界","zh_human":"","zh":"主世界","status":"ai"}

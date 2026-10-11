@@ -947,20 +947,20 @@
 {"id":"dti7mEIx","en":"7amada Panini Projection Lite","zh_draft":"","zh_ai":"7amada Panini 投影轻量版","zh_human":"","zh":"7amada Panini 投影轻量版","status":"ai"}
 {"id":"L5dehyse","en":"Shader that crashes the game","zh_draft":"","zh_ai":"崩溃光影","zh_human":"","zh":"崩溃光影","status":"ai"}
 {"id":"HgWVd3hC","en":"Mystique Shader | UltraFast","zh_draft":"","zh_ai":"Mystique 光影 | 超快版","zh_human":"","zh":"Mystique 光影 | 超快版","status":"ai"}
-{"id":"SQvhCttl","en":"Evergreen Sights","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"bXCmt4WM","en":"NeuroLight Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cp1mknH2","en":"Light Crystal PVP Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"v0ls167y","en":"Yukee Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"a7BJsHow","en":"Lively:Cinematic","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"j4zLgsSj","en":"Feather Lite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"o3z6MbSg","en":"Super FPS Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"tDNoLyAo","en":"FeatherLight","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"g8XFxSeP","en":"Hazelle Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pC9mvjo2","en":"Matrix: Signal Fault","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pH4riL7j","en":"Spy Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rigq3TbB","en":"Blinding Void Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"whtMJjFZ","en":"Aetheris Medium","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FASazh1z","en":"Nivora Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GXne9Rh0","en":"LumaVale Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HkMe13oU","en":"UltimateFusionShaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Rn5nNhVt","en":"Adi Core Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"SQvhCttl","en":"Evergreen Sights","zh_draft":"","zh_ai":"常绿视野","zh_human":"","zh":"常绿视野","status":"ai"}
+{"id":"bXCmt4WM","en":"NeuroLight Shaders","zh_draft":"","zh_ai":"神经光Shader","zh_human":"","zh":"神经光Shader","status":"ai"}
+{"id":"cp1mknH2","en":"Light Crystal PVP Shader","zh_draft":"","zh_ai":"光晶PVP Shader","zh_human":"","zh":"光晶PVP Shader","status":"ai"}
+{"id":"v0ls167y","en":"Yukee Shaders","zh_draft":"","zh_ai":"玉麒麟Shader","zh_human":"","zh":"玉麒麟Shader","status":"ai"}
+{"id":"a7BJsHow","en":"Lively:Cinematic","zh_draft":"","zh_ai":"活力:电影","zh_human":"","zh":"活力:电影","status":"ai"}
+{"id":"j4zLgsSj","en":"Feather Lite","zh_draft":"","zh_ai":"羽毛轻","zh_human":"","zh":"羽毛轻","status":"ai"}
+{"id":"o3z6MbSg","en":"Super FPS Shader","zh_draft":"","zh_ai":"超级FPS Shader","zh_human":"","zh":"超级FPS Shader","status":"ai"}
+{"id":"tDNoLyAo","en":"FeatherLight","zh_draft":"","zh_ai":"羽毛轻","zh_human":"","zh":"羽毛轻","status":"ai"}
+{"id":"g8XFxSeP","en":"Hazelle Shaders","zh_draft":"","zh_ai":"海兹尔Shader","zh_human":"","zh":"海兹尔Shader","status":"ai"}
+{"id":"pC9mvjo2","en":"Matrix: Signal Fault","zh_draft":"","zh_ai":"矩阵:信号故障","zh_human":"","zh":"矩阵:信号故障","status":"ai"}
+{"id":"pH4riL7j","en":"Spy Shaders","zh_draft":"","zh_ai":"间谍Shader","zh_human":"","zh":"间谍Shader","status":"ai"}
+{"id":"rigq3TbB","en":"Blinding Void Shaders","zh_draft":"","zh_ai":"致盲虚空Shader","zh_human":"","zh":"致盲虚空Shader","status":"ai"}
+{"id":"whtMJjFZ","en":"Aetheris Medium","zh_draft":"","zh_ai":"艾瑟里斯中等","zh_human":"","zh":"艾瑟里斯中等","status":"ai"}
+{"id":"FASazh1z","en":"Nivora Shaders","zh_draft":"","zh_ai":"尼沃拉Shader","zh_human":"","zh":"尼沃拉Shader","status":"ai"}
+{"id":"GXne9Rh0","en":"LumaVale Shaders","zh_draft":"","zh_ai":"卢玛谷Shader","zh_human":"","zh":"卢玛谷Shader","status":"ai"}
+{"id":"HkMe13oU","en":"UltimateFusionShaders","zh_draft":"","zh_ai":"终极融合Shader","zh_human":"","zh":"终极融合Shader","status":"ai"}
+{"id":"Rn5nNhVt","en":"Adi Core Shader","zh_draft":"","zh_ai":"艾迪核心Shader","zh_human":"","zh":"艾迪核心Shader","status":"ai"}
