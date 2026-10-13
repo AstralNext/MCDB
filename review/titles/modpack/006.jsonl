@@ -1197,9 +1197,9 @@
 {"id":"FJc9gcIK","en":"On Focus!","zh_draft":"","zh_ai":"聚焦！","zh_human":"","zh":"聚焦！","status":"ai"}
 {"id":"ztdTHBxs","en":"Together Optimized","zh_draft":"","zh_ai":"协同优化","zh_human":"","zh":"协同优化","status":"ai"}
 {"id":"lt2JuI2q","en":"Slightly Realistic Vanilla","zh_draft":"","zh_ai":"略微真实的原版","zh_human":"","zh":"略微真实的原版","status":"ai"}
-{"id":"mrJb6Hhm","en":"Andromeda","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mUjOWSRw","en":"QuagCraft Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KxiRO4FN","en":"Super Mario Mash Up Pack Deluxe","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fCi3BIKw","en":"Norrion RPG","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"t0rsWY2l","en":"Newbie Vanilla","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IEf0M77i","en":"Limited Worlds ENHANCED","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"mrJb6Hhm","en":"Andromeda","zh_draft":"","zh_ai":"安德罗梅达","zh_human":"","zh":"安德罗梅达","status":"ai"}
+{"id":"mUjOWSRw","en":"QuagCraft Modpack","zh_draft":"","zh_ai":"QuagCraft 模组包","zh_human":"","zh":"QuagCraft 模组包","status":"ai"}
+{"id":"KxiRO4FN","en":"Super Mario Mash Up Pack Deluxe","zh_draft":"","zh_ai":"超级马里奥混搭包豪华版","zh_human":"","zh":"超级马里奥混搭包豪华版","status":"ai"}
+{"id":"fCi3BIKw","en":"Norrion RPG","zh_draft":"","zh_ai":"诺里昂 RPG","zh_human":"","zh":"诺里昂 RPG","status":"ai"}
+{"id":"t0rsWY2l","en":"Newbie Vanilla","zh_draft":"","zh_ai":"新手原版","zh_human":"","zh":"新手原版","status":"ai"}
+{"id":"IEf0M77i","en":"Limited Worlds ENHANCED","zh_draft":"","zh_ai":"限界世界增强版","zh_human":"","zh":"限界世界增强版","status":"ai"}
