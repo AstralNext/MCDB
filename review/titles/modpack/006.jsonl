@@ -1203,14 +1203,14 @@
 {"id":"fCi3BIKw","en":"Norrion RPG","zh_draft":"","zh_ai":"诺里昂 RPG","zh_human":"","zh":"诺里昂 RPG","status":"ai"}
 {"id":"t0rsWY2l","en":"Newbie Vanilla","zh_draft":"","zh_ai":"新手原版","zh_human":"","zh":"新手原版","status":"ai"}
 {"id":"IEf0M77i","en":"Limited Worlds ENHANCED","zh_draft":"","zh_ai":"限界世界增强版","zh_human":"","zh":"限界世界增强版","status":"ai"}
-{"id":"64radtE0","en":"Fabric-reinforced Lucky OneBlock","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"azV7bsA3","en":"Levviata's Nuclear Tech Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YAJUPsAv","en":"Prmz's vannila+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"I5giinMD","en":"SliceofTofu's Improved Vanilla","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vzFrrCm1","en":"Create: Beyond the Clouds","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IR7Jv9yZ","en":"Cozy Craft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Htaxyb6Q","en":"FagdaMon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vyZS2Ym8","en":"HorizonCraft Performance+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JF4QSwEO","en":"Unofficial Ayn Thor Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5NqL6Jxn","en":"Weaving PVP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9WA8oVup","en":"Perfect Vanilla SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"64radtE0","en":"Fabric-reinforced Lucky OneBlock","zh_draft":"","zh_ai":"织物加固幸运方块","zh_human":"","zh":"织物加固幸运方块","status":"ai"}
+{"id":"azV7bsA3","en":"Levviata's Nuclear Tech Modpack","zh_draft":"","zh_ai":"Levviata的核技术模组包","zh_human":"","zh":"Levviata的核技术模组包","status":"ai"}
+{"id":"YAJUPsAv","en":"Prmz's vannila+","zh_draft":"","zh_ai":"Prmz的vanilla+","zh_human":"","zh":"Prmz的vanilla+","status":"ai"}
+{"id":"I5giinMD","en":"SliceofTofu's Improved Vanilla","zh_draft":"","zh_ai":"豆腐切片的改进vanilla","zh_human":"","zh":"豆腐切片的改进vanilla","status":"ai"}
+{"id":"vzFrrCm1","en":"Create: Beyond the Clouds","zh_draft":"","zh_ai":"创造：云层之上","zh_human":"","zh":"创造：云层之上","status":"ai"}
+{"id":"IR7Jv9yZ","en":"Cozy Craft","zh_draft":"","zh_ai":"舒适工艺","zh_human":"","zh":"舒适工艺","status":"ai"}
+{"id":"Htaxyb6Q","en":"FagdaMon","zh_draft":"","zh_ai":"FagdaMon","zh_human":"","zh":"FagdaMon","status":"ai"}
+{"id":"vyZS2Ym8","en":"HorizonCraft Performance+","zh_draft":"","zh_ai":"HorizonCraft性能+","zh_human":"","zh":"HorizonCraft性能+","status":"ai"}
+{"id":"JF4QSwEO","en":"Unofficial Ayn Thor Pack","zh_draft":"","zh_ai":"非官方Ayn Thor包","zh_human":"","zh":"非官方Ayn Thor包","status":"ai"}
+{"id":"5NqL6Jxn","en":"Weaving PVP","zh_draft":"","zh_ai":"编织PvP","zh_human":"","zh":"编织PvP","status":"ai"}
+{"id":"9WA8oVup","en":"Perfect Vanilla SMP","zh_draft":"","zh_ai":"完美vanilla SMP","zh_human":"","zh":"完美vanilla SMP","status":"ai"}

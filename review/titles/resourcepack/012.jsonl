@@ -702,8 +702,8 @@
 {"id":"waQANUqg","en":"Unique Dark - Questlog Support","zh_draft":"","zh_ai":"独特黑暗 - 任务日志支持","zh_human":"","zh":"独特黑暗 - 任务日志支持","status":"ai"}
 {"id":"yto4dgjY","en":"Rainbow-Glint","zh_draft":"","zh_ai":"彩虹闪光","zh_human":"","zh":"彩虹闪光","status":"ai"}
 {"id":"vf2XzzLi","en":"Crabs! Shells! Clams! YOU WANT IT!","zh_draft":"","zh_ai":"螃蟹！贝壳！蛤蜊！你想要！","zh_human":"","zh":"螃蟹！贝壳！蛤蜊！你想要！","status":"ai"}
-{"id":"Vfc2IE7O","en":"pvp essentials","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1nkZlHeh","en":"Aura swords","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fuD84CAZ","en":"Fresh Accurate Maps&Papers","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XEelnSdz","en":"TheCatEditionRP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"C9VNcsEd","en":"Living immersive vanilla resource","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Vfc2IE7O","en":"pvp essentials","zh_draft":"","zh_ai":"PvP必需品","zh_human":"","zh":"PvP必需品","status":"ai"}
+{"id":"1nkZlHeh","en":"Aura swords","zh_draft":"","zh_ai":"光环剑","zh_human":"","zh":"光环剑","status":"ai"}
+{"id":"fuD84CAZ","en":"Fresh Accurate Maps&Papers","zh_draft":"","zh_ai":"精准地图与纸张","zh_human":"","zh":"精准地图与纸张","status":"ai"}
+{"id":"XEelnSdz","en":"TheCatEditionRP","zh_draft":"","zh_ai":"猫版RP","zh_human":"","zh":"猫版RP","status":"ai"}
+{"id":"C9VNcsEd","en":"Living immersive vanilla resource","zh_draft":"","zh_ai":"沉浸式原版资源","zh_human":"","zh":"沉浸式原版资源","status":"ai"}
