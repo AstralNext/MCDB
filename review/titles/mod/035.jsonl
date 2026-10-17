@@ -2024,19 +2024,19 @@
 {"id":"cvTIWu6U","en":"SimpleEconomy","zh_draft":"","zh_ai":"简单经济","zh_human":"","zh":"简单经济","status":"ai"}
 {"id":"vUZ5KKcv","en":"Apple to Arrow Recipe","zh_draft":"","zh_ai":"苹果到箭矢配方","zh_human":"","zh":"苹果到箭矢配方","status":"ai"}
 {"id":"sRURAgKV","en":"ABlackMarket","zh_draft":"","zh_ai":"黑市","zh_human":"","zh":"黑市","status":"ai"}
-{"id":"nWd6eJgM","en":"Helpful Flecthers","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xdpXVpMJ","en":"Matcha Flavoured Companion","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"62OizTNb","en":"Skin Manager","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eVBHWtKW","en":"Inventory Spirits","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SUO5nSik","en":"Battery Level","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qYtXvlBc","en":"Ancient Remnants: Monoliths","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zpP2prtk","en":"TunnelVision","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FpLBlLy3","en":"End Update Ruby","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"H15yTr2V","en":"DELTARUNE Survey Program","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dHAUbDDr","en":"Sniffer Rework","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nc9lbKI9","en":"Sable Speed Limit","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WBhR075i","en":"Just a draft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fe1B3FmQ","en":"Pi's Cosmetics","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fDIomi6C","en":"Fancy Player Animation","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PtKWXzEG","en":"Arcforge","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ajoeQbKA","en":"Teleplace","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"nWd6eJgM","en":"Helpful Flecthers","zh_draft":"","zh_ai":"实用折光器","zh_human":"","zh":"实用折光器","status":"ai"}
+{"id":"xdpXVpMJ","en":"Matcha Flavoured Companion","zh_draft":"","zh_ai":"抹茶风味伙伴","zh_human":"","zh":"抹茶风味伙伴","status":"ai"}
+{"id":"62OizTNb","en":"Skin Manager","zh_draft":"","zh_ai":"皮肤管理器","zh_human":"","zh":"皮肤管理器","status":"ai"}
+{"id":"eVBHWtKW","en":"Inventory Spirits","zh_draft":"","zh_ai":"库存灵体","zh_human":"","zh":"库存灵体","status":"ai"}
+{"id":"SUO5nSik","en":"Battery Level","zh_draft":"","zh_ai":"电池电量","zh_human":"","zh":"电池电量","status":"ai"}
+{"id":"qYtXvlBc","en":"Ancient Remnants: Monoliths","zh_draft":"","zh_ai":"古代遗迹：方尖碑","zh_human":"","zh":"古代遗迹：方尖碑","status":"ai"}
+{"id":"zpP2prtk","en":"TunnelVision","zh_draft":"","zh_ai":"隧道视野","zh_human":"","zh":"隧道视野","status":"ai"}
+{"id":"FpLBlLy3","en":"End Update Ruby","zh_draft":"","zh_ai":"末地更新 Ruby","zh_human":"","zh":"末地更新 Ruby","status":"ai"}
+{"id":"H15yTr2V","en":"DELTARUNE Survey Program","zh_draft":"","zh_ai":"DELTARUNE 调查计划","zh_human":"","zh":"DELTARUNE 调查计划","status":"ai"}
+{"id":"dHAUbDDr","en":"Sniffer Rework","zh_draft":"","zh_ai":"嗅探器重制","zh_human":"","zh":"嗅探器重制","status":"ai"}
+{"id":"nc9lbKI9","en":"Sable Speed Limit","zh_draft":"","zh_ai":"银色速度限制","zh_human":"","zh":"银色速度限制","status":"ai"}
+{"id":"WBhR075i","en":"Just a draft","zh_draft":"","zh_ai":"只是一个草案","zh_human":"","zh":"只是一个草案","status":"ai"}
+{"id":"fe1B3FmQ","en":"Pi's Cosmetics","zh_draft":"","zh_ai":"派的美容","zh_human":"","zh":"派的美容","status":"ai"}
+{"id":"fDIomi6C","en":"Fancy Player Animation","zh_draft":"","zh_ai":"花哨玩家动画","zh_human":"","zh":"花哨玩家动画","status":"ai"}
+{"id":"PtKWXzEG","en":"Arcforge","zh_draft":"","zh_ai":"弧锻造","zh_human":"","zh":"弧锻造","status":"ai"}
+{"id":"ajoeQbKA","en":"Teleplace","zh_draft":"","zh_ai":"传送点","zh_human":"","zh":"传送点","status":"ai"}

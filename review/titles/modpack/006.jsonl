@@ -1274,17 +1274,17 @@
 {"id":"NYqqqj87","en":"Superduper fps","zh_draft":"","zh_ai":"超级FPS","zh_human":"","zh":"超级FPS","status":"ai"}
 {"id":"C6xxRmMB","en":"Apex by Void","zh_draft":"","zh_ai":"虚空之巅","zh_human":"","zh":"虚空之巅","status":"ai"}
 {"id":"fttD1V0Z","en":"Cyberloid131's Modpack","zh_draft":"","zh_ai":"Cyberloid131模组包","zh_human":"","zh":"Cyberloid131模组包","status":"ai"}
-{"id":"ZjR6hYAX","en":"Gears and Greens","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"spp1PDHf","en":"Dragon Ball - Dragon Mine Z Aurora","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"D3VCSB3d","en":"Feuer & Flöhe","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lcYR99HH","en":"KTG: The Sky Beckons","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NDTHNwUs","en":"SuperHeroes RPG","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"abbsqAq9","en":"Ben 10 - Omnitrix Evolution RPG","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YdPgZSJ1","en":"SE's pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vl1mMoKe","en":"Cinematic Cooking","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"k3MsXUP4","en":"MagicalCreate","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rSzdLEFu","en":"Create: The Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nkR4qMWY","en":"Kimetsu no Yaiba - Demon Slayer RPG","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"R86iu5oc","en":"More Optimizations","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"h768L9CO","en":"Just some optimization-serverpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1oi2CHnc","en":"NationsRP Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ZjR6hYAX","en":"Gears and Greens","zh_draft":"","zh_ai":"齿轮与绿色","zh_human":"","zh":"齿轮与绿色","status":"ai"}
+{"id":"spp1PDHf","en":"Dragon Ball - Dragon Mine Z Aurora","zh_draft":"","zh_ai":"龙珠 - 龙矿 Z 极光","zh_human":"","zh":"龙珠 - 龙矿 Z 极光","status":"ai"}
+{"id":"D3VCSB3d","en":"Feuer & Flöhe","zh_draft":"","zh_ai":"火焰与跳蚤","zh_human":"","zh":"火焰与跳蚤","status":"ai"}
+{"id":"lcYR99HH","en":"KTG: The Sky Beckons","zh_draft":"","zh_ai":"KTG：天空召唤","zh_human":"","zh":"KTG：天空召唤","status":"ai"}
+{"id":"NDTHNwUs","en":"SuperHeroes RPG","zh_draft":"","zh_ai":"超级英雄 RPG","zh_human":"","zh":"超级英雄 RPG","status":"ai"}
+{"id":"abbsqAq9","en":"Ben 10 - Omnitrix Evolution RPG","zh_draft":"","zh_ai":"本10 - 全能侠进化 RPG","zh_human":"","zh":"本10 - 全能侠进化 RPG","status":"ai"}
+{"id":"YdPgZSJ1","en":"SE's pack","zh_draft":"","zh_ai":"SE 的包","zh_human":"","zh":"SE 的包","status":"ai"}
+{"id":"vl1mMoKe","en":"Cinematic Cooking","zh_draft":"","zh_ai":"电影烹饪","zh_human":"","zh":"电影烹饪","status":"ai"}
+{"id":"k3MsXUP4","en":"MagicalCreate","zh_draft":"","zh_ai":"魔法创造","zh_human":"","zh":"魔法创造","status":"ai"}
+{"id":"rSzdLEFu","en":"Create: The Modpack","zh_draft":"","zh_ai":"创造：模组包","zh_human":"","zh":"创造：模组包","status":"ai"}
+{"id":"nkR4qMWY","en":"Kimetsu no Yaiba - Demon Slayer RPG","zh_draft":"","zh_ai":"鬼灭之刃 - 鬼杀队 RPG","zh_human":"","zh":"鬼灭之刃 - 鬼杀队 RPG","status":"ai"}
+{"id":"R86iu5oc","en":"More Optimizations","zh_draft":"","zh_ai":"更多优化","zh_human":"","zh":"更多优化","status":"ai"}
+{"id":"h768L9CO","en":"Just some optimization-serverpack","zh_draft":"","zh_ai":"只是一些优化服务器包","zh_human":"","zh":"只是一些优化服务器包","status":"ai"}
+{"id":"1oi2CHnc","en":"NationsRP Modpack","zh_draft":"","zh_ai":"国家RP 模组包","zh_human":"","zh":"国家RP 模组包","status":"ai"}
