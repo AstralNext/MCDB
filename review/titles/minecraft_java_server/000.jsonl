@@ -2512,19 +2512,19 @@
 {"id":"gsB4Pt9Q","en":"HOMI SMP","zh_draft":"","zh_ai":"HOMI极限生存","zh_human":"","zh":"HOMI极限生存","status":"ai"}
 {"id":"hPwqiTbc","en":"DivinityCraft","zh_draft":"","zh_ai":"神之工艺","zh_human":"","zh":"神之工艺","status":"ai"}
 {"id":"mLQdDUA1","en":"DuelSMP","zh_draft":"","zh_ai":"决斗生存模式","zh_human":"","zh":"决斗生存模式","status":"ai"}
-{"id":"3jYJytFM","en":"Techno","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"it6q41OP","en":"Streamline Metropolis | Server","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7DPdXG8s","en":"carrotsmp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"BIhJaD09","en":"MundoHispano","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"BrOxHn2o","en":"EpicSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DUKDMXOd","en":"Glitched Seed","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GwAdz0jY","en":"BunsSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HqIqqqYs","en":"Долина Капібар","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MhRYFvvl","en":"MironMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TMZKCwqC","en":"ShoreSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"bRCxrMja","en":"MineJutsu","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"byvi22aC","en":"OasisSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"guHwjJ2X","en":"All About Create","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pOuC56bf","en":"Cryndel Vanilla","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"q4yGDc6Q","en":"TokenSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"tWyQBhZR","en":"Nature Smp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"3jYJytFM","en":"Techno","zh_draft":"","zh_ai":"科技","zh_human":"","zh":"科技","status":"ai"}
+{"id":"it6q41OP","en":"Streamline Metropolis | Server","zh_draft":"","zh_ai":"流线都市 | 服务器","zh_human":"","zh":"流线都市 | 服务器","status":"ai"}
+{"id":"7DPdXG8s","en":"carrotsmp","zh_draft":"","zh_ai":"胡萝卜 SMP","zh_human":"","zh":"胡萝卜 SMP","status":"ai"}
+{"id":"BIhJaD09","en":"MundoHispano","zh_draft":"","zh_ai":"西班牙世界","zh_human":"","zh":"西班牙世界","status":"ai"}
+{"id":"BrOxHn2o","en":"EpicSMP","zh_draft":"","zh_ai":"史诗 SMP","zh_human":"","zh":"史诗 SMP","status":"ai"}
+{"id":"DUKDMXOd","en":"Glitched Seed","zh_draft":"","zh_ai":"错位种子","zh_human":"","zh":"错位种子","status":"ai"}
+{"id":"GwAdz0jY","en":"BunsSMP","zh_draft":"","zh_ai":"面包 SMP","zh_human":"","zh":"面包 SMP","status":"ai"}
+{"id":"HqIqqqYs","en":"Долина Капібар","zh_draft":"","zh_ai":"卡皮巴拉山谷","zh_human":"","zh":"卡皮巴拉山谷","status":"ai"}
+{"id":"MhRYFvvl","en":"MironMC","zh_draft":"","zh_ai":"米龙 MC","zh_human":"","zh":"米龙 MC","status":"ai"}
+{"id":"TMZKCwqC","en":"ShoreSMP","zh_draft":"","zh_ai":"海岸 SMP","zh_human":"","zh":"海岸 SMP","status":"ai"}
+{"id":"bRCxrMja","en":"MineJutsu","zh_draft":"","zh_ai":"矿术","zh_human":"","zh":"矿术","status":"ai"}
+{"id":"byvi22aC","en":"OasisSMP","zh_draft":"","zh_ai":"绿洲 SMP","zh_human":"","zh":"绿洲 SMP","status":"ai"}
+{"id":"guHwjJ2X","en":"All About Create","zh_draft":"","zh_ai":"关于机械动力的一切","zh_human":"","zh":"关于机械动力的一切","status":"ai"}
+{"id":"pOuC56bf","en":"Cryndel Vanilla","zh_draft":"","zh_ai":"克瑞德尔原版","zh_human":"","zh":"克瑞德尔原版","status":"ai"}
+{"id":"q4yGDc6Q","en":"TokenSMP","zh_draft":"","zh_ai":"代币 SMP","zh_human":"","zh":"代币 SMP","status":"ai"}
+{"id":"tWyQBhZR","en":"Nature Smp","zh_draft":"","zh_ai":"自然 SMP","zh_human":"","zh":"自然 SMP","status":"ai"}
