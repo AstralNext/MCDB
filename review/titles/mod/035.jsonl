@@ -2299,13 +2299,13 @@
 {"id":"WvdVY30s","en":"scorched guns structures","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
 {"id":"nOUEuvpM","en":"Simple Quests","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
 {"id":"MoozvYXC","en":"EssenHub","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VfrndrmA","en":"Sensitive Crucifix","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rS8p72V8","en":"Gravel to Sand via Blast Furnace","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1BaQpf9q","en":"Matcha Add-On - Toggle Surface Spawning","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1HdWmVNv","en":"Madbug's Matcha Fishing Enchants","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Df77Mdd9","en":"Craft Enchanted golden apples","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DzpqFLxZ","en":"World has levels!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YWIptdUq","en":"Harder MC (Hardcore-Hearts)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"d4BG66PK","en":"Vein Finder","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qlb0fwiZ","en":"Reusable Straw Beds","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ssU0XEbs","en":"Ocean World","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"VfrndrmA","en":"Sensitive Crucifix","zh_draft":"","zh_ai":"敏感十字架","zh_human":"","zh":"敏感十字架","status":"ai"}
+{"id":"rS8p72V8","en":"Gravel to Sand via Blast Furnace","zh_draft":"","zh_ai":"通过熔炉将砾石转化为沙子","zh_human":"","zh":"通过熔炉将砾石转化为沙子","status":"ai"}
+{"id":"1BaQpf9q","en":"Matcha Add-On - Toggle Surface Spawning","zh_draft":"","zh_ai":"抹茶插件 - 切换地表生成","zh_human":"","zh":"抹茶插件 - 切换地表生成","status":"ai"}
+{"id":"1HdWmVNv","en":"Madbug's Matcha Fishing Enchants","zh_draft":"","zh_ai":"疯狂虫子的抹茶钓鱼附魔","zh_human":"","zh":"疯狂虫子的抹茶钓鱼附魔","status":"ai"}
+{"id":"Df77Mdd9","en":"Craft Enchanted golden apples","zh_draft":"","zh_ai":"制作附魔金苹果","zh_human":"","zh":"制作附魔金苹果","status":"ai"}
+{"id":"DzpqFLxZ","en":"World has levels!","zh_draft":"","zh_ai":"世界有等级！","zh_human":"","zh":"世界有等级！","status":"ai"}
+{"id":"YWIptdUq","en":"Harder MC (Hardcore-Hearts)","zh_draft":"","zh_ai":"更难MC（极限-心）","zh_human":"","zh":"更难MC（极限-心）","status":"ai"}
+{"id":"d4BG66PK","en":"Vein Finder","zh_draft":"","zh_ai":"矿脉探测器","zh_human":"","zh":"矿脉探测器","status":"ai"}
+{"id":"qlb0fwiZ","en":"Reusable Straw Beds","zh_draft":"","zh_ai":"可重复使用的稻草床","zh_human":"","zh":"可重复使用的稻草床","status":"ai"}
+{"id":"ssU0XEbs","en":"Ocean World","zh_draft":"","zh_ai":"海洋世界","zh_human":"","zh":"海洋世界","status":"ai"}

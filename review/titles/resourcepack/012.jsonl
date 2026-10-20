@@ -783,38 +783,38 @@
 {"id":"tTQR04Fi","en":"Visible Brittle Ice (Marked Red)","zh_draft":"","zh_ai":"可见脆冰（标记红色）","zh_human":"","zh":"可见脆冰（标记红色）","status":"ai"}
 {"id":"tb1zCTTW","en":"Animated Rainbow Magma","zh_draft":"","zh_ai":"动态彩虹岩浆","zh_human":"","zh":"动态彩虹岩浆","status":"ai"}
 {"id":"GFg5vvxw","en":"Small Foods","zh_draft":"","zh_ai":"小食品","zh_human":"","zh":"小食品","status":"ai"}
-{"id":"4JkbVu76","en":"foenichs' pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GEVMwA81","en":"Short Blade Sword","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KSm2350F","en":"Atmospheric Biome Fog","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9fQ9bLla","en":"Thin Blade Sword","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KI5X8m4L","en":"Seo's 3D Bow & Arrow","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mf3bB7yt","en":"Classic's Note Block Tweaks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"t11TfF4e","en":"Helmet Nose Fix","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"oW9uD65D","en":"DeTrappering","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1HAGWzdO","en":"Simple 3D Tools","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Nn38vD8Z","en":"Star Wars Prequel Trilogy Music Pack (Reactive Music)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Wo01uylP","en":"Wemmbu Mace Attack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FXks15gu","en":"NoCompassLeak - DonutSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"25bpHF5x","en":"Jukebox Retextured","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"424BD7wr","en":"Monopoly Money","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7YuORrfu","en":"GreenNetherite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9avkuBve","en":"Clean Pvp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"J2zcJ5OI","en":"Confluence: Otherworld Mob Names Fix","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PV7zSbZD","en":"DeltaSkyboxes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"g2fbagEB","en":"Low Saturation Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jHbJ0g9W","en":"Moons PVP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mcLAXNsG","en":"Exclusive HT Purple Cart Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"prEJd5YY","en":"NeonBlue PVP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qGmSy13Y","en":"Powdered Snow","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"t4KsiSfM","en":"More SoulBound Battle Themes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wt2azM53","en":"FLAVOR FOLEY music discs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1Wnrpp6w","en":"Zero's Variety Glints","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6vvnIJ8i","en":"Jukebox Compromise","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9gWkhftO","en":"Classic Boat Item","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DlHYBf21","en":"C418 Unused Tracks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"I9PoQLbz","en":"Fusion Emissive Ores for Mekanism","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"U47mPXmk","en":"Star Wars Original Trilogy Music Pack (Reactive Music)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gb6C2xic","en":"Clean Fullbright","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jA9ofa2b","en":"Clean Dark Gui","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"x15v73cA","en":"Bigender Pride Flag Tooltip (Frame-only 5-Color Turned)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xZcPSJ2S","en":"Comfy Bedrock","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"4JkbVu76","en":"foenichs' pack","zh_draft":"","zh_ai":"foenichs包","zh_human":"","zh":"foenichs包","status":"ai"}
+{"id":"GEVMwA81","en":"Short Blade Sword","zh_draft":"","zh_ai":"短刃剑","zh_human":"","zh":"短刃剑","status":"ai"}
+{"id":"KSm2350F","en":"Atmospheric Biome Fog","zh_draft":"","zh_ai":"大气生物群系雾","zh_human":"","zh":"大气生物群系雾","status":"ai"}
+{"id":"9fQ9bLla","en":"Thin Blade Sword","zh_draft":"","zh_ai":"薄刃剑","zh_human":"","zh":"薄刃剑","status":"ai"}
+{"id":"KI5X8m4L","en":"Seo's 3D Bow & Arrow","zh_draft":"","zh_ai":"Seo的3D弓箭","zh_human":"","zh":"Seo的3D弓箭","status":"ai"}
+{"id":"mf3bB7yt","en":"Classic's Note Block Tweaks","zh_draft":"","zh_ai":"经典音符方块调整","zh_human":"","zh":"经典音符方块调整","status":"ai"}
+{"id":"t11TfF4e","en":"Helmet Nose Fix","zh_draft":"","zh_ai":"头盔鼻部修复","zh_human":"","zh":"头盔鼻部修复","status":"ai"}
+{"id":"oW9uD65D","en":"DeTrappering","zh_draft":"","zh_ai":"去陷阱","zh_human":"","zh":"去陷阱","status":"ai"}
+{"id":"1HAGWzdO","en":"Simple 3D Tools","zh_draft":"","zh_ai":"简单3D工具","zh_human":"","zh":"简单3D工具","status":"ai"}
+{"id":"Nn38vD8Z","en":"Star Wars Prequel Trilogy Music Pack (Reactive Music)","zh_draft":"","zh_ai":"星球大战前传三部曲音乐包（反应音乐）","zh_human":"","zh":"星球大战前传三部曲音乐包（反应音乐）","status":"ai"}
+{"id":"Wo01uylP","en":"Wemmbu Mace Attack","zh_draft":"","zh_ai":"Wemmbu战锤攻击","zh_human":"","zh":"Wemmbu战锤攻击","status":"ai"}
+{"id":"FXks15gu","en":"NoCompassLeak - DonutSMP","zh_draft":"","zh_ai":"无指南针泄露 -甜甜圈SMP","zh_human":"","zh":"无指南针泄露 -甜甜圈SMP","status":"ai"}
+{"id":"25bpHF5x","en":"Jukebox Retextured","zh_draft":"","zh_ai":"点唱机重纹理","zh_human":"","zh":"点唱机重纹理","status":"ai"}
+{"id":"424BD7wr","en":"Monopoly Money","zh_draft":"","zh_ai":"大富翁货币","zh_human":"","zh":"大富翁货币","status":"ai"}
+{"id":"7YuORrfu","en":"GreenNetherite","zh_draft":"","zh_ai":"绿色下界合金","zh_human":"","zh":"绿色下界合金","status":"ai"}
+{"id":"9avkuBve","en":"Clean Pvp","zh_draft":"","zh_ai":"清洁PVP","zh_human":"","zh":"清洁PVP","status":"ai"}
+{"id":"J2zcJ5OI","en":"Confluence: Otherworld Mob Names Fix","zh_draft":"","zh_ai":"融合：其他世界生物名称修复","zh_human":"","zh":"融合：其他世界生物名称修复","status":"ai"}
+{"id":"PV7zSbZD","en":"DeltaSkyboxes","zh_draft":"","zh_ai":"Delta天空盒","zh_human":"","zh":"Delta天空盒","status":"ai"}
+{"id":"g2fbagEB","en":"Low Saturation Pack","zh_draft":"","zh_ai":"低饱和度包","zh_human":"","zh":"低饱和度包","status":"ai"}
+{"id":"jHbJ0g9W","en":"Moons PVP","zh_draft":"","zh_ai":"月亮PVP","zh_human":"","zh":"月亮PVP","status":"ai"}
+{"id":"mcLAXNsG","en":"Exclusive HT Purple Cart Pack","zh_draft":"","zh_ai":"独家HT紫色购物车包","zh_human":"","zh":"独家HT紫色购物车包","status":"ai"}
+{"id":"prEJd5YY","en":"NeonBlue PVP","zh_draft":"","zh_ai":"霓虹蓝PVP","zh_human":"","zh":"霓虹蓝PVP","status":"ai"}
+{"id":"qGmSy13Y","en":"Powdered Snow","zh_draft":"","zh_ai":"粉末雪","zh_human":"","zh":"粉末雪","status":"ai"}
+{"id":"t4KsiSfM","en":"More SoulBound Battle Themes","zh_draft":"","zh_ai":"更多灵魂绑定战斗主题","zh_human":"","zh":"更多灵魂绑定战斗主题","status":"ai"}
+{"id":"wt2azM53","en":"FLAVOR FOLEY music discs","zh_draft":"","zh_ai":"FLAVOR FOLEY音乐唱片","zh_human":"","zh":"FLAVOR FOLEY音乐唱片","status":"ai"}
+{"id":"1Wnrpp6w","en":"Zero's Variety Glints","zh_draft":"","zh_ai":"Zero的多样闪光","zh_human":"","zh":"Zero的多样闪光","status":"ai"}
+{"id":"6vvnIJ8i","en":"Jukebox Compromise","zh_draft":"","zh_ai":"点唱机妥协","zh_human":"","zh":"点唱机妥协","status":"ai"}
+{"id":"9gWkhftO","en":"Classic Boat Item","zh_draft":"","zh_ai":"经典船物品","zh_human":"","zh":"经典船物品","status":"ai"}
+{"id":"DlHYBf21","en":"C418 Unused Tracks","zh_draft":"","zh_ai":"C418未使用曲目","zh_human":"","zh":"C418未使用曲目","status":"ai"}
+{"id":"I9PoQLbz","en":"Fusion Emissive Ores for Mekanism","zh_draft":"","zh_ai":"融合发光矿石（Mekanism）","zh_human":"","zh":"融合发光矿石（Mekanism）","status":"ai"}
+{"id":"U47mPXmk","en":"Star Wars Original Trilogy Music Pack (Reactive Music)","zh_draft":"","zh_ai":"星球大战原版三部曲音乐包（反应音乐）","zh_human":"","zh":"星球大战原版三部曲音乐包（反应音乐）","status":"ai"}
+{"id":"gb6C2xic","en":"Clean Fullbright","zh_draft":"","zh_ai":"纯净全亮模式","zh_human":"","zh":"纯净全亮模式","status":"ai"}
+{"id":"jA9ofa2b","en":"Clean Dark Gui","zh_draft":"","zh_ai":"纯净暗色界面","zh_human":"","zh":"纯净暗色界面","status":"ai"}
+{"id":"x15v73cA","en":"Bigender Pride Flag Tooltip (Frame-only 5-Color Turned)","zh_draft":"","zh_ai":"双性别骄傲旗帜提示（仅框架 5 色翻转）","zh_human":"","zh":"双性别骄傲旗帜提示（仅框架 5 色翻转）","status":"ai"}
+{"id":"xZcPSJ2S","en":"Comfy Bedrock","zh_draft":"","zh_ai":"舒适基岩","zh_human":"","zh":"舒适基岩","status":"ai"}
