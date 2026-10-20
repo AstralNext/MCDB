@@ -2260,45 +2260,45 @@
 {"id":"iXifxeav","en":"Easy Renewable Sand And Gravel","zh_draft":"","zh_ai":"简易可再生沙砾","zh_human":"","zh":"简易可再生沙砾","status":"ai"}
 {"id":"mPLi9tcZ","en":"Simple Banking System","zh_draft":"","zh_ai":"简易银行系统","zh_human":"","zh":"简易银行系统","status":"ai"}
 {"id":"wfcft2GK","en":"Dungeons Fishing Rod","zh_draft":"","zh_ai":"地牢钓鱼竿","zh_human":"","zh":"地牢钓鱼竿","status":"ai"}
-{"id":"gmLA7JuO","en":"Kirjuri","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uX3ahm1F","en":"Vegancraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rFsM8Kvi","en":"Slightly bigger Cliffs & Canyons","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6rVYMwUf","en":"Tostbrotis halloween","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4M2o6zbf","en":"Ransom(A90)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WFeOVL3m","en":"growth_wand","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Yvv1skDK","en":"Aspen Grove: Continue","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"K6cjpywA","en":"VoidRP UI","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sSMSvjTM","en":"From just sticks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zLzLrtKt","en":"MCPvP Tier Tagger","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zCTBJYX7","en":"Just_banana","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1kMocT3A","en":"Creative Companion","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hQI644Yq","en":"PAL - Player Advanced Login","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2Q6jUEQa","en":"GLFW X11 Fix","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PljVUasG","en":"Lice's Visual Anvil","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZXE5W9di","en":"Chorus Core","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HTx1OEFX","en":"CS - Complementary Structures: Towers","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"K7k2zhFN","en":"Aviandin's Ender Bundles","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NzfxvaEU","en":"MC Engine","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VNTcVp8K","en":"Zhuravel NoteBook","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XK7ryf9y","en":"Blocklet","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"F49mF8me","en":"DatabaseTester","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IUrnhodo","en":"Hotbar Block Shuffle","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lW6tmFJa","en":"LazyJackstraw's Paintings","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"o3BjjX7m","en":"ToTheMoon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2OmFRnNh","en":"zeroinvite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9MZkkITS","en":"More Potions Thank You","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"BLFM4Ebf","en":"Bird's Display Entities","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"H5VcyAVm","en":"Verdant Skins","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Ye7ZLQuo","en":"HideAndSeek","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"bfKC26vR","en":"Back in time","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dyxoi0yd","en":"TooManyAchievements","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nz6FxQGm","en":"BTA Fire+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"t63GOGGC","en":"Bossborn","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wCNHukCo","en":"Colorway","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"E4xA3VMg","en":"RubyMod","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WvdVY30s","en":"scorched guns structures","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nOUEuvpM","en":"Simple Quests","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MoozvYXC","en":"EssenHub","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"gmLA7JuO","en":"Kirjuri","zh_draft":"","zh_ai":"克里朱里","zh_human":"","zh":"克里朱里","status":"ai"}
+{"id":"uX3ahm1F","en":"Vegancraft","zh_draft":"","zh_ai":"纯素工艺","zh_human":"","zh":"纯素工艺","status":"ai"}
+{"id":"rFsM8Kvi","en":"Slightly bigger Cliffs & Canyons","zh_draft":"","zh_ai":"稍大的悬崖与峡谷","zh_human":"","zh":"稍大的悬崖与峡谷","status":"ai"}
+{"id":"6rVYMwUf","en":"Tostbrotis halloween","zh_draft":"","zh_ai":"万圣节托斯特布罗蒂斯","zh_human":"","zh":"万圣节托斯特布罗蒂斯","status":"ai"}
+{"id":"4M2o6zbf","en":"Ransom(A90)","zh_draft":"","zh_ai":"赎金(A90)","zh_human":"","zh":"赎金(A90)","status":"ai"}
+{"id":"WFeOVL3m","en":"growth_wand","zh_draft":"","zh_ai":"成长魔杖","zh_human":"","zh":"成长魔杖","status":"ai"}
+{"id":"Yvv1skDK","en":"Aspen Grove: Continue","zh_draft":"","zh_ai":"白杨林：继续","zh_human":"","zh":"白杨林：继续","status":"ai"}
+{"id":"K6cjpywA","en":"VoidRP UI","zh_draft":"","zh_ai":"虚空RP UI","zh_human":"","zh":"虚空RP UI","status":"ai"}
+{"id":"sSMSvjTM","en":"From just sticks","zh_draft":"","zh_ai":"仅从棍子","zh_human":"","zh":"仅从棍子","status":"ai"}
+{"id":"zLzLrtKt","en":"MCPvP Tier Tagger","zh_draft":"","zh_ai":"MCPvP 等级标签器","zh_human":"","zh":"MCPvP 等级标签器","status":"ai"}
+{"id":"zCTBJYX7","en":"Just_banana","zh_draft":"","zh_ai":"仅香蕉","zh_human":"","zh":"仅香蕉","status":"ai"}
+{"id":"1kMocT3A","en":"Creative Companion","zh_draft":"","zh_ai":"创造伙伴","zh_human":"","zh":"创造伙伴","status":"ai"}
+{"id":"hQI644Yq","en":"PAL - Player Advanced Login","zh_draft":"","zh_ai":"玩家高级登录","zh_human":"","zh":"玩家高级登录","status":"ai"}
+{"id":"2Q6jUEQa","en":"GLFW X11 Fix","zh_draft":"","zh_ai":"GLFW X11 修复","zh_human":"","zh":"GLFW X11 修复","status":"ai"}
+{"id":"PljVUasG","en":"Lice's Visual Anvil","zh_draft":"","zh_ai":"利斯的视觉铁砧","zh_human":"","zh":"利斯的视觉铁砧","status":"ai"}
+{"id":"ZXE5W9di","en":"Chorus Core","zh_draft":"","zh_ai":"合唱核心","zh_human":"","zh":"合唱核心","status":"ai"}
+{"id":"HTx1OEFX","en":"CS - Complementary Structures: Towers","zh_draft":"","zh_ai":"CS - 补充结构：塔","zh_human":"","zh":"CS - 补充结构：塔","status":"ai"}
+{"id":"K7k2zhFN","en":"Aviandin's Ender Bundles","zh_draft":"","zh_ai":"艾凡迪恩的末地包裹","zh_human":"","zh":"艾凡迪恩的末地包裹","status":"ai"}
+{"id":"NzfxvaEU","en":"MC Engine","zh_draft":"","zh_ai":"Minecraft 引擎","zh_human":"","zh":"Minecraft 引擎","status":"ai"}
+{"id":"VNTcVp8K","en":"Zhuravel NoteBook","zh_draft":"","zh_ai":"祖拉维尔的笔记本","zh_human":"","zh":"祖拉维尔的笔记本","status":"ai"}
+{"id":"XK7ryf9y","en":"Blocklet","zh_draft":"","zh_ai":"方块插件","zh_human":"","zh":"方块插件","status":"ai"}
+{"id":"F49mF8me","en":"DatabaseTester","zh_draft":"","zh_ai":"数据库测试器","zh_human":"","zh":"数据库测试器","status":"ai"}
+{"id":"IUrnhodo","en":"Hotbar Block Shuffle","zh_draft":"","zh_ai":"热键方块洗牌","zh_human":"","zh":"热键方块洗牌","status":"ai"}
+{"id":"lW6tmFJa","en":"LazyJackstraw's Paintings","zh_draft":"","zh_ai":"懒惰的杰克斯特劳的画作","zh_human":"","zh":"懒惰的杰克斯特劳的画作","status":"ai"}
+{"id":"o3BjjX7m","en":"ToTheMoon","zh_draft":"","zh_ai":"奔向月球","zh_human":"","zh":"奔向月球","status":"ai"}
+{"id":"2OmFRnNh","en":"zeroinvite","zh_draft":"","zh_ai":"零邀请","zh_human":"","zh":"零邀请","status":"ai"}
+{"id":"9MZkkITS","en":"More Potions Thank You","zh_draft":"","zh_ai":"更多药水，谢谢","zh_human":"","zh":"更多药水，谢谢","status":"ai"}
+{"id":"BLFM4Ebf","en":"Bird's Display Entities","zh_draft":"","zh_ai":"鸟的显示实体","zh_human":"","zh":"鸟的显示实体","status":"ai"}
+{"id":"H5VcyAVm","en":"Verdant Skins","zh_draft":"","zh_ai":"翠绿皮肤","zh_human":"","zh":"翠绿皮肤","status":"ai"}
+{"id":"Ye7ZLQuo","en":"HideAndSeek","zh_draft":"","zh_ai":"捉迷藏","zh_human":"","zh":"捉迷藏","status":"ai"}
+{"id":"bfKC26vR","en":"Back in time","zh_draft":"","zh_ai":"回到过去","zh_human":"","zh":"回到过去","status":"ai"}
+{"id":"dyxoi0yd","en":"TooManyAchievements","zh_draft":"","zh_ai":"成就过多","zh_human":"","zh":"成就过多","status":"ai"}
+{"id":"nz6FxQGm","en":"BTA Fire+","zh_draft":"","zh_ai":"BTA 火力+","zh_human":"","zh":"BTA 火力+","status":"ai"}
+{"id":"t63GOGGC","en":"Bossborn","zh_draft":"","zh_ai":"Bossborn","zh_human":"","zh":"Bossborn","status":"ai"}
+{"id":"wCNHukCo","en":"Colorway","zh_draft":"","zh_ai":"色彩方式","zh_human":"","zh":"色彩方式","status":"ai"}
+{"id":"E4xA3VMg","en":"RubyMod","zh_draft":"","zh_ai":"RubyMod","zh_human":"","zh":"RubyMod","status":"ai"}
+{"id":"WvdVY30s","en":"scorched guns structures","zh_draft":"","zh_ai":"烧毁的枪械结构","zh_human":"","zh":"烧毁的枪械结构","status":"ai"}
+{"id":"nOUEuvpM","en":"Simple Quests","zh_draft":"","zh_ai":"简单任务","zh_human":"","zh":"简单任务","status":"ai"}
+{"id":"MoozvYXC","en":"EssenHub","zh_draft":"","zh_ai":"EssenHub","zh_human":"","zh":"EssenHub","status":"ai"}
 {"id":"VfrndrmA","en":"Sensitive Crucifix","zh_draft":"","zh_ai":"敏感十字架","zh_human":"","zh":"敏感十字架","status":"ai"}
 {"id":"rS8p72V8","en":"Gravel to Sand via Blast Furnace","zh_draft":"","zh_ai":"通过熔炉将砾石转化为沙子","zh_human":"","zh":"通过熔炉将砾石转化为沙子","status":"ai"}
 {"id":"1BaQpf9q","en":"Matcha Add-On - Toggle Surface Spawning","zh_draft":"","zh_ai":"抹茶插件 - 切换地表生成","zh_human":"","zh":"抹茶插件 - 切换地表生成","status":"ai"}
