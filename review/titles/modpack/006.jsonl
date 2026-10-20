@@ -1291,13 +1291,13 @@
 {"id":"bdrgMMto","en":"Skyfication","zh_draft":"","zh_ai":"天空化","zh_human":"","zh":"天空化","status":"ai"}
 {"id":"g9sssdGZ","en":"RP Skin Figura Pack","zh_draft":"","zh_ai":"角色扮演皮肤图库包","zh_human":"","zh":"角色扮演皮肤图库包","status":"ai"}
 {"id":"vbGE0XN8","en":"Streamline Metropolis | Modpack","zh_draft":"","zh_ai":"流线型大都市 | 模组包","zh_human":"","zh":"流线型大都市 | 模组包","status":"ai"}
-{"id":"PDnf77ww","en":"Little Features","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"evRak9Zo","en":"Create Attack 7","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UeS5MYM4","en":"SkyBlock Hypixel (SBH ModPack)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qa4DVsQp","en":"Bare Minimum (BM)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"t9sC0Tkg","en":"PuffCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gcetSOIQ","en":"Jihan's Ultimate PvP Optimizing Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pxc0cpUP","en":"create optimized","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FeCVODnT","en":"RedMods","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MYoGq9cq","en":"Skyblock For Laggers","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LRazoQLF","en":"Create +++","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"PDnf77ww","en":"Little Features","zh_draft":"","zh_ai":"小功能","zh_human":"","zh":"小功能","status":"ai"}
+{"id":"evRak9Zo","en":"Create Attack 7","zh_draft":"","zh_ai":"创造攻击7","zh_human":"","zh":"创造攻击7","status":"ai"}
+{"id":"UeS5MYM4","en":"SkyBlock Hypixel (SBH ModPack)","zh_draft":"","zh_ai":"天空岛 Hypixel（SBH Mod包）","zh_human":"","zh":"天空岛 Hypixel（SBH Mod包）","status":"ai"}
+{"id":"qa4DVsQp","en":"Bare Minimum (BM)","zh_draft":"","zh_ai":"最小需求（BM）","zh_human":"","zh":"最小需求（BM）","status":"ai"}
+{"id":"t9sC0Tkg","en":"PuffCraft","zh_draft":"","zh_ai":"蓬松工艺","zh_human":"","zh":"蓬松工艺","status":"ai"}
+{"id":"gcetSOIQ","en":"Jihan's Ultimate PvP Optimizing Modpack","zh_draft":"","zh_ai":"Jihan的终极PvP优化Mod包","zh_human":"","zh":"Jihan的终极PvP优化Mod包","status":"ai"}
+{"id":"pxc0cpUP","en":"create optimized","zh_draft":"","zh_ai":"创造优化","zh_human":"","zh":"创造优化","status":"ai"}
+{"id":"FeCVODnT","en":"RedMods","zh_draft":"","zh_ai":"红模组","zh_human":"","zh":"红模组","status":"ai"}
+{"id":"MYoGq9cq","en":"Skyblock For Laggers","zh_draft":"","zh_ai":"延迟者天空岛","zh_human":"","zh":"延迟者天空岛","status":"ai"}
+{"id":"LRazoQLF","en":"Create +++","zh_draft":"","zh_ai":"创造+++","zh_human":"","zh":"创造+++","status":"ai"}

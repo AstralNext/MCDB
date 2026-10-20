@@ -966,33 +966,33 @@
 {"id":"Rn5nNhVt","en":"Adi Core Shader","zh_draft":"","zh_ai":"艾迪核心Shader","zh_human":"","zh":"艾迪核心Shader","status":"ai"}
 {"id":"yHwtds5X","en":"Aurelia-Shader","zh_draft":"","zh_ai":"奥蕾莉亚着色器","zh_human":"","zh":"奥蕾莉亚着色器","status":"ai"}
 {"id":"fIae0ZD5","en":"PlusM1","zh_draft":"","zh_ai":"PlusM1","zh_human":"","zh":"PlusM1","status":"ai"}
-{"id":"NuEoBYNC","en":"SEUS PTGI HRR Reforged","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"BUM3ET0U","en":"Solace Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1dEYicrh","en":"Natural Comfort","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gMyKpCbg","en":"Lumarit","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nmkOQKZu","en":"Depth of Field","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"e9xluLqx","en":"VoxLume","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"AqkOagyS","en":"Beautify Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"AULSuv89","en":"Realistic Vibes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"P3dG72kd","en":"Halcyon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"E977wyJc","en":"Pelagic","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SAiL7h1f","en":"Galaxy'S Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hj1bzwpv","en":"VoidLight Cinematic","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kbuhuwmF","en":"Shader For Potato Device","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1bgY0tc8","en":"SweetSun","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SGcxdEn8","en":"Hyperreal Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"c87XIrbq","en":"Reshady","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9K2PaGW5","en":"SemiRealistic Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Vw2mE0fs","en":"ModernShader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YRTkyY7a","en":"NeoShaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZXNtBtRA","en":"Noobie Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jgPoCNT0","en":"ColorfulVanillaLights","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nCHBhUFd","en":"SimpleShader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"tg0Y5Iue","en":"Cinematic: Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1G5IaTGd","en":"Aetherius","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9MQzDCIj","en":"EyeComfort Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"H0ATJW2K","en":"Lively-Nature","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8TfLK6Fa","en":"Astigmatic","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dwedz4RV","en":"Seaglass Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"tVM7nBUg","en":"Overly Simple Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"feSnQ448","en":"Lavi Bloomz — Realistic Edition","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"NuEoBYNC","en":"SEUS PTGI HRR Reforged","zh_draft":"","zh_ai":"SEUS PTGI HRR 重铸","zh_human":"","zh":"SEUS PTGI HRR 重铸","status":"ai"}
+{"id":"BUM3ET0U","en":"Solace Shaders","zh_draft":"","zh_ai":"安慰着色器","zh_human":"","zh":"安慰着色器","status":"ai"}
+{"id":"1dEYicrh","en":"Natural Comfort","zh_draft":"","zh_ai":"自然舒适","zh_human":"","zh":"自然舒适","status":"ai"}
+{"id":"gMyKpCbg","en":"Lumarit","zh_draft":"","zh_ai":"卢玛里特","zh_human":"","zh":"卢玛里特","status":"ai"}
+{"id":"nmkOQKZu","en":"Depth of Field","zh_draft":"","zh_ai":"景深","zh_human":"","zh":"景深","status":"ai"}
+{"id":"e9xluLqx","en":"VoxLume","zh_draft":"","zh_ai":"沃克斯卢姆","zh_human":"","zh":"沃克斯卢姆","status":"ai"}
+{"id":"AqkOagyS","en":"Beautify Shaders","zh_draft":"","zh_ai":"美化着色器","zh_human":"","zh":"美化着色器","status":"ai"}
+{"id":"AULSuv89","en":"Realistic Vibes","zh_draft":"","zh_ai":"逼真氛围","zh_human":"","zh":"逼真氛围","status":"ai"}
+{"id":"P3dG72kd","en":"Halcyon","zh_draft":"","zh_ai":"和平","zh_human":"","zh":"和平","status":"ai"}
+{"id":"E977wyJc","en":"Pelagic","zh_draft":"","zh_ai":"深海","zh_human":"","zh":"深海","status":"ai"}
+{"id":"SAiL7h1f","en":"Galaxy'S Shaders","zh_draft":"","zh_ai":"银河着色器","zh_human":"","zh":"银河着色器","status":"ai"}
+{"id":"hj1bzwpv","en":"VoidLight Cinematic","zh_draft":"","zh_ai":"虚空光电影","zh_human":"","zh":"虚空光电影","status":"ai"}
+{"id":"kbuhuwmF","en":"Shader For Potato Device","zh_draft":"","zh_ai":"土豆设备着色器","zh_human":"","zh":"土豆设备着色器","status":"ai"}
+{"id":"1bgY0tc8","en":"SweetSun","zh_draft":"","zh_ai":"甜蜜阳光","zh_human":"","zh":"甜蜜阳光","status":"ai"}
+{"id":"SGcxdEn8","en":"Hyperreal Shaders","zh_draft":"","zh_ai":"超真实着色器","zh_human":"","zh":"超真实着色器","status":"ai"}
+{"id":"c87XIrbq","en":"Reshady","zh_draft":"","zh_ai":"重塑着色器","zh_human":"","zh":"重塑着色器","status":"ai"}
+{"id":"9K2PaGW5","en":"SemiRealistic Shader","zh_draft":"","zh_ai":"半逼真着色器","zh_human":"","zh":"半逼真着色器","status":"ai"}
+{"id":"Vw2mE0fs","en":"ModernShader","zh_draft":"","zh_ai":"现代着色器","zh_human":"","zh":"现代着色器","status":"ai"}
+{"id":"YRTkyY7a","en":"NeoShaders","zh_draft":"","zh_ai":"新着色器","zh_human":"","zh":"新着色器","status":"ai"}
+{"id":"ZXNtBtRA","en":"Noobie Shaders","zh_draft":"","zh_ai":"新手着色器","zh_human":"","zh":"新手着色器","status":"ai"}
+{"id":"jgPoCNT0","en":"ColorfulVanillaLights","zh_draft":"","zh_ai":"多彩原版灯光","zh_human":"","zh":"多彩原版灯光","status":"ai"}
+{"id":"nCHBhUFd","en":"SimpleShader","zh_draft":"","zh_ai":"简单着色器","zh_human":"","zh":"简单着色器","status":"ai"}
+{"id":"tg0Y5Iue","en":"Cinematic: Shader","zh_draft":"","zh_ai":"电影：着色器","zh_human":"","zh":"电影：着色器","status":"ai"}
+{"id":"1G5IaTGd","en":"Aetherius","zh_draft":"","zh_ai":"以太","zh_human":"","zh":"以太","status":"ai"}
+{"id":"9MQzDCIj","en":"EyeComfort Shader","zh_draft":"","zh_ai":"眼睛舒适着色器","zh_human":"","zh":"眼睛舒适着色器","status":"ai"}
+{"id":"H0ATJW2K","en":"Lively-Nature","zh_draft":"","zh_ai":"活力自然","zh_human":"","zh":"活力自然","status":"ai"}
+{"id":"8TfLK6Fa","en":"Astigmatic","zh_draft":"","zh_ai":"散光","zh_human":"","zh":"散光","status":"ai"}
+{"id":"dwedz4RV","en":"Seaglass Shaders","zh_draft":"","zh_ai":"海玻璃着色器","zh_human":"","zh":"海玻璃着色器","status":"ai"}
+{"id":"tVM7nBUg","en":"Overly Simple Shaders","zh_draft":"","zh_ai":"过于简单的着色器","zh_human":"","zh":"过于简单的着色器","status":"ai"}
+{"id":"feSnQ448","en":"Lavi Bloomz — Realistic Edition","zh_draft":"","zh_ai":"Lavi Bloomz — 真实版","zh_human":"","zh":"Lavi Bloomz — 真实版","status":"ai"}
