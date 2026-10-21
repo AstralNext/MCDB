@@ -818,41 +818,41 @@
 {"id":"jA9ofa2b","en":"Clean Dark Gui","zh_draft":"","zh_ai":"纯净暗色界面","zh_human":"","zh":"纯净暗色界面","status":"ai"}
 {"id":"x15v73cA","en":"Bigender Pride Flag Tooltip (Frame-only 5-Color Turned)","zh_draft":"","zh_ai":"双性别骄傲旗帜提示（仅框架 5 色翻转）","zh_human":"","zh":"双性别骄傲旗帜提示（仅框架 5 色翻转）","status":"ai"}
 {"id":"xZcPSJ2S","en":"Comfy Bedrock","zh_draft":"","zh_ai":"舒适基岩","zh_human":"","zh":"舒适基岩","status":"ai"}
-{"id":"XKj9rM5s","en":"Rounded logs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QxfuP3DK","en":"aluth pvp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"EOxGT4Wa","en":"Hotline Miami 2 music","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vaDrCikl","en":"Araxer's Modded","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"e50UsNkM","en":"XsRealism 512x","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1jtw62CM","en":"Jevin's Neverfinished Forevermore","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"K7eUaTeG","en":"Hell Resources","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KDcQfqEO","en":"macemania essentials","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8IYWDjma","en":"Pest Drops to Money Icons","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HH3xKWxz","en":"Transparent Inventory","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"z0gspuIP","en":"Low Fire","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jusrFYLD","en":"Mandala's GUI x Colorful Hearts Compat","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"oeH0zWq3","en":"Upsidedown Textures","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"D2fWnPVM","en":"Bushy Leaves – Inventory","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HvHyiz2w","en":"pmp's memier paintings","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zFfQvhGi","en":"Fractures - Armory","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5W3cMSUo","en":"HandStitched","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PCeWFWGb","en":"Daggers","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PHbPn5ts","en":"Meem Sword/TikTok version","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rQ7Ny9Tp","en":"BloodStone pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vBk7VjZI","en":"Cyber Bites","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HQlZ1qQ6","en":"Ghast Er","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UJoQAuzt","en":"Yultron's animated mace","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iTlHmvbM","en":"Wemmbu's totem of undying","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8Ub2xUHH","en":"Clear Mangrove Leaves","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CyLECUc0","en":"VanitasPBR","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GDWocwWd","en":"Hello Kitty Crosshair","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HLa1jxea","en":"Dan and Phil Beds","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PKBlhiZR","en":"norths pvp pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SAWYGDGb","en":"BMC5 Controlify Extras","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"U0VBCgUY","en":"Classic's Tweaks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"irU1nd5h","en":"German nouns with der/die/das articles","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IWvJV7Wc","en":"BTA Port","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ill4pi0A","en":"Happy Striders!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"n4RlEyQ1","en":"Sculk UI","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nXmvBTu6","en":"fluger totem","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nlSSrbLG","en":"Anvil to Whetstone","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vTinpgdE","en":"Rain World rot","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"XKj9rM5s","en":"Rounded logs","zh_draft":"","zh_ai":"圆木","zh_human":"","zh":"圆木","status":"ai"}
+{"id":"QxfuP3DK","en":"aluth pvp","zh_draft":"","zh_ai":"aluth PVP","zh_human":"","zh":"aluth PVP","status":"ai"}
+{"id":"EOxGT4Wa","en":"Hotline Miami 2 music","zh_draft":"","zh_ai":"迈阿密热线2音乐","zh_human":"","zh":"迈阿密热线2音乐","status":"ai"}
+{"id":"vaDrCikl","en":"Araxer's Modded","zh_draft":"","zh_ai":"Araxer的模组化","zh_human":"","zh":"Araxer的模组化","status":"ai"}
+{"id":"e50UsNkM","en":"XsRealism 512x","zh_draft":"","zh_ai":"XsRealism 512x","zh_human":"","zh":"XsRealism 512x","status":"ai"}
+{"id":"1jtw62CM","en":"Jevin's Neverfinished Forevermore","zh_draft":"","zh_ai":"Jevin的永不完成","zh_human":"","zh":"Jevin的永不完成","status":"ai"}
+{"id":"K7eUaTeG","en":"Hell Resources","zh_draft":"","zh_ai":"地狱资源","zh_human":"","zh":"地狱资源","status":"ai"}
+{"id":"KDcQfqEO","en":"macemania essentials","zh_draft":"","zh_ai":"macemania基本","zh_human":"","zh":"macemania基本","status":"ai"}
+{"id":"8IYWDjma","en":"Pest Drops to Money Icons","zh_draft":"","zh_ai":"害虫掉落成金钱图标","zh_human":"","zh":"害虫掉落成金钱图标","status":"ai"}
+{"id":"HH3xKWxz","en":"Transparent Inventory","zh_draft":"","zh_ai":"透明库存","zh_human":"","zh":"透明库存","status":"ai"}
+{"id":"z0gspuIP","en":"Low Fire","zh_draft":"","zh_ai":"小火","zh_human":"","zh":"小火","status":"ai"}
+{"id":"jusrFYLD","en":"Mandala's GUI x Colorful Hearts Compat","zh_draft":"","zh_ai":"曼荼罗GUI x 彩虹之心兼容","zh_human":"","zh":"曼荼罗GUI x 彩虹之心兼容","status":"ai"}
+{"id":"oeH0zWq3","en":"Upsidedown Textures","zh_draft":"","zh_ai":"颠倒纹理","zh_human":"","zh":"颠倒纹理","status":"ai"}
+{"id":"D2fWnPVM","en":"Bushy Leaves – Inventory","zh_draft":"","zh_ai":"茂密树叶 – 库存","zh_human":"","zh":"茂密树叶 – 库存","status":"ai"}
+{"id":"HvHyiz2w","en":"pmp's memier paintings","zh_draft":"","zh_ai":"pmp的纪念画作","zh_human":"","zh":"pmp的纪念画作","status":"ai"}
+{"id":"zFfQvhGi","en":"Fractures - Armory","zh_draft":"","zh_ai":"裂缝 - 军械库","zh_human":"","zh":"裂缝 - 军械库","status":"ai"}
+{"id":"5W3cMSUo","en":"HandStitched","zh_draft":"","zh_ai":"手工缝合","zh_human":"","zh":"手工缝合","status":"ai"}
+{"id":"PCeWFWGb","en":"Daggers","zh_draft":"","zh_ai":"匕首","zh_human":"","zh":"匕首","status":"ai"}
+{"id":"PHbPn5ts","en":"Meem Sword/TikTok version","zh_draft":"","zh_ai":"Meem剑/TikTok版本","zh_human":"","zh":"Meem剑/TikTok版本","status":"ai"}
+{"id":"rQ7Ny9Tp","en":"BloodStone pack","zh_draft":"","zh_ai":"血石包","zh_human":"","zh":"血石包","status":"ai"}
+{"id":"vBk7VjZI","en":"Cyber Bites","zh_draft":"","zh_ai":"网络咬合","zh_human":"","zh":"网络咬合","status":"ai"}
+{"id":"HQlZ1qQ6","en":"Ghast Er","zh_draft":"","zh_ai":"幽魂消除器","zh_human":"","zh":"幽魂消除器","status":"ai"}
+{"id":"UJoQAuzt","en":"Yultron's animated mace","zh_draft":"","zh_ai":"尤尔特龙的动画战锤","zh_human":"","zh":"尤尔特龙的动画战锤","status":"ai"}
+{"id":"iTlHmvbM","en":"Wemmbu's totem of undying","zh_draft":"","zh_ai":"Wemmbu的不朽图腾","zh_human":"","zh":"Wemmbu的不朽图腾","status":"ai"}
+{"id":"8Ub2xUHH","en":"Clear Mangrove Leaves","zh_draft":"","zh_ai":"清澈的红树林叶","zh_human":"","zh":"清澈的红树林叶","status":"ai"}
+{"id":"CyLECUc0","en":"VanitasPBR","zh_draft":"","zh_ai":"虚幻PBR","zh_human":"","zh":"虚幻PBR","status":"ai"}
+{"id":"GDWocwWd","en":"Hello Kitty Crosshair","zh_draft":"","zh_ai":"Hello Kitty准星","zh_human":"","zh":"Hello Kitty准星","status":"ai"}
+{"id":"HLa1jxea","en":"Dan and Phil Beds","zh_draft":"","zh_ai":"Dan和Phil的床","zh_human":"","zh":"Dan和Phil的床","status":"ai"}
+{"id":"PKBlhiZR","en":"norths pvp pack","zh_draft":"","zh_ai":"norths PVP包","zh_human":"","zh":"norths PVP包","status":"ai"}
+{"id":"SAWYGDGb","en":"BMC5 Controlify Extras","zh_draft":"","zh_ai":"BMC5 Controlify扩展","zh_human":"","zh":"BMC5 Controlify扩展","status":"ai"}
+{"id":"U0VBCgUY","en":"Classic's Tweaks","zh_draft":"","zh_ai":"经典调整","zh_human":"","zh":"经典调整","status":"ai"}
+{"id":"irU1nd5h","en":"German nouns with der/die/das articles","zh_draft":"","zh_ai":"德语名词与der/die/das冠词","zh_human":"","zh":"德语名词与der/die/das冠词","status":"ai"}
+{"id":"IWvJV7Wc","en":"BTA Port","zh_draft":"","zh_ai":"BTA端口","zh_human":"","zh":"BTA端口","status":"ai"}
+{"id":"ill4pi0A","en":"Happy Striders!","zh_draft":"","zh_ai":"快乐行者！","zh_human":"","zh":"快乐行者！","status":"ai"}
+{"id":"n4RlEyQ1","en":"Sculk UI","zh_draft":"","zh_ai":"隐匿界面","zh_human":"","zh":"隐匿界面","status":"ai"}
+{"id":"nXmvBTu6","en":"fluger totem","zh_draft":"","zh_ai":"fluger图腾","zh_human":"","zh":"fluger图腾","status":"ai"}
+{"id":"nlSSrbLG","en":"Anvil to Whetstone","zh_draft":"","zh_ai":"铁砧到磨刀石","zh_human":"","zh":"铁砧到磨刀石","status":"ai"}
+{"id":"vTinpgdE","en":"Rain World rot","zh_draft":"","zh_ai":"雨世界腐化","zh_human":"","zh":"雨世界腐化","status":"ai"}

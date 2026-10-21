@@ -1302,25 +1302,25 @@
 {"id":"MYoGq9cq","en":"Skyblock For Laggers","zh_draft":"","zh_ai":"延迟者天空岛","zh_human":"","zh":"延迟者天空岛","status":"ai"}
 {"id":"LRazoQLF","en":"Create +++","zh_draft":"","zh_ai":"创造+++","zh_human":"","zh":"创造+++","status":"ai"}
 {"id":"6wJPhW0A","en":"Mayamon Modpack","zh_draft":"","zh_ai":"Mayamon模组包","zh_human":"","zh":"Mayamon模组包","status":"ai"}
-{"id":"Qwbl1Dkf","en":"The Water World","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"71KKxgFB","en":"No Man's Horizon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YWfmwBpG","en":"Custom cobble pack by crow","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uDn0u1kd","en":"Visuals Perfected","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vTA8RJ2E","en":"Old Soldiers Never Die","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"AmjzwXtx","en":"We Love Vanilla & Create","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"b1JzdWA0","en":"Vanilla Honed","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6V4dM5uD","en":"Terranova","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"bW3XYABD","en":"potato++","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"oBl9dTU3","en":"Cherry Vanilla Plus","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MZuYdmaM","en":"Cobbleticked","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"f7f7VlQ6","en":"Create: Obsessed","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dTJby9sc","en":"Opsidian","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"E8kRA6GJ","en":"UNFAIR PvP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"c5pgJYAp","en":"Opsidian Creator","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9y5CzEDH","en":"Vanilla Atmosphere+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MIFN5VM7","en":"optimized vulkan pvp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iENXeDuA","en":"Amethyst Eclipse Dedicated Server","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ovD2YFRh","en":"V3RITY","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zEZvZecG","en":"Mob Watching Official Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xpGXqaAV","en":"Opsidian+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Yz3liIQa","en":"Cobblemoon modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Qwbl1Dkf","en":"The Water World","zh_draft":"","zh_ai":"水世界","zh_human":"","zh":"水世界","status":"ai"}
+{"id":"71KKxgFB","en":"No Man's Horizon","zh_draft":"","zh_ai":"无人之境","zh_human":"","zh":"无人之境","status":"ai"}
+{"id":"YWfmwBpG","en":"Custom cobble pack by crow","zh_draft":"","zh_ai":"由 crow 定制的石头包","zh_human":"","zh":"由 crow 定制的石头包","status":"ai"}
+{"id":"uDn0u1kd","en":"Visuals Perfected","zh_draft":"","zh_ai":"视觉效果完美","zh_human":"","zh":"视觉效果完美","status":"ai"}
+{"id":"vTA8RJ2E","en":"Old Soldiers Never Die","zh_draft":"","zh_ai":"老兵不死","zh_human":"","zh":"老兵不死","status":"ai"}
+{"id":"AmjzwXtx","en":"We Love Vanilla & Create","zh_draft":"","zh_ai":"我们爱原版 & 机械动力","zh_human":"","zh":"我们爱原版 & 机械动力","status":"ai"}
+{"id":"b1JzdWA0","en":"Vanilla Honed","zh_draft":"","zh_ai":"原版精炼","zh_human":"","zh":"原版精炼","status":"ai"}
+{"id":"6V4dM5uD","en":"Terranova","zh_draft":"","zh_ai":"特诺瓦","zh_human":"","zh":"特诺瓦","status":"ai"}
+{"id":"bW3XYABD","en":"potato++","zh_draft":"","zh_ai":"土豆++","zh_human":"","zh":"土豆++","status":"ai"}
+{"id":"oBl9dTU3","en":"Cherry Vanilla Plus","zh_draft":"","zh_ai":"樱桃香草+","zh_human":"","zh":"樱桃香草+","status":"ai"}
+{"id":"MZuYdmaM","en":"Cobbleticked","zh_draft":"","zh_ai":"石头标记","zh_human":"","zh":"石头标记","status":"ai"}
+{"id":"f7f7VlQ6","en":"Create: Obsessed","zh_draft":"","zh_ai":"机械动力：痴迷","zh_human":"","zh":"机械动力：痴迷","status":"ai"}
+{"id":"dTJby9sc","en":"Opsidian","zh_draft":"","zh_ai":"Opsidian","zh_human":"","zh":"Opsidian","status":"ai"}
+{"id":"E8kRA6GJ","en":"UNFAIR PvP","zh_draft":"","zh_ai":"不公平PvP","zh_human":"","zh":"不公平PvP","status":"ai"}
+{"id":"c5pgJYAp","en":"Opsidian Creator","zh_draft":"","zh_ai":"Opsidian 创建者","zh_human":"","zh":"Opsidian 创建者","status":"ai"}
+{"id":"9y5CzEDH","en":"Vanilla Atmosphere+","zh_draft":"","zh_ai":"原版氛围+","zh_human":"","zh":"原版氛围+","status":"ai"}
+{"id":"MIFN5VM7","en":"optimized vulkan pvp","zh_draft":"","zh_ai":"优化 vulkan pvp","zh_human":"","zh":"优化 vulkan pvp","status":"ai"}
+{"id":"iENXeDuA","en":"Amethyst Eclipse Dedicated Server","zh_draft":"","zh_ai":"紫水晶日食专用服务器","zh_human":"","zh":"紫水晶日食专用服务器","status":"ai"}
+{"id":"ovD2YFRh","en":"V3RITY","zh_draft":"","zh_ai":"V3RITY","zh_human":"","zh":"V3RITY","status":"ai"}
+{"id":"zEZvZecG","en":"Mob Watching Official Modpack","zh_draft":"","zh_ai":"怪物观察官方模组包","zh_human":"","zh":"怪物观察官方模组包","status":"ai"}
+{"id":"xpGXqaAV","en":"Opsidian+","zh_draft":"","zh_ai":"奥普西迪安+","zh_human":"","zh":"奥普西迪安+","status":"ai"}
+{"id":"Yz3liIQa","en":"Cobblemoon modpack","zh_draft":"","zh_ai":"鹅卵石月模组包","zh_human":"","zh":"鹅卵石月模组包","status":"ai"}
