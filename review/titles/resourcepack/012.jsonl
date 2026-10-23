@@ -856,13 +856,13 @@
 {"id":"nXmvBTu6","en":"fluger totem","zh_draft":"","zh_ai":"fluger图腾","zh_human":"","zh":"fluger图腾","status":"ai"}
 {"id":"nlSSrbLG","en":"Anvil to Whetstone","zh_draft":"","zh_ai":"铁砧到磨刀石","zh_human":"","zh":"铁砧到磨刀石","status":"ai"}
 {"id":"vTinpgdE","en":"Rain World rot","zh_draft":"","zh_ai":"雨世界腐化","zh_human":"","zh":"雨世界腐化","status":"ai"}
-{"id":"EnMmmvqg","en":"MostlyTrue","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"EAQkedWg","en":"Fresh Moves+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4Bppl33e","en":"Highlighted troubles","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"k4hFnOER","en":"Simple bedwars pvp pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"84pY4lJH","en":"Calamitycraft Unofficial","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3owLx5pr","en":"Spludii's Custom Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4PCWNhcr","en":"Mace Fundamentals","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"EnMmmvqg","en":"MostlyTrue","zh_draft":"","zh_ai":"大部分正确","zh_human":"","zh":"大部分正确","status":"ai"}
+{"id":"EAQkedWg","en":"Fresh Moves+","zh_draft":"","zh_ai":"新鲜动作+","zh_human":"","zh":"新鲜动作+","status":"ai"}
+{"id":"4Bppl33e","en":"Highlighted troubles","zh_draft":"","zh_ai":"突出的问题","zh_human":"","zh":"突出的问题","status":"ai"}
+{"id":"k4hFnOER","en":"Simple bedwars pvp pack","zh_draft":"","zh_ai":"简单床战PvP包","zh_human":"","zh":"简单床战PvP包","status":"ai"}
+{"id":"84pY4lJH","en":"Calamitycraft Unofficial","zh_draft":"","zh_ai":"灾厄工坊非官方","zh_human":"","zh":"灾厄工坊非官方","status":"ai"}
+{"id":"3owLx5pr","en":"Spludii's Custom Pack","zh_draft":"","zh_ai":"Spludii定制包","zh_human":"","zh":"Spludii定制包","status":"ai"}
+{"id":"4PCWNhcr","en":"Mace Fundamentals","zh_draft":"","zh_ai":"Mace基础","zh_human":"","zh":"Mace基础","status":"ai"}
 {"id":"FjGERkqN","en":"Halloween Mashup Extensions","zh_draft":"","zh_ai":"万圣节混搭扩展包","zh_human":"","zh":"万圣节混搭扩展包","status":"ai"}
 {"id":"IcM8DDAC","en":"Kelfurios750 PvP & Survival","zh_draft":"","zh_ai":"Kelfurios750 PVP & 生存","zh_human":"","zh":"Kelfurios750 PVP & 生存","status":"ai"}
 {"id":"ZRYAI2jN","en":"Side Shield","zh_draft":"","zh_ai":"侧盾","zh_human":"","zh":"侧盾","status":"ai"}
@@ -1019,5 +1019,5 @@
 {"id":"bU2W7f7U","en":"Brittle Ice Crack Phase","zh_draft":"","zh_ai":"脆冰裂纹阶段","zh_human":"","zh":"脆冰裂纹阶段","status":"ai"}
 {"id":"ljZ7eFfB","en":"Visual Brittle Ice Stages","zh_draft":"","zh_ai":"视觉脆冰阶段","zh_human":"","zh":"视觉脆冰阶段","status":"ai"}
 {"id":"vldCJvGW","en":"Shepherd's Crook","zh_draft":"","zh_ai":"牧羊杖","zh_human":"","zh":"牧羊杖","status":"ai"}
-{"id":"ZIrjFidN","en":"Vanilla Ultra","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"K8nZHZyQ","en":"Thicker Stands","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ZIrjFidN","en":"Vanilla Ultra","zh_draft":"","zh_ai":"香草超频","zh_human":"","zh":"香草超频","status":"ai"}
+{"id":"K8nZHZyQ","en":"Thicker Stands","zh_draft":"","zh_ai":"加厚支架","zh_human":"","zh":"加厚支架","status":"ai"}

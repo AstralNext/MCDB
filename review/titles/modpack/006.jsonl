@@ -1324,14 +1324,14 @@
 {"id":"zEZvZecG","en":"Mob Watching Official Modpack","zh_draft":"","zh_ai":"怪物观察官方模组包","zh_human":"","zh":"怪物观察官方模组包","status":"ai"}
 {"id":"xpGXqaAV","en":"Opsidian+","zh_draft":"","zh_ai":"奥普西迪安+","zh_human":"","zh":"奥普西迪安+","status":"ai"}
 {"id":"Yz3liIQa","en":"Cobblemoon modpack","zh_draft":"","zh_ai":"鹅卵石月模组包","zh_human":"","zh":"鹅卵石月模组包","status":"ai"}
-{"id":"JG98g00g","en":"WILDMON","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"53CLeuyn","en":"Weirds MC modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zngsZG5j","en":"Cobblemon radical","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QIOkqFNS","en":"OPTIMIZED+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"niaRThun","en":"DynastyReborn 2","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4D53jDRE","en":"PvpQOL","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ALZAS9l9","en":"spacefaring ponies with guns","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4RkOx84b","en":"Pure optimizer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"c59H2VdA","en":"[FOP] FishOnPack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"He2SzLk4","en":"Satisfaction Guaranteed","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WW3iK2tz","en":"Mines & Data","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"JG98g00g","en":"WILDMON","zh_draft":"","zh_ai":"野怪","zh_human":"","zh":"野怪","status":"ai"}
+{"id":"53CLeuyn","en":"Weirds MC modpack","zh_draft":"","zh_ai":"怪异Minecraft模组包","zh_human":"","zh":"怪异Minecraft模组包","status":"ai"}
+{"id":"zngsZG5j","en":"Cobblemon radical","zh_draft":"","zh_ai":"方块龙激进版","zh_human":"","zh":"方块龙激进版","status":"ai"}
+{"id":"QIOkqFNS","en":"OPTIMIZED+","zh_draft":"","zh_ai":"优化+","zh_human":"","zh":"优化+","status":"ai"}
+{"id":"niaRThun","en":"DynastyReborn 2","zh_draft":"","zh_ai":"王朝重生2","zh_human":"","zh":"王朝重生2","status":"ai"}
+{"id":"4D53jDRE","en":"PvpQOL","zh_draft":"","zh_ai":"PvP质量生活","zh_human":"","zh":"PvP质量生活","status":"ai"}
+{"id":"ALZAS9l9","en":"spacefaring ponies with guns","zh_draft":"","zh_ai":"太空旅行马枪","zh_human":"","zh":"太空旅行马枪","status":"ai"}
+{"id":"4RkOx84b","en":"Pure optimizer","zh_draft":"","zh_ai":"纯净优化器","zh_human":"","zh":"纯净优化器","status":"ai"}
+{"id":"c59H2VdA","en":"[FOP] FishOnPack","zh_draft":"","zh_ai":"鱼上包","zh_human":"","zh":"鱼上包","status":"ai"}
+{"id":"He2SzLk4","en":"Satisfaction Guaranteed","zh_draft":"","zh_ai":"保证满意","zh_human":"","zh":"保证满意","status":"ai"}
+{"id":"WW3iK2tz","en":"Mines & Data","zh_draft":"","zh_ai":"矿与数据","zh_human":"","zh":"矿与数据","status":"ai"}
