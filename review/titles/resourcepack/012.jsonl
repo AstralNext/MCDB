@@ -1021,36 +1021,36 @@
 {"id":"vldCJvGW","en":"Shepherd's Crook","zh_draft":"","zh_ai":"牧羊杖","zh_human":"","zh":"牧羊杖","status":"ai"}
 {"id":"ZIrjFidN","en":"Vanilla Ultra","zh_draft":"","zh_ai":"香草超频","zh_human":"","zh":"香草超频","status":"ai"}
 {"id":"K8nZHZyQ","en":"Thicker Stands","zh_draft":"","zh_ai":"加厚支架","zh_human":"","zh":"加厚支架","status":"ai"}
-{"id":"Om9U7Mdv","en":"Fresh Animations: Player Compats","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JNiCusEj","en":"New Jukeboxes Backport","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mvwjmJcD","en":"Delta UI","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dqOTA8HW","en":"Trans bees!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"J7k43E7Z","en":"Pure Concrete: Chroma","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TYAA1HFe","en":"Cobblemon Gui Radiant Diamond Edition","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YKiidLQW","en":"Cornfield Chase Music Disc","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"l7JqJ1zr","en":"JP's Dark Theme UI","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"OU6Gbi2g","en":"Better Bamboo | Thatch","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"oW2CHjfP","en":"Gojo Inventory","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vjPddaqV","en":"Sunflower in music record","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1c2rAVMl","en":"Dark Industry - 3D Tools","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dkRe10yd","en":"Matcha Comes Alive Grass Patch","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gOvdC3x1","en":"[MTR4] Siemens-Matra VAL","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lUg4tA9h","en":"Sticky Piston Slime Sides","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mEhIIyJx","en":"[MTR3] JR東日本 E235系 | JR East E235 series","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"r1psaQYI","en":"Bosquets Better Leaves","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8P6HYvxw","en":"Boya's Enderman","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ES17sozo","en":"Apex End/Ancient Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VbsXweVh","en":"Happy Apples","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iiYyIJ4U","en":"Punched Backpacks!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jP0ETGxW","en":"Ainz Bread","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nfauhP0u","en":"Soulbound Undertale Music Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8gHLtkx9","en":"[MTR4] Siemens LRV Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"F48cw6Nf","en":"Perserteppich-Boats","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"F8Imk0uW","en":"BlackPack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"J8Jv4Nsi","en":"Spooky Month Aspen Moor Creaking","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Lf8qJ4M8","en":"FoxBrush","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"P62118oi","en":"Note Blocks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RlWERGoj","en":"Slate Ru lang","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Om9U7Mdv","en":"Fresh Animations: Player Compats","zh_draft":"","zh_ai":"新鲜动画：玩家兼容","zh_human":"","zh":"新鲜动画：玩家兼容","status":"ai"}
+{"id":"JNiCusEj","en":"New Jukeboxes Backport","zh_draft":"","zh_ai":"新唱片机旧版兼容","zh_human":"","zh":"新唱片机旧版兼容","status":"ai"}
+{"id":"mvwjmJcD","en":"Delta UI","zh_draft":"","zh_ai":"Delta 用户界面","zh_human":"","zh":"Delta 用户界面","status":"ai"}
+{"id":"dqOTA8HW","en":"Trans bees!","zh_draft":"","zh_ai":"变性蜜蜂！","zh_human":"","zh":"变性蜜蜂！","status":"ai"}
+{"id":"J7k43E7Z","en":"Pure Concrete: Chroma","zh_draft":"","zh_ai":"纯净混凝土：色度","zh_human":"","zh":"纯净混凝土：色度","status":"ai"}
+{"id":"TYAA1HFe","en":"Cobblemon Gui Radiant Diamond Edition","zh_draft":"","zh_ai":"Cobblemon GUI 光辉钻石版","zh_human":"","zh":"Cobblemon GUI 光辉钻石版","status":"ai"}
+{"id":"YKiidLQW","en":"Cornfield Chase Music Disc","zh_draft":"","zh_ai":"玉米地追逐唱片","zh_human":"","zh":"玉米地追逐唱片","status":"ai"}
+{"id":"l7JqJ1zr","en":"JP's Dark Theme UI","zh_draft":"","zh_ai":"JP的暗色主题UI","zh_human":"","zh":"JP的暗色主题UI","status":"ai"}
+{"id":"OU6Gbi2g","en":"Better Bamboo | Thatch","zh_draft":"","zh_ai":"更好的竹子 | 茅草","zh_human":"","zh":"更好的竹子 | 茅草","status":"ai"}
+{"id":"oW2CHjfP","en":"Gojo Inventory","zh_draft":"","zh_ai":"五条悟物品栏","zh_human":"","zh":"五条悟物品栏","status":"ai"}
+{"id":"vjPddaqV","en":"Sunflower in music record","zh_draft":"","zh_ai":"唱片里的向日葵","zh_human":"","zh":"唱片里的向日葵","status":"ai"}
+{"id":"1c2rAVMl","en":"Dark Industry - 3D Tools","zh_draft":"","zh_ai":"黑暗工业 - 3D工具","zh_human":"","zh":"黑暗工业 - 3D工具","status":"ai"}
+{"id":"dkRe10yd","en":"Matcha Comes Alive Grass Patch","zh_draft":"","zh_ai":"抹茶生机：草地补丁","zh_human":"","zh":"抹茶生机：草地补丁","status":"ai"}
+{"id":"gOvdC3x1","en":"[MTR4] Siemens-Matra VAL","zh_draft":"","zh_ai":"[MTR4] 西门子-马特拉VAL","zh_human":"","zh":"[MTR4] 西门子-马特拉VAL","status":"ai"}
+{"id":"lUg4tA9h","en":"Sticky Piston Slime Sides","zh_draft":"","zh_ai":"粘性活塞史莱姆侧面","zh_human":"","zh":"粘性活塞史莱姆侧面","status":"ai"}
+{"id":"mEhIIyJx","en":"[MTR3] JR東日本 E235系 | JR East E235 series","zh_draft":"","zh_ai":"[MTR3] JR东日本 E235系","zh_human":"","zh":"[MTR3] JR东日本 E235系","status":"ai"}
+{"id":"r1psaQYI","en":"Bosquets Better Leaves","zh_draft":"","zh_ai":"Bosquets 更好的树叶","zh_human":"","zh":"Bosquets 更好的树叶","status":"ai"}
+{"id":"8P6HYvxw","en":"Boya's Enderman","zh_draft":"","zh_ai":"Boya的末影人","zh_human":"","zh":"Boya的末影人","status":"ai"}
+{"id":"ES17sozo","en":"Apex End/Ancient Pack","zh_draft":"","zh_ai":"顶峰末地/远古包","zh_human":"","zh":"顶峰末地/远古包","status":"ai"}
+{"id":"VbsXweVh","en":"Happy Apples","zh_draft":"","zh_ai":"快乐苹果","zh_human":"","zh":"快乐苹果","status":"ai"}
+{"id":"iiYyIJ4U","en":"Punched Backpacks!","zh_draft":"","zh_ai":"打孔背包！","zh_human":"","zh":"打孔背包！","status":"ai"}
+{"id":"jP0ETGxW","en":"Ainz Bread","zh_draft":"","zh_ai":"安兹面包","zh_human":"","zh":"安兹面包","status":"ai"}
+{"id":"nfauhP0u","en":"Soulbound Undertale Music Pack","zh_draft":"","zh_ai":"灵魂绑定传说之下音乐包","zh_human":"","zh":"灵魂绑定传说之下音乐包","status":"ai"}
+{"id":"8gHLtkx9","en":"[MTR4] Siemens LRV Pack","zh_draft":"","zh_ai":"[MTR4] 西门子LRV包","zh_human":"","zh":"[MTR4] 西门子LRV包","status":"ai"}
+{"id":"F48cw6Nf","en":"Perserteppich-Boats","zh_draft":"","zh_ai":"波斯地毯船","zh_human":"","zh":"波斯地毯船","status":"ai"}
+{"id":"F8Imk0uW","en":"BlackPack","zh_draft":"","zh_ai":"黑包","zh_human":"","zh":"黑包","status":"ai"}
+{"id":"J8Jv4Nsi","en":"Spooky Month Aspen Moor Creaking","zh_draft":"","zh_ai":"恐怖月：白杨沼泽吱呀声","zh_human":"","zh":"恐怖月：白杨沼泽吱呀声","status":"ai"}
+{"id":"Lf8qJ4M8","en":"FoxBrush","zh_draft":"","zh_ai":"狐狸画笔","zh_human":"","zh":"狐狸画笔","status":"ai"}
+{"id":"P62118oi","en":"Note Blocks","zh_draft":"","zh_ai":"音符盒","zh_human":"","zh":"音符盒","status":"ai"}
+{"id":"RlWERGoj","en":"Slate Ru lang","zh_draft":"","zh_ai":"石板 Ru lang","zh_human":"","zh":"石板 Ru lang","status":"ai"}
 {"id":"SWJ3CURe","en":"Play in Romaji","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
 {"id":"Wi8lhsxk","en":"Quiet Villagers","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
 {"id":"bu4uIDOG","en":"Side & Low Shield","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}

@@ -1335,20 +1335,20 @@
 {"id":"c59H2VdA","en":"[FOP] FishOnPack","zh_draft":"","zh_ai":"鱼上包","zh_human":"","zh":"鱼上包","status":"ai"}
 {"id":"He2SzLk4","en":"Satisfaction Guaranteed","zh_draft":"","zh_ai":"保证满意","zh_human":"","zh":"保证满意","status":"ai"}
 {"id":"WW3iK2tz","en":"Mines & Data","zh_draft":"","zh_ai":"矿与数据","zh_human":"","zh":"矿与数据","status":"ai"}
-{"id":"91IJ3CG4","en":"ForgiaCraft 11","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jSw7KskG","en":"FLCreate","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PTWs7e26","en":"Western Frontier","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5C6v2cZg","en":"MimrpimSMP Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jcBAsa13","en":"Create: All Included","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TWMJyp1B","en":"Scoofle's Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8B6ufx91","en":"SCP Site-43","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VcwWR84z","en":"Bobby's PvP Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SZODzAHa","en":"Operator's Dungeons","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WxZTgNXZ","en":"Create Plums","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dcUerHE0","en":"Cobble-Melee","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"L4dfU3RC","en":"Core Gaming Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"V6NhLG3V","en":"untitled_horror.pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DuTxu9Xf","en":"World of Mist (Official)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mZOocwO6","en":"Mind Fracture","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cxrEQxxM","en":"Cozy Progression","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jiuNcEqX","en":"Farwater: Above the Clouds","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"91IJ3CG4","en":"ForgiaCraft 11","zh_draft":"","zh_ai":"ForgiaCraft 11","zh_human":"","zh":"ForgiaCraft 11","status":"ai"}
+{"id":"jSw7KskG","en":"FLCreate","zh_draft":"","zh_ai":"FL机械动力","zh_human":"","zh":"FL机械动力","status":"ai"}
+{"id":"PTWs7e26","en":"Western Frontier","zh_draft":"","zh_ai":"西部边境","zh_human":"","zh":"西部边境","status":"ai"}
+{"id":"5C6v2cZg","en":"MimrpimSMP Modpack","zh_draft":"","zh_ai":"Mimrpim生存整合包","zh_human":"","zh":"Mimrpim生存整合包","status":"ai"}
+{"id":"jcBAsa13","en":"Create: All Included","zh_draft":"","zh_ai":"机械动力：全部包含","zh_human":"","zh":"机械动力：全部包含","status":"ai"}
+{"id":"TWMJyp1B","en":"Scoofle's Modpack","zh_draft":"","zh_ai":"Scoofle的整合包","zh_human":"","zh":"Scoofle的整合包","status":"ai"}
+{"id":"8B6ufx91","en":"SCP Site-43","zh_draft":"","zh_ai":"SCP 站点-43","zh_human":"","zh":"SCP 站点-43","status":"ai"}
+{"id":"VcwWR84z","en":"Bobby's PvP Pack","zh_draft":"","zh_ai":"Bobby的PvP包","zh_human":"","zh":"Bobby的PvP包","status":"ai"}
+{"id":"SZODzAHa","en":"Operator's Dungeons","zh_draft":"","zh_ai":"管理员地牢","zh_human":"","zh":"管理员地牢","status":"ai"}
+{"id":"WxZTgNXZ","en":"Create Plums","zh_draft":"","zh_ai":"机械动力：李子","zh_human":"","zh":"机械动力：李子","status":"ai"}
+{"id":"dcUerHE0","en":"Cobble-Melee","zh_draft":"","zh_ai":"圆石混战","zh_human":"","zh":"圆石混战","status":"ai"}
+{"id":"L4dfU3RC","en":"Core Gaming Network","zh_draft":"","zh_ai":"核心游戏网络","zh_human":"","zh":"核心游戏网络","status":"ai"}
+{"id":"V6NhLG3V","en":"untitled_horror.pack","zh_draft":"","zh_ai":"未命名恐怖包","zh_human":"","zh":"未命名恐怖包","status":"ai"}
+{"id":"DuTxu9Xf","en":"World of Mist (Official)","zh_draft":"","zh_ai":"迷雾世界 (官方)","zh_human":"","zh":"迷雾世界 (官方)","status":"ai"}
+{"id":"mZOocwO6","en":"Mind Fracture","zh_draft":"","zh_ai":"心智破碎","zh_human":"","zh":"心智破碎","status":"ai"}
+{"id":"cxrEQxxM","en":"Cozy Progression","zh_draft":"","zh_ai":"舒适发展","zh_human":"","zh":"舒适发展","status":"ai"}
+{"id":"jiuNcEqX","en":"Farwater: Above the Clouds","zh_draft":"","zh_ai":"远水：云端之上","zh_human":"","zh":"远水：云端之上","status":"ai"}
