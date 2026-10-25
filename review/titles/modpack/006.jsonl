@@ -1352,6 +1352,6 @@
 {"id":"mZOocwO6","en":"Mind Fracture","zh_draft":"","zh_ai":"心智破碎","zh_human":"","zh":"心智破碎","status":"ai"}
 {"id":"cxrEQxxM","en":"Cozy Progression","zh_draft":"","zh_ai":"舒适发展","zh_human":"","zh":"舒适发展","status":"ai"}
 {"id":"jiuNcEqX","en":"Farwater: Above the Clouds","zh_draft":"","zh_ai":"远水：云端之上","zh_human":"","zh":"远水：云端之上","status":"ai"}
-{"id":"fOAvz3pe","en":"PvP OPTIMIZED","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Hkam4s4S","en":"The Traitors","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"agFoXI7p","en":"Craftitude","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"fOAvz3pe","en":"PvP OPTIMIZED","zh_draft":"","zh_ai":"PvP 优化","zh_human":"","zh":"PvP 优化","status":"ai"}
+{"id":"Hkam4s4S","en":"The Traitors","zh_draft":"","zh_ai":"叛徒","zh_human":"","zh":"叛徒","status":"ai"}
+{"id":"agFoXI7p","en":"Craftitude","zh_draft":"","zh_ai":"工艺","zh_human":"","zh":"工艺","status":"ai"}

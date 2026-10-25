@@ -1081,13 +1081,13 @@
 {"id":"txrcu4FD","en":"GvR's Villager Variants x Fresh Animations","zh_draft":"","zh_ai":"GvR的村民变体x新动画","zh_human":"","zh":"GvR的村民变体x新动画","status":"ai"}
 {"id":"x8FS5oCQ","en":"Fork Trident Item Frame","zh_draft":"","zh_ai":"分支三叉戟物品框架","zh_human":"","zh":"分支三叉戟物品框架","status":"ai"}
 {"id":"yuJhwj0u","en":"DeNoise 3D Mace","zh_draft":"","zh_ai":"去噪3D战锤","zh_human":"","zh":"去噪3D战锤","status":"ai"}
-{"id":"qhM5S7PX","en":"Alternate Double Slabs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3Int0tz9","en":"Top Down Music Disks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Xg3dMbjD","en":"Terraria Font","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1PHJPWLj","en":"Yakuza Font","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UtUATMKG","en":"Soggy Swamp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YZ5UrZLa","en":"Netherite Armor/Tools 🡢 Ultimate Armor/Tools","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cbySJPuv","en":"Hybrid Aquatic Painting Fix","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mrgmOFqV","en":"Old Jukeboxes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ny5BoqOi","en":"Dingy Jungle","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"x2X6Ilp3","en":"mant1s's totem reborn","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"qhM5S7PX","en":"Alternate Double Slabs","zh_draft":"","zh_ai":"替代双层板","zh_human":"","zh":"替代双层板","status":"ai"}
+{"id":"3Int0tz9","en":"Top Down Music Disks","zh_draft":"","zh_ai":"俯视音乐唱片","zh_human":"","zh":"俯视音乐唱片","status":"ai"}
+{"id":"Xg3dMbjD","en":"Terraria Font","zh_draft":"","zh_ai":"泰拉瑞亚字体","zh_human":"","zh":"泰拉瑞亚字体","status":"ai"}
+{"id":"1PHJPWLj","en":"Yakuza Font","zh_draft":"","zh_ai":"黑帮字体","zh_human":"","zh":"黑帮字体","status":"ai"}
+{"id":"UtUATMKG","en":"Soggy Swamp","zh_draft":"","zh_ai":"湿漉漉的沼泽","zh_human":"","zh":"湿漉漉的沼泽","status":"ai"}
+{"id":"YZ5UrZLa","en":"Netherite Armor/Tools 🡢 Ultimate Armor/Tools","zh_draft":"","zh_ai":"下界合金盔甲/工具🡢终极盔甲/工具","zh_human":"","zh":"下界合金盔甲/工具🡢终极盔甲/工具","status":"ai"}
+{"id":"cbySJPuv","en":"Hybrid Aquatic Painting Fix","zh_draft":"","zh_ai":"混合水生画修复","zh_human":"","zh":"混合水生画修复","status":"ai"}
+{"id":"mrgmOFqV","en":"Old Jukeboxes","zh_draft":"","zh_ai":"旧音乐盒","zh_human":"","zh":"旧音乐盒","status":"ai"}
+{"id":"ny5BoqOi","en":"Dingy Jungle","zh_draft":"","zh_ai":"昏暗丛林","zh_human":"","zh":"昏暗丛林","status":"ai"}
+{"id":"x2X6Ilp3","en":"mant1s's totem reborn","zh_draft":"","zh_ai":"mant1s 的图腾重生","zh_human":"","zh":"mant1s 的图腾重生","status":"ai"}
