@@ -1,40 +1,40 @@
-{"id":"SZFIEmZa","en":"Xanderland.paf (Wonderland Addon)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dpv0Vi8B","en":"Rotatable Observer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KHom4LR6","en":"Fake_Tim's Things","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SULnJqtT","en":"No Plains","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nKUdQANC","en":"Townfolk","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4Hqo2a2O","en":"More Shulkerbox Colors","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5TdUVTMQ","en":"Minigame Shuffle","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7w59EFfI","en":"Yakisugi","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"M6Gz8cee","en":"Fish Trap","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qBHVqEkm","en":"Create Dense Ores","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wFeGatYt","en":"Ether Craft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"59PqtNTG","en":"BlockScanner","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MVMIUot8","en":"Psi: EightFold","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"S5jMkkn3","en":"Jay's weapons","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"deg8rmf9","en":"CommandFixer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2f7kKws7","en":"Scary Water","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CdCrqn6j","en":"Connected Map Arts","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SCmmaTN3","en":"Exposure: New Port","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YTuuFsYM","en":"Lively Bends","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"j4iGyG6G","en":"Day Counter (Configurable)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xcg7wXAA","en":"Miner's Adventure","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2XYcXfOZ","en":"SprintIndicator","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Ad49oeC1","en":"Create: Toolworks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Fdy5YeD1","en":"ModPack-Tools","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NiywS6DS","en":"MORE PROGERTION!!!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RnxKpY1o","en":"GeodeJei","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hxvNXecs","en":"Better calculator","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"isRha8ED","en":"Nucleus-Draw","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kSSty4AU","en":"MC Bowser","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pj6V6eEL","en":"Datapack TCP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5h7xGNuq","en":"ElytraSwap","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GsIpoe3F","en":"BuilderMode","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JnilI0bT","en":"Dye Depot Aeroworks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"OC5RbF9l","en":"Knock On Doors","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"we24IgTV","en":"Duplication With Stars Remastered","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2CVhy7fI","en":"MoNcKiE's Animals","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"v0LoYmyM","en":"Just Sword Mod","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mLNi7DoW","en":"PlayerCare","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mR102Gnj","en":"CS2CasesPlugin","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1ERdNX4B","en":"Bankware","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"SZFIEmZa","en":"Xanderland.paf (Wonderland Addon)","zh_draft":"","zh_ai":"Xanderland.paf (奇境插件)","zh_human":"","zh":"Xanderland.paf (奇境插件)","status":"ai"}
+{"id":"dpv0Vi8B","en":"Rotatable Observer","zh_draft":"","zh_ai":"可旋转观察者","zh_human":"","zh":"可旋转观察者","status":"ai"}
+{"id":"KHom4LR6","en":"Fake_Tim's Things","zh_draft":"","zh_ai":"假蒂姆的东西","zh_human":"","zh":"假蒂姆的东西","status":"ai"}
+{"id":"SULnJqtT","en":"No Plains","zh_draft":"","zh_ai":"无平原","zh_human":"","zh":"无平原","status":"ai"}
+{"id":"nKUdQANC","en":"Townfolk","zh_draft":"","zh_ai":"镇民","zh_human":"","zh":"镇民","status":"ai"}
+{"id":"4Hqo2a2O","en":"More Shulkerbox Colors","zh_draft":"","zh_ai":"更多潜影盒颜色","zh_human":"","zh":"更多潜影盒颜色","status":"ai"}
+{"id":"5TdUVTMQ","en":"Minigame Shuffle","zh_draft":"","zh_ai":"小游戏洗牌","zh_human":"","zh":"小游戏洗牌","status":"ai"}
+{"id":"7w59EFfI","en":"Yakisugi","zh_draft":"","zh_ai":"和纸","zh_human":"","zh":"和纸","status":"ai"}
+{"id":"M6Gz8cee","en":"Fish Trap","zh_draft":"","zh_ai":"鱼陷阱","zh_human":"","zh":"鱼陷阱","status":"ai"}
+{"id":"qBHVqEkm","en":"Create Dense Ores","zh_draft":"","zh_ai":"创建密集矿石","zh_human":"","zh":"创建密集矿石","status":"ai"}
+{"id":"wFeGatYt","en":"Ether Craft","zh_draft":"","zh_ai":"以太工艺","zh_human":"","zh":"以太工艺","status":"ai"}
+{"id":"59PqtNTG","en":"BlockScanner","zh_draft":"","zh_ai":"方块扫描器","zh_human":"","zh":"方块扫描器","status":"ai"}
+{"id":"MVMIUot8","en":"Psi: EightFold","zh_draft":"","zh_ai":"八重螺旋力场","zh_human":"","zh":"八重螺旋力场","status":"ai"}
+{"id":"S5jMkkn3","en":"Jay's weapons","zh_draft":"","zh_ai":"杰的武器","zh_human":"","zh":"杰的武器","status":"ai"}
+{"id":"deg8rmf9","en":"CommandFixer","zh_draft":"","zh_ai":"命令修复器","zh_human":"","zh":"命令修复器","status":"ai"}
+{"id":"2f7kKws7","en":"Scary Water","zh_draft":"","zh_ai":"恐怖之水","zh_human":"","zh":"恐怖之水","status":"ai"}
+{"id":"CdCrqn6j","en":"Connected Map Arts","zh_draft":"","zh_ai":"连接地图艺术","zh_human":"","zh":"连接地图艺术","status":"ai"}
+{"id":"SCmmaTN3","en":"Exposure: New Port","zh_draft":"","zh_ai":"曝光：新港口","zh_human":"","zh":"曝光：新港口","status":"ai"}
+{"id":"YTuuFsYM","en":"Lively Bends","zh_draft":"","zh_ai":"活泼的弯道","zh_human":"","zh":"活泼的弯道","status":"ai"}
+{"id":"j4iGyG6G","en":"Day Counter (Configurable)","zh_draft":"","zh_ai":"日计数器（可配置）","zh_human":"","zh":"日计数器（可配置）","status":"ai"}
+{"id":"xcg7wXAA","en":"Miner's Adventure","zh_draft":"","zh_ai":"矿工冒险","zh_human":"","zh":"矿工冒险","status":"ai"}
+{"id":"2XYcXfOZ","en":"SprintIndicator","zh_draft":"","zh_ai":"冲刺指示器","zh_human":"","zh":"冲刺指示器","status":"ai"}
+{"id":"Ad49oeC1","en":"Create: Toolworks","zh_draft":"","zh_ai":"机械动力：工具工坊","zh_human":"","zh":"机械动力：工具工坊","status":"ai"}
+{"id":"Fdy5YeD1","en":"ModPack-Tools","zh_draft":"","zh_ai":"模组包工具","zh_human":"","zh":"模组包工具","status":"ai"}
+{"id":"NiywS6DS","en":"MORE PROGERTION!!!","zh_draft":"","zh_ai":"更多进度！！！","zh_human":"","zh":"更多进度！！！","status":"ai"}
+{"id":"RnxKpY1o","en":"GeodeJei","zh_draft":"","zh_ai":"宝石杰伊","zh_human":"","zh":"宝石杰伊","status":"ai"}
+{"id":"hxvNXecs","en":"Better calculator","zh_draft":"","zh_ai":"更好的计算器","zh_human":"","zh":"更好的计算器","status":"ai"}
+{"id":"isRha8ED","en":"Nucleus-Draw","zh_draft":"","zh_ai":"核心绘图器","zh_human":"","zh":"核心绘图器","status":"ai"}
+{"id":"kSSty4AU","en":"MC Bowser","zh_draft":"","zh_ai":"Minecraft 布欧斯","zh_human":"","zh":"Minecraft 布欧斯","status":"ai"}
+{"id":"pj6V6eEL","en":"Datapack TCP","zh_draft":"","zh_ai":"数据包 TCP","zh_human":"","zh":"数据包 TCP","status":"ai"}
+{"id":"5h7xGNuq","en":"ElytraSwap","zh_draft":"","zh_ai":"鞘翅交换器","zh_human":"","zh":"鞘翅交换器","status":"ai"}
+{"id":"GsIpoe3F","en":"BuilderMode","zh_draft":"","zh_ai":"建造模式","zh_human":"","zh":"建造模式","status":"ai"}
+{"id":"JnilI0bT","en":"Dye Depot Aeroworks","zh_draft":"","zh_ai":"染料仓库航空工坊","zh_human":"","zh":"染料仓库航空工坊","status":"ai"}
+{"id":"OC5RbF9l","en":"Knock On Doors","zh_draft":"","zh_ai":"敲门","zh_human":"","zh":"敲门","status":"ai"}
+{"id":"we24IgTV","en":"Duplication With Stars Remastered","zh_draft":"","zh_ai":"星之复制（重制版）","zh_human":"","zh":"星之复制（重制版）","status":"ai"}
+{"id":"2CVhy7fI","en":"MoNcKiE's Animals","zh_draft":"","zh_ai":"MoNcKiE 的动物","zh_human":"","zh":"MoNcKiE 的动物","status":"ai"}
+{"id":"v0LoYmyM","en":"Just Sword Mod","zh_draft":"","zh_ai":"仅剑模组","zh_human":"","zh":"仅剑模组","status":"ai"}
+{"id":"mLNi7DoW","en":"PlayerCare","zh_draft":"","zh_ai":"玩家关怀","zh_human":"","zh":"玩家关怀","status":"ai"}
+{"id":"mR102Gnj","en":"CS2CasesPlugin","zh_draft":"","zh_ai":"CS2 案例插件","zh_human":"","zh":"CS2 案例插件","status":"ai"}
+{"id":"1ERdNX4B","en":"Bankware","zh_draft":"","zh_ai":"银行软件","zh_human":"","zh":"银行软件","status":"ai"}

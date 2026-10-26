@@ -1355,24 +1355,24 @@
 {"id":"fOAvz3pe","en":"PvP OPTIMIZED","zh_draft":"","zh_ai":"PvP 优化","zh_human":"","zh":"PvP 优化","status":"ai"}
 {"id":"Hkam4s4S","en":"The Traitors","zh_draft":"","zh_ai":"叛徒","zh_human":"","zh":"叛徒","status":"ai"}
 {"id":"agFoXI7p","en":"Craftitude","zh_draft":"","zh_ai":"工艺","zh_human":"","zh":"工艺","status":"ai"}
-{"id":"Off5rtm7","en":"Silica","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6hIOShoH","en":"Technological Sandbox","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"F6XMHNNv","en":"Battlebound Map Series","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"y8llm4uo","en":"Remanence","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"aprtjp3j","en":"The Earth: Tellus","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Xbcnr3j6","en":"Simply 1710","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3MrOkaTY","en":"Create: Miracles","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"AU1amXVx","en":"Hardcore Wilderness","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UtC7i5vD","en":"Chaos & Crops","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2yNJvSgi","en":"The G'Express Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"EKQkZ7eG","en":"Concatenations","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RPut0hSB","en":"The Frozen Sky","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QGVv59vh","en":"도스온라인 비공식 모드팩 (DoseOnline Unofficial Modpack)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dTNJkTNf","en":"puiu's client","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"k2z0dCi6","en":"Shadow of Optimization","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Dx4GXrcK","en":"Plane & Train Brotherhood","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rGJg9rR6","en":"Amphibian Vertebrates","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DCh7RY2Z","en":"Potato Perfected Reborn","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DsGezVoD","en":"Basic Minecraft Modding Needs (BMMN)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"OJ5DdISm","en":"Create Aeronautics: Under the Sea!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fMSfX7Ny","en":"MC Visuals+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Off5rtm7","en":"Silica","zh_draft":"","zh_ai":"二氧化硅","zh_human":"","zh":"二氧化硅","status":"ai"}
+{"id":"6hIOShoH","en":"Technological Sandbox","zh_draft":"","zh_ai":"科技沙盒","zh_human":"","zh":"科技沙盒","status":"ai"}
+{"id":"F6XMHNNv","en":"Battlebound Map Series","zh_draft":"","zh_ai":"战斗边界地图系列","zh_human":"","zh":"战斗边界地图系列","status":"ai"}
+{"id":"y8llm4uo","en":"Remanence","zh_draft":"","zh_ai":"残留效应","zh_human":"","zh":"残留效应","status":"ai"}
+{"id":"aprtjp3j","en":"The Earth: Tellus","zh_draft":"","zh_ai":"地球：泰勒斯","zh_human":"","zh":"地球：泰勒斯","status":"ai"}
+{"id":"Xbcnr3j6","en":"Simply 1710","zh_draft":"","zh_ai":"简单 1710","zh_human":"","zh":"简单 1710","status":"ai"}
+{"id":"3MrOkaTY","en":"Create: Miracles","zh_draft":"","zh_ai":"机械动力：奇迹","zh_human":"","zh":"机械动力：奇迹","status":"ai"}
+{"id":"AU1amXVx","en":"Hardcore Wilderness","zh_draft":"","zh_ai":"极限野性","zh_human":"","zh":"极限野性","status":"ai"}
+{"id":"UtC7i5vD","en":"Chaos & Crops","zh_draft":"","zh_ai":"混沌与作物","zh_human":"","zh":"混沌与作物","status":"ai"}
+{"id":"2yNJvSgi","en":"The G'Express Modpack","zh_draft":"","zh_ai":"G'Express 模组包","zh_human":"","zh":"G'Express 模组包","status":"ai"}
+{"id":"EKQkZ7eG","en":"Concatenations","zh_draft":"","zh_ai":"连接词","zh_human":"","zh":"连接词","status":"ai"}
+{"id":"RPut0hSB","en":"The Frozen Sky","zh_draft":"","zh_ai":"冰封天空","zh_human":"","zh":"冰封天空","status":"ai"}
+{"id":"QGVv59vh","en":"도스온라인 비공식 모드팩 (DoseOnline Unofficial Modpack)","zh_draft":"","zh_ai":"DoseOnline 非官方模组包","zh_human":"","zh":"DoseOnline 非官方模组包","status":"ai"}
+{"id":"dTNJkTNf","en":"puiu's client","zh_draft":"","zh_ai":"puiu 客户端","zh_human":"","zh":"puiu 客户端","status":"ai"}
+{"id":"k2z0dCi6","en":"Shadow of Optimization","zh_draft":"","zh_ai":"优化之影","zh_human":"","zh":"优化之影","status":"ai"}
+{"id":"Dx4GXrcK","en":"Plane & Train Brotherhood","zh_draft":"","zh_ai":"飞机与火车兄弟会","zh_human":"","zh":"飞机与火车兄弟会","status":"ai"}
+{"id":"rGJg9rR6","en":"Amphibian Vertebrates","zh_draft":"","zh_ai":"两栖脊椎动物","zh_human":"","zh":"两栖脊椎动物","status":"ai"}
+{"id":"DCh7RY2Z","en":"Potato Perfected Reborn","zh_draft":"","zh_ai":"土豆重生完美版","zh_human":"","zh":"土豆重生完美版","status":"ai"}
+{"id":"DsGezVoD","en":"Basic Minecraft Modding Needs (BMMN)","zh_draft":"","zh_ai":"基础Minecraft模组需求","zh_human":"","zh":"基础Minecraft模组需求","status":"ai"}
+{"id":"OJ5DdISm","en":"Create Aeronautics: Under the Sea!","zh_draft":"","zh_ai":"创造航空：海底！","zh_human":"","zh":"创造航空：海底！","status":"ai"}
+{"id":"fMSfX7Ny","en":"MC Visuals+","zh_draft":"","zh_ai":"MC视觉+","zh_human":"","zh":"MC视觉+","status":"ai"}

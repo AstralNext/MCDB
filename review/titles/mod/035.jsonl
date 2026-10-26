@@ -2978,23 +2978,23 @@
 {"id":"XO2bhfzt","en":"JoinServerCD","zh_draft":"","zh_ai":"加入服务器 CD","zh_human":"","zh":"加入服务器 CD","status":"ai"}
 {"id":"kXQj5wiX","en":"ZYRON-TAB","zh_draft":"","zh_ai":"ZYRON 标签页","zh_human":"","zh":"ZYRON 标签页","status":"ai"}
 {"id":"Rqz6aJpW","en":"HorizontalStab","zh_draft":"","zh_ai":"水平稳定器","zh_human":"","zh":"水平稳定器","status":"ai"}
-{"id":"jYouLOe1","en":"Better Fog","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gMJRhvAt","en":"Better Combat Toggler","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jqQttMRz","en":"Egg Indicators","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TTPLAgR5","en":"CCExpand-peripherals","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5oNfhlRl","en":"Snowy Season","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"blCrHWzG","en":"[TACZ] FreeZBe Gunpack Addon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pihXJH3U","en":"Spooky Season","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UqhcNunV","en":"Simple Pops","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eZYbcaJC","en":"JEI: Chain Crafts","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"f3MVkRMg","en":"Jerotes Village  - Second Round World","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pzsgZRVX","en":"McPvP Tiertagger","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ar0KSK2Z","en":"SQDLib","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pXmYVRNn","en":"HarderCover","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IzLcrD9m","en":"CraftProxy","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1H8pk3nI","en":"Terresate","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QYsG7M4E","en":"PaperCrown","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FLQMa509","en":"Enchanting Library","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Ix5TfFNi","en":"UnHideFlags","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UU0QGO6y","en":"Omnidirectional Steep Surface Rule","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Ey3OuBuM","en":"Voxy SeedGen","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"jYouLOe1","en":"Better Fog","zh_draft":"","zh_ai":"更好雾气","zh_human":"","zh":"更好雾气","status":"ai"}
+{"id":"gMJRhvAt","en":"Better Combat Toggler","zh_draft":"","zh_ai":"更好战斗切换器","zh_human":"","zh":"更好战斗切换器","status":"ai"}
+{"id":"jqQttMRz","en":"Egg Indicators","zh_draft":"","zh_ai":"蛋指示器","zh_human":"","zh":"蛋指示器","status":"ai"}
+{"id":"TTPLAgR5","en":"CCExpand-peripherals","zh_draft":"","zh_ai":"CC扩展外设","zh_human":"","zh":"CC扩展外设","status":"ai"}
+{"id":"5oNfhlRl","en":"Snowy Season","zh_draft":"","zh_ai":"雪季","zh_human":"","zh":"雪季","status":"ai"}
+{"id":"blCrHWzG","en":"[TACZ] FreeZBe Gunpack Addon","zh_draft":"","zh_ai":"[TACZ] FreeZBe枪包插件","zh_human":"","zh":"[TACZ] FreeZBe枪包插件","status":"ai"}
+{"id":"pihXJH3U","en":"Spooky Season","zh_draft":"","zh_ai":"诡异季","zh_human":"","zh":"诡异季","status":"ai"}
+{"id":"UqhcNunV","en":"Simple Pops","zh_draft":"","zh_ai":"简单泡泡","zh_human":"","zh":"简单泡泡","status":"ai"}
+{"id":"eZYbcaJC","en":"JEI: Chain Crafts","zh_draft":"","zh_ai":"JEI:链式工艺","zh_human":"","zh":"JEI:链式工艺","status":"ai"}
+{"id":"f3MVkRMg","en":"Jerotes Village  - Second Round World","zh_draft":"","zh_ai":"杰罗特斯村庄 - 第二轮世界","zh_human":"","zh":"杰罗特斯村庄 - 第二轮世界","status":"ai"}
+{"id":"pzsgZRVX","en":"McPvP Tiertagger","zh_draft":"","zh_ai":"McPvP等级标签","zh_human":"","zh":"McPvP等级标签","status":"ai"}
+{"id":"ar0KSK2Z","en":"SQDLib","zh_draft":"","zh_ai":"SQD库","zh_human":"","zh":"SQD库","status":"ai"}
+{"id":"pXmYVRNn","en":"HarderCover","zh_draft":"","zh_ai":"更硬的覆盖","zh_human":"","zh":"更硬的覆盖","status":"ai"}
+{"id":"IzLcrD9m","en":"CraftProxy","zh_draft":"","zh_ai":"工艺代理","zh_human":"","zh":"工艺代理","status":"ai"}
+{"id":"1H8pk3nI","en":"Terresate","zh_draft":"","zh_ai":"特雷萨特","zh_human":"","zh":"特雷萨特","status":"ai"}
+{"id":"QYsG7M4E","en":"PaperCrown","zh_draft":"","zh_ai":"纸冠","zh_human":"","zh":"纸冠","status":"ai"}
+{"id":"FLQMa509","en":"Enchanting Library","zh_draft":"","zh_ai":"附魔库","zh_human":"","zh":"附魔库","status":"ai"}
+{"id":"Ix5TfFNi","en":"UnHideFlags","zh_draft":"","zh_ai":"取消隐藏标志","zh_human":"","zh":"取消隐藏标志","status":"ai"}
+{"id":"UU0QGO6y","en":"Omnidirectional Steep Surface Rule","zh_draft":"","zh_ai":"全向陡峭表面规则","zh_human":"","zh":"全向陡峭表面规则","status":"ai"}
+{"id":"Ey3OuBuM","en":"Voxy SeedGen","zh_draft":"","zh_ai":"Voxy种子生成器","zh_human":"","zh":"Voxy种子生成器","status":"ai"}
