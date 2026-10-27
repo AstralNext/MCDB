@@ -1360,12 +1360,12 @@
 {"id":"zPIMOlHZ","en":"blu's custom pvp tool pack","zh_draft":"","zh_ai":"blu的定制pvp工具包","zh_human":"","zh":"blu的定制pvp工具包","status":"ai"}
 {"id":"WALHrHbG","en":"Aeronautic Additions Texture Tweaks","zh_draft":"","zh_ai":"航空附加纹理调整","zh_human":"","zh":"航空附加纹理调整","status":"ai"}
 {"id":"WpeRklzT","en":"purple ui","zh_draft":"","zh_ai":"紫色UI","zh_human":"","zh":"紫色UI","status":"ai"}
-{"id":"g4vkrmDw","en":"HKL Split-Flap Display","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ycsqwD7w","en":"Project: Aspect Ratio","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cQ6ClXmR","en":"Bloodrot Totem","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2Ek62igI","en":"3D Skin Totem","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"m3F2KCrH","en":"Xray Glow (Spectator X Ray)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"infuXPjd","en":"Tucz's Mob Tweaks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KqmZVLpv","en":"Stomach Book Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MLyZPm2k","en":"Cupid Bow And Arrows","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cKYT5Bro","en":"Smooth Glowing Ores","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"g4vkrmDw","en":"HKL Split-Flap Display","zh_draft":"","zh_ai":"HKL 分隔翻转显示屏","zh_human":"","zh":"HKL 分隔翻转显示屏","status":"ai"}
+{"id":"ycsqwD7w","en":"Project: Aspect Ratio","zh_draft":"","zh_ai":"项目：宽高比","zh_human":"","zh":"项目：宽高比","status":"ai"}
+{"id":"cQ6ClXmR","en":"Bloodrot Totem","zh_draft":"","zh_ai":"血腐图腾","zh_human":"","zh":"血腐图腾","status":"ai"}
+{"id":"2Ek62igI","en":"3D Skin Totem","zh_draft":"","zh_ai":"3D 皮肤图腾","zh_human":"","zh":"3D 皮肤图腾","status":"ai"}
+{"id":"m3F2KCrH","en":"Xray Glow (Spectator X Ray)","zh_draft":"","zh_ai":"X射线发光（观众 X 射线）","zh_human":"","zh":"X射线发光（观众 X 射线）","status":"ai"}
+{"id":"infuXPjd","en":"Tucz's Mob Tweaks","zh_draft":"","zh_ai":"Tucz 的怪物调整","zh_human":"","zh":"Tucz 的怪物调整","status":"ai"}
+{"id":"KqmZVLpv","en":"Stomach Book Pack","zh_draft":"","zh_ai":"胃书包","zh_human":"","zh":"胃书包","status":"ai"}
+{"id":"MLyZPm2k","en":"Cupid Bow And Arrows","zh_draft":"","zh_ai":"丘比特弓箭","zh_human":"","zh":"丘比特弓箭","status":"ai"}
+{"id":"cKYT5Bro","en":"Smooth Glowing Ores","zh_draft":"","zh_ai":"平滑发光矿石","zh_human":"","zh":"平滑发光矿石","status":"ai"}
