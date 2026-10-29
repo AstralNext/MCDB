@@ -2623,12 +2623,12 @@
 {"id":"MwiSjQ3c","en":"Vamp SMP","zh_draft":"","zh_ai":"吸血鬼生存模式","zh_human":"","zh":"吸血鬼生存模式","status":"ai"}
 {"id":"P5SrgsdT","en":"RestaMC","zh_draft":"","zh_ai":"RestaMC","zh_human":"","zh":"RestaMC","status":"ai"}
 {"id":"i0MQIudg","en":"Wildlands SMP","zh_draft":"","zh_ai":"荒野生存模式","zh_human":"","zh":"荒野生存模式","status":"ai"}
-{"id":"ovCgMweq","en":"niche craft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MVVWtpWY","en":"Official Classic Combined Server","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"38hxbrXz","en":"JKT CITY","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7Lb6AtcT","en":"CamSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Cn9v1Mno","en":"ElementalMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"D5wGPiyz","en":"Tocinoland","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TvJDyIGh","en":"platomine","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Y4QF31JU","en":"Aurora FFA","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yV5C8TK5","en":"HeartzMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ovCgMweq","en":"niche craft","zh_draft":"","zh_ai":"小众工艺","zh_human":"","zh":"小众工艺","status":"ai"}
+{"id":"MVVWtpWY","en":"Official Classic Combined Server","zh_draft":"","zh_ai":"官方经典联合服务器","zh_human":"","zh":"官方经典联合服务器","status":"ai"}
+{"id":"38hxbrXz","en":"JKT CITY","zh_draft":"","zh_ai":"JKT城市","zh_human":"","zh":"JKT城市","status":"ai"}
+{"id":"7Lb6AtcT","en":"CamSMP","zh_draft":"","zh_ai":"摄像头生存模式","zh_human":"","zh":"摄像头生存模式","status":"ai"}
+{"id":"Cn9v1Mno","en":"ElementalMC","zh_draft":"","zh_ai":"元素MC","zh_human":"","zh":"元素MC","status":"ai"}
+{"id":"D5wGPiyz","en":"Tocinoland","zh_draft":"","zh_ai":"托奇诺兰","zh_human":"","zh":"托奇诺兰","status":"ai"}
+{"id":"TvJDyIGh","en":"platomine","zh_draft":"","zh_ai":"普拉托米纳","zh_human":"","zh":"普拉托米纳","status":"ai"}
+{"id":"Y4QF31JU","en":"Aurora FFA","zh_draft":"","zh_ai":"极光FFA","zh_human":"","zh":"极光FFA","status":"ai"}
+{"id":"yV5C8TK5","en":"HeartzMC","zh_draft":"","zh_ai":"心之MC","zh_human":"","zh":"心之MC","status":"ai"}
