@@ -1442,36 +1442,36 @@
 {"id":"xFCEyfDa","en":"talalxr's Epic PvP+FPS ModPack","zh_draft":"","zh_ai":"塔拉尔克斯的史诗PvP+FPS模组包","zh_human":"","zh":"塔拉尔克斯的史诗PvP+FPS模组包","status":"ai"}
 {"id":"tjIFdXev","en":"Graphica+","zh_draft":"","zh_ai":"图形+","zh_human":"","zh":"图形+","status":"ai"}
 {"id":"ZRE2nR2I","en":"QSMP Live non-official modpack","zh_draft":"","zh_ai":"QSMP直播非官方模组包","zh_human":"","zh":"QSMP直播非官方模组包","status":"ai"}
-{"id":"P1Iel1MJ","en":"Beyond Vanilla +","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9KMuovpp","en":"EverTea","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"BFWGL6iH","en":"Wynn Fidelity+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MTfZ4ji8","en":"XenoPixels - DragonMine Z","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SGFmYFzD","en":"real fps boost pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"L8gt4Jpd","en":"AdvancedFPS","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jraTVUMq","en":"Border Survival — Persisting Worlds","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VvB4RImK","en":"bradsurav Optimized","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qAbVbsWT","en":"JellyFishes Vanilla","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FSGZX6tb","en":"V.O.D Cobblemon Forever","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"i8ojL8Wz","en":"Simply Aero","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4BXvE8ZA","en":"Topography & Turbine","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"frFrtOjB","en":"MC Two","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xRKZd9uo","en":"Optimized Survival","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"McpixFUF","en":"ShrekTime","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iHCU2myq","en":"Dragon Attack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2l7gXMng","en":"Brisky Butter","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Anij9UUA","en":"Reoxx Cobblemon Optimized","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"EJh2u5fg","en":"the camping pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"j4une9o1","en":"Ascendant - Client Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yBdGHrR2","en":"Comfort&More","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"bDbKWXbh","en":"Create:GearSky","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3BVaGJ8y","en":"Casualmon Legends: Tea Party","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TWbKc6XR","en":"Kyp Adventures","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"U7LovLQq","en":"Ascendant — Server Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DdxpJ2eh","en":"Coffee Flavoured","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HbCJdjR1","en":"Create++","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kLDib182","en":"Nebura","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"o9Dfgd38","en":"Zenith PVP/CPVP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"o6nQXBYC","en":"Essentially Performed Animations and Stuff (EPAS)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"oyVcEcGB","en":"OritechPack - Fan Made","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5jDUiwlT","en":"AardeMC Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"b0fs3BvL","en":"Vanillora","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"P1Iel1MJ","en":"Beyond Vanilla +","zh_draft":"","zh_ai":"超越原版+","zh_human":"","zh":"超越原版+","status":"ai"}
+{"id":"9KMuovpp","en":"EverTea","zh_draft":"","zh_ai":"永恒茶","zh_human":"","zh":"永恒茶","status":"ai"}
+{"id":"BFWGL6iH","en":"Wynn Fidelity+","zh_draft":"","zh_ai":"Wynn 精度+","zh_human":"","zh":"Wynn 精度+","status":"ai"}
+{"id":"MTfZ4ji8","en":"XenoPixels - DragonMine Z","zh_draft":"","zh_ai":"异次元像素 - 龙矿Z","zh_human":"","zh":"异次元像素 - 龙矿Z","status":"ai"}
+{"id":"SGFmYFzD","en":"real fps boost pack","zh_draft":"","zh_ai":"真实帧率提升包","zh_human":"","zh":"真实帧率提升包","status":"ai"}
+{"id":"L8gt4Jpd","en":"AdvancedFPS","zh_draft":"","zh_ai":"高级FPS","zh_human":"","zh":"高级FPS","status":"ai"}
+{"id":"jraTVUMq","en":"Border Survival — Persisting Worlds","zh_draft":"","zh_ai":"边境生存 — 持续世界","zh_human":"","zh":"边境生存 — 持续世界","status":"ai"}
+{"id":"VvB4RImK","en":"bradsurav Optimized","zh_draft":"","zh_ai":"bradsurav 优化版","zh_human":"","zh":"bradsurav 优化版","status":"ai"}
+{"id":"qAbVbsWT","en":"JellyFishes Vanilla","zh_draft":"","zh_ai":"果冻鱼原版","zh_human":"","zh":"果冻鱼原版","status":"ai"}
+{"id":"FSGZX6tb","en":"V.O.D Cobblemon Forever","zh_draft":"","zh_ai":"V.O.D 石头兽永恒","zh_human":"","zh":"V.O.D 石头兽永恒","status":"ai"}
+{"id":"i8ojL8Wz","en":"Simply Aero","zh_draft":"","zh_ai":"简单飞行","zh_human":"","zh":"简单飞行","status":"ai"}
+{"id":"4BXvE8ZA","en":"Topography & Turbine","zh_draft":"","zh_ai":"地形与涡轮","zh_human":"","zh":"地形与涡轮","status":"ai"}
+{"id":"frFrtOjB","en":"MC Two","zh_draft":"","zh_ai":"MC 二","zh_human":"","zh":"MC 二","status":"ai"}
+{"id":"xRKZd9uo","en":"Optimized Survival","zh_draft":"","zh_ai":"优化生存","zh_human":"","zh":"优化生存","status":"ai"}
+{"id":"McpixFUF","en":"ShrekTime","zh_draft":"","zh_ai":"史莱克时间","zh_human":"","zh":"史莱克时间","status":"ai"}
+{"id":"iHCU2myq","en":"Dragon Attack","zh_draft":"","zh_ai":"龙击","zh_human":"","zh":"龙击","status":"ai"}
+{"id":"2l7gXMng","en":"Brisky Butter","zh_draft":"","zh_ai":"Brisky 黄油","zh_human":"","zh":"Brisky 黄油","status":"ai"}
+{"id":"Anij9UUA","en":"Reoxx Cobblemon Optimized","zh_draft":"","zh_ai":"Reoxx 石头兽优化版","zh_human":"","zh":"Reoxx 石头兽优化版","status":"ai"}
+{"id":"EJh2u5fg","en":"the camping pack","zh_draft":"","zh_ai":"露营包","zh_human":"","zh":"露营包","status":"ai"}
+{"id":"j4une9o1","en":"Ascendant - Client Pack","zh_draft":"","zh_ai":"上升 - 客户端包","zh_human":"","zh":"上升 - 客户端包","status":"ai"}
+{"id":"yBdGHrR2","en":"Comfort&More","zh_draft":"","zh_ai":"舒适更多","zh_human":"","zh":"舒适更多","status":"ai"}
+{"id":"bDbKWXbh","en":"Create:GearSky","zh_draft":"","zh_ai":"Create:GearSky","zh_human":"","zh":"Create:GearSky","status":"ai"}
+{"id":"3BVaGJ8y","en":"Casualmon Legends: Tea Party","zh_draft":"","zh_ai":"休闲传奇：茶会","zh_human":"","zh":"休闲传奇：茶会","status":"ai"}
+{"id":"TWbKc6XR","en":"Kyp Adventures","zh_draft":"","zh_ai":"Kyp 冒险","zh_human":"","zh":"Kyp 冒险","status":"ai"}
+{"id":"U7LovLQq","en":"Ascendant — Server Pack","zh_draft":"","zh_ai":"上升 — 服务器包","zh_human":"","zh":"上升 — 服务器包","status":"ai"}
+{"id":"DdxpJ2eh","en":"Coffee Flavoured","zh_draft":"","zh_ai":"咖啡风味","zh_human":"","zh":"咖啡风味","status":"ai"}
+{"id":"HbCJdjR1","en":"Create++","zh_draft":"","zh_ai":"Create++","zh_human":"","zh":"Create++","status":"ai"}
+{"id":"kLDib182","en":"Nebura","zh_draft":"","zh_ai":"Nebura","zh_human":"","zh":"Nebura","status":"ai"}
+{"id":"o9Dfgd38","en":"Zenith PVP/CPVP","zh_draft":"","zh_ai":"巅峰PVP/CPVP","zh_human":"","zh":"巅峰PVP/CPVP","status":"ai"}
+{"id":"o6nQXBYC","en":"Essentially Performed Animations and Stuff (EPAS)","zh_draft":"","zh_ai":"本质表现动画和事物（EPAS）","zh_human":"","zh":"本质表现动画和事物（EPAS）","status":"ai"}
+{"id":"oyVcEcGB","en":"OritechPack - Fan Made","zh_draft":"","zh_ai":"OritechPack - 粉丝制作","zh_human":"","zh":"OritechPack - 粉丝制作","status":"ai"}
+{"id":"5jDUiwlT","en":"AardeMC Modpack","zh_draft":"","zh_ai":"AardeMC 模组包","zh_human":"","zh":"AardeMC 模组包","status":"ai"}
+{"id":"b0fs3BvL","en":"Vanillora","zh_draft":"","zh_ai":"Vanillora","zh_human":"","zh":"Vanillora","status":"ai"}
