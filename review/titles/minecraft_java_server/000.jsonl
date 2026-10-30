@@ -2633,13 +2633,13 @@
 {"id":"Y4QF31JU","en":"Aurora FFA","zh_draft":"","zh_ai":"极光FFA","zh_human":"","zh":"极光FFA","status":"ai"}
 {"id":"yV5C8TK5","en":"HeartzMC","zh_draft":"","zh_ai":"心之MC","zh_human":"","zh":"心之MC","status":"ai"}
 {"id":"5gQGwK02","en":"VuckovicSMP","zh_draft":"","zh_ai":"VuckovicSMP","zh_human":"","zh":"VuckovicSMP","status":"ai"}
-{"id":"3syZgO4w","en":"Maceful","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"BcUY0GCU","en":"Lethavein","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Ko9XwNUr","en":"SatiricalMC! (Factions/Sandbox) ◝(ᵔᗜᵔ)◜","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Y8kocYeW","en":"Pillars of Fortune","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iFDAhpd8","en":"Stigma Cobblemon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ivDLj0WJ","en":"BalkanLand","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lRNW30Hu","en":"Calibur Pixel","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"w6wjEwfm","en":"Clanker SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zXOzWCHm","en":"Wet Cardboard SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zhGKwvog","en":"VastalaMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"3syZgO4w","en":"Maceful","zh_draft":"","zh_ai":"战锤","zh_human":"","zh":"战锤","status":"ai"}
+{"id":"BcUY0GCU","en":"Lethavein","zh_draft":"","zh_ai":"致命之刃","zh_human":"","zh":"致命之刃","status":"ai"}
+{"id":"Ko9XwNUr","en":"SatiricalMC! (Factions/Sandbox) ◝(ᵔᗜᵔ)◜","zh_draft":"","zh_ai":"讽刺MC！","zh_human":"","zh":"讽刺MC！","status":"ai"}
+{"id":"Y8kocYeW","en":"Pillars of Fortune","zh_draft":"","zh_ai":"幸运之柱","zh_human":"","zh":"幸运之柱","status":"ai"}
+{"id":"iFDAhpd8","en":"Stigma Cobblemon","zh_draft":"","zh_ai":"耻辱圆石兽","zh_human":"","zh":"耻辱圆石兽","status":"ai"}
+{"id":"ivDLj0WJ","en":"BalkanLand","zh_draft":"","zh_ai":"巴尔干之地","zh_human":"","zh":"巴尔干之地","status":"ai"}
+{"id":"lRNW30Hu","en":"Calibur Pixel","zh_draft":"","zh_ai":"卡利布尔像素","zh_human":"","zh":"卡利布尔像素","status":"ai"}
+{"id":"w6wjEwfm","en":"Clanker SMP","zh_draft":"","zh_ai":"铿锵SMP","zh_human":"","zh":"铿锵SMP","status":"ai"}
+{"id":"zXOzWCHm","en":"Wet Cardboard SMP","zh_draft":"","zh_ai":"湿纸板SMP","zh_human":"","zh":"湿纸板SMP","status":"ai"}
+{"id":"zhGKwvog","en":"VastalaMC","zh_draft":"","zh_ai":"瓦斯塔拉MC","zh_human":"","zh":"瓦斯塔拉MC","status":"ai"}
