@@ -1874,9 +1874,9 @@
 {"id":"4IMuHa1H","en":"Mega Knight — Iron Golem Overhaul","zh_draft":"","zh_ai":"巨型骑士 — 铁傀儡大修","zh_human":"","zh":"巨型骑士 — 铁傀儡大修","status":"ai"}
 {"id":"Mm7JRYht","en":"Dark Knight - Iron Golem","zh_draft":"","zh_ai":"黑暗骑士 - 铁傀儡","zh_human":"","zh":"黑暗骑士 - 铁傀儡","status":"ai"}
 {"id":"Njgoz5y5","en":"Shulker symbols","zh_draft":"","zh_ai":"潜影贝符号","zh_human":"","zh":"潜影贝符号","status":"ai"}
-{"id":"YA2yIIrb","en":"Fix advancements backgrounds","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hILNHOzF","en":"Fresher Diamonds","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lAftjlQa","en":"No Advancment Background","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"z332RIQP","en":"Ralsei Goat","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SmOKryVj","en":"halloween tools","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zcntvoBX","en":"Halloween Texture Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"YA2yIIrb","en":"Fix advancements backgrounds","zh_draft":"","zh_ai":"修复成就背景","zh_human":"","zh":"修复成就背景","status":"ai"}
+{"id":"hILNHOzF","en":"Fresher Diamonds","zh_draft":"","zh_ai":"清新钻石","zh_human":"","zh":"清新钻石","status":"ai"}
+{"id":"lAftjlQa","en":"No Advancment Background","zh_draft":"","zh_ai":"无成就背景","zh_human":"","zh":"无成就背景","status":"ai"}
+{"id":"z332RIQP","en":"Ralsei Goat","zh_draft":"","zh_ai":"拉塞羊","zh_human":"","zh":"拉塞羊","status":"ai"}
+{"id":"SmOKryVj","en":"halloween tools","zh_draft":"","zh_ai":"万圣节工具","zh_human":"","zh":"万圣节工具","status":"ai"}
+{"id":"zcntvoBX","en":"Halloween Texture Pack","zh_draft":"","zh_ai":"万圣节纹理包","zh_human":"","zh":"万圣节纹理包","status":"ai"}
