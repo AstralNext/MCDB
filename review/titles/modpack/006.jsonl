@@ -1547,38 +1547,38 @@
 {"id":"EPO4MEjW","en":"ExploreCraft","zh_draft":"","zh_ai":"探索工艺","zh_human":"","zh":"探索工艺","status":"ai"}
 {"id":"Fd2h3aYh","en":"Nostalgic.jar","zh_draft":"","zh_ai":"怀旧.jar","zh_human":"","zh":"怀旧.jar","status":"ai"}
 {"id":"KLaJOTxq","en":"Rendiflash","zh_draft":"","zh_ai":"渲染闪光","zh_human":"","zh":"渲染闪光","status":"ai"}
-{"id":"Uv4ZjiiU","en":"Coglands","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vJ59MZ9n","en":"Elysion","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5pj53ZLa","en":"DMZ Ragnarok ServerPack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7WMRsqjJ","en":"Machinery of The Empire","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"POIZWY0H","en":"Electron","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"at7l8ayt","en":"MC RiTarq Optimised","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8Tf4ZPN7","en":"AHMAD BOOST","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"I2MsmGVH","en":"Null PvP+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"29VkuPN5","en":"True horror","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SBDSjrcJ","en":"Unstable_SMP_Law_Fight [Server-Side Edition] By LAHORI","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SjnEz78d","en":"BetterCraft Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"OvpRT81w","en":"Naturally Optimized","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UEerfFE6","en":"Just Plots Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZBW9dsA5","en":"Can Keleş's Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"tqncCuGu","en":"modepack survival war","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"AVUugrS0","en":"KokiCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"aoVDoVYw","en":"Craft Attack 14","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uXl8ss5a","en":"mys's pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vh0UpWDj","en":"Vanilla++ Client Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GAldBCb1","en":"Alaskan Wilderness: Reborn","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LsqsFlWy","en":"Mystaria","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fDQyH3xL","en":"CRONAUTICS","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CFnfg5vE","en":"From All Directions","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rhJE0t8H","en":"Sonny Modpack (vulkan)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wgV4rjJQ","en":"Snowfall's PVP Essentials","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YCe6E8wR","en":"Reoxx Tech","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pcqL3MPf","en":"Wasteland Decay - Advanced Parasite Apocalypse","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nINMPlce","en":"The Better World","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HzYdKnZT","en":"Create: Complete Optimisation","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"diCj0WlP","en":"Subzeroditto's Small modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rRM1G6oz","en":"CobbleShine: Shiny-Hunting Cobblemon Server","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5pSzB3LC","en":"Mainstay Base Modopack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KcN3zz8i","en":"Mainstay Full Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"K1VRYdlz","en":"Create Halloween","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cPNWDb3O","en":"Arcane industry","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Uv4ZjiiU","en":"Coglands","zh_draft":"","zh_ai":"齿轮之地","zh_human":"","zh":"齿轮之地","status":"ai"}
+{"id":"vJ59MZ9n","en":"Elysion","zh_draft":"","zh_ai":"伊里斯","zh_human":"","zh":"伊里斯","status":"ai"}
+{"id":"5pj53ZLa","en":"DMZ Ragnarok ServerPack","zh_draft":"","zh_ai":"DMZ诸神黄昏服务器包","zh_human":"","zh":"DMZ诸神黄昏服务器包","status":"ai"}
+{"id":"7WMRsqjJ","en":"Machinery of The Empire","zh_draft":"","zh_ai":"帝国机械","zh_human":"","zh":"帝国机械","status":"ai"}
+{"id":"POIZWY0H","en":"Electron","zh_draft":"","zh_ai":"电子","zh_human":"","zh":"电子","status":"ai"}
+{"id":"at7l8ayt","en":"MC RiTarq Optimised","zh_draft":"","zh_ai":"MC RiTarq优化","zh_human":"","zh":"MC RiTarq优化","status":"ai"}
+{"id":"8Tf4ZPN7","en":"AHMAD BOOST","zh_draft":"","zh_ai":"AHMAD加成","zh_human":"","zh":"AHMAD加成","status":"ai"}
+{"id":"I2MsmGVH","en":"Null PvP+","zh_draft":"","zh_ai":"空PvP+","zh_human":"","zh":"空PvP+","status":"ai"}
+{"id":"29VkuPN5","en":"True horror","zh_draft":"","zh_ai":"真实恐怖","zh_human":"","zh":"真实恐怖","status":"ai"}
+{"id":"SBDSjrcJ","en":"Unstable_SMP_Law_Fight [Server-Side Edition] By LAHORI","zh_draft":"","zh_ai":"不稳定生存法律战[服务器端版]","zh_human":"","zh":"不稳定生存法律战[服务器端版]","status":"ai"}
+{"id":"SjnEz78d","en":"BetterCraft Modpack","zh_draft":"","zh_ai":"更好的工艺模组包","zh_human":"","zh":"更好的工艺模组包","status":"ai"}
+{"id":"OvpRT81w","en":"Naturally Optimized","zh_draft":"","zh_ai":"自然优化","zh_human":"","zh":"自然优化","status":"ai"}
+{"id":"UEerfFE6","en":"Just Plots Modpack","zh_draft":"","zh_ai":"仅图块模组包","zh_human":"","zh":"仅图块模组包","status":"ai"}
+{"id":"ZBW9dsA5","en":"Can Keleş's Modpack","zh_draft":"","zh_ai":"Can Keleş的模组包","zh_human":"","zh":"Can Keleş的模组包","status":"ai"}
+{"id":"tqncCuGu","en":"modepack survival war","zh_draft":"","zh_ai":"生存战争模组包","zh_human":"","zh":"生存战争模组包","status":"ai"}
+{"id":"AVUugrS0","en":"KokiCraft","zh_draft":"","zh_ai":"KokiCraft","zh_human":"","zh":"KokiCraft","status":"ai"}
+{"id":"aoVDoVYw","en":"Craft Attack 14","zh_draft":"","zh_ai":"工艺攻击14","zh_human":"","zh":"工艺攻击14","status":"ai"}
+{"id":"uXl8ss5a","en":"mys's pack","zh_draft":"","zh_ai":"mys的包","zh_human":"","zh":"mys的包","status":"ai"}
+{"id":"vh0UpWDj","en":"Vanilla++ Client Modpack","zh_draft":"","zh_ai":"纯净++客户端模组包","zh_human":"","zh":"纯净++客户端模组包","status":"ai"}
+{"id":"GAldBCb1","en":"Alaskan Wilderness: Reborn","zh_draft":"","zh_ai":"阿拉斯加荒野：重生","zh_human":"","zh":"阿拉斯加荒野：重生","status":"ai"}
+{"id":"LsqsFlWy","en":"Mystaria","zh_draft":"","zh_ai":"Mystaria","zh_human":"","zh":"Mystaria","status":"ai"}
+{"id":"fDQyH3xL","en":"CRONAUTICS","zh_draft":"","zh_ai":"CRONAUTICS","zh_human":"","zh":"CRONAUTICS","status":"ai"}
+{"id":"CFnfg5vE","en":"From All Directions","zh_draft":"","zh_ai":"来自四面八方","zh_human":"","zh":"来自四面八方","status":"ai"}
+{"id":"rhJE0t8H","en":"Sonny Modpack (vulkan)","zh_draft":"","zh_ai":"Sonny模组包(vulkan)","zh_human":"","zh":"Sonny模组包(vulkan)","status":"ai"}
+{"id":"wgV4rjJQ","en":"Snowfall's PVP Essentials","zh_draft":"","zh_ai":"雪崩的PVP基础","zh_human":"","zh":"雪崩的PVP基础","status":"ai"}
+{"id":"YCe6E8wR","en":"Reoxx Tech","zh_draft":"","zh_ai":"Reoxx科技","zh_human":"","zh":"Reoxx科技","status":"ai"}
+{"id":"pcqL3MPf","en":"Wasteland Decay - Advanced Parasite Apocalypse","zh_draft":"","zh_ai":"荒野腐朽 - 高级寄生虫末日","zh_human":"","zh":"荒野腐朽 - 高级寄生虫末日","status":"ai"}
+{"id":"nINMPlce","en":"The Better World","zh_draft":"","zh_ai":"更好的世界","zh_human":"","zh":"更好的世界","status":"ai"}
+{"id":"HzYdKnZT","en":"Create: Complete Optimisation","zh_draft":"","zh_ai":"创建：完整优化","zh_human":"","zh":"创建：完整优化","status":"ai"}
+{"id":"diCj0WlP","en":"Subzeroditto's Small modpack","zh_draft":"","zh_ai":"Subzeroditto的小模组包","zh_human":"","zh":"Subzeroditto的小模组包","status":"ai"}
+{"id":"rRM1G6oz","en":"CobbleShine: Shiny-Hunting Cobblemon Server","zh_draft":"","zh_ai":"圆石闪耀：闪亮狩猎圆石兽服务器","zh_human":"","zh":"圆石闪耀：闪亮狩猎圆石兽服务器","status":"ai"}
+{"id":"5pSzB3LC","en":"Mainstay Base Modopack","zh_draft":"","zh_ai":"支柱基础模组包","zh_human":"","zh":"支柱基础模组包","status":"ai"}
+{"id":"KcN3zz8i","en":"Mainstay Full Modpack","zh_draft":"","zh_ai":"支柱完整模组包","zh_human":"","zh":"支柱完整模组包","status":"ai"}
+{"id":"K1VRYdlz","en":"Create Halloween","zh_draft":"","zh_ai":"创建万圣节","zh_human":"","zh":"创建万圣节","status":"ai"}
+{"id":"cPNWDb3O","en":"Arcane industry","zh_draft":"","zh_ai":"神秘工业","zh_human":"","zh":"神秘工业","status":"ai"}
