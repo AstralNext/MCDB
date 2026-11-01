@@ -1053,22 +1053,22 @@
 {"id":"J9wFMEaL","en":"TracedLite","zh_draft":"","zh_ai":"追踪轻量版","zh_human":"","zh":"追踪轻量版","status":"ai"}
 {"id":"yvJIoQkY","en":"Relight","zh_draft":"","zh_ai":"重照","zh_human":"","zh":"重照","status":"ai"}
 {"id":"WeJ7BUmH","en":"Toonlamentry","zh_draft":"","zh_ai":"卡通哀歌","zh_human":"","zh":"卡通哀歌","status":"ai"}
-{"id":"CCbTFfDg","en":"Fluxure","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xxW7JsXp","en":"Vanilla Refined","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ex3sx5Wn","en":"yDream","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VuboLDKb","en":"Windowpane","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yRGF57K6","en":"XON Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1YIPfAv7","en":"oh shiny!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1ZRjfLk9","en":"Medieval Realism Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2Q0I5Wkh","en":"SimpleShader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dtK0qOhZ","en":"Lumenline Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sG4BIOzS","en":"Chroma Vector","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2cKvwlEZ","en":"After the rain","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8oTJaBO3","en":"Storyloom Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PHSgj26l","en":"GSU Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UUCL14oZ","en":"GSR Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"X3QpgVMv","en":"ColorGrade","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gThDVEWq","en":"TOONSHADE","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"O6YJsa1n","en":"Lenscraft Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fNoa1dli","en":"Stormweave Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rTd7Xg3p","en":"Farloom Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"CCbTFfDg","en":"Fluxure","zh_draft":"","zh_ai":"流动","zh_human":"","zh":"流动","status":"ai"}
+{"id":"xxW7JsXp","en":"Vanilla Refined","zh_draft":"","zh_ai":"香草精炼","zh_human":"","zh":"香草精炼","status":"ai"}
+{"id":"ex3sx5Wn","en":"yDream","zh_draft":"","zh_ai":"yDream","zh_human":"","zh":"yDream","status":"ai"}
+{"id":"VuboLDKb","en":"Windowpane","zh_draft":"","zh_ai":"窗格","zh_human":"","zh":"窗格","status":"ai"}
+{"id":"yRGF57K6","en":"XON Shader","zh_draft":"","zh_ai":"XON着色器","zh_human":"","zh":"XON着色器","status":"ai"}
+{"id":"1YIPfAv7","en":"oh shiny!","zh_draft":"","zh_ai":"哦闪亮！","zh_human":"","zh":"哦闪亮！","status":"ai"}
+{"id":"1ZRjfLk9","en":"Medieval Realism Shaders","zh_draft":"","zh_ai":"中世纪现实主义着色器","zh_human":"","zh":"中世纪现实主义着色器","status":"ai"}
+{"id":"2Q0I5Wkh","en":"SimpleShader","zh_draft":"","zh_ai":"简单着色器","zh_human":"","zh":"简单着色器","status":"ai"}
+{"id":"dtK0qOhZ","en":"Lumenline Shaders","zh_draft":"","zh_ai":"光线路径着色器","zh_human":"","zh":"光线路径着色器","status":"ai"}
+{"id":"sG4BIOzS","en":"Chroma Vector","zh_draft":"","zh_ai":"色度矢量","zh_human":"","zh":"色度矢量","status":"ai"}
+{"id":"2cKvwlEZ","en":"After the rain","zh_draft":"","zh_ai":"雨后","zh_human":"","zh":"雨后","status":"ai"}
+{"id":"8oTJaBO3","en":"Storyloom Shaders","zh_draft":"","zh_ai":"故事织物着色器","zh_human":"","zh":"故事织物着色器","status":"ai"}
+{"id":"PHSgj26l","en":"GSU Shaders","zh_draft":"","zh_ai":"GSU着色器","zh_human":"","zh":"GSU着色器","status":"ai"}
+{"id":"UUCL14oZ","en":"GSR Shaders","zh_draft":"","zh_ai":"GSR着色器","zh_human":"","zh":"GSR着色器","status":"ai"}
+{"id":"X3QpgVMv","en":"ColorGrade","zh_draft":"","zh_ai":"色彩分级","zh_human":"","zh":"色彩分级","status":"ai"}
+{"id":"gThDVEWq","en":"TOONSHADE","zh_draft":"","zh_ai":"卡通着色器","zh_human":"","zh":"卡通着色器","status":"ai"}
+{"id":"O6YJsa1n","en":"Lenscraft Shaders","zh_draft":"","zh_ai":"镜头工艺着色器","zh_human":"","zh":"镜头工艺着色器","status":"ai"}
+{"id":"fNoa1dli","en":"Stormweave Shaders","zh_draft":"","zh_ai":"风暴编织着色器","zh_human":"","zh":"风暴编织着色器","status":"ai"}
+{"id":"rTd7Xg3p","en":"Farloom Shaders","zh_draft":"","zh_ai":"远洛姆着色器","zh_human":"","zh":"远洛姆着色器","status":"ai"}

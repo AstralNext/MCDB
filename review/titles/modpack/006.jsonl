@@ -1582,13 +1582,13 @@
 {"id":"KcN3zz8i","en":"Mainstay Full Modpack","zh_draft":"","zh_ai":"支柱完整模组包","zh_human":"","zh":"支柱完整模组包","status":"ai"}
 {"id":"K1VRYdlz","en":"Create Halloween","zh_draft":"","zh_ai":"创建万圣节","zh_human":"","zh":"创建万圣节","status":"ai"}
 {"id":"cPNWDb3O","en":"Arcane industry","zh_draft":"","zh_ai":"神秘工业","zh_human":"","zh":"神秘工业","status":"ai"}
-{"id":"pyUe1xjC","en":"CSMP Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sJlWNkG3","en":"COBBLE-MMO","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6HFCXFMI","en":"Everforge Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VKlsPH2q","en":"Platano Tropical Adventure","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"P3yxxtp9","en":"Survive The Night : The Apocalypse","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"50Qt3yfH","en":"Terra Atmosphera","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"humz1EU6","en":"Secrets n' Sizes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4sTJ5kyy","en":"优化极好的田园整合包","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PTgflAym","en":"Block 2","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FdJblYX7","en":"MC Refabricated","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"pyUe1xjC","en":"CSMP Modpack","zh_draft":"","zh_ai":"CSMP模组包","zh_human":"","zh":"CSMP模组包","status":"ai"}
+{"id":"sJlWNkG3","en":"COBBLE-MMO","zh_draft":"","zh_ai":"石砖MMO","zh_human":"","zh":"石砖MMO","status":"ai"}
+{"id":"6HFCXFMI","en":"Everforge Modpack","zh_draft":"","zh_ai":"永恒锻造模组包","zh_human":"","zh":"永恒锻造模组包","status":"ai"}
+{"id":"VKlsPH2q","en":"Platano Tropical Adventure","zh_draft":"","zh_ai":"波拉托诺热带冒险","zh_human":"","zh":"波拉托诺热带冒险","status":"ai"}
+{"id":"P3yxxtp9","en":"Survive The Night : The Apocalypse","zh_draft":"","zh_ai":"生存之夜：末日","zh_human":"","zh":"生存之夜：末日","status":"ai"}
+{"id":"50Qt3yfH","en":"Terra Atmosphera","zh_draft":"","zh_ai":"泰拉大气层","zh_human":"","zh":"泰拉大气层","status":"ai"}
+{"id":"humz1EU6","en":"Secrets n' Sizes","zh_draft":"","zh_ai":"秘密与尺寸","zh_human":"","zh":"秘密与尺寸","status":"ai"}
+{"id":"4sTJ5kyy","en":"优化极好的田园整合包","zh_draft":"","zh_ai":"优化田园整合包","zh_human":"","zh":"优化田园整合包","status":"ai"}
+{"id":"PTgflAym","en":"Block 2","zh_draft":"","zh_ai":"方块2","zh_human":"","zh":"方块2","status":"ai"}
+{"id":"FdJblYX7","en":"MC Refabricated","zh_draft":"","zh_ai":"MC重构","zh_human":"","zh":"MC重构","status":"ai"}

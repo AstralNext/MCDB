@@ -2643,20 +2643,20 @@
 {"id":"w6wjEwfm","en":"Clanker SMP","zh_draft":"","zh_ai":"铿锵SMP","zh_human":"","zh":"铿锵SMP","status":"ai"}
 {"id":"zXOzWCHm","en":"Wet Cardboard SMP","zh_draft":"","zh_ai":"湿纸板SMP","zh_human":"","zh":"湿纸板SMP","status":"ai"}
 {"id":"zhGKwvog","en":"VastalaMC","zh_draft":"","zh_ai":"瓦斯塔拉MC","zh_human":"","zh":"瓦斯塔拉MC","status":"ai"}
-{"id":"FZH732AT","en":"Adi's Cobblemon Server","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WyKN5he0","en":"Jason Primal Server","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9Q3obfkb","en":"Tech Server","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"EBGZJjpa","en":"GearSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"G5VQgJQ1","en":"EasyAU SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GFvp4Cjx","en":"MineMania","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QBDQwMtZ","en":"Unbeaten","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QcS0OzRZ","en":"FriendSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XtRXBnWX","en":"Legacy Play","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gHiiWylm","en":"Event Mc","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kbjRhl3E","en":"Cheat SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ln7rItuH","en":"Craft Royale","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"naoO1mji","en":"PokeSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"s9IpA1QC","en":"SteelSong","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"tiSUYxAk","en":"Keplerverse","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"w0xNAOGj","en":"DragonMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wNU2CCEo","en":"armorstand.net","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"FZH732AT","en":"Adi's Cobblemon Server","zh_draft":"","zh_ai":"Adi的方块龙服务器","zh_human":"","zh":"Adi的方块龙服务器","status":"ai"}
+{"id":"WyKN5he0","en":"Jason Primal Server","zh_draft":"","zh_ai":"Jason原始服务器","zh_human":"","zh":"Jason原始服务器","status":"ai"}
+{"id":"9Q3obfkb","en":"Tech Server","zh_draft":"","zh_ai":"科技服务器","zh_human":"","zh":"科技服务器","status":"ai"}
+{"id":"EBGZJjpa","en":"GearSMP","zh_draft":"","zh_ai":"齿轮生存模式","zh_human":"","zh":"齿轮生存模式","status":"ai"}
+{"id":"G5VQgJQ1","en":"EasyAU SMP","zh_draft":"","zh_ai":"简易AU生存模式","zh_human":"","zh":"简易AU生存模式","status":"ai"}
+{"id":"GFvp4Cjx","en":"MineMania","zh_draft":"","zh_ai":"矿工狂热","zh_human":"","zh":"矿工狂热","status":"ai"}
+{"id":"QBDQwMtZ","en":"Unbeaten","zh_draft":"","zh_ai":"不败","zh_human":"","zh":"不败","status":"ai"}
+{"id":"QcS0OzRZ","en":"FriendSMP","zh_draft":"","zh_ai":"朋友生存模式","zh_human":"","zh":"朋友生存模式","status":"ai"}
+{"id":"XtRXBnWX","en":"Legacy Play","zh_draft":"","zh_ai":"经典玩法","zh_human":"","zh":"经典玩法","status":"ai"}
+{"id":"gHiiWylm","en":"Event Mc","zh_draft":"","zh_ai":"事件Minecraft","zh_human":"","zh":"事件Minecraft","status":"ai"}
+{"id":"kbjRhl3E","en":"Cheat SMP","zh_draft":"","zh_ai":"作弊生存模式","zh_human":"","zh":"作弊生存模式","status":"ai"}
+{"id":"ln7rItuH","en":"Craft Royale","zh_draft":"","zh_ai":"工艺皇家","zh_human":"","zh":"工艺皇家","status":"ai"}
+{"id":"naoO1mji","en":"PokeSMP","zh_draft":"","zh_ai":"宝可梦生存模式","zh_human":"","zh":"宝可梦生存模式","status":"ai"}
+{"id":"s9IpA1QC","en":"SteelSong","zh_draft":"","zh_ai":"钢铁之歌","zh_human":"","zh":"钢铁之歌","status":"ai"}
+{"id":"tiSUYxAk","en":"Keplerverse","zh_draft":"","zh_ai":"开普勒宇宙","zh_human":"","zh":"开普勒宇宙","status":"ai"}
+{"id":"w0xNAOGj","en":"DragonMC","zh_draft":"","zh_ai":"龙Minecraft","zh_human":"","zh":"龙Minecraft","status":"ai"}
+{"id":"wNU2CCEo","en":"armorstand.net","zh_draft":"","zh_ai":"盔甲人网站","zh_human":"","zh":"盔甲人网站","status":"ai"}
