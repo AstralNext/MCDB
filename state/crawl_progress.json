@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-02T23:57:48Z",
-  "total_hits_reported": 166458,
-  "unique_projects": 170346,
-  "before": 170034,
-  "new_inserted": 312,
-  "meta_refreshed": 166146,
-  "review_lines_appended": 312,
-  "source_exported": 170346,
-  "pages": 1665,
+  "updated_at": "2026-11-03T22:26:03Z",
+  "total_hits_reported": 166533,
+  "unique_projects": 170456,
+  "before": 170346,
+  "new_inserted": 110,
+  "meta_refreshed": 166376,
+  "review_lines_appended": 110,
+  "source_exported": 170456,
+  "pages": 1666,
   "storage": "jsonl"
 }
