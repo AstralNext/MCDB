@@ -2660,16 +2660,16 @@
 {"id":"tiSUYxAk","en":"Keplerverse","zh_draft":"","zh_ai":"开普勒宇宙","zh_human":"","zh":"开普勒宇宙","status":"ai"}
 {"id":"w0xNAOGj","en":"DragonMC","zh_draft":"","zh_ai":"龙Minecraft","zh_human":"","zh":"龙Minecraft","status":"ai"}
 {"id":"wNU2CCEo","en":"armorstand.net","zh_draft":"","zh_ai":"盔甲人网站","zh_human":"","zh":"盔甲人网站","status":"ai"}
-{"id":"ae811Wwp","en":"PROJECT DREAMBOUND","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Em33PDY2","en":"Infinitrix Evolution","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6ify0LlE","en":"pluse","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DYn9fqWX","en":"Rudnoe Zhelezo","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"EkYnHrCS","en":"VANILLA ANARCHY LAUNCH","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FHLn3pU8","en":"InfinityWorlds","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KjpgEEds","en":"WanderwoodSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RteXJVhL","en":"Voicy Vanilla","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UMNVcHdY","en":"Apex SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dc255eMD","en":"我的世界纯生存服务器","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gtJDa0wA","en":"MINEZ","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iQj73ZAw","en":"SimplePVP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"voZ2iEIG","en":"CRITICRAFT","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ae811Wwp","en":"PROJECT DREAMBOUND","zh_draft":"","zh_ai":"梦想计划","zh_human":"","zh":"梦想计划","status":"ai"}
+{"id":"Em33PDY2","en":"Infinitrix Evolution","zh_draft":"","zh_ai":"无限进化","zh_human":"","zh":"无限进化","status":"ai"}
+{"id":"6ify0LlE","en":"pluse","zh_draft":"","zh_ai":"脉冲","zh_human":"","zh":"脉冲","status":"ai"}
+{"id":"DYn9fqWX","en":"Rudnoe Zhelezo","zh_draft":"","zh_ai":"鲁德诺耶泽列佐","zh_human":"","zh":"鲁德诺耶泽列佐","status":"ai"}
+{"id":"EkYnHrCS","en":"VANILLA ANARCHY LAUNCH","zh_draft":"","zh_ai":"原版无政府主义启动器","zh_human":"","zh":"原版无政府主义启动器","status":"ai"}
+{"id":"FHLn3pU8","en":"InfinityWorlds","zh_draft":"","zh_ai":"无限世界","zh_human":"","zh":"无限世界","status":"ai"}
+{"id":"KjpgEEds","en":"WanderwoodSMP","zh_draft":"","zh_ai":"漫游森林SMP","zh_human":"","zh":"漫游森林SMP","status":"ai"}
+{"id":"RteXJVhL","en":"Voicy Vanilla","zh_draft":"","zh_ai":"声音原版","zh_human":"","zh":"声音原版","status":"ai"}
+{"id":"UMNVcHdY","en":"Apex SMP","zh_draft":"","zh_ai":"巅峰SMP","zh_human":"","zh":"巅峰SMP","status":"ai"}
+{"id":"dc255eMD","en":"我的世界纯生存服务器","zh_draft":"","zh_ai":"纯生存服务器","zh_human":"","zh":"纯生存服务器","status":"ai"}
+{"id":"gtJDa0wA","en":"MINEZ","zh_draft":"","zh_ai":"MINEZ","zh_human":"","zh":"MINEZ","status":"ai"}
+{"id":"iQj73ZAw","en":"SimplePVP","zh_draft":"","zh_ai":"简单PVP","zh_human":"","zh":"简单PVP","status":"ai"}
+{"id":"voZ2iEIG","en":"CRITICRAFT","zh_draft":"","zh_ai":"破坏工艺","zh_human":"","zh":"破坏工艺","status":"ai"}
