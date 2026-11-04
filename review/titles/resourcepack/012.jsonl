@@ -2080,42 +2080,42 @@
 {"id":"zR2gbxn7","en":"round sun 96x","zh_draft":"","zh_ai":"圆形太阳96x","zh_human":"","zh":"圆形太阳96x","status":"ai"}
 {"id":"x5Fvj7pT","en":"Furry apples variants","zh_draft":"","zh_ai":"毛茸茸苹果变体","zh_human":"","zh":"毛茸茸苹果变体","status":"ai"}
 {"id":"6iwexs6l","en":"Journey Icon Map","zh_draft":"","zh_ai":"旅程图标地图","zh_human":"","zh":"旅程图标地图","status":"ai"}
-{"id":"532MhWPl","en":"LARRY PVP PACKS","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CbdkqJUf","en":"Bright it up","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9DOYrH6S","en":"Cozy: 8x8","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9siR8gAn","en":"Shayouel's Fishing Rod Sound Effect Pack（夏柚的鱼竿音效包）","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"AiemXP8P","en":"Dark Mode","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LjvQ9H25","en":"Cozy: 2x2","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4VvuIdee","en":"Cozy: 32x32","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6UhFvy8M","en":"WhiteFrost 16x","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Wh0hvm9a","en":"Cozy: 1x1","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Zpa0kbbp","en":"Cozy: 4x4","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6a1ReCys","en":"Cozy: 64x64","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FivUH1b3","en":"Knockback KB Sword Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qRbStPCs","en":"RoasterPack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"AdkPTsab","en":"F1 2026 Texas GP Special Liveries Boat 32x","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PSUzrdNl","en":"Void Veil","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pDGh68Vk","en":"GreenFrost 16x","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qfApYdrK","en":"neptune","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qfnJIKjB","en":"Capri","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4650QmQY","en":"Perceptible Potions - No Unique Feathers","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"AFXhs6YK","en":"Perceptible Potions","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ANKZ2Vdv","en":"CR-Survivor's Arsenal На русском","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FQvPB5bY","en":"STC's Ocean's Delight","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Fr9ttP2w","en":"MCLQE UI","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IN2siqw0","en":"Theone's Eating Animation x Perceptible Potions","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"INbim3uB","en":"Better Skies","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Q6TjAj3a","en":"Evil Totem","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RRmYjwJl","en":"Aged 指南书汉化","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UWTZkU3i","en":"Silent Copper Golems and Chests","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hwgheEdt","en":"[tacz]standard gun pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kL8BmW2T","en":"Perceptible Potions - No Unique Caps","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nzhRFXRH","en":"Hollow-PvP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"owCpLgzi","en":"Totem with Saber","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qJzf6cyJ","en":"Interesting Interfaces","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rEZk6bi8","en":"Sp0x3l's Texture Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uJur09kB","en":"Tin is Nonbinary","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ujY6GMNp","en":"OnkeyTown","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3CvFrmKY","en":"SHERLOCK PACK","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hYFAfbgJ","en":"clear glass","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iPTCFb6e","en":"Short PVP Swords","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"532MhWPl","en":"LARRY PVP PACKS","zh_draft":"","zh_ai":"LARRY PVP 包","zh_human":"","zh":"LARRY PVP 包","status":"ai"}
+{"id":"CbdkqJUf","en":"Bright it up","zh_draft":"","zh_ai":"让它更亮","zh_human":"","zh":"让它更亮","status":"ai"}
+{"id":"9DOYrH6S","en":"Cozy: 8x8","zh_draft":"","zh_ai":"舒适：8x8","zh_human":"","zh":"舒适：8x8","status":"ai"}
+{"id":"9siR8gAn","en":"Shayouel's Fishing Rod Sound Effect Pack（夏柚的鱼竿音效包）","zh_draft":"","zh_ai":"夏柚鱼竿音效包","zh_human":"","zh":"夏柚鱼竿音效包","status":"ai"}
+{"id":"AiemXP8P","en":"Dark Mode","zh_draft":"","zh_ai":"暗黑模式","zh_human":"","zh":"暗黑模式","status":"ai"}
+{"id":"LjvQ9H25","en":"Cozy: 2x2","zh_draft":"","zh_ai":"舒适：2x2","zh_human":"","zh":"舒适：2x2","status":"ai"}
+{"id":"4VvuIdee","en":"Cozy: 32x32","zh_draft":"","zh_ai":"舒适：32x32","zh_human":"","zh":"舒适：32x32","status":"ai"}
+{"id":"6UhFvy8M","en":"WhiteFrost 16x","zh_draft":"","zh_ai":"白霜16x","zh_human":"","zh":"白霜16x","status":"ai"}
+{"id":"Wh0hvm9a","en":"Cozy: 1x1","zh_draft":"","zh_ai":"舒适：1x1","zh_human":"","zh":"舒适：1x1","status":"ai"}
+{"id":"Zpa0kbbp","en":"Cozy: 4x4","zh_draft":"","zh_ai":"舒适：4x4","zh_human":"","zh":"舒适：4x4","status":"ai"}
+{"id":"6a1ReCys","en":"Cozy: 64x64","zh_draft":"","zh_ai":"舒适：64x64","zh_human":"","zh":"舒适：64x64","status":"ai"}
+{"id":"FivUH1b3","en":"Knockback KB Sword Pack","zh_draft":"","zh_ai":"击退剑包","zh_human":"","zh":"击退剑包","status":"ai"}
+{"id":"qRbStPCs","en":"RoasterPack","zh_draft":"","zh_ai":"烘焙包","zh_human":"","zh":"烘焙包","status":"ai"}
+{"id":"AdkPTsab","en":"F1 2026 Texas GP Special Liveries Boat 32x","zh_draft":"","zh_ai":"F1 2026 德克萨斯大奖赛特别涂装船 32x","zh_human":"","zh":"F1 2026 德克萨斯大奖赛特别涂装船 32x","status":"ai"}
+{"id":"PSUzrdNl","en":"Void Veil","zh_draft":"","zh_ai":"虚空面纱","zh_human":"","zh":"虚空面纱","status":"ai"}
+{"id":"pDGh68Vk","en":"GreenFrost 16x","zh_draft":"","zh_ai":"绿霜16x","zh_human":"","zh":"绿霜16x","status":"ai"}
+{"id":"qfApYdrK","en":"neptune","zh_draft":"","zh_ai":"海王星","zh_human":"","zh":"海王星","status":"ai"}
+{"id":"qfnJIKjB","en":"Capri","zh_draft":"","zh_ai":"卡普里","zh_human":"","zh":"卡普里","status":"ai"}
+{"id":"4650QmQY","en":"Perceptible Potions - No Unique Feathers","zh_draft":"","zh_ai":"感知药水 - 无独特羽毛","zh_human":"","zh":"感知药水 - 无独特羽毛","status":"ai"}
+{"id":"AFXhs6YK","en":"Perceptible Potions","zh_draft":"","zh_ai":"感知药水","zh_human":"","zh":"感知药水","status":"ai"}
+{"id":"ANKZ2Vdv","en":"CR-Survivor's Arsenal На русском","zh_draft":"","zh_ai":"CR-幸存者军火库 俄语版","zh_human":"","zh":"CR-幸存者军火库 俄语版","status":"ai"}
+{"id":"FQvPB5bY","en":"STC's Ocean's Delight","zh_draft":"","zh_ai":"STC的海洋之乐","zh_human":"","zh":"STC的海洋之乐","status":"ai"}
+{"id":"Fr9ttP2w","en":"MCLQE UI","zh_draft":"","zh_ai":"MCLQE UI","zh_human":"","zh":"MCLQE UI","status":"ai"}
+{"id":"IN2siqw0","en":"Theone's Eating Animation x Perceptible Potions","zh_draft":"","zh_ai":"Theone的进食动画 x 感知药水","zh_human":"","zh":"Theone的进食动画 x 感知药水","status":"ai"}
+{"id":"INbim3uB","en":"Better Skies","zh_draft":"","zh_ai":"更好的天空","zh_human":"","zh":"更好的天空","status":"ai"}
+{"id":"Q6TjAj3a","en":"Evil Totem","zh_draft":"","zh_ai":"邪恶图腾","zh_human":"","zh":"邪恶图腾","status":"ai"}
+{"id":"RRmYjwJl","en":"Aged 指南书汉化","zh_draft":"","zh_ai":"古旧指南书汉化","zh_human":"","zh":"古旧指南书汉化","status":"ai"}
+{"id":"UWTZkU3i","en":"Silent Copper Golems and Chests","zh_draft":"","zh_ai":"静音铜像与箱子","zh_human":"","zh":"静音铜像与箱子","status":"ai"}
+{"id":"hwgheEdt","en":"[tacz]standard gun pack","zh_draft":"","zh_ai":"标准枪械包","zh_human":"","zh":"标准枪械包","status":"ai"}
+{"id":"kL8BmW2T","en":"Perceptible Potions - No Unique Caps","zh_draft":"","zh_ai":"感知药水 - 无独特帽","zh_human":"","zh":"感知药水 - 无独特帽","status":"ai"}
+{"id":"nzhRFXRH","en":"Hollow-PvP","zh_draft":"","zh_ai":"空腔PvP","zh_human":"","zh":"空腔PvP","status":"ai"}
+{"id":"owCpLgzi","en":"Totem with Saber","zh_draft":"","zh_ai":"剑图腾","zh_human":"","zh":"剑图腾","status":"ai"}
+{"id":"qJzf6cyJ","en":"Interesting Interfaces","zh_draft":"","zh_ai":"有趣的界面","zh_human":"","zh":"有趣的界面","status":"ai"}
+{"id":"rEZk6bi8","en":"Sp0x3l's Texture Pack","zh_draft":"","zh_ai":"Sp0x3l的纹理包","zh_human":"","zh":"Sp0x3l的纹理包","status":"ai"}
+{"id":"uJur09kB","en":"Tin is Nonbinary","zh_draft":"","zh_ai":"锡是非二元性的","zh_human":"","zh":"锡是非二元性的","status":"ai"}
+{"id":"ujY6GMNp","en":"OnkeyTown","zh_draft":"","zh_ai":"Onkey镇","zh_human":"","zh":"Onkey镇","status":"ai"}
+{"id":"3CvFrmKY","en":"SHERLOCK PACK","zh_draft":"","zh_ai":"SHERLOCK包","zh_human":"","zh":"SHERLOCK包","status":"ai"}
+{"id":"hYFAfbgJ","en":"clear glass","zh_draft":"","zh_ai":"透明玻璃","zh_human":"","zh":"透明玻璃","status":"ai"}
+{"id":"iPTCFb6e","en":"Short PVP Swords","zh_draft":"","zh_ai":"短PVP剑","zh_human":"","zh":"短PVP剑","status":"ai"}

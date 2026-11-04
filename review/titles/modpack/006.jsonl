@@ -1650,18 +1650,18 @@
 {"id":"Qu7GGVxR","en":"GREENED","zh_draft":"","zh_ai":"绿化","zh_human":"","zh":"绿化","status":"ai"}
 {"id":"k8vJawcc","en":"Scenic Survival Modpack","zh_draft":"","zh_ai":"风景生存模组包","zh_human":"","zh":"风景生存模组包","status":"ai"}
 {"id":"eCtGcDPP","en":"Block Of Tsushima","zh_draft":"","zh_ai":"对马岛方块","zh_human":"","zh":"对马岛方块","status":"ai"}
-{"id":"ISUu4JOk","en":"Industrial Revolution 工业革命","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sWzSfBBl","en":"cwgeiss's not so optimized cozy pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lvQ7qnAc","en":"Vanillia +","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"EM92d9EH","en":"Arcatech: Expeditions","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"19S5yDqE","en":"Frijoland","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vgtXlvgF","en":"Aurea","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"EglwYNWa","en":"KryptonLP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LmnRwVb8","en":"MC Refreshed","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"S1Xf5Qbh","en":"optimization FAST","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZeBIXUjF","en":"BlossomTheDoes Vanilla+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"oMjFrkXS","en":"Minetrel Recode","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9LHXW0J1","en":"Forgesly Optimized","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ni9mhGaM","en":"Apex Survival","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UiAnxzv1","en":"WhereMyOptimizer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Yt9Xhtby","en":"Performance Pvp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ISUu4JOk","en":"Industrial Revolution 工业革命","zh_draft":"","zh_ai":"工业革命","zh_human":"","zh":"工业革命","status":"ai"}
+{"id":"sWzSfBBl","en":"cwgeiss's not so optimized cozy pack","zh_draft":"","zh_ai":"cwgeiss的非优化舒适包","zh_human":"","zh":"cwgeiss的非优化舒适包","status":"ai"}
+{"id":"lvQ7qnAc","en":"Vanillia +","zh_draft":"","zh_ai":"原版增强+","zh_human":"","zh":"原版增强+","status":"ai"}
+{"id":"EM92d9EH","en":"Arcatech: Expeditions","zh_draft":"","zh_ai":"弧光科技：探险","zh_human":"","zh":"弧光科技：探险","status":"ai"}
+{"id":"19S5yDqE","en":"Frijoland","zh_draft":"","zh_ai":"弗里约兰","zh_human":"","zh":"弗里约兰","status":"ai"}
+{"id":"vgtXlvgF","en":"Aurea","zh_draft":"","zh_ai":"奥瑞亚","zh_human":"","zh":"奥瑞亚","status":"ai"}
+{"id":"EglwYNWa","en":"KryptonLP","zh_draft":"","zh_ai":"克ryptonLP","zh_human":"","zh":"克ryptonLP","status":"ai"}
+{"id":"LmnRwVb8","en":"MC Refreshed","zh_draft":"","zh_ai":"MC清新","zh_human":"","zh":"MC清新","status":"ai"}
+{"id":"S1Xf5Qbh","en":"optimization FAST","zh_draft":"","zh_ai":"快速优化","zh_human":"","zh":"快速优化","status":"ai"}
+{"id":"ZeBIXUjF","en":"BlossomTheDoes Vanilla+","zh_draft":"","zh_ai":"花朵之犬原版增强+","zh_human":"","zh":"花朵之犬原版增强+","status":"ai"}
+{"id":"oMjFrkXS","en":"Minetrel Recode","zh_draft":"","zh_ai":"矿工重编","zh_human":"","zh":"矿工重编","status":"ai"}
+{"id":"9LHXW0J1","en":"Forgesly Optimized","zh_draft":"","zh_ai":"锻造优化","zh_human":"","zh":"锻造优化","status":"ai"}
+{"id":"ni9mhGaM","en":"Apex Survival","zh_draft":"","zh_ai":"顶点生存","zh_human":"","zh":"顶点生存","status":"ai"}
+{"id":"UiAnxzv1","en":"WhereMyOptimizer","zh_draft":"","zh_ai":"我的优化器在哪里","zh_human":"","zh":"我的优化器在哪里","status":"ai"}
+{"id":"Yt9Xhtby","en":"Performance Pvp","zh_draft":"","zh_ai":"性能PvP","zh_human":"","zh":"性能PvP","status":"ai"}
