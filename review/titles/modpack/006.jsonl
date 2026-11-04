@@ -1646,7 +1646,7 @@
 {"id":"DQDNex1V","en":"The Bizzare Pack","zh_draft":"","zh_ai":"奇怪包","zh_human":"","zh":"奇怪包","status":"ai"}
 {"id":"mZDfeNEV","en":"DaddiesCore X Vulkan","zh_draft":"","zh_ai":"DaddiesCore X Vulkan","zh_human":"","zh":"DaddiesCore X Vulkan","status":"ai"}
 {"id":"EwIxfR5o","en":"Utubysdog101 Create Aeronautics","zh_draft":"","zh_ai":"乌图比斯多格101机械动力航空","zh_human":"","zh":"乌图比斯多格101机械动力航空","status":"ai"}
-{"id":"1EG0YIzP","en":"Lost History —The Broken Script Update ModPack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Qu7GGVxR","en":"GREENED","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"k8vJawcc","en":"Scenic Survival Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eCtGcDPP","en":"Block Of Tsushima","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"1EG0YIzP","en":"Lost History —The Broken Script Update ModPack","zh_draft":"","zh_ai":"失落历史—破碎脚本更新模组包","zh_human":"","zh":"失落历史—破碎脚本更新模组包","status":"ai"}
+{"id":"Qu7GGVxR","en":"GREENED","zh_draft":"","zh_ai":"绿化","zh_human":"","zh":"绿化","status":"ai"}
+{"id":"k8vJawcc","en":"Scenic Survival Modpack","zh_draft":"","zh_ai":"风景生存模组包","zh_human":"","zh":"风景生存模组包","status":"ai"}
+{"id":"eCtGcDPP","en":"Block Of Tsushima","zh_draft":"","zh_ai":"对马岛方块","zh_human":"","zh":"对马岛方块","status":"ai"}
