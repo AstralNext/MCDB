@@ -1665,18 +1665,18 @@
 {"id":"ni9mhGaM","en":"Apex Survival","zh_draft":"","zh_ai":"顶点生存","zh_human":"","zh":"顶点生存","status":"ai"}
 {"id":"UiAnxzv1","en":"WhereMyOptimizer","zh_draft":"","zh_ai":"我的优化器在哪里","zh_human":"","zh":"我的优化器在哪里","status":"ai"}
 {"id":"Yt9Xhtby","en":"Performance Pvp","zh_draft":"","zh_ai":"性能PvP","zh_human":"","zh":"性能PvP","status":"ai"}
-{"id":"drbwaJPo","en":"Soarinng Eventos","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ItyYPESm","en":"红石生电优化pro","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"O5A4hl6L","en":"Clover N Crust","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"g9oGHmFL","en":"Optimization+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ieSIW84d","en":"CobbleCamp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"W2qBL6Sn","en":"Endo Vanilla+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FkIGw7aH","en":"H2O - Drink Water","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PRYgtcHl","en":"Excambaw Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZHcArhtj","en":"Create : Complete Redroided","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1sqQZWgq","en":"Het Eventplein","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2VbaNblp","en":"tbs blackout with more mods","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5dQd359q","en":"Dark Years","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wD0mlar5","en":"Untitled SMP: Fossils and Archeology","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"OudWyLBD","en":"Vanila Pro+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ccMeTIsJ","en":"More Than Craft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"drbwaJPo","en":"Soarinng Eventos","zh_draft":"","zh_ai":"Soarinng活动","zh_human":"","zh":"Soarinng活动","status":"ai"}
+{"id":"ItyYPESm","en":"红石生电优化pro","zh_draft":"","zh_ai":"红石发电优化pro","zh_human":"","zh":"红石发电优化pro","status":"ai"}
+{"id":"O5A4hl6L","en":"Clover N Crust","zh_draft":"","zh_ai":"三叶草与外壳","zh_human":"","zh":"三叶草与外壳","status":"ai"}
+{"id":"g9oGHmFL","en":"Optimization+","zh_draft":"","zh_ai":"优化+","zh_human":"","zh":"优化+","status":"ai"}
+{"id":"ieSIW84d","en":"CobbleCamp","zh_draft":"","zh_ai":"圆石营地","zh_human":"","zh":"圆石营地","status":"ai"}
+{"id":"W2qBL6Sn","en":"Endo Vanilla+","zh_draft":"","zh_ai":"Endo原版+","zh_human":"","zh":"Endo原版+","status":"ai"}
+{"id":"FkIGw7aH","en":"H2O - Drink Water","zh_draft":"","zh_ai":"H2O - 喝水","zh_human":"","zh":"H2O - 喝水","status":"ai"}
+{"id":"PRYgtcHl","en":"Excambaw Modpack","zh_draft":"","zh_ai":"Excambaw模组包","zh_human":"","zh":"Excambaw模组包","status":"ai"}
+{"id":"ZHcArhtj","en":"Create : Complete Redroided","zh_draft":"","zh_ai":"完整重制版Create","zh_human":"","zh":"完整重制版Create","status":"ai"}
+{"id":"1sqQZWgq","en":"Het Eventplein","zh_draft":"","zh_ai":"Het Eventplein","zh_human":"","zh":"Het Eventplein","status":"ai"}
+{"id":"2VbaNblp","en":"tbs blackout with more mods","zh_draft":"","zh_ai":"更多模组的tbs黑屏模式","zh_human":"","zh":"更多模组的tbs黑屏模式","status":"ai"}
+{"id":"5dQd359q","en":"Dark Years","zh_draft":"","zh_ai":"黑暗年代","zh_human":"","zh":"黑暗年代","status":"ai"}
+{"id":"wD0mlar5","en":"Untitled SMP: Fossils and Archeology","zh_draft":"","zh_ai":"未命名SMP：化石与考古","zh_human":"","zh":"未命名SMP：化石与考古","status":"ai"}
+{"id":"OudWyLBD","en":"Vanila Pro+","zh_draft":"","zh_ai":"Vanila Pro+","zh_human":"","zh":"Vanila Pro+","status":"ai"}
+{"id":"ccMeTIsJ","en":"More Than Craft","zh_draft":"","zh_ai":"不止是工艺","zh_human":"","zh":"不止是工艺","status":"ai"}
