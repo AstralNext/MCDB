@@ -2677,7 +2677,7 @@
 {"id":"due4TvPC","en":"StayChill","zh_draft":"","zh_ai":"冷静模式","zh_human":"","zh":"冷静模式","status":"ai"}
 {"id":"YLQFuM3e","en":"SKCraft Alice","zh_draft":"","zh_ai":"SKCraft爱丽丝","zh_human":"","zh":"SKCraft爱丽丝","status":"ai"}
 {"id":"kIxQijye","en":"Terranova Server","zh_draft":"","zh_ai":"特诺瓦服务器","zh_human":"","zh":"特诺瓦服务器","status":"ai"}
-{"id":"5mIkQj3Q","en":"bitbox.wtf","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Ha0z252d","en":"WILDSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Nh8INvlY","en":"AGNI MC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PAGKZkAN","en":"The reboot","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"5mIkQj3Q","en":"bitbox.wtf","zh_draft":"","zh_ai":"比特盒子","zh_human":"","zh":"比特盒子","status":"ai"}
+{"id":"Ha0z252d","en":"WILDSMP","zh_draft":"","zh_ai":"野性生存模式","zh_human":"","zh":"野性生存模式","status":"ai"}
+{"id":"Nh8INvlY","en":"AGNI MC","zh_draft":"","zh_ai":"AGNI MC","zh_human":"","zh":"AGNI MC","status":"ai"}
+{"id":"PAGKZkAN","en":"The reboot","zh_draft":"","zh_ai":"重启","zh_human":"","zh":"重启","status":"ai"}
