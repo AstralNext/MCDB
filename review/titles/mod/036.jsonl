@@ -1691,33 +1691,33 @@
 {"id":"pJQwS8dj","en":"Topple","zh_draft":"","zh_ai":"倾倒","zh_human":"","zh":"倾倒","status":"ai"}
 {"id":"qTE7Jy0L","en":"ChorusRTP","zh_draft":"","zh_ai":"紫影随机传送","zh_human":"","zh":"紫影随机传送","status":"ai"}
 {"id":"qsUQGbgM","en":"val's XP Cap","zh_draft":"","zh_ai":"val的经验上限","zh_human":"","zh":"val的经验上限","status":"ai"}
-{"id":"rx0l3kfQ","en":"Crazy Backpacks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"snR3Zpxl","en":"Craftwebs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"tjAVHX4k","en":"Farlands Dimension lol","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uTTXP6Yh","en":"Cancel Trial Cooldown","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vbfobXCi","en":"PrefixPlus+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vzBmOKER","en":"Some Dungeons 2 Talismans","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wckaA8yb","en":"RedstoneEvents","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xLSFu64I","en":"Master Lectern: Villager Trade Finder","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yUdh0VAT","en":"UniqueEconomy","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"z4e3pHlW","en":"exCombat","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4hZckriZ","en":"Tick Boost","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"A12BaXWp","en":"Goosker's Modpack Utility","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CCdDhk8L","en":"Chorus Invsee","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"INN2vmN3","en":"SafeChat By Lift","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LYkourgL","en":"PackChooser","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MR8TKRuR","en":"SpectroStream By Lift","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"OohrG4Ud","en":"FeverMine","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PnajxGrS","en":"Druidic Magic","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SqVaLYW5","en":"SimpleCombat","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fIDizX5y","en":"RandomEventSurvive","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fQGUEuaQ","en":"LastBreath","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kCNoTGCx","en":"LockPoint","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"of0oytNA","en":"JobsPlus","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qf6CkT0z","en":"TheForge","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rl54ZCl3","en":"Clash","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"tSAvizF1","en":"Re shards","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"tnRKZ1gl","en":"Offline Teleport","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xnzWhSoN","en":"Kits","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xqqHAh6O","en":"Anti Blindness Remover","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yGtc3TqW","en":"Az_Protection","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"rx0l3kfQ","en":"Crazy Backpacks","zh_draft":"","zh_ai":"疯狂背包","zh_human":"","zh":"疯狂背包","status":"ai"}
+{"id":"snR3Zpxl","en":"Craftwebs","zh_draft":"","zh_ai":"工艺网","zh_human":"","zh":"工艺网","status":"ai"}
+{"id":"tjAVHX4k","en":"Farlands Dimension lol","zh_draft":"","zh_ai":"远地维度","zh_human":"","zh":"远地维度","status":"ai"}
+{"id":"uTTXP6Yh","en":"Cancel Trial Cooldown","zh_draft":"","zh_ai":"取消试用冷却","zh_human":"","zh":"取消试用冷却","status":"ai"}
+{"id":"vbfobXCi","en":"PrefixPlus+","zh_draft":"","zh_ai":"PrefixPlus+","zh_human":"","zh":"PrefixPlus+","status":"ai"}
+{"id":"vzBmOKER","en":"Some Dungeons 2 Talismans","zh_draft":"","zh_ai":"一些地牢2护符","zh_human":"","zh":"一些地牢2护符","status":"ai"}
+{"id":"wckaA8yb","en":"RedstoneEvents","zh_draft":"","zh_ai":"红石事件","zh_human":"","zh":"红石事件","status":"ai"}
+{"id":"xLSFu64I","en":"Master Lectern: Villager Trade Finder","zh_draft":"","zh_ai":"大师讲台：村民交易寻找者","zh_human":"","zh":"大师讲台：村民交易寻找者","status":"ai"}
+{"id":"yUdh0VAT","en":"UniqueEconomy","zh_draft":"","zh_ai":"独特经济","zh_human":"","zh":"独特经济","status":"ai"}
+{"id":"z4e3pHlW","en":"exCombat","zh_draft":"","zh_ai":"ex战斗","zh_human":"","zh":"ex战斗","status":"ai"}
+{"id":"4hZckriZ","en":"Tick Boost","zh_draft":"","zh_ai":"刻度提升","zh_human":"","zh":"刻度提升","status":"ai"}
+{"id":"A12BaXWp","en":"Goosker's Modpack Utility","zh_draft":"","zh_ai":"Goosker模组包工具","zh_human":"","zh":"Goosker模组包工具","status":"ai"}
+{"id":"CCdDhk8L","en":"Chorus Invsee","zh_draft":"","zh_ai":"合唱查看","zh_human":"","zh":"合唱查看","status":"ai"}
+{"id":"INN2vmN3","en":"SafeChat By Lift","zh_draft":"","zh_ai":"Lift的安全聊天","zh_human":"","zh":"Lift的安全聊天","status":"ai"}
+{"id":"LYkourgL","en":"PackChooser","zh_draft":"","zh_ai":"包选择器","zh_human":"","zh":"包选择器","status":"ai"}
+{"id":"MR8TKRuR","en":"SpectroStream By Lift","zh_draft":"","zh_ai":"Lift的频谱流","zh_human":"","zh":"Lift的频谱流","status":"ai"}
+{"id":"OohrG4Ud","en":"FeverMine","zh_draft":"","zh_ai":"发烧矿场","zh_human":"","zh":"发烧矿场","status":"ai"}
+{"id":"PnajxGrS","en":"Druidic Magic","zh_draft":"","zh_ai":"德鲁伊魔法","zh_human":"","zh":"德鲁伊魔法","status":"ai"}
+{"id":"SqVaLYW5","en":"SimpleCombat","zh_draft":"","zh_ai":"简单战斗","zh_human":"","zh":"简单战斗","status":"ai"}
+{"id":"fIDizX5y","en":"RandomEventSurvive","zh_draft":"","zh_ai":"随机事件生存","zh_human":"","zh":"随机事件生存","status":"ai"}
+{"id":"fQGUEuaQ","en":"LastBreath","zh_draft":"","zh_ai":"最后一息","zh_human":"","zh":"最后一息","status":"ai"}
+{"id":"kCNoTGCx","en":"LockPoint","zh_draft":"","zh_ai":"锁定点","zh_human":"","zh":"锁定点","status":"ai"}
+{"id":"of0oytNA","en":"JobsPlus","zh_draft":"","zh_ai":"工作+","zh_human":"","zh":"工作+","status":"ai"}
+{"id":"qf6CkT0z","en":"TheForge","zh_draft":"","zh_ai":"熔炉","zh_human":"","zh":"熔炉","status":"ai"}
+{"id":"rl54ZCl3","en":"Clash","zh_draft":"","zh_ai":"冲突","zh_human":"","zh":"冲突","status":"ai"}
+{"id":"tSAvizF1","en":"Re shards","zh_draft":"","zh_ai":"重碎片","zh_human":"","zh":"重碎片","status":"ai"}
+{"id":"tnRKZ1gl","en":"Offline Teleport","zh_draft":"","zh_ai":"离线传送","zh_human":"","zh":"离线传送","status":"ai"}
+{"id":"xnzWhSoN","en":"Kits","zh_draft":"","zh_ai":"套件","zh_human":"","zh":"套件","status":"ai"}
+{"id":"xqqHAh6O","en":"Anti Blindness Remover","zh_draft":"","zh_ai":"抗盲除器","zh_human":"","zh":"抗盲除器","status":"ai"}
+{"id":"yGtc3TqW","en":"Az_Protection","zh_draft":"","zh_ai":"Az保护","zh_human":"","zh":"Az保护","status":"ai"}
