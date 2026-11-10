@@ -2487,23 +2487,23 @@
 {"id":"xplooWMA","en":"Clarity Panoramas","zh_draft":"","zh_ai":"清晰全景","zh_human":"","zh":"清晰全景","status":"ai"}
 {"id":"kea2Aoxo","en":"Fractal Block World: Minecraft Edition","zh_draft":"","zh_ai":"分形方块世界：Minecraft版","zh_human":"","zh":"分形方块世界：Minecraft版","status":"ai"}
 {"id":"yvzNJluQ","en":"BlackPackX2","zh_draft":"","zh_ai":"黑包X2","zh_human":"","zh":"黑包X2","status":"ai"}
-{"id":"hH4dWe7G","en":"Muted PvP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8eGFVYzB","en":"A very pink hotbar GUI","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RbjtjXJB","en":"WhiteFire","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uWFldRLu","en":"Better Sunflowers","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zzZU1bty","en":"Better Variety Flowers","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"N5pTiLGB","en":"Cobblemon Blocks - PBR","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6uGyZNsT","en":"Glowing Ores","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JrM2d3Tf","en":"Minecraft Dungeons II Enchantment Icons","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5cMhyGYI","en":"Better Tulips","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RlWKLFNO","en":"nikothana's Cherry End Crystal","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Zzt4movR","en":"Sculk & Reinforce Resource Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LwEGqDT4","en":"Country Shields","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fSQdECPZ","en":"Heavy's Expie Sounds","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xB09Cwsg","en":"Kings SMP Texture Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xD0mztQm","en":"SIDE B Discs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Lmh2x6Iz","en":"YouTube Themed","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dxXpazWg","en":"Fjord's Ruby Pack!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cbrzdqJT","en":"Sandy TNT & Cart","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6P06zGvQ","en":"No Equipment! 👖​🚫","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fXpfnn9w","en":"Music by taras_5000","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"hH4dWe7G","en":"Muted PvP","zh_draft":"","zh_ai":"静音PvP","zh_human":"","zh":"静音PvP","status":"ai"}
+{"id":"8eGFVYzB","en":"A very pink hotbar GUI","zh_draft":"","zh_ai":"非常粉红色的快捷栏GUI","zh_human":"","zh":"非常粉红色的快捷栏GUI","status":"ai"}
+{"id":"RbjtjXJB","en":"WhiteFire","zh_draft":"","zh_ai":"白火","zh_human":"","zh":"白火","status":"ai"}
+{"id":"uWFldRLu","en":"Better Sunflowers","zh_draft":"","zh_ai":"更好的向日葵","zh_human":"","zh":"更好的向日葵","status":"ai"}
+{"id":"zzZU1bty","en":"Better Variety Flowers","zh_draft":"","zh_ai":"更多样化的花朵","zh_human":"","zh":"更多样化的花朵","status":"ai"}
+{"id":"N5pTiLGB","en":"Cobblemon Blocks - PBR","zh_draft":"","zh_ai":"圆石兽方块 - PBR","zh_human":"","zh":"圆石兽方块 - PBR","status":"ai"}
+{"id":"6uGyZNsT","en":"Glowing Ores","zh_draft":"","zh_ai":"发光矿石","zh_human":"","zh":"发光矿石","status":"ai"}
+{"id":"JrM2d3Tf","en":"Minecraft Dungeons II Enchantment Icons","zh_draft":"","zh_ai":"我的世界地下城II附魔图标","zh_human":"","zh":"我的世界地下城II附魔图标","status":"ai"}
+{"id":"5cMhyGYI","en":"Better Tulips","zh_draft":"","zh_ai":"更好的郁金香","zh_human":"","zh":"更好的郁金香","status":"ai"}
+{"id":"RlWKLFNO","en":"nikothana's Cherry End Crystal","zh_draft":"","zh_ai":"nikothana的樱桃末地水晶","zh_human":"","zh":"nikothana的樱桃末地水晶","status":"ai"}
+{"id":"Zzt4movR","en":"Sculk & Reinforce Resource Pack","zh_draft":"","zh_ai":"隐形物质与加固资源包","zh_human":"","zh":"隐形物质与加固资源包","status":"ai"}
+{"id":"LwEGqDT4","en":"Country Shields","zh_draft":"","zh_ai":"国家盾牌","zh_human":"","zh":"国家盾牌","status":"ai"}
+{"id":"fSQdECPZ","en":"Heavy's Expie Sounds","zh_draft":"","zh_ai":"重量的经验声效","zh_human":"","zh":"重量的经验声效","status":"ai"}
+{"id":"xB09Cwsg","en":"Kings SMP Texture Pack","zh_draft":"","zh_ai":"国王SMP纹理包","zh_human":"","zh":"国王SMP纹理包","status":"ai"}
+{"id":"xD0mztQm","en":"SIDE B Discs","zh_draft":"","zh_ai":"B面唱片","zh_human":"","zh":"B面唱片","status":"ai"}
+{"id":"Lmh2x6Iz","en":"YouTube Themed","zh_draft":"","zh_ai":"YouTube主题","zh_human":"","zh":"YouTube主题","status":"ai"}
+{"id":"dxXpazWg","en":"Fjord's Ruby Pack!","zh_draft":"","zh_ai":"峡湾的Ruby包！","zh_human":"","zh":"峡湾的Ruby包！","status":"ai"}
+{"id":"cbrzdqJT","en":"Sandy TNT & Cart","zh_draft":"","zh_ai":"沙质TNT与手推车","zh_human":"","zh":"沙质TNT与手推车","status":"ai"}
+{"id":"6P06zGvQ","en":"No Equipment! 👖​🚫","zh_draft":"","zh_ai":"无装备！","zh_human":"","zh":"无装备！","status":"ai"}
+{"id":"fXpfnn9w","en":"Music by taras_5000","zh_draft":"","zh_ai":"taras_5000的音乐","zh_human":"","zh":"taras_5000的音乐","status":"ai"}

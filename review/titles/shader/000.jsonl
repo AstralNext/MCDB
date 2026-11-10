@@ -1074,36 +1074,36 @@
 {"id":"rTd7Xg3p","en":"Farloom Shaders","zh_draft":"","zh_ai":"远洛姆着色器","zh_human":"","zh":"远洛姆着色器","status":"ai"}
 {"id":"z67DnolW","en":"DerivativeBodycam","zh_draft":"","zh_ai":"衍生执法记录仪","zh_human":"","zh":"衍生执法记录仪","status":"ai"}
 {"id":"AG3CRKLE","en":"Aurora Sunset Shaders","zh_draft":"","zh_ai":"极光日落着色器","zh_human":"","zh":"极光日落着色器","status":"ai"}
-{"id":"oUtFVqSY","en":"Helian-MMCO (Sundial Lite edit)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"bm7DEweK","en":"fps max","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mJ9iFmQZ","en":"PTon (Photon shader edit)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"z4yLL3LD","en":"Aurelia Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"aUiuigOk","en":"W-Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dD5oq1V5","en":"Photon Engine Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qpabxAsv","en":"StarkShaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"U0N3AeVX","en":"RTV sheders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Ik0gPrFU","en":"PixelHaze Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"evjZYbR7","en":"Lueur Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QSykkBxg","en":"kaylon's Trace","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9FLCO4C2","en":"Legacy tone","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2oWFAOw9","en":"Eclipse Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4Ol4xRWO","en":"Obsidian Lite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WBPE8VOL","en":"Firmament (edit of coderbot's Steadfast)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"M1yUUE51","en":"Kinetic-shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"beuomBf3","en":"Altheon Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lYTD4myG","en":"AV Shaders - Advanced Vanilla","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"INFUFNDB","en":"lullaby","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JR9vS0Jl","en":"quantum's shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"f5nKqzbX","en":"Elumination Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3l9zwXHY","en":"BalancedShaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZW1Ym8aw","en":"Samarium Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2DnD1DkE","en":"NexyLite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UPMiWd7E","en":"cloude shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"oLwRfs8C","en":"Mr Pixel Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JuRmCa1G","en":"HerosShaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dZZDfQks","en":"Blargg-NTSC (Composite)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7WYUzIn8","en":"LuminaShader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"BGBMtNZj","en":"Cristal Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gaF5E2Er","en":"Umbra","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uRCTldl9","en":"LD Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9vuE2Fwf","en":"Claude Blackhole Shaderpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"oUtFVqSY","en":"Helian-MMCO (Sundial Lite edit)","zh_draft":"","zh_ai":"日轮-MMCO（日晷轻量版编辑）","zh_human":"","zh":"日轮-MMCO（日晷轻量版编辑）","status":"ai"}
+{"id":"bm7DEweK","en":"fps max","zh_draft":"","zh_ai":"最大fps","zh_human":"","zh":"最大fps","status":"ai"}
+{"id":"mJ9iFmQZ","en":"PTon (Photon shader edit)","zh_draft":"","zh_ai":"PTon（光子着色器编辑）","zh_human":"","zh":"PTon（光子着色器编辑）","status":"ai"}
+{"id":"z4yLL3LD","en":"Aurelia Shader","zh_draft":"","zh_ai":"奥雷利亚着色器","zh_human":"","zh":"奥雷利亚着色器","status":"ai"}
+{"id":"aUiuigOk","en":"W-Shader","zh_draft":"","zh_ai":"W着色器","zh_human":"","zh":"W着色器","status":"ai"}
+{"id":"dD5oq1V5","en":"Photon Engine Shaders","zh_draft":"","zh_ai":"光子引擎着色器","zh_human":"","zh":"光子引擎着色器","status":"ai"}
+{"id":"qpabxAsv","en":"StarkShaders","zh_draft":"","zh_ai":"Stark着色器","zh_human":"","zh":"Stark着色器","status":"ai"}
+{"id":"U0N3AeVX","en":"RTV sheders","zh_draft":"","zh_ai":"RTV着色器","zh_human":"","zh":"RTV着色器","status":"ai"}
+{"id":"Ik0gPrFU","en":"PixelHaze Shader","zh_draft":"","zh_ai":"像素迷雾着色器","zh_human":"","zh":"像素迷雾着色器","status":"ai"}
+{"id":"evjZYbR7","en":"Lueur Shaders","zh_draft":"","zh_ai":"微光着色器","zh_human":"","zh":"微光着色器","status":"ai"}
+{"id":"QSykkBxg","en":"kaylon's Trace","zh_draft":"","zh_ai":"kaylon的追踪","zh_human":"","zh":"kaylon的追踪","status":"ai"}
+{"id":"9FLCO4C2","en":"Legacy tone","zh_draft":"","zh_ai":"遗产色调","zh_human":"","zh":"遗产色调","status":"ai"}
+{"id":"2oWFAOw9","en":"Eclipse Shader","zh_draft":"","zh_ai":"日食着色器","zh_human":"","zh":"日食着色器","status":"ai"}
+{"id":"4Ol4xRWO","en":"Obsidian Lite","zh_draft":"","zh_ai":"黑曜石轻量版","zh_human":"","zh":"黑曜石轻量版","status":"ai"}
+{"id":"WBPE8VOL","en":"Firmament (edit of coderbot's Steadfast)","zh_draft":"","zh_ai":"天穹（coderbot的Steadfast编辑版）","zh_human":"","zh":"天穹（coderbot的Steadfast编辑版）","status":"ai"}
+{"id":"M1yUUE51","en":"Kinetic-shader","zh_draft":"","zh_ai":"动力学着色器","zh_human":"","zh":"动力学着色器","status":"ai"}
+{"id":"beuomBf3","en":"Altheon Shaders","zh_draft":"","zh_ai":"阿尔塞恩光影","zh_human":"","zh":"阿尔塞恩光影","status":"ai"}
+{"id":"lYTD4myG","en":"AV Shaders - Advanced Vanilla","zh_draft":"","zh_ai":"高级原版光影","zh_human":"","zh":"高级原版光影","status":"ai"}
+{"id":"INFUFNDB","en":"lullaby","zh_draft":"","zh_ai":"摇篮曲光影","zh_human":"","zh":"摇篮曲光影","status":"ai"}
+{"id":"JR9vS0Jl","en":"quantum's shader","zh_draft":"","zh_ai":"量子光影","zh_human":"","zh":"量子光影","status":"ai"}
+{"id":"f5nKqzbX","en":"Elumination Shader","zh_draft":"","zh_ai":"光明光影","zh_human":"","zh":"光明光影","status":"ai"}
+{"id":"3l9zwXHY","en":"BalancedShaders","zh_draft":"","zh_ai":"平衡光影","zh_human":"","zh":"平衡光影","status":"ai"}
+{"id":"ZW1Ym8aw","en":"Samarium Shaders","zh_draft":"","zh_ai":"钐光影","zh_human":"","zh":"钐光影","status":"ai"}
+{"id":"2DnD1DkE","en":"NexyLite","zh_draft":"","zh_ai":"奈克轻量光影","zh_human":"","zh":"奈克轻量光影","status":"ai"}
+{"id":"UPMiWd7E","en":"cloude shaders","zh_draft":"","zh_ai":"云光影","zh_human":"","zh":"云光影","status":"ai"}
+{"id":"oLwRfs8C","en":"Mr Pixel Shaders","zh_draft":"","zh_ai":"像素先生光影","zh_human":"","zh":"像素先生光影","status":"ai"}
+{"id":"JuRmCa1G","en":"HerosShaders","zh_draft":"","zh_ai":"英雄光影","zh_human":"","zh":"英雄光影","status":"ai"}
+{"id":"dZZDfQks","en":"Blargg-NTSC (Composite)","zh_draft":"","zh_ai":"Blargg-NTSC（合成）","zh_human":"","zh":"Blargg-NTSC（合成）","status":"ai"}
+{"id":"7WYUzIn8","en":"LuminaShader","zh_draft":"","zh_ai":"光晕光影","zh_human":"","zh":"光晕光影","status":"ai"}
+{"id":"BGBMtNZj","en":"Cristal Shaders","zh_draft":"","zh_ai":"水晶光影","zh_human":"","zh":"水晶光影","status":"ai"}
+{"id":"gaF5E2Er","en":"Umbra","zh_draft":"","zh_ai":"阴影","zh_human":"","zh":"阴影","status":"ai"}
+{"id":"uRCTldl9","en":"LD Shaders","zh_draft":"","zh_ai":"LD光影","zh_human":"","zh":"LD光影","status":"ai"}
+{"id":"9vuE2Fwf","en":"Claude Blackhole Shaderpack","zh_draft":"","zh_ai":"克劳德黑洞光影包","zh_human":"","zh":"克劳德黑洞光影包","status":"ai"}
