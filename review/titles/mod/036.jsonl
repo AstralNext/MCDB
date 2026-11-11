@@ -2335,3 +2335,321 @@
 {"id":"GsEB7Ju6","en":"The High Council Mod","zh_draft":"","zh_ai":"高级议会模组","zh_human":"","zh":"高级议会模组","status":"ai"}
 {"id":"Vb0nStTG","en":"Eternal Pools (A Poolrooms Mod)","zh_draft":"","zh_ai":"永恒泳池房","zh_human":"","zh":"永恒泳池房","status":"ai"}
 {"id":"omEzH1KY","en":"JujutsuCraft CT Libary","zh_draft":"","zh_ai":"咒术回战工艺 CT库","zh_human":"","zh":"咒术回战工艺 CT库","status":"ai"}
+{"id":"nmeta8WV","en":"burial backups","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"5IArfIKf","en":"Player TPA","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"CiG04A8r","en":"Slate Crafting","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"htlRe60h","en":"Classic Notch Apple Recipe","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"DNVKLspB","en":"FarlandsQOL","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"NYm0K9SY","en":"Phantom Membrane Recipe","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"WODPAvVa","en":"Prismarine Trident Recipe","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"KnB3w8ZA","en":"Mouse Lock","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"cBbjpXFU","en":"Jacob's Audio Tapes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"XdFt9p5j","en":"Player Item Descriptions","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"kuxFZn02","en":"Enchantment Core","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"V41grD5J","en":"StickShift","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"VOGa2FPz","en":"Easy Farms","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"NmvnqySg","en":"HexCC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"BJBzb0yp","en":"Cobbled Market","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"PS5z2s6a","en":"Pipster","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"KUwNA4kB","en":"CGC Compat: Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"qtmM0BfI","en":"Prospecting","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"1XZjzVHk","en":"Selective Per-Player Keep Inventory","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"8UxP2Ohz","en":"Scribe","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"qkOeGxXS","en":"Tiered Shears","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"K3Pwgx3J","en":"Demagnetizer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"XpSKwTLD","en":"Display Entity Hitboxes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"B7nT6WF4","en":"Visor Holster","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"GIzZr8Gc","en":"Sable: Optimized Entities","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"gUkGwkcl","en":"Weather Machine","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Wgw8z8bz","en":"WaveyElytra","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"mrrBDvAY","en":"Duplicate Pottery Sherds","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"wuxyaZ4u","en":"Copper Backport (Lite)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"x6iDLLE9","en":"Better Trade Uses","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"QjWlPM2w","en":"Don`t touch block","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"h1x9zvua","en":"1 Slot Survival","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"lKhYOBrH","en":"Obsidian Tools","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"9DsXFooq","en":"Iron Age Furniture","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Dzi9csWl","en":"WordleMod","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"QnxHTpOh","en":"Re-Downed","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ei0Elz1Y","en":"Chroma Keys","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"sVd6h1iX","en":"Keyed Bundles","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"5bNrB4sH","en":"Paint Anything","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"UcuqdT6k","en":"Nebula Pre-generator","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Z8IxXw8g","en":"Zelda Sword Skills Remastered","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ny6FzPSZ","en":"Raidborn","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"64dRMwFs","en":"Applied Flow Analytics","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"FI0XqizQ","en":"Rideable Minecarts Plus","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"5kufeVCP","en":"Health bar","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"etyCNsey","en":"Toasty's Emerald Armory","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"qgvQ8JTf","en":"Nidalib","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"EoZxnIfQ","en":"Ntfy Notify","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"UsFQ3PgN","en":"More Totem Effects","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"kWCLdFQi","en":"Spice of Life: Valheim Edition Refork","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"qAp1RaEJ","en":"Bigger Shulker Boxes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"xbyWJKN6","en":"Emerald Tools","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"9hBcHk2a","en":"LootBeams (Fabric)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"BoNyn7uE","en":"Bring Back Nightmares !","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"FqetKSGR","en":"Bone Meal Sieve","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"NTFkcp6E","en":"Elib","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"XHd93JpS","en":"VOLLEYBALL!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ZdOgLwec","en":"Keep Damageable Inventory","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"fdDZo4ST","en":"8m Strength","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"kFURuH1v","en":"dont touch grass","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"yxWAlLOz","en":"Custom Elytra MOD","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"4y1RsZVq","en":"TNT Minecart Display","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"9aja18GS","en":"Concept Commands","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"9eyd5SBW","en":"SideBarHider","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"GW83ZJND","en":"Obsidarite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"IQP4PhjU","en":"BackportCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"MQH5vSk7","en":"BlockWatch","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"o9eq7cV2","en":"SwiftTorch","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"tiXsscqk","en":"Hoplite Health Indicator","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"5uSVc77E","en":"Sound Muter","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"JPRG3FlO","en":"FoxyFriends","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"MSkuQcSD","en":"Shiekah Slate Technologies","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Y0iX1nOY","en":"Crafting Conveniences","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"YhCICLJK","en":"StephaTea's Claw Addon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"er6k3E1m","en":"Ultraman Craft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"rZBF5Z0S","en":"Camera Shake Lib","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"wiTX6cSl","en":"Hardcore Mode Allow Cheats","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"zb15yWfY","en":"Paper Labels","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"2UVIzSrd","en":"Gathering Torches Became Sunlight","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"2zvf2Ihs","en":"Wood Work","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"J8qrwU4Q","en":"Oceania","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"KMCzSMCh","en":"Map+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Q1CU6RHh","en":"The Backrooms","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"WLtOlcTU","en":"Simple Crash Menu","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"XQt20UDt","en":"Meßy's Relics","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"eqk6btaV","en":"Terrible Mod 2","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"gvoEgIx0","en":"ragdolls","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"h7O45czp","en":"Essor - Revamped","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"mxZ4mWqN","en":"Minecraft, but getting advancements changes game rules","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"3KkSaJsl","en":"Create: Живчик","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"5urYDhky","en":"tosty mod","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"6X9RuPQk","en":"Reload EMC Command","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"6iBgWBoC","en":"StoryWorlds","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"6y580PVf","en":"Not Enough Game Designs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"72JngudI","en":"Me, the Zombie!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"7O8RIhqi","en":"Sniffa Studio HideAndSeek","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"8GJntQlW","en":"Sleeping Messages","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"JGiCmf0g","en":"HandsSwapper","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"O2v2fqTj","en":"Material Overload","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"OvBdtqTn","en":"Neolithic","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"QICaTZOO","en":"Do you like Sharks? UWU","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ZdokkzBt","en":"PortalButtons","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"cXWN0TpD","en":"MMD OreSpawn","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"eawAusLk","en":"Datapack Viewer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"l341owpD","en":"Durability watch HUD","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"njalskfT","en":"Cobblemon Dragon Replacer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"uwfo3fQO","en":"JoJo's Steel Ball Spin","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"xaU1FwnX","en":"AnvilCraft: Fluid Expansion","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"4Z8YReLV","en":"Realistic Smoke","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"6Y8P3aY8","en":"Luckiest Block Mod","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"AFn2ap7z","en":"ModPackUpNotify","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"BOtwDLY2","en":"See Sign From Far!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"CJTHdisL","en":"RegSyncFix Reborn","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"FIcU7eH4","en":"inventory double click fix","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Hqs9ugBJ","en":"Quark not vanilla chest","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Jm5rFXxs","en":"Retro FastSuite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"O6uywZqG","en":"NeoPlayerSync","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Qi85g5Wx","en":"Colorful Ores","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"RE6mUHQL","en":"Create: TransFE","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"THaXI8HA","en":"steve58936's Spells","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"TpFZCwXi","en":"ScreenDeath","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"YFxb7rmS","en":"Loot Beam","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"a4DvAdoW","en":"Rockified","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"cGQAlROV","en":"XiuLianZhe","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ccKkvGbL","en":"Never Gonna Give You Up","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"fOxxQMXK","en":"Rubis","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"kvUI2p65","en":"Colors","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"rTdSB0w5","en":"Cogs and Mons","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"utqjJo3M","en":"Scavenger Hunt","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"vYARtA7j","en":"ZZipf's Mod","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"3C74ehLV","en":"Tom's Simple Polymorphic Storage Mod","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"5aeVVQGC","en":"Origin of Elements","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"BlIGuQmm","en":"Create: Motorsports","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"D4t5TYrE","en":"Cassetu's Better PVP Crosshair","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"EmoLPvSj","en":"Cleave","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"F448a71b","en":"Anvil Lore","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"H9sOB6kd","en":"ExtraContent","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"LGlnyeob","en":"Simple Homing XP Smooth","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"MuN3CgQz","en":"BLİNK","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Qf1q3hdK","en":"Tameable foxes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"R6lLnHKo","en":"Trident Indicator","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Rzl1NVCw","en":"Ecorce","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Sb6ujwLr","en":"Special Nights","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"WOxVpIQU","en":"armor insight","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Z7P31drY","en":"Villager Trade Finder","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ZmumhueN","en":"Custom TNT Power","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"m7lDLhsz","en":"Draw!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"qzaChDRv","en":"Ghast Hyperspawning Patch","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"sRRy9HTV","en":"Create: Factory fix","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"saHlg1X3","en":"Fluid Tools","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"uUjLl1t5","en":"Sleep Easy","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"xvuB6hcQ","en":"letterblock","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"7sNj6G5Q","en":"Mystical Adaptations Fixed","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"8AhZgST5","en":"Free My F3","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"8b5KuOJf","en":"Ghost Logout","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"8eGmq0Rj","en":"KiCK's Tool Touch-Ups: ReWaxed","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"9KH1KDP9","en":"Cassetu's Better Blindness & Darkness","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"GbJT8tIL","en":"Napoleon Wars Armory Mod","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"HSwT5Idd","en":"CAIB | Conveniently Accessible Important Blocks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"IjkCYzHn","en":"Inventory Assist","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"KGJfjs5x","en":"Duels Leaderboard","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"PPozuYoN","en":"NWorks's Snow Shovel Mod","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Qyxw5irj","en":"Flooded refabricated","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"YaZ9ccC8","en":"Nodalith","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"h8pxBmnB","en":"ZoomPlus","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"jRmOiJZC","en":"Anti Esp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"lB1RojgG","en":"Spotify Hud","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"llWAAZwx","en":"Transfer Plus","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"m9Rl3nhh","en":"CSCrosshairScale","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"n3KV0VYu","en":"TRT Minecart","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"nVAlrYmz","en":"More Sounds: JEI Compatibility Fix","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"oGXAIq8O","en":"Gadgetron Arsenal","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"q1yEWmD0","en":"VivyVitals","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"q3gyrvZu","en":"Always/Never Sprint","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"qJT8FeIY","en":"Citrine","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"qLSvrO7d","en":"Farlands Only","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"qb6L1Otg","en":"Doubted's Glassblowing Weapons","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"r5uPNxfF","en":"Bye Bye Phantoms","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"wVavJGsF","en":"Cobblemon Scale Variants","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"yVdRTSk3","en":"Mod Menu Click Sound Fix","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"zKvwAOgG","en":"Respawn Anchor Origin","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"4Vic3QZk","en":"Ropeworks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"8R9QfFMl","en":"hucznyEnderChest","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"8aToJixV","en":"Glasscraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"96BzKk7o","en":"CursorKeep","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"9JnfP46f","en":"goodgame","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"9W8sXW6M","en":"Bugpedia","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"9eD2OpbD","en":"Aurora Tiers (TierTagger)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"CcnNVqVP","en":"CBC Tank Tower","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"E8DlZXkV","en":"It's Dangerous to go Alone!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"EpQD5Ovn","en":"Everything! Every biome in one world!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Er7oCU6H","en":"Vanilla Recipes Reforged","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"HNwyPnzq","en":"Ore finder","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"HsmDu0H2","en":"Mjölnir","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"LlbsZyp5","en":"Woodwalkers Spellbooks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"NJk97muq","en":"Transparency","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"O0Nncejn","en":"Serene Seasons: Placeable Calendar","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"PIQMxvtB","en":"Escapando de Goku","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"PuFSQZsW","en":"Kaya","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"SiUqRxYP","en":"Body Relay","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"TDzVX0Pk","en":"Greenscreen Blocks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"UUzc3sHA","en":"Bonus Chest (BTA!)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"UarChEbT","en":"Hexcassetes (Ported)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"eJWeQiaE","en":"Shrump","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"fCKgX0ZK","en":"OG-Network Quality of Life Mod","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"fijCK4XW","en":"PulseTeams","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"grWEJwXT","en":"Point Blank: Craftable Grenades","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"hu9tg8kG","en":"Autumn Foliage","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"iBiEdeMe","en":"Please Crash My Game","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"jWlEd2DA","en":"Real Mobcap","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"miIoki2r","en":"Anarchy Minibosses For Prominence","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"qYu3vA2S","en":"Misc Mining","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"sepXwPTO","en":"Sable Wizard","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"vWgmebD2","en":"Ghast Glide","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"3mBa19Uf","en":"Mine Ball Run","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"5DYmiZWT","en":"Dwok's Capture the Flag Utilites","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"5oxvMw1S","en":"Simple Trash Can","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"8wHUKpAf","en":"macchaMC's Obsidian Armor +","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"9LJTxJ0o","en":"Build Branch","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"A47sWP6Z","en":"Confusion Tools!!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"AIiEooC2","en":"Clearview","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"BDGf8ItL","en":"Torched","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"CfrQmI3F","en":"Sticks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"GyBkVihN","en":"No Fog","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"JkXQeRsN","en":"Changed Untransfur","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"OLIccvTj","en":"Arboreal","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"TgOD2nEd","en":"Another Sreen","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"VQQ0OxBL","en":"Orbital Mechanics","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Vzmsp4Up","en":"DiceFate","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"YT86nALV","en":"Cinematic Zoom In","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"fJxX3skm","en":"Craftable Light Blocks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"jchOj20T","en":"Cauldron recipes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"l2jKqpKr","en":"Groovy World","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"lTRyVAFk","en":"Server transfer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"n5NpE2l7","en":"PRF:NoPower","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"vUWkbFpr","en":"Faerithia","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"wx5yrcjy","en":"BenchBurner","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"1NjmZA8i","en":"Create: Redstone Fix","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"1tJspXFK","en":"MojiKurafuto","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"2Awz2XdB","en":"Guard Riders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"3fFB1Tkz","en":"CobSwap","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"7o9pFqDt","en":"Simply Ants (Antarchy Addon)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"88JxSTfz","en":"Ratster Utils","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"8cgebwDb","en":"Realseasons","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"9vMIE6RL","en":"Sit on forge","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"A0drq3yd","en":"Diamond Lichen","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Bu4LMkeU","en":"Per-Player Hardcore Mode","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"CrL0z4FP","en":"star's needs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Dg5acv2p","en":"TwilightTeleport EX","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"EV2CHEK0","en":"Altitude Fog","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Ib11r3hi","en":"Mo' Armor","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"PKya7nUm","en":"Particular ✨ Reforged (Backport)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"RQ6nHYrp","en":"Fix My Linux!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Rci74hR3","en":"Playtime Enhanced","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"VMLvCf4v","en":"More Pistons","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"WZDcOn4J","en":"Keybind Profiles","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Y7zE3MQm","en":"Blessed & Possessed","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"bE4os9ev","en":"Rubys Additions: Musical Tweaks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"iGA4UyZQ","en":"NWorks's Simple Measurement Tool","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ig8foXhk","en":"F3 Editor","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"kWgYM2RJ","en":"Advanced Mace","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"zCDo7ezG","en":"Flains","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"12ClSGAT","en":"Reckoners","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"37AVpHzM","en":"Vectorium","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"4LebLsG2","en":"Simple Combat manager Plugin","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"4tO8slfe","en":"No Anvil Penalty Updated","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"8eGt2We0","en":"Tab Extractor","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"9CPRSVFl","en":"Third Person Zoom","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"BTc30ZF2","en":"Fake steve","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"CKeUTRm7","en":"VCResourcePacks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"CcpWHAFM","en":"Day Counter Command","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"GA8B4sqC","en":"Money Point","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"GbfIfXME","en":"Minecraft But Structures Spawn 100x More","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"KAMAP7pb","en":"weapontraits","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"KfNtAqYe","en":"Heavy Core crafting recipe","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"Ky0UNg60","en":"Camaell","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"LMvcJYaa","en":"Handy Tables","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"OHbOCDa7","en":"Real Pet Guard","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"PJqNpYJS","en":"right tool needed","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"QCMot13q","en":"🎙️ VoiceMuteUniversal","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"RrqC5g1H","en":"Sorter","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"SHiMNTXs","en":"BedrockRiser","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"XqgaGPo5","en":"Flush maps","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ZfUsbzKc","en":"Matcha Structure Loot","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ZgIUO6PS","en":"Minecart Train","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"a6GvnSh7","en":"Skyblock","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"aGnuBfCi","en":"RPE Proxy","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"cdI62DcG","en":"WindowsX++","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"cnTSz84a","en":"ZJSMP Plugin","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"grq63GPg","en":"Obsidian Arsenal","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"jpZBi9XZ","en":"TwinsControl","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"lrtCTD1d","en":"Voxy Fog Addon Neoforge","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"lwOh3HML","en":"Log Stairs & Slabs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"rOMqBWf7","en":"Exact Health Indicator","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"vd6UpdOW","en":"Ivy's Autowalk","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ws3jE9jK","en":"Fixed Barriers","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"5RPKwjPt","en":"Amplified Nether Air Pressure Fix","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"7JVqz8l8","en":"Shared Discounts","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"7cpT5wDL","en":"Sit, Lay & Crawl","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"7ruq7wsa","en":"Earned Hearts","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"AXw6YBah","en":"Wandering Heads","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"FPcJJkPX","en":"PotionView","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"JJaUkLfI","en":"Minecubes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"TUoT2d8A","en":"Classic Aquatics","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"UCu4HWHm","en":"Swap Trade","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"hiJ9sLoy","en":"Aeroscapes Andesite Generation Fix","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"i0Z35rUp","en":"Superpower Swap","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"k2BOKSPn","en":"Combo Counter","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"lL8cS9H7","en":"Special Nights — English Language Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"lMY1pwmt","en":"[TaCZ] Military Structures","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"m9lHbQ6N","en":"Simple craft potion arrows","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"njtaortf","en":"Simply Swords - Awakening fix","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"p7HkDN5O","en":"TACZ NPCs Alive","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"yfUl7agQ","en":"Crafting Is Disable","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"zTqtFASR","en":"Sensible Structure Tweaks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"zY9zoHFK","en":"AFKRewardZones","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"PECX0Cvn","en":"Abnormal Camps","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"xIY8p2hr","en":"Sink Your Friends' Boats (Datapack)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
