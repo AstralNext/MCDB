@@ -2510,23 +2510,23 @@
 {"id":"hhHbFWy9","en":"Blocks You Need: Photosensitivity Tweaks","zh_draft":"","zh_ai":"光敏性调整","zh_human":"","zh":"光敏性调整","status":"ai"}
 {"id":"iLpUTDSg","en":"Consistant Spruce Doors","zh_draft":"","zh_ai":"一致云杉门","zh_human":"","zh":"一致云杉门","status":"ai"}
 {"id":"t0bfITIq","en":"Refurbished","zh_draft":"","zh_ai":"翻新","zh_human":"","zh":"翻新","status":"ai"}
-{"id":"ZaZbdVzR","en":"Excalibur | Loading Screen","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JKpBFdUO","en":"Dark Coffee GUI - Apple Skin Compat","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"txVL4ew0","en":"Plastique","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3s6RVy6j","en":"X Crosshairs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"B9yO9nc4","en":"PocketLCD – Retro Handheld GUI","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JpkicOeG","en":"Target Crosshairs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ORqf7FGT","en":"Excalibur | Trash Cans Gui","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SgWtOSii","en":"MiniX Crosshairs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cQBcPZGf","en":"Wolf Girls x fresh animations","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hbz91BYU","en":"SpacedX Crosshairs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kQjTSX0K","en":"Nino Nakano Crystal PvP + Anime Sky","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"psDnka5f","en":"Red Crosshairs","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6vGSky7u","en":"Via Romana Ashen Compat","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZaG0hzxo","en":"Guard Villagers Ashen Compat","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"aMMTMrCE","en":"Excalibur | Macaw’s Furniture Gui","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gKMz0ApD","en":"It Takes a Pillage Continuation Ashen Compat","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kCSmjhdm","en":"Pet Armor Ashen Compat","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"o3ftQlFY","en":"Asuka eyepatch Crystal PvP + Anime Sky","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qOF2Croy","en":"Hollow GUI Appleskin support Steel Soul Edition","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wELknN5W","en":"Spider Girls","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"ZaZbdVzR","en":"Excalibur | Loading Screen","zh_draft":"","zh_ai":"艾克赛尔比鲁斯 | 加载界面","zh_human":"","zh":"艾克赛尔比鲁斯 | 加载界面","status":"ai"}
+{"id":"JKpBFdUO","en":"Dark Coffee GUI - Apple Skin Compat","zh_draft":"","zh_ai":"暗咖啡GUI - 苹果皮肤兼容","zh_human":"","zh":"暗咖啡GUI - 苹果皮肤兼容","status":"ai"}
+{"id":"txVL4ew0","en":"Plastique","zh_draft":"","zh_ai":"塑料","zh_human":"","zh":"塑料","status":"ai"}
+{"id":"3s6RVy6j","en":"X Crosshairs","zh_draft":"","zh_ai":"X准星","zh_human":"","zh":"X准星","status":"ai"}
+{"id":"B9yO9nc4","en":"PocketLCD – Retro Handheld GUI","zh_draft":"","zh_ai":"口袋LCD – 复古掌机GUI","zh_human":"","zh":"口袋LCD – 复古掌机GUI","status":"ai"}
+{"id":"JpkicOeG","en":"Target Crosshairs","zh_draft":"","zh_ai":"目标准星","zh_human":"","zh":"目标准星","status":"ai"}
+{"id":"ORqf7FGT","en":"Excalibur | Trash Cans Gui","zh_draft":"","zh_ai":"艾克赛尔比鲁斯 | 垃圾桶GUI","zh_human":"","zh":"艾克赛尔比鲁斯 | 垃圾桶GUI","status":"ai"}
+{"id":"SgWtOSii","en":"MiniX Crosshairs","zh_draft":"","zh_ai":"迷你X准星","zh_human":"","zh":"迷你X准星","status":"ai"}
+{"id":"cQBcPZGf","en":"Wolf Girls x fresh animations","zh_draft":"","zh_ai":"狼少女 x 新动画","zh_human":"","zh":"狼少女 x 新动画","status":"ai"}
+{"id":"hbz91BYU","en":"SpacedX Crosshairs","zh_draft":"","zh_ai":"太空X准星","zh_human":"","zh":"太空X准星","status":"ai"}
+{"id":"kQjTSX0K","en":"Nino Nakano Crystal PvP + Anime Sky","zh_draft":"","zh_ai":"南野绫晶PvP + 动漫天空","zh_human":"","zh":"南野绫晶PvP + 动漫天空","status":"ai"}
+{"id":"psDnka5f","en":"Red Crosshairs","zh_draft":"","zh_ai":"红准星","zh_human":"","zh":"红准星","status":"ai"}
+{"id":"6vGSky7u","en":"Via Romana Ashen Compat","zh_draft":"","zh_ai":"罗马之路灰烬兼容","zh_human":"","zh":"罗马之路灰烬兼容","status":"ai"}
+{"id":"ZaG0hzxo","en":"Guard Villagers Ashen Compat","zh_draft":"","zh_ai":"守卫村民灰烬兼容","zh_human":"","zh":"守卫村民灰烬兼容","status":"ai"}
+{"id":"aMMTMrCE","en":"Excalibur | Macaw’s Furniture Gui","zh_draft":"","zh_ai":"艾克赛尔比鲁斯 | 鹦鹉家具GUI","zh_human":"","zh":"艾克赛尔比鲁斯 | 鹦鹉家具GUI","status":"ai"}
+{"id":"gKMz0ApD","en":"It Takes a Pillage Continuation Ashen Compat","zh_draft":"","zh_ai":"掠夺进行时灰烬兼容","zh_human":"","zh":"掠夺进行时灰烬兼容","status":"ai"}
+{"id":"kCSmjhdm","en":"Pet Armor Ashen Compat","zh_draft":"","zh_ai":"宠物盔甲灰烬兼容","zh_human":"","zh":"宠物盔甲灰烬兼容","status":"ai"}
+{"id":"o3ftQlFY","en":"Asuka eyepatch Crystal PvP + Anime Sky","zh_draft":"","zh_ai":"绫波眼镜片晶PvP + 动漫天空","zh_human":"","zh":"绫波眼镜片晶PvP + 动漫天空","status":"ai"}
+{"id":"qOF2Croy","en":"Hollow GUI Appleskin support Steel Soul Edition","zh_draft":"","zh_ai":"空洞GUI苹果皮肤支持钢铁灵魂版","zh_human":"","zh":"空洞GUI苹果皮肤支持钢铁灵魂版","status":"ai"}
+{"id":"wELknN5W","en":"Spider Girls","zh_draft":"","zh_ai":"蜘蛛女孩","zh_human":"","zh":"蜘蛛女孩","status":"ai"}
