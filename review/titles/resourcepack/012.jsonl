@@ -2530,22 +2530,22 @@
 {"id":"o3ftQlFY","en":"Asuka eyepatch Crystal PvP + Anime Sky","zh_draft":"","zh_ai":"绫波眼镜片晶PvP + 动漫天空","zh_human":"","zh":"绫波眼镜片晶PvP + 动漫天空","status":"ai"}
 {"id":"qOF2Croy","en":"Hollow GUI Appleskin support Steel Soul Edition","zh_draft":"","zh_ai":"空洞GUI苹果皮肤支持钢铁灵魂版","zh_human":"","zh":"空洞GUI苹果皮肤支持钢铁灵魂版","status":"ai"}
 {"id":"wELknN5W","en":"Spider Girls","zh_draft":"","zh_ai":"蜘蛛女孩","zh_human":"","zh":"蜘蛛女孩","status":"ai"}
-{"id":"maQFLF1G","en":"Excalibur | Trade Cycling","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3Q2iZOMq","en":"Excalibur | Nemo’s Inventory Sorting","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kpTrcLeV","en":"Mizunos Waystones","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HPBHiFO2","en":"Hollow GUI Appleskin support","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"POJZ3MOI","en":"Better blue netherite","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TGYiLp58","en":"sus totems","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4RmfPWyF","en":"OR, Better Guide Ranks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"A89vxOsM","en":"Create Radars: Industrial Iron","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"b14l7uiv","en":"highlighted tnt minecarts","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vf66MJUt","en":"Cherry PVP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2zeiZdXx","en":"fehykitop's Void Cross Totem","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3kUAD0vO","en":"Ladybird Hotbar GUI","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7gVlnAwu","en":"Green Items","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"S0UOG2hx","en":"Hard Core Hearts","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WnP4kKS2","en":"Fluffy Foliage","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jI171KLr","en":"Aether : Glow Ores","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"R0wMiyMN","en":"Deep Aether : Glow Ores","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Xa01fnps","en":"OR, Fat Cat Tags","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZUJjuvu1","en":"Everything Missing!","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"maQFLF1G","en":"Excalibur | Trade Cycling","zh_draft":"","zh_ai":"剑与贸易骑行","zh_human":"","zh":"剑与贸易骑行","status":"ai"}
+{"id":"3Q2iZOMq","en":"Excalibur | Nemo’s Inventory Sorting","zh_draft":"","zh_ai":"剑与内莫的物品排序","zh_human":"","zh":"剑与内莫的物品排序","status":"ai"}
+{"id":"kpTrcLeV","en":"Mizunos Waystones","zh_draft":"","zh_ai":"水野的传送石","zh_human":"","zh":"水野的传送石","status":"ai"}
+{"id":"HPBHiFO2","en":"Hollow GUI Appleskin support","zh_draft":"","zh_ai":"空洞 GUI 苹果皮肤支持","zh_human":"","zh":"空洞 GUI 苹果皮肤支持","status":"ai"}
+{"id":"POJZ3MOI","en":"Better blue netherite","zh_draft":"","zh_ai":"更好的蓝色下界合金","zh_human":"","zh":"更好的蓝色下界合金","status":"ai"}
+{"id":"TGYiLp58","en":"sus totems","zh_draft":"","zh_ai":"奇怪的图腾","zh_human":"","zh":"奇怪的图腾","status":"ai"}
+{"id":"4RmfPWyF","en":"OR, Better Guide Ranks","zh_draft":"","zh_ai":"或，更好的指南等级","zh_human":"","zh":"或，更好的指南等级","status":"ai"}
+{"id":"A89vxOsM","en":"Create Radars: Industrial Iron","zh_draft":"","zh_ai":"创造雷达：工业铁","zh_human":"","zh":"创造雷达：工业铁","status":"ai"}
+{"id":"b14l7uiv","en":"highlighted tnt minecarts","zh_draft":"","zh_ai":"高亮 TNT 矿车","zh_human":"","zh":"高亮 TNT 矿车","status":"ai"}
+{"id":"vf66MJUt","en":"Cherry PVP","zh_draft":"","zh_ai":"樱桃 PVP","zh_human":"","zh":"樱桃 PVP","status":"ai"}
+{"id":"2zeiZdXx","en":"fehykitop's Void Cross Totem","zh_draft":"","zh_ai":"费希基托普的虚空十字图腾","zh_human":"","zh":"费希基托普的虚空十字图腾","status":"ai"}
+{"id":"3kUAD0vO","en":"Ladybird Hotbar GUI","zh_draft":"","zh_ai":"瓢虫快捷栏 GUI","zh_human":"","zh":"瓢虫快捷栏 GUI","status":"ai"}
+{"id":"7gVlnAwu","en":"Green Items","zh_draft":"","zh_ai":"绿色物品","zh_human":"","zh":"绿色物品","status":"ai"}
+{"id":"S0UOG2hx","en":"Hard Core Hearts","zh_draft":"","zh_ai":"核心之心","zh_human":"","zh":"核心之心","status":"ai"}
+{"id":"WnP4kKS2","en":"Fluffy Foliage","zh_draft":"","zh_ai":"蓬松的叶","zh_human":"","zh":"蓬松的叶","status":"ai"}
+{"id":"jI171KLr","en":"Aether : Glow Ores","zh_draft":"","zh_ai":"以太：发光矿石","zh_human":"","zh":"以太：发光矿石","status":"ai"}
+{"id":"R0wMiyMN","en":"Deep Aether : Glow Ores","zh_draft":"","zh_ai":"深层以太：发光矿石","zh_human":"","zh":"深层以太：发光矿石","status":"ai"}
+{"id":"Xa01fnps","en":"OR, Fat Cat Tags","zh_draft":"","zh_ai":"或，肥胖的猫标签","zh_human":"","zh":"或，肥胖的猫标签","status":"ai"}
+{"id":"ZUJjuvu1","en":"Everything Missing!","zh_draft":"","zh_ai":"缺失一切！","zh_human":"","zh":"缺失一切！","status":"ai"}

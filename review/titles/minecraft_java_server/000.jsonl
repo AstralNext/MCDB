@@ -2737,30 +2737,30 @@
 {"id":"uWxYCsKp","en":"Wild West RP","zh_draft":"","zh_ai":"狂野西部角色扮演","zh_human":"","zh":"狂野西部角色扮演","status":"ai"}
 {"id":"GKIR0AHP","en":"MaKo SMP","zh_draft":"","zh_ai":"MaKo极限生存","zh_human":"","zh":"MaKo极限生存","status":"ai"}
 {"id":"s1toNX44","en":"Glare SMP","zh_draft":"","zh_ai":"Glare极限生存","zh_human":"","zh":"Glare极限生存","status":"ai"}
-{"id":"cyXlCJHV","en":"Kestramon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"df3jOMmR","en":"MTR France Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ijsx2CyE","en":"Rubikraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XEDKRgr8","en":"Atlas SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"oVw3ApmC","en":"Cobble Hydra","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1rugzOio","en":"BlzeMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3PIjyPK8","en":"3asimMC Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"67EIQ5vu","en":"ArcaneKits","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"69oF42eE","en":"Thronus RPG","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9urSK2L4","en":"SKLYARE","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FT1QvAGb","en":"MartialCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HCxT2pUD","en":"NiceGame","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HyFyQiTy","en":"大黑狗服务器-Big Dog Server","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"I7fKh5SP","en":"Anarkitties","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"J05PAtCk","en":"Vanilla Practice","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QgXcxtjo","en":"MimicSmp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SSCjFa0J","en":"Crispy Anarchy","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"V2xclZhP","en":"Sahur337","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VEM6Mx0q","en":"Seed MC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cHQdsZnk","en":"Blockparadies","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"e3KnhE36","en":"Shrimp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fd4nAbKY","en":"BarfiSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gd4s7YhM","en":"HeL.N.E. Server","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"h2eFLG1J","en":"VortexSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"myg3dbpb","en":"Querencia Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rhJNnrjR","en":"PvPHQ","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"toJqsmub","en":"EX_arlowe_smp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"cyXlCJHV","en":"Kestramon","zh_draft":"","zh_ai":"克斯特拉蒙","zh_human":"","zh":"克斯特拉蒙","status":"ai"}
+{"id":"df3jOMmR","en":"MTR France Network","zh_draft":"","zh_ai":"MTR法国网络","zh_human":"","zh":"MTR法国网络","status":"ai"}
+{"id":"ijsx2CyE","en":"Rubikraft","zh_draft":"","zh_ai":"鲁比克力场","zh_human":"","zh":"鲁比克力场","status":"ai"}
+{"id":"XEDKRgr8","en":"Atlas SMP","zh_draft":"","zh_ai":"亚特拉斯生存模式","zh_human":"","zh":"亚特拉斯生存模式","status":"ai"}
+{"id":"oVw3ApmC","en":"Cobble Hydra","zh_draft":"","zh_ai":"圆石海德拉","zh_human":"","zh":"圆石海德拉","status":"ai"}
+{"id":"1rugzOio","en":"BlzeMC","zh_draft":"","zh_ai":"BlzeMC","zh_human":"","zh":"BlzeMC","status":"ai"}
+{"id":"3PIjyPK8","en":"3asimMC Network","zh_draft":"","zh_ai":"3asimMC网络","zh_human":"","zh":"3asimMC网络","status":"ai"}
+{"id":"67EIQ5vu","en":"ArcaneKits","zh_draft":"","zh_ai":"神秘套装","zh_human":"","zh":"神秘套装","status":"ai"}
+{"id":"69oF42eE","en":"Thronus RPG","zh_draft":"","zh_ai":"王座RPG","zh_human":"","zh":"王座RPG","status":"ai"}
+{"id":"9urSK2L4","en":"SKLYARE","zh_draft":"","zh_ai":"SKLYARE","zh_human":"","zh":"SKLYARE","status":"ai"}
+{"id":"FT1QvAGb","en":"MartialCraft","zh_draft":"","zh_ai":"武艺工艺","zh_human":"","zh":"武艺工艺","status":"ai"}
+{"id":"HCxT2pUD","en":"NiceGame","zh_draft":"","zh_ai":"好游戏","zh_human":"","zh":"好游戏","status":"ai"}
+{"id":"HyFyQiTy","en":"大黑狗服务器-Big Dog Server","zh_draft":"","zh_ai":"大黑狗服务器","zh_human":"","zh":"大黑狗服务器","status":"ai"}
+{"id":"I7fKh5SP","en":"Anarkitties","zh_draft":"","zh_ai":"无政府主义者小精灵","zh_human":"","zh":"无政府主义者小精灵","status":"ai"}
+{"id":"J05PAtCk","en":"Vanilla Practice","zh_draft":"","zh_ai":"原味练习","zh_human":"","zh":"原味练习","status":"ai"}
+{"id":"QgXcxtjo","en":"MimicSmp","zh_draft":"","zh_ai":"模仿生存模式","zh_human":"","zh":"模仿生存模式","status":"ai"}
+{"id":"SSCjFa0J","en":"Crispy Anarchy","zh_draft":"","zh_ai":"酥脆无政府主义","zh_human":"","zh":"酥脆无政府主义","status":"ai"}
+{"id":"V2xclZhP","en":"Sahur337","zh_draft":"","zh_ai":"Sahur337","zh_human":"","zh":"Sahur337","status":"ai"}
+{"id":"VEM6Mx0q","en":"Seed MC","zh_draft":"","zh_ai":"种子MC","zh_human":"","zh":"种子MC","status":"ai"}
+{"id":"cHQdsZnk","en":"Blockparadies","zh_draft":"","zh_ai":"方块天堂","zh_human":"","zh":"方块天堂","status":"ai"}
+{"id":"e3KnhE36","en":"Shrimp","zh_draft":"","zh_ai":"虾","zh_human":"","zh":"虾","status":"ai"}
+{"id":"fd4nAbKY","en":"BarfiSMP","zh_draft":"","zh_ai":"Barfi生存模式","zh_human":"","zh":"Barfi生存模式","status":"ai"}
+{"id":"gd4s7YhM","en":"HeL.N.E. Server","zh_draft":"","zh_ai":"HeL.N.E.服务器","zh_human":"","zh":"HeL.N.E.服务器","status":"ai"}
+{"id":"h2eFLG1J","en":"VortexSMP","zh_draft":"","zh_ai":"漩涡生存模式","zh_human":"","zh":"漩涡生存模式","status":"ai"}
+{"id":"myg3dbpb","en":"Querencia Network","zh_draft":"","zh_ai":"归属网络","zh_human":"","zh":"归属网络","status":"ai"}
+{"id":"rhJNnrjR","en":"PvPHQ","zh_draft":"","zh_ai":"PvPHQ","zh_human":"","zh":"PvPHQ","status":"ai"}
+{"id":"toJqsmub","en":"EX_arlowe_smp","zh_draft":"","zh_ai":"EX_arlowe生存模式","zh_human":"","zh":"EX_arlowe生存模式","status":"ai"}
