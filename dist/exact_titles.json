@@ -286145,6 +286145,11 @@
       "zh": "【MTR3】东急1000系",
       "slug": "tokyu-1000"
     },
+    "c2ab4zIx": {
+      "en": "Domain Of Fade",
+      "zh": "消逝领域",
+      "slug": "md-unit-robots"
+    },
     "dFzvvKuk": {
       "en": "Tilted Sun & Moon",
       "zh": "倾斜的太阳和月亮",
@@ -575250,6 +575255,11 @@
       "zh": "危险硫磺刺",
       "slug": "dangerous-sulfur-spikes"
     },
+    "GW2wDt7l": {
+      "en": "Azi's Fem model",
+      "zh": "Azi女性模型",
+      "slug": "azis-fem-model"
+    },
     "GxZ1iFuy": {
       "en": "ChungusCraft",
       "zh": "巨怪工坊",
@@ -739505,6 +739515,11 @@
       "zh": "村民替代",
       "slug": "villageralt"
     },
+    "2kOtu21j": {
+      "en": "Fast hotbar",
+      "zh": "快速快捷栏",
+      "slug": "fasthotbar"
+    },
     "2qrEBhBk": {
       "en": "Unreal Announcer for Hypixel Skyblock",
       "zh": "虚幻解说员(Hypixel空岛)",
@@ -743904,6 +743919,11 @@
       "en": "Createful",
       "zh": "充满机械动力",
       "slug": "createful"
+    },
+    "6TxQw8SJ": {
+      "en": "Cactus Clicker Plus",
+      "zh": "仙人掌点击器+",
+      "slug": "cactus-clicker-plus"
     },
     "6fGN6rei": {
       "en": "[NCB]新世纪道路方块",
@@ -759334,6 +759354,11 @@
       "en": "The Blood Expansion",
       "zh": "血之扩展",
       "slug": "the_blood_expansion"
+    },
+    "VPX1zQWE": {
+      "en": "Spear Armor Trims",
+      "zh": "矛装甲装饰",
+      "slug": "ks-spear-trims"
     },
     "Vioehbuy": {
       "en": "Cloudy's Storage",
@@ -808410,6 +808435,11 @@
       "zh": "杰拉尔德嗅探者",
       "slug": "gerald-the-sniffer"
     },
+    "EhPGjTqD": {
+      "en": "Antarchy Delight",
+      "zh": "无政府乐事",
+      "slug": "antarchy-delight"
+    },
     "FZsBYJ8x": {
       "en": "GugaPlus",
       "zh": "古加增强",
@@ -817145,6 +817175,11 @@
       "zh": "药水护符",
       "slug": "potion-talisman"
     },
+    "jdQphBVF": {
+      "en": "Artisan Machines",
+      "zh": "工匠机械",
+      "slug": "artisan-machines"
+    },
     "jhmyCJe2": {
       "en": "Custom Recipes",
       "zh": "自定义配方",
@@ -821239,6 +821274,11 @@
       "en": "blackTotems",
       "zh": "黑色图腾",
       "slug": "blacktotems"
+    },
+    "53lD0jPF": {
+      "en": "FakeChestplate",
+      "zh": "假胸甲",
+      "slug": "fakechestplate"
     },
     "5iWxzCj8": {
       "en": "Vote Tracker",
@@ -829970,6 +830010,11 @@
       "zh": "一小条规则",
       "slug": "one-small-rule"
     },
+    "oVHwqj6m": {
+      "en": "Death Cinematics",
+      "zh": "死亡电影",
+      "slug": "death-cinematics"
+    },
     "p4FwqkKp": {
       "en": "Hostile GEN: Shattered Sky",
       "zh": "敌对生成：破碎天空",
@@ -830344,6 +830389,11 @@
       "en": "Mwxv's Blue",
       "zh": "Mwxv 的蓝色",
       "slug": "mwxvs-blue"
+    },
+    "6Hb3nOic": {
+      "en": "Immersive Loading",
+      "zh": "沉浸式加载",
+      "slug": "immersive-loading"
     },
     "6odyoA0A": {
       "en": "Modded Weaponry Slop",
@@ -831419,6 +831469,11 @@
       "en": "SimpleAFK+",
       "zh": "简易挂机+",
       "slug": "simpleafk-vizle"
+    },
+    "qP5s3jD7": {
+      "en": "3C: Cogs, Code & Contraptions",
+      "zh": "3C: 齿轮、代码与机械装置",
+      "slug": "3c-cogs-code-contraptions"
     },
     "qYu3vA2S": {
       "en": "Misc Mining",
@@ -835160,6 +835215,11 @@
       "zh": "简洁背包+",
       "slug": "clean-inv"
     },
+    "3XLW2WVB": {
+      "en": "Create: Industrial Revolution",
+      "zh": "Create：工业革命",
+      "slug": "cir"
+    },
     "3Zyn27rK": {
       "en": "Shield Down | Low Shield",
       "zh": "盾牌放下 | 低位盾牌",
@@ -836520,6 +836580,11 @@
       "zh": "领地循环",
       "slug": "claimcycle"
     },
+    "2LPnH1MP": {
+      "en": "RagePlaysGames Pollution Series Mods",
+      "zh": "RagePlaysGames 污染系列模组",
+      "slug": "rageplaysgames-pollution-series-mods"
+    },
     "2SsBlmFR": {
       "en": "VIncentWT Pyromancer Pack",
       "zh": "VIncentWT 火焰法师包",
@@ -836899,6 +836964,11 @@
       "en": "Anti-ArmorPack",
       "zh": "反装甲包",
       "slug": "anti-armorpack"
+    },
+    "M1UsDaV3": {
+      "en": "Subterranean delights",
+      "zh": "地下乐事",
+      "slug": "subterranean-delights"
     },
     "MEB9vQLj": {
       "en": "Better Early Loading",
@@ -837739,6 +837809,11 @@
       "en": "TwitchInteract",
       "zh": "Twitch交互",
       "slug": "twitchinteract"
+    },
+    "1e4sJDdB": {
+      "en": "Glitchcraft",
+      "zh": "故障工艺",
+      "slug": "glitchcraft-mod"
     },
     "2AEU6Hnk": {
       "en": "Mob Journal",
@@ -839725,6 +839800,11 @@
       "zh": "挖掘疲劳 III 修复",
       "slug": "miningfatigue3fix"
     },
+    "eq8FzI8I": {
+      "en": "Recruits - Null",
+      "zh": "招募-空",
+      "slug": "recruits-null"
+    },
     "es18Y59u": {
       "en": "ArkSpawn",
       "zh": "方舟生成",
@@ -840995,6 +841075,11 @@
       "zh": "核心生存模式",
       "slug": "coresmp-aimvortex"
     },
+    "hmuvxhTJ": {
+      "en": "Luminous Flashlights",
+      "zh": "发光手电筒",
+      "slug": "luminous-flashlights"
+    },
     "iU0vfZXe": {
       "en": "Chest sort",
       "zh": "箱子排序",
@@ -841639,6 +841724,11 @@
       "en": "NightCode - Spawn",
       "zh": "夜码 - 出生点",
       "slug": "nightcode-spawn"
+    },
+    "GQg35lI3": {
+      "en": "Player Blocks",
+      "zh": "玩家方块",
+      "slug": "player-blocks"
     },
     "GbF5N39G": {
       "en": "Harmless Creepers",
@@ -842605,6 +842695,11 @@
       "zh": "夺旗工具",
       "slug": "dwoks-capture-the-flag-utilites"
     },
+    "5m3Sbpzx": {
+      "en": "Oreganized Gothic",
+      "zh": "奥古斯丁哥特",
+      "slug": "oreganized-gothic"
+    },
     "5pSzB3LC": {
       "en": "Mainstay Base Modopack",
       "zh": "支柱基础模组包",
@@ -842794,6 +842889,11 @@
       "en": "Utubysdog101 Create Aeronautics",
       "zh": "乌图比斯多格101机械动力航空",
       "slug": "utubysdog101-create-aeronautics"
+    },
+    "FP06GTKF": {
+      "en": "Oreganized Core",
+      "zh": "奥古斯丁核心",
+      "slug": "oreganized-core"
     },
     "FeFcJd7o": {
       "en": "Living Lights",
@@ -844200,6 +844300,11 @@
       "zh": "steve58936的咒语",
       "slug": "steve58936s-spells"
     },
+    "TIwmn59c": {
+      "en": "TGZJDV'S Chat",
+      "zh": "TGZJDV聊天",
+      "slug": "tgzjdvs-chat"
+    },
     "U5ekRaeM": {
       "en": "CozyHub",
       "zh": "舒适中心",
@@ -844219,6 +844324,11 @@
       "en": "Hexcassetes (Ported)",
       "zh": "六边形磁带",
       "slug": "hexcassetes-ported"
+    },
+    "UnvPGmjo": {
+      "en": "Oreganized Plumbum",
+      "zh": "奥古斯丁铅",
+      "slug": "oreganized-plumbum"
     },
     "VCWTtMDC": {
       "en": "AfkShop",
@@ -844459,6 +844569,11 @@
       "en": "minesweeper",
       "zh": "扫雷",
       "slug": "minesweeper-josebetan2"
+    },
+    "jWXsGu3Q": {
+      "en": "One Night To Die",
+      "zh": "一夜死亡",
+      "slug": "one-night-to-die"
     },
     "jm0GDdao": {
       "en": "Miqimc-Time Announcement",
@@ -845175,6 +845290,11 @@
       "zh": "EMI-AE2UI",
       "slug": "emi-ae2ui"
     },
+    "KBMdjFFj": {
+      "en": "Assembly Line S3",
+      "zh": "装配线S3",
+      "slug": "alm3"
+    },
     "KVvFsSBy": {
       "en": "RewardSign",
       "zh": "奖励标志",
@@ -845374,6 +845494,11 @@
       "en": "TrueFalseQuiz",
       "zh": "真伪问答",
       "slug": "truefalsequiz"
+    },
+    "TPFH0HXP": {
+      "en": "Simply Cinematics",
+      "zh": "简单电影",
+      "slug": "simply-cinematics"
     },
     "UP3HkxFT": {
       "en": "IME",
@@ -845775,6 +845900,11 @@
       "zh": "Mcast - 命令转储",
       "slug": "mcast-commanddump"
     },
+    "s7I1Vl5J": {
+      "en": "Oreganized Glance",
+      "zh": "奥古斯丁瞥见",
+      "slug": "oreganized-glance"
+    },
     "sERYGGBQ": {
       "en": "SGA Font",
       "zh": "SGA字体",
@@ -845859,6 +845989,11 @@
       "en": "Aeropunk",
       "zh": "飞艇朋克",
       "slug": "aeropunk-cnw"
+    },
+    "woxZ3S7l": {
+      "en": "clary hud",
+      "zh": "清晰HUD",
+      "slug": "clary-hud"
     },
     "xD0mztQm": {
       "en": "SIDE B Discs",
@@ -846150,6 +846285,11 @@
       "zh": "困难骷髅削弱",
       "slug": "hardskeletonnerf"
     },
+    "GhOLg0rf": {
+      "en": "Easy Item Positions",
+      "zh": "物品位置简易",
+      "slug": "easy-item-positions"
+    },
     "GsIpoe3F": {
       "en": "BuilderMode",
       "zh": "建造模式",
@@ -846430,6 +846570,11 @@
       "zh": "陶艺工作室 x 可视化工作台兼容 (陶艺台修复)",
       "slug": "clayworkscompat"
     },
+    "YvQaVVe4": {
+      "en": "Oreganized Argentum",
+      "zh": "奥古斯丁银",
+      "slug": "oreganized-argentum"
+    },
     "ZGQ2GrPp": {
       "en": "BetaAchievement",
       "zh": "Beta成就",
@@ -846614,6 +846759,11 @@
       "en": "RANDUMBOX Item Texturepack",
       "zh": "RANDUMBOX物品纹理包",
       "slug": "rbox-items"
+    },
+    "lN6JdmKT": {
+      "en": "Jukebox Playlists",
+      "zh": "点唱机播放列表",
+      "slug": "jukebox-playlists"
     },
     "lNYg1CXq": {
       "en": "Nether Wart to Beetroot",
@@ -846910,6 +847060,11 @@
       "zh": "涂鸦标题",
       "slug": "doodle-title"
     },
+    "55F2Vsnh": {
+      "en": "WoodCutter",
+      "zh": "伐木工",
+      "slug": "woodcutter-christian34"
+    },
     "5EcbJt9s": {
       "en": "Totem of Archivepedro",
       "zh": "Archivepedro图腾",
@@ -847169,6 +847324,11 @@
       "en": "Better Totem",
       "zh": "更好的图腾",
       "slug": "better-totem-mebixgit"
+    },
+    "NWxwBn6i": {
+      "en": "Oreganized Antiques",
+      "zh": "奥古斯丁古董",
+      "slug": "oreganized-antiques"
     },
     "NavLWk2x": {
       "en": "HUGE BREAD",
@@ -847695,6 +847855,11 @@
       "zh": "保险库同步",
       "slug": "vaultsync"
     },
+    "3D8bv8ym": {
+      "en": "Relicforged",
+      "zh": "遗物锻造",
+      "slug": "relicforged"
+    },
     "4VFOmWQu": {
       "en": "Pedestal_Engine_Texture_pack",
       "zh": "基座引擎材质包",
@@ -847809,6 +847974,11 @@
       "en": "HexaChatGame",
       "zh": "Hexa聊天游戏",
       "slug": "hexachatgame"
+    },
+    "9lXzQqgE": {
+      "en": "Oreganized Electrum",
+      "zh": "奥古斯丁琥珀",
+      "slug": "oreganized-electrum"
     },
     "AACuV5kz": {
       "en": "EndBoss",
@@ -847995,10 +848165,20 @@
       "zh": "sus菜单",
       "slug": "susmenu"
     },
+    "MYj0N4Kc": {
+      "en": "tie's horror",
+      "zh": "tie的恐怖",
+      "slug": "ties-horror"
+    },
     "MpXcSth1": {
       "en": "CompanionPets",
       "zh": "伙伴宠物",
       "slug": "companionpets"
+    },
+    "NBQsp3iF": {
+      "en": "100 Days In A Wasteland Minecraft Hardcore",
+      "zh": "废土100天生存模式",
+      "slug": "100-days-winter-survival-hardcore"
     },
     "NIkyoPuD": {
       "en": "New Moon And Sun",
@@ -848024,6 +848204,11 @@
       "en": "HealthSteal",
       "zh": "偷取生命值",
       "slug": "healthsteal"
+    },
+    "QUEV1D1H": {
+      "en": "SimpleDifficulty Reforged",
+      "zh": "简易难度重铸",
+      "slug": "simpledifficulty-reforged"
     },
     "QafYNVz9": {
       "en": "Lava Recipes",
@@ -848080,6 +848265,11 @@
       "zh": "樱花Z RTP",
       "slug": "sakuraz-rtp"
     },
+    "XKYjzuD5": {
+      "en": "True Seed Randomizer",
+      "zh": "真实种子随机器",
+      "slug": "true-seed-randomizer"
+    },
     "XOZEQEIv": {
       "en": "OrbitalStrike",
       "zh": "轨道打击",
@@ -848109,6 +848299,11 @@
       "en": "ParadoxMC RTP",
       "zh": "悖论MC RTP",
       "slug": "paradoxmc-rtp"
+    },
+    "bD7E5IR1": {
+      "en": "Enhanced Combat",
+      "zh": "增强战斗",
+      "slug": "enhancedcombat"
     },
     "bU2W7f7U": {
       "en": "Brittle Ice Crack Phase",
@@ -848330,6 +848525,11 @@
       "zh": "双性恋骄傲旗帜提示（仅框架 5色替代背景）",
       "slug": "tooltip_bigender.5clr-frame-altbg"
     },
+    "mxUlPuxr": {
+      "en": "Cloudish's Vanilla Plus",
+      "zh": "Cloudish的纯净版+",
+      "slug": "cloudishs-vanilla-plus"
+    },
     "nlSSrbLG": {
       "en": "Anvil to Whetstone",
       "zh": "铁砧到磨刀石",
@@ -848470,6 +848670,11 @@
       "zh": "蓝色PVP纹理包",
       "slug": "bluepvptexturepack"
     },
+    "zQLjiwYf": {
+      "en": "Vista Dialogs",
+      "zh": "视窗对话框",
+      "slug": "vistadialogs"
+    },
     "zjDSYEJq": {
       "en": "Smecubiki",
       "zh": "斯梅库比奇",
@@ -848529,6 +848734,11 @@
       "en": "Ancient Debris to Netherite Ore + Borders",
       "zh": "远古残骸变下界合金矿石+边框",
       "slug": "ancient-debris-to-netherite-ore-borders"
+    },
+    "7seOdwh5": {
+      "en": "Midnight Economy",
+      "zh": "午夜经济",
+      "slug": "midnight-economy"
     },
     "83AQtzin": {
       "en": "ChrousTpa",
@@ -848810,6 +849020,11 @@
       "zh": "你喜欢鲨鱼吗？UWU",
       "slug": "do-you-like-sharks-uwu"
     },
+    "S1fgmfCl": {
+      "en": "Ice Slabs",
+      "zh": "冰板",
+      "slug": "ice-slabs"
+    },
     "SAir0UC5": {
       "en": "Cutscene Studio",
       "zh": "剪辑场景工作室",
@@ -849080,6 +849295,11 @@
       "zh": "提升",
       "slug": "elevate-invv"
     },
+    "sX34VODz": {
+      "en": "Experimental Weapons",
+      "zh": "实验武器",
+      "slug": "experimental-weapons"
+    },
     "sepXwPTO": {
       "en": "Sable Wizard",
       "zh": "乌木巫师",
@@ -849100,10 +849320,20 @@
       "zh": "翻新",
       "slug": "refurbished-frenderman"
     },
+    "u4Vtajtq": {
+      "en": "Timeless Echoes",
+      "zh": "永恒回音",
+      "slug": "timeless-echoes"
+    },
     "uQoOL5ar": {
       "en": "Teleporter",
       "zh": "传送门",
       "slug": "teleporter-mootcomb"
+    },
+    "uzpccj5w": {
+      "en": "2 fps",
+      "zh": "2fps",
+      "slug": "2fps"
     },
     "vDAKauNT": {
       "en": "Nemo's Campfires Ashen Compat",
@@ -849154,6 +849384,11 @@
       "en": "Reclaim Your Axes! (for Hypixel Skyblock)",
       "zh": "夺回你的斧头！ (Hypixel空岛)",
       "slug": "reclaim-your-axes"
+    },
+    "12rlqCdW": {
+      "en": "Applied Flow",
+      "zh": "应用流",
+      "slug": "applied-flow"
     },
     "1DzV3BDi": {
       "en": "Globetrotter - Enchanted Book (Map Stitch)",
@@ -849220,15 +849455,30 @@
       "zh": "永恒生存服",
       "slug": "eternasmp"
     },
+    "5zTlyJuI": {
+      "en": "Red Velvet",
+      "zh": "红丝绒",
+      "slug": "redvelvet"
+    },
     "6PDnCJwV": {
       "en": "GoSMP",
       "zh": "GoSMP",
       "slug": "gosmp"
     },
+    "6cbN2RuI": {
+      "en": "Max's Client Side Pack",
+      "zh": "Max客户端包",
+      "slug": "maxs-client-side-pack"
+    },
     "6d8pp2gI": {
       "en": "Better Ping Display Legacy",
       "zh": "更好的ping显示遗产",
       "slug": "better-ping-display-legacy"
+    },
+    "75GhefI8": {
+      "en": "Simple Manhunt",
+      "zh": "简单追捕",
+      "slug": "simplemanhunt"
     },
     "7pWHx09o": {
       "en": "Speaki's Staff",
@@ -849285,6 +849535,11 @@
       "zh": "CR-幸存者军火库 俄语版",
       "slug": "cr-survivors-arsenal"
     },
+    "AfiEpmLC": {
+      "en": "Optimotion",
+      "zh": "Optimotion",
+      "slug": "ohonkide-okoraseta-optimizing-attempt"
+    },
     "AnBZ3Qpd": {
       "en": "LightClearLag",
       "zh": "轻量级去抖动",
@@ -849304,6 +849559,11 @@
       "en": "Kromize",
       "zh": "Kromize",
       "slug": "kromize"
+    },
+    "CBguLN3t": {
+      "en": "Nothing to Worry About",
+      "zh": "无需担忧",
+      "slug": "nothing-to-worry-about"
     },
     "Cg2fO3DH": {
       "en": "ZagaMonitor",
@@ -849364,6 +849624,11 @@
       "en": "RaycastedAntiESP-Bridge",
       "zh": "射线投射反ESP-桥接器",
       "slug": "raycastedantiesp-bridge"
+    },
+    "GiuqKIpM": {
+      "en": "uncraftable food recipe UFR",
+      "zh": "不可合成食物配方 UFR",
+      "slug": "uncraftable-food-recipe-ufr"
     },
     "Gnn9yzIs": {
       "en": "CostlyTP",
@@ -849494,6 +849759,11 @@
       "en": "TVV Tweaks",
       "zh": "TVV 修改",
       "slug": "tvvtweaks"
+    },
+    "QYHZcaIZ": {
+      "en": "Oreganized Armament",
+      "zh": "有组织的装备",
+      "slug": "oreganized-armament"
     },
     "RWzZ2oQQ": {
       "en": "WCS NTM SMP",
@@ -849745,6 +850015,11 @@
       "zh": "紫色巫师快捷栏",
       "slug": "purple-wizard-hotbar"
     },
+    "hr5F7nUz": {
+      "en": "Trailbound",
+      "zh": "荒野之旅",
+      "slug": "trailbound-tudustech"
+    },
     "kEut8vOE": {
       "en": "Brick Craft Completion",
       "zh": "砖块工艺完成",
@@ -849754,6 +850029,11 @@
       "en": "Smaller Crosshair",
       "zh": "更小的准星",
       "slug": "edens-smaller-crosshair"
+    },
+    "kVF08IVP": {
+      "en": "NexRules",
+      "zh": "Nex 规则",
+      "slug": "nexrules"
     },
     "khYteYqV": {
       "en": "PrismUndo",
@@ -849774,6 +850054,11 @@
       "en": "Admin logs",
       "zh": "管理员日志",
       "slug": "admin-logs"
+    },
+    "lfgf8bgg": {
+      "en": "RevoltMC Cobblemon",
+      "zh": "石兽",
+      "slug": "revolt-cobblemon"
     },
     "m4YGk3I5": {
       "en": "CustomArcheology",
@@ -849895,6 +850180,11 @@
       "zh": "玩家管理器",
       "slug": "player-manager-seraphio7"
     },
+    "wfzNXVFS": {
+      "en": "AccurateManhunt",
+      "zh": "精确追捕",
+      "slug": "accuratemanhunt"
+    },
     "xQCQrq2P": {
       "en": "EKontrol",
       "zh": "EKontrol",
@@ -849909,6 +850199,11 @@
       "en": "PrismSpawn",
       "zh": "棱镜生成器",
       "slug": "prismlobby"
+    },
+    "ybDJw4mu": {
+      "en": "Tepox Trade Cycler",
+      "zh": "Tepox 贸易循环器",
+      "slug": "tepox-trade-cycler"
     },
     "yeXTskFs": {
       "en": "Food Recycled",
@@ -850185,6 +850480,11 @@
       "zh": "心赏金",
       "slug": "heartbounty"
     },
+    "MsaGXsGr": {
+      "en": "Aware",
+      "zh": "警觉",
+      "slug": "aware"
+    },
     "Nd1q8pZN": {
       "en": "Fruit Fly Plays Mc",
       "zh": "果蝇玩Minecraft",
@@ -850270,10 +850570,20 @@
       "zh": "提奥斯生存服重现",
       "slug": "theos-smp-recreation"
     },
+    "VUxgaSou": {
+      "en": "MineTAS (Modpack)",
+      "zh": "矿工时间加速器（模组包）",
+      "slug": "minetas-modpack"
+    },
     "WAycmog4": {
       "en": "Simply Better (Series)",
       "zh": "简单优化系列",
       "slug": "simply-better-series"
+    },
+    "WGo5JYkA": {
+      "en": "Midas Touch",
+      "zh": "点金术",
+      "slug": "midastouch"
     },
     "WZumHWdr": {
       "en": "Real End Bricks",
@@ -850660,6 +850970,11 @@
       "zh": "上下文运行",
       "slug": "contextrun"
     },
+    "zD7cTZAe": {
+      "en": "Tepox Cosmetic Armor",
+      "zh": "Tepox 造型装甲",
+      "slug": "tepox-cosmetic-armor"
+    },
     "zHaqZPLJ": {
       "en": "Catfish's Tweaks",
       "zh": "猫鱼调整",
@@ -850895,6 +851210,11 @@
       "zh": "武器特性",
       "slug": "weapontraits"
     },
+    "KEIdyL8q": {
+      "en": "Corruption",
+      "zh": "腐败",
+      "slug": "corruption-cooldude1259"
+    },
     "KVbLT3zC": {
       "en": "MC Dungeons II Echo Shard Retexture",
       "zh": "我的世界地下城II回声碎片重纹理",
@@ -850954,6 +851274,11 @@
       "en": "Cobblemon Ascent",
       "zh": "石兽上升",
       "slug": "cobblemon-ascent"
+    },
+    "P6qZ4P7I": {
+      "en": "Dirt++",
+      "zh": "泥土++",
+      "slug": "dirt-romeonicusorcaraman"
     },
     "PA0fvFKJ": {
       "en": "NexShop",
@@ -851030,6 +851355,11 @@
       "zh": "基岩升降机",
       "slug": "bedrockriser"
     },
+    "Sk2gmNAL": {
+      "en": "OrbitalStrikeCannons Plugin",
+      "zh": "轨道打击炮插件",
+      "slug": "orbitalstrikecannons-plugin"
+    },
     "SqVaLYW5": {
       "en": "SimpleCombat",
       "zh": "简单战斗",
@@ -851100,6 +851430,11 @@
       "zh": "绿木模组",
       "slug": "greenwood-mods"
     },
+    "YnM9uHR8": {
+      "en": "Insufferable Remarks",
+      "zh": "无法忍受的评论",
+      "slug": "insufferable-remarks"
+    },
     "YpuNcb7m": {
       "en": "Horror Colonies",
       "zh": "恐怖殖民地",
@@ -851109,6 +851444,11 @@
       "en": "Easy Stone Brick Recipes",
       "zh": "简易石砖配方",
       "slug": "easy-stone-brick-recipes"
+    },
+    "ZpGS8jJM": {
+      "en": "Tepox Dehydrator Gun",
+      "zh": "Tepox 脱水枪",
+      "slug": "tepox-dehydrator-gun"
     },
     "aMpOqQmU": {
       "en": "Skylease",
@@ -851190,6 +851530,11 @@
       "zh": "涡轮信任重生",
       "slug": "turbotrust-reborn"
     },
+    "eoDdTh3G": {
+      "en": "Auto block crafter mod",
+      "zh": "自动方块工匠模组",
+      "slug": "auto-block-crafter-mod"
+    },
     "f1L7gbSF": {
       "en": "Dystopic Client",
       "zh": "反乌托邦客户端",
@@ -851234,6 +851579,11 @@
       "en": "ArchiveGuard",
       "zh": "存档守护者",
       "slug": "archiveguard"
+    },
+    "hbrhNLH9": {
+      "en": "MineSociety",
+      "zh": "矿社",
+      "slug": "minesociety"
     },
     "hfWQK1aT": {
       "en": "DragonMine Z - Venus Universe",
@@ -851284,6 +851634,11 @@
       "en": "Deep in Autumn",
       "zh": "深秋",
       "slug": "diaja"
+    },
+    "m0IlX2Co": {
+      "en": "Redstone loot",
+      "zh": "红石战利品",
+      "slug": "redstone-loot"
     },
     "m9lHbQ6N": {
       "en": "Simple craft potion arrows",
@@ -851375,6 +851730,11 @@
       "zh": "像一朵白樱花",
       "slug": "like-a-whte-cherry"
     },
+    "vpG3vQmf": {
+      "en": "Purgatory Redux",
+      "zh": "炼狱重制版",
+      "slug": "purgatory-redux"
+    },
     "wAYlyHES": {
       "en": "AutoLoader",
       "zh": "自动加载器",
@@ -851415,10 +851775,20 @@
       "zh": "抗盲除器",
       "slug": "anti-blindness-remover"
     },
+    "y6iFvX78": {
+      "en": "Tungsten",
+      "zh": "钨",
+      "slug": "tungsten-rival8347u"
+    },
     "yVzCCCfj": {
       "en": "Stashify",
       "zh": "储藏",
       "slug": "stashify"
+    },
+    "yiznaL3M": {
+      "en": "StRestart",
+      "zh": "重启",
+      "slug": "strestart-danilix20"
     },
     "z12ovTCh": {
       "en": "SocketedStandardExpansion",
@@ -851454,6 +851824,16 @@
       "en": "ZonifiedBeta",
       "zh": "区域化测试版",
       "slug": "zonifiedbeta"
+    },
+    "2dbI6H6g": {
+      "en": "Totem Pack",
+      "zh": "图腾包",
+      "slug": "totem-pack-realvictoryfire"
+    },
+    "2j5mH82c": {
+      "en": "Zillemattically Optimized",
+      "zh": "Zillemattically 优化",
+      "slug": "zillemattically-optimized"
     },
     "3w704QPY": {
       "en": "Dynamic Seasons Survival",
@@ -851550,6 +851930,11 @@
       "zh": "瓦尼亚包",
       "slug": "vanya-pack-ivan24mill"
     },
+    "D5jFutMw": {
+      "en": "Naturalist Patched",
+      "zh": "自然主义者补丁",
+      "slug": "naturalist-patched"
+    },
     "DVDxssUp": {
       "en": "No Copper Sounds",
       "zh": "无铜块音效",
@@ -851610,10 +851995,20 @@
       "zh": "圆石月",
       "slug": "cobblemoon"
     },
+    "Ma2egZJ7": {
+      "en": "Crystal PvP Perfect Modpack (CPVP)",
+      "zh": "水晶PvP完美模组包（CPVP）",
+      "slug": "crystal-pvp-perfect-modpack-cpvp"
+    },
     "MajYkHku": {
       "en": "Rotating Turquiose Crosshair",
       "zh": "旋转绿松石准星",
       "slug": "rotating-turquiose-crosshair"
+    },
+    "Ndv6OsgW": {
+      "en": "The Ducks Mods",
+      "zh": "鸭子模组",
+      "slug": "the-ducks-mods-hailstorm"
     },
     "NvFIJv3M": {
       "en": "Rails to Ropes",
@@ -851629,6 +852024,11 @@
       "en": "Chat Radius",
       "zh": "聊天半径",
       "slug": "chat-radius"
+    },
+    "P9s39YZA": {
+      "en": "Coin's Minecraft Complete [Alpha]",
+      "zh": "Coin的Minecraft完整版[Alpha]",
+      "slug": "coins-excellent-minecraft-alpha"
     },
     "PBvxqLZ6": {
       "en": "QuickRTP",
@@ -851665,6 +852065,11 @@
       "zh": "RtpX",
       "slug": "rtpx-scappidoo"
     },
+    "SSoUcjXf": {
+      "en": "Flowstate Origins",
+      "zh": "流态起源",
+      "slug": "flowstate-origins"
+    },
     "SU115muw": {
       "en": "DiscordMenu",
       "zh": "Discord菜单",
@@ -851674,6 +852079,11 @@
       "en": "AutoOrganize",
       "zh": "自动整理",
       "slug": "autoorganize"
+    },
+    "Sk8mOvhM": {
+      "en": "Legacy Mouse Tweaks Ornithe",
+      "zh": "遗产鼠标调整 Ornithe",
+      "slug": "legacy-mouse-tweaks-ornithe"
     },
     "TtkiW3H8": {
       "en": "SoftTouch",
@@ -851729,6 +852139,11 @@
       "en": "Re-Railed Create",
       "zh": "机械动力：重轨",
       "slug": "re-railed-create"
+    },
+    "XdWOkq2H": {
+      "en": "UMC Enhanced",
+      "zh": "UMC增强版",
+      "slug": "umc-enhanced"
     },
     "Y8Jnv3iI": {
       "en": "SlowSurvival",
@@ -851850,6 +852265,11 @@
       "zh": "禅宗工艺V2",
       "slug": "zencraftv2"
     },
+    "ixjLmBnB": {
+      "en": "Dopey Craft [FABRIC]",
+      "zh": "Dopey Craft [FABRIC]",
+      "slug": "dopey-craft-fabric"
+    },
     "jBkaFib0": {
       "en": "iSRewards",
       "zh": "iS奖励",
@@ -851935,6 +852355,16 @@
       "zh": "加入流程",
       "slug": "joinflow"
     },
+    "q7aN8M6a": {
+      "en": "Practical Performance",
+      "zh": "实用性能",
+      "slug": "practical-performance"
+    },
+    "riym9KGa": {
+      "en": "AutoMute",
+      "zh": "自动静音",
+      "slug": "automute"
+    },
     "sT4Tyzdf": {
       "en": "MortikLibrary",
       "zh": "莫蒂克库",
@@ -851944,6 +852374,11 @@
       "en": "BoCraft",
       "zh": "BoCraft",
       "slug": "bocraft"
+    },
+    "sohxX1Ck": {
+      "en": "FoxxBoyy's Road Mod",
+      "zh": "FoxxBoyy 的道路模组",
+      "slug": "foxxboyys-road-mod"
     },
     "tGsuRAcd": {
       "en": "Revert New Jukebox",
@@ -851959,6 +852394,11 @@
       "en": "Wild West RP",
       "zh": "狂野西部角色扮演",
       "slug": "wild-west-rp"
+    },
+    "v9X0K0ub": {
+      "en": "Beta modpack",
+      "zh": "测试版模组包",
+      "slug": "beta-1.8"
     },
     "vJGK6DCm": {
       "en": "levelplugin",
@@ -851984,6 +852424,11 @@
       "en": "Elemental Paintings in Survival",
       "zh": "生存中的元素画作",
       "slug": "elemental-paintings-in-survival"
+    },
+    "yDmGzdkh": {
+      "en": "FloodPass",
+      "zh": "洪水通行证",
+      "slug": "floodpass"
     },
     "1W7UAtqx": {
       "en": "Easier Glass",
@@ -852025,6 +852470,11 @@
       "zh": "下界测试石",
       "slug": "netheritestone-jusefer"
     },
+    "6TgktVXx": {
+      "en": "Bloom Auto Pickup",
+      "zh": "花朵自动拾取",
+      "slug": "bloomautopickup"
+    },
     "6sReD8gu": {
       "en": "HiveNest",
       "zh": "蜂巢",
@@ -852060,6 +852510,16 @@
       "zh": "KubeJS 胸甲物品",
       "slug": "kubejs-chest-item"
     },
+    "9Vz05PBj": {
+      "en": "Fall",
+      "zh": "坠落",
+      "slug": "fall"
+    },
+    "AUMYw5F6": {
+      "en": "DH Quality of Life Server Modpack",
+      "zh": "DH生活品质服务器模组包",
+      "slug": "dh-quality-of-life-server-modpack"
+    },
     "BFfhdQgh": {
       "en": "Dark Rubyglass",
       "zh": "暗红宝石玻璃",
@@ -852084,6 +852544,16 @@
       "en": "Absolute Silence disc for Murder Drones: Origins",
       "zh": "绝对寂静唱片：起源的谋杀无人机",
       "slug": "absolute-silence"
+    },
+    "DRkxMYpo": {
+      "en": "Hotbar Lock Mod (HLM)",
+      "zh": "热栏锁定模组 (HLM)",
+      "slug": "hlm-reeksie"
+    },
+    "FnBvuOp3": {
+      "en": "Grow A Block",
+      "zh": "生长一个方块",
+      "slug": "grow-a-block"
     },
     "GMujPFhS": {
       "en": "ChorusEnderchest",
@@ -852180,6 +852650,11 @@
       "zh": "拉丁化吉尔吉斯语",
       "slug": "latinized-kyrgyz"
     },
+    "SzJFSBHA": {
+      "en": "Begone!",
+      "zh": "滚开！",
+      "slug": "begone-boymcboytheboy"
+    },
     "TDxtFvnm": {
       "en": "OpenRail",
       "zh": "开放铁路",
@@ -852189,6 +852664,11 @@
       "en": "Swap Trade",
       "zh": "交换交易",
       "slug": "swap-trade"
+    },
+    "WTk7NmEk": {
+      "en": "No Shield Delay",
+      "zh": "无盾牌延迟",
+      "slug": "nsd"
     },
     "X1NSkjlV": {
       "en": "LENTREPOTE",
@@ -852239,6 +852719,16 @@
       "en": "VR Craft Resource Pack",
       "zh": "VR Craft 资源包",
       "slug": "vr-craft-resource-pack"
+    },
+    "bcW8Cr4w": {
+      "en": "kill button",
+      "zh": "杀戮按钮",
+      "slug": "kill-button"
+    },
+    "cbvoSHV8": {
+      "en": "Beyond Vanilla",
+      "zh": "超越原版",
+      "slug": "beyond-vanilla-blazedis"
     },
     "cnIQlU8q": {
       "en": "Brassworks: Lumin's Reimagined",
@@ -852350,6 +852840,21 @@
       "zh": "nitnys小盾牌",
       "slug": "nitnys-smaller-shield"
     },
+    "oa6Hn07f": {
+      "en": "Monocraft Font",
+      "zh": "Monocraft 字体",
+      "slug": "monocraft-font"
+    },
+    "ofblawOZ": {
+      "en": "SF's BetterMining",
+      "zh": "SF 的更好采矿",
+      "slug": "sfs-bettermining"
+    },
+    "pP3KL27A": {
+      "en": "Elytra 2 Swimming",
+      "zh": "鞘翅 2 游泳",
+      "slug": "elytra-2-swimming"
+    },
     "qTE7Jy0L": {
       "en": "ChorusRTP",
       "zh": "紫影随机传送",
@@ -852400,6 +852905,11 @@
       "zh": "红石事件",
       "slug": "redstoneevents"
     },
+    "xaeMi2ua": {
+      "en": "Create: Better Automation",
+      "zh": "Create：更好的自动化",
+      "slug": "create-better-automation"
+    },
     "yEFjPkLA": {
       "en": "Ivy Bay",
       "zh": "常春藤湾",
@@ -852425,6 +852935,11 @@
       "zh": "石头到钻石矿石配方",
       "slug": "stone-to-diamond-ore-recipe"
     },
+    "4o34owYd": {
+      "en": "Gribley's Cinematic Experience",
+      "zh": "Gribley的影院体验",
+      "slug": "gribleys-cinematic-experience"
+    },
     "4wqhWrLX": {
       "en": "PreCreate",
       "zh": "预创建",
@@ -852439,6 +852954,16 @@
       "en": "Via Romana Ashen Compat",
       "zh": "罗马之路灰烬兼容",
       "slug": "via-romana-ashen-compat"
+    },
+    "7cmtn2es": {
+      "en": "Jabe's Structure Forge",
+      "zh": "Jabe 的结构锻造",
+      "slug": "jabes-structure-forge"
+    },
+    "8UzbWqGj": {
+      "en": "Satchels 1.12.2 port",
+      "zh": "背包 1.12.2 版本",
+      "slug": "satchels-1.12.2-port"
     },
     "9y1d8PVq": {
       "en": "[Creative]Staxhes (Xinghe)",
@@ -852480,6 +853005,11 @@
       "zh": "更好的保加利亚语翻译",
       "slug": "better-bulgarian-translations"
     },
+    "HslztKhY": {
+      "en": "Wonderland.jar Enhanced",
+      "zh": "Wonderland.jar增强版",
+      "slug": "wonderland.jar-enhanced"
+    },
     "I7DuaaVt": {
       "en": "JP_HD FLAME",
       "zh": "JP高清火焰",
@@ -852510,6 +853040,16 @@
       "zh": "文明联盟",
       "slug": "civallianceplugin"
     },
+    "O25fK9hZ": {
+      "en": "The Forge",
+      "zh": "锻造台",
+      "slug": "forge-zbear"
+    },
+    "O8VcFTdX": {
+      "en": "AfkZonePlugin",
+      "zh": "自动挂机插件",
+      "slug": "afkzoneplugin-klash_8765"
+    },
     "PtoPehuG": {
       "en": "CleverFox",
       "zh": "聪明狐狸",
@@ -852519,6 +853059,11 @@
       "en": "loes01's vanilla plus",
       "zh": "loes01的vanilla plus",
       "slug": "loes01s-vanilla-plus"
+    },
+    "QK1s1qYg": {
+      "en": "SF's SoulBound",
+      "zh": "灵魂绑定",
+      "slug": "sfs-soulbound"
     },
     "QwqUu1lY": {
       "en": "Retextured Unflavoured Pipes",
@@ -852575,6 +853120,11 @@
       "zh": "自定义标签",
       "slug": "customnametag"
     },
+    "Yg413t5L": {
+      "en": "Xion Restaurant",
+      "zh": "辛餐厅",
+      "slug": "xion-restaurant"
+    },
     "ZSoVgluD": {
       "en": "Better Sulfur Cube",
       "zh": "更好的硫方块",
@@ -852590,6 +853140,11 @@
       "zh": "无杂乱必需品",
       "slug": "uncluttered-essential"
     },
+    "b7TbpOUM": {
+      "en": "Offroad: CopycaatWheels",
+      "zh": "越野车：仿制轮子",
+      "slug": "offroad-copycaatwheels"
+    },
     "bPiX37tK": {
       "en": "Grass & Moss Flowers (Yellow)",
       "zh": "草与苔藓花（黄）",
@@ -852604,6 +853159,11 @@
       "en": "ShadowStaff",
       "zh": "阴影法杖",
       "slug": "shadowstaff"
+    },
+    "eOdll2CD": {
+      "en": "Vanilla +",
+      "zh": "原版+",
+      "slug": "vanilla-plus-magicat8bill"
     },
     "fLPRWZTi": {
       "en": "RP Dazzle Craft",
@@ -852660,6 +853220,11 @@
       "zh": "简易剑 - 觉醒修正",
       "slug": "simply-swords-awakening-fix"
     },
+    "oRCffznX": {
+      "en": "MachineSMP - Official Modpack",
+      "zh": "MachineSMP - 官方模组包",
+      "slug": "machinesmp-official-modpack"
+    },
     "rV9rNN6w": {
       "en": "Modern Coral Textures for 18w09a",
       "zh": "18w09a现代珊瑚材质",
@@ -852694,6 +853259,11 @@
       "en": "LarpSMP",
       "zh": "即兴生存模式",
       "slug": "larpsmpbr"
+    },
+    "uc9H7yyH": {
+      "en": "create for noobs and pros",
+      "zh": "新手与老手适用的create",
+      "slug": "create-for-noobs-and-pros"
     },
     "vMGYYHtI": {
       "en": "Playerless Nautilus Shell",
@@ -852735,10 +853305,25 @@
       "zh": "结构微调",
       "slug": "sensible-structure-tweaks"
     },
+    "1ZGPVUM8": {
+      "en": "Not Enough Glyphs: Missile Rebalance",
+      "zh": "符文不足：导弹平衡调整",
+      "slug": "not-enough-glyphs-missile-rebalance"
+    },
+    "24laQOl2": {
+      "en": "Visible Ancient Debris And Transparent Lava",
+      "zh": "可见的古代遗迹和透明的岩浆",
+      "slug": "visible-ancient-debris-and-transparent-lava"
+    },
     "2Czd1aUA": {
       "en": "Wool Reshaped",
       "zh": "羊毛重塑",
       "slug": "wool-reshaped"
+    },
+    "2VgQjRun": {
+      "en": "PatchNicknames",
+      "zh": "昵称修复",
+      "slug": "patchnicknames"
     },
     "4RmfPWyF": {
       "en": "OR, Better Guide Ranks",
@@ -852750,10 +853335,25 @@
       "zh": "Fairmon",
       "slug": "fairmon"
     },
+    "79a4wWxs": {
+      "en": "PvPPulse UltimatePvP  ModPack",
+      "zh": "PvPPulse终极PvP模组包",
+      "slug": "pvppulse-ultimatepvp-modpack"
+    },
+    "7CjsFTHv": {
+      "en": "Rendition",
+      "zh": "呈现",
+      "slug": "rendition"
+    },
     "9Q3obfkb": {
       "en": "Tech Server",
       "zh": "科技服务器",
       "slug": "tech-server"
+    },
+    "9W6NEaam": {
+      "en": "Everything To Do With Maces (ETDWM)",
+      "zh": "所有关于战锤的事",
+      "slug": "etdwm"
     },
     "ALfu9EEj": {
       "en": "LUNARIS COBBLEMON",
@@ -852785,6 +853385,16 @@
       "zh": "Glarized",
       "slug": "glarized"
     },
+    "Dof5Mh7j": {
+      "en": "More Potions",
+      "zh": "更多药水",
+      "slug": "more-potions-fliofluigi"
+    },
+    "F1sKgLc9": {
+      "en": "Replenish",
+      "zh": "补充",
+      "slug": "replenish"
+    },
     "HuxRK3nx": {
       "en": "everything is books",
       "zh": "万物皆书",
@@ -852809,6 +853419,11 @@
       "en": "Better Crafting",
       "zh": "更好的合成",
       "slug": "better-crafting-wishedgull4535"
+    },
+    "MVLOFDZJ": {
+      "en": "CCWeapons",
+      "zh": "CC武器",
+      "slug": "ccweapons"
     },
     "O0sxmr9y": {
       "en": "PGO Gym [resources]",
@@ -852860,10 +853475,20 @@
       "zh": "巫术",
       "slug": "sorcercy"
     },
+    "WJ7okkVK": {
+      "en": "Dreamwalker's Travels v2",
+      "zh": "梦行者之旅v2",
+      "slug": "dwt2"
+    },
     "Y7kmHuRM": {
       "en": "juhaowan create server|据好玩机械动力服务器",
       "zh": "据好玩机械动力服务器",
       "slug": "juhaowan-create-server"
+    },
+    "Yrr5m9om": {
+      "en": "VersionMesh",
+      "zh": "版本网格",
+      "slug": "versionmesh"
     },
     "a4v7IG9k": {
       "en": "Bob's Vanilla+",
@@ -852894,6 +853519,11 @@
       "en": "Neapolitan Create",
       "zh": "那不勒斯创世",
       "slug": "neapolitan-create"
+    },
+    "eqzLzQvb": {
+      "en": "Starcatcher Lite",
+      "zh": "星捕手轻量版",
+      "slug": "starcatcher-lite"
     },
     "he7N2UFm": {
       "en": "DexLeaderboard",
@@ -852950,6 +853580,11 @@
       "zh": "疏林",
       "slug": "coppice"
     },
+    "nQwgXagS": {
+      "en": "HugoAutoAFK",
+      "zh": "Hugo自动挂机",
+      "slug": "hugoautoafk"
+    },
     "p6D0pQac": {
       "en": "OTPplease",
       "zh": "OTP请",
@@ -852960,15 +853595,30 @@
       "zh": "Mimouni - 生存服",
       "slug": "mimouni-smp"
     },
+    "pfo9dvae": {
+      "en": "SKYERA Applications",
+      "zh": "SKYERA应用",
+      "slug": "skyera-applications"
+    },
     "qSYlAJ1r": {
       "en": "PinkieBattleRoyale",
       "zh": "粉色大逃杀",
       "slug": "pinkiebattleroyale"
     },
+    "qgQdRR0Y": {
+      "en": "GuardAC",
+      "zh": "GuardAC",
+      "slug": "guardac"
+    },
     "qsUQGbgM": {
       "en": "val's XP Cap",
       "zh": "val的经验上限",
       "slug": "vals-xp-cap"
+    },
+    "rZe3P34i": {
+      "en": "Minecraft But With Create Aeronautics",
+      "zh": "带有Create航空学的Minecraft",
+      "slug": "minecraft-but-with-create-aeronautics"
     },
     "s89RuIpc": {
       "en": "DeathCooldownTimer",
@@ -853005,15 +853655,45 @@
       "zh": "Kirby粉红包",
       "slug": "kirbypinkypack"
     },
+    "zEX5viiZ": {
+      "en": "Kits Plugin",
+      "zh": "套件插件",
+      "slug": "kits-plugin"
+    },
+    "10Jlp3sd": {
+      "en": "FakePresence",
+      "zh": "虚假存在",
+      "slug": "fakepresence"
+    },
     "1PxDf553": {
       "en": "Victory Road Cobblemon SMP",
       "zh": "胜利之路方块兽SMP",
       "slug": "custom-cobblemon-1.0"
     },
+    "1eAfRgQY": {
+      "en": "Velo's: Smog & Steel",
+      "zh": "Velo的：烟雾与钢铁",
+      "slug": "velos-smog-steel"
+    },
     "38WHruSs": {
       "en": "ABCSMP",
       "zh": "ABC生存模式",
       "slug": "abcsmp"
+    },
+    "3C4szFtM": {
+      "en": "Arcane Mechanics",
+      "zh": "神秘机械",
+      "slug": "arcane-mechanics"
+    },
+    "5q8NhYSj": {
+      "en": "RU teams",
+      "zh": "RU团队",
+      "slug": "ru-teams"
+    },
+    "63UuaJdC": {
+      "en": "The Blocking Dead",
+      "zh": "阻挡亡灵",
+      "slug": "theblockingdead"
     },
     "64PDMgFN": {
       "en": "Create Live 7",
@@ -853035,6 +853715,11 @@
       "zh": "绿色物品",
       "slug": "green_items"
     },
+    "8EggBnSR": {
+      "en": "QuickTag",
+      "zh": "快速标签",
+      "slug": "quicktag"
+    },
     "8YU4g68j": {
       "en": "CobbleSky",
       "zh": "圆石天空",
@@ -853044,6 +853729,11 @@
       "en": "Icy's Better Horses Ukrainian Localization",
       "zh": "冰之良驹乌克兰本地化",
       "slug": "icys-better-horses-ukrainian-localization"
+    },
+    "CtRpu7Fq": {
+      "en": "Roulette",
+      "zh": "轮盘赌",
+      "slug": "roulette-codecooker1"
     },
     "Em33PDY2": {
       "en": "Infinitrix Evolution",
@@ -853060,6 +853750,11 @@
       "zh": "MaKo极限生存",
       "slug": "mako-smp"
     },
+    "HxCX1Kbh": {
+      "en": "EasyCushions",
+      "zh": "简易垫子",
+      "slug": "easycushions"
+    },
     "I4KhiLZN": {
       "en": "Imperium SMP",
       "zh": "帝国 SMP",
@@ -853070,10 +853765,30 @@
       "zh": "铁甲前线",
       "slug": "iron-front-server"
     },
+    "IUUT0vtG": {
+      "en": "LivingBlueprints",
+      "zh": "动态蓝图",
+      "slug": "livingblueprints"
+    },
     "IegGjfdZ": {
       "en": "Mortium Zombie Apocalypse",
       "zh": "莫提乌姆僵尸末日",
       "slug": "mortium-zombie-apocalypse"
+    },
+    "JoqeqPTY": {
+      "en": "Bloom Crates",
+      "zh": "开花箱子",
+      "slug": "bloom-crates"
+    },
+    "KWMgjsWe": {
+      "en": "[ANSUM Lite] A Not-so Simple Upgrade to Minecraft",
+      "zh": "[ANSUM Lite] Minecraft的一个不简单的升级",
+      "slug": "ansum-lite"
+    },
+    "NmSbMnv5": {
+      "en": "LxFreeze",
+      "zh": "Lx冻结",
+      "slug": "lxfreeze"
     },
     "PxyxkEUM": {
       "en": "Forever worlds",
@@ -853085,10 +853800,45 @@
       "zh": "深层以太：发光矿石",
       "slug": "deep-aether-glow-ores"
     },
+    "RrQ4rFxO": {
+      "en": "SecureGens",
+      "zh": "安全生成器",
+      "slug": "securegens"
+    },
+    "S3Odrw39": {
+      "en": "ExRtp",
+      "zh": "ExRtp",
+      "slug": "exrtp"
+    },
+    "UFqBp0ir": {
+      "en": "Cash Flow",
+      "zh": "现金流",
+      "slug": "cash-flow"
+    },
     "UVitewm4": {
       "en": "Class 345 Realistic Legacy Sounds",
       "zh": "345型真实旧版音效",
       "slug": "class-345-realistic-legacy-sounds"
+    },
+    "UhNtAFWl": {
+      "en": "NightVision | By Omega Plugins",
+      "zh": "夜视 | 由Omega插件提供",
+      "slug": "nightvision-op"
+    },
+    "VHjr8tpF": {
+      "en": "Basic Performance",
+      "zh": "基本性能",
+      "slug": "basic-performance"
+    },
+    "VaYQqhB2": {
+      "en": "Donut Payment Alerts",
+      "zh": "甜甜圈支付提醒",
+      "slug": "donut-payment-alerts"
+    },
+    "Vdr9eT6B": {
+      "en": "zhou's restart",
+      "zh": "周的重启",
+      "slug": "zhous-restart"
     },
     "W49sJFcI": {
       "en": "Shardlight - Purple Flame",
@@ -853115,6 +853865,16 @@
       "zh": "方块混乱SMP",
       "slug": "cobblechaos_smp"
     },
+    "ZI1aZFmG": {
+      "en": "Weather Craze",
+      "zh": "天气狂热",
+      "slug": "weather-craze"
+    },
+    "Zrf5azLh": {
+      "en": "VillagerPlants",
+      "zh": "村民植物",
+      "slug": "villagerplants"
+    },
     "aAkVfl0c": {
       "en": "BridgeAPI Core",
       "zh": "BridgeAPI 核心",
@@ -853124,6 +853884,16 @@
       "en": "Ultimate Chat",
       "zh": "终极聊天",
       "slug": "ultimate-chat"
+    },
+    "bkLy7KPl": {
+      "en": "Mob Despawn Fix",
+      "zh": "怪物消失修复",
+      "slug": "mob-despawn-fix"
+    },
+    "btmN9pt3": {
+      "en": "EasyCopper",
+      "zh": "简易铜",
+      "slug": "easycopper"
     },
     "cnPOWGm1": {
       "en": "Feywild Higher Spawn Rates",
@@ -853160,10 +853930,20 @@
       "zh": "Itz家园",
       "slug": "itzhomes"
     },
+    "itfN6h2s": {
+      "en": "ThunderJoin",
+      "zh": "雷霆加入",
+      "slug": "thunderjoin"
+    },
     "jFpjPs7h": {
       "en": "ViaBackwards Visuals - Resource Pack",
       "zh": "ViaBackwards 视觉-资源包",
       "slug": "viabackwards-visuals"
+    },
+    "jv6CJ2Fa": {
+      "en": "MobInteract",
+      "zh": "怪物交互",
+      "slug": "mobinteract"
     },
     "kMi1gfde": {
       "en": "McGround HiTech #1",
@@ -853190,6 +853970,16 @@
       "zh": "D矿",
       "slug": "d.mine"
     },
+    "n9ZqJFrE": {
+      "en": "BanSystem",
+      "zh": "封禁系统",
+      "slug": "bansystem-jungpasser"
+    },
+    "oNAX73nB": {
+      "en": "IllagersVsMonsters",
+      "zh": "村民对怪物",
+      "slug": "illagersvsmonsters"
+    },
     "oVjI62Kk": {
       "en": "Diplocraft",
       "zh": "双生Craft",
@@ -853199,6 +853989,16 @@
       "en": "Colourful fog",
       "zh": "彩色雾",
       "slug": "colourful-fog"
+    },
+    "sKbM0gaW": {
+      "en": "Bank System",
+      "zh": "银行系统",
+      "slug": "bank-system-toastkopf"
+    },
+    "soDpiRZp": {
+      "en": "SkinChanger",
+      "zh": "皮肤更换器",
+      "slug": "skinchanger_andy"
     },
     "taZ3nn9Q": {
       "en": "Avatar: The Last Buildbenders",
@@ -853210,10 +854010,50 @@
       "zh": "粘液生存模式",
       "slug": "slimesmp"
     },
+    "wH21a0E5": {
+      "en": "Bloom Spawners",
+      "zh": "开花刷怪器",
+      "slug": "bloom-spawners"
+    },
+    "wLxV8xYD": {
+      "en": "Cull Everything",
+      "zh": "清除一切",
+      "slug": "cull-everything"
+    },
+    "xxDIdXwe": {
+      "en": "More Bread!",
+      "zh": "更多面包！",
+      "slug": "more-bread-flame154"
+    },
+    "zd1BtcCR": {
+      "en": "GoodGrief",
+      "zh": "天哪！",
+      "slug": "goodgrief"
+    },
+    "zojtWUNY": {
+      "en": "RBZ Duell",
+      "zh": "RBZ 对决",
+      "slug": "rbz-duell"
+    },
+    "zw6vjrex": {
+      "en": "AdvancedCrates",
+      "zh": "高级宝箱",
+      "slug": "advancedcrates"
+    },
     "1eH72xaa": {
       "en": "La Patate Joueuse",
       "zh": "玩家土豆",
       "slug": "la-patate-joueuse"
+    },
+    "4e7C4GKs": {
+      "en": "MoreDifficulty",
+      "zh": "更多难度",
+      "slug": "moredifficulty"
+    },
+    "4qtX4HFE": {
+      "en": "DAAjn PlayTimeRewards",
+      "zh": "DAAjn 游戏时间奖励",
+      "slug": "daajn-playtime"
     },
     "6WJI3ddj": {
       "en": "Blackspace Fantasy",
@@ -853225,10 +854065,50 @@
       "zh": "JARP",
       "slug": "jarp"
     },
+    "77prBdU8": {
+      "en": "Sell-GUI",
+      "zh": "出售GUI",
+      "slug": "sell-gui-hitshift"
+    },
+    "7w6llj3O": {
+      "en": "Truhenpost",
+      "zh": "宝箱信使",
+      "slug": "truhenpost"
+    },
+    "9BmC5zUM": {
+      "en": "Tovek Bounty",
+      "zh": "Tovek赏金",
+      "slug": "tovek-bounty"
+    },
     "9xNiXAJ0": {
       "en": "筑梦之旅",
       "zh": "筑梦之旅",
       "slug": "zhumengzhilv"
+    },
+    "ASKCo0xm": {
+      "en": "FlowSmpS2",
+      "zh": "FlowSmpS2",
+      "slug": "flowsmps2"
+    },
+    "BSEGao4Z": {
+      "en": "Momentum Break",
+      "zh": "动量中断",
+      "slug": "momentum-break"
+    },
+    "CV2X1Lhv": {
+      "en": "RBZ Restart",
+      "zh": "RBZ 重启",
+      "slug": "rbz-restart"
+    },
+    "DUt1FEiu": {
+      "en": "Exploding MOBS",
+      "zh": "爆炸生物",
+      "slug": "explodingmobs"
+    },
+    "Epsojbfi": {
+      "en": "DAAjn CommunityGoals",
+      "zh": "DAAjn 社区目标",
+      "slug": "daajn-communitygoals"
     },
     "IchFvxNM": {
       "en": "FireSMP",
@@ -853240,10 +854120,20 @@
       "zh": "圆石兽永恒",
       "slug": "cobblemon-eternals-fryler"
     },
+    "Ix6ZDytZ": {
+      "en": "Morph Plugin",
+      "zh": "形态插件",
+      "slug": "morph-plugin"
+    },
     "IxTTTWzN": {
       "en": "AsungX Network",
       "zh": "AsungX网络",
       "slug": "asungx-network"
+    },
+    "JHgTUF5t": {
+      "en": "Kinetic",
+      "zh": "动能",
+      "slug": "kinetic-jaden_763"
     },
     "JX2MQPWL": {
       "en": "Creating",
@@ -853274,6 +854164,21 @@
       "en": "Birb SMP",
       "zh": "鸟SMP",
       "slug": "birb-smp"
+    },
+    "OaCfQ9mr": {
+      "en": "The Bare Essentials",
+      "zh": "基本要素",
+      "slug": "bareessentials"
+    },
+    "PGc1YIp9": {
+      "en": "ChatStyle",
+      "zh": "聊天风格",
+      "slug": "chatstyle"
+    },
+    "PcI2HtVd": {
+      "en": "Automate Create",
+      "zh": "自动化机械动力",
+      "slug": "automatecreate"
     },
     "TvUo3Bwf": {
       "en": "WarCats",
@@ -853310,6 +854215,21 @@
       "zh": "罗亚尔帝国",
       "slug": "royaume-empire"
     },
+    "hgsKxsV1": {
+      "en": "ZorviShop",
+      "zh": "Zorvi商店",
+      "slug": "zorvishop"
+    },
+    "ilrZGA5m": {
+      "en": "Orbital SMP",
+      "zh": "轨道生存模式",
+      "slug": "orbital-smp-swkgaming_"
+    },
+    "lskwfmvV": {
+      "en": "Crown smp",
+      "zh": "皇冠生存模式",
+      "slug": "crown-smp-spideryt_1"
+    },
     "o8pdB4zd": {
       "en": "Shinobi Realms Reborn",
       "zh": "忍界重生",
@@ -853325,15 +854245,35 @@
       "zh": "MVDP",
       "slug": "mvdp"
     },
+    "sgVnv80S": {
+      "en": "Kadly - KillStreak",
+      "zh": "Kadly - 连杀模式",
+      "slug": "kadly-killstreak"
+    },
     "tIzm2zFp": {
       "en": "Inxects Create",
       "zh": "感染创造模式",
       "slug": "inxects-create"
     },
+    "tNkN9nem": {
+      "en": "DAAjn Quests",
+      "zh": "DAAjn 任务",
+      "slug": "daajnplaytime"
+    },
     "vO4xoLqK": {
       "en": "McGround TechnoMagicRPG #1",
       "zh": "麦格罗恩科技魔法RPG #1",
       "slug": "mcground_tmrpg_1"
+    },
+    "vdoW3JYu": {
+      "en": "SyalsDelight-CE",
+      "zh": "SyalsDelight-CE",
+      "slug": "syalsdelight-ce"
+    },
+    "w7Iy1484": {
+      "en": "Craft Attegg",
+      "zh": "Craft Attegg",
+      "slug": "craft-attegg"
     },
     "13x3LkjS": {
       "en": "JHHE",
@@ -853714,6 +854654,11 @@
       "en": "Frontier SMP",
       "zh": "边境生存模式",
       "slug": "frontier-smp-official"
+    },
+    "34RcxOua": {
+      "en": "Landfall SMP",
+      "zh": "登陆生存模式",
+      "slug": "landfall-smp"
     },
     "34Uankww": {
       "en": "SoupSMP",
@@ -854764,6 +855709,11 @@
       "en": "M5LBSMP",
       "zh": "M5LB SMP",
       "slug": "m5lbsmp"
+    },
+    "8TGZSRxg": {
+      "en": "WonderRijk",
+      "zh": "奇妙王国",
+      "slug": "wonderrijk"
     },
     "8UC5Lbkh": {
       "en": "NillOne",
@@ -855849,6 +856799,11 @@
       "en": "MINEGRAM ANARCHY SERVER S3",
       "zh": "MINEGRAM 无政府主义服务器 S3",
       "slug": "minegram-anarchy-server-s3"
+    },
+    "EsKNvf0L": {
+      "en": "Snowstorm - Legendary Weapon",
+      "zh": "暴风雪 - 传奇武器",
+      "slug": "snowstorm-legendary-weapon"
     },
     "Et5w5YNS": {
       "en": "WLBR SMP",
@@ -857015,6 +857970,11 @@
       "zh": "梅子SMP",
       "slug": "plumsmp"
     },
+    "KNPZfQWE": {
+      "en": "FyreSMP",
+      "zh": "火焰生存模式",
+      "slug": "fyresmp"
+    },
     "KNm0f3EM": {
       "en": "CosmoSMP",
       "zh": "宇宙生存模式",
@@ -857129,6 +858089,11 @@
       "en": "PixelSMP.dk",
       "zh": "像素SMP",
       "slug": "pixelsmpdk"
+    },
+    "L5lEpU43": {
+      "en": "NexusEconomy",
+      "zh": "Nexus经济",
+      "slug": "nexuseconomy"
     },
     "L668hdwr": {
       "en": "MoonSmp",
@@ -857779,6 +858744,11 @@
       "en": "Wintertale",
       "zh": "冬日传说",
       "slug": "wintertale"
+    },
+    "OI02Q0Di": {
+      "en": "LUMINARIA SMP",
+      "zh": "光辉生存模式",
+      "slug": "luminaria-smp"
     },
     "OIpXfiph": {
       "en": "Wyvencraft",
@@ -861505,6 +862475,11 @@
       "zh": "古老世界",
       "slug": "antiquus-mundus"
     },
+    "glfRiRnv": {
+      "en": "BuildRPG",
+      "zh": "建造RPG",
+      "slug": "la-comarca"
+    },
     "glilpxed": {
       "en": "Hysteria Gaming",
       "zh": "狂喜游戏",
@@ -862234,6 +863209,11 @@
       "en": "Relic MC",
       "zh": "遗物MC",
       "slug": "relic-network"
+    },
+    "krkkIt8q": {
+      "en": "Wafflemc",
+      "zh": "煎饼MC",
+      "slug": "wafflemc"
     },
     "kxbjEa2S": {
       "en": "Crystopia",
@@ -863175,6 +864155,11 @@
       "zh": "GeekMon 服务器",
       "slug": "geekmon-server"
     },
+    "qHOQOQgg": {
+      "en": "MCA SMP",
+      "zh": "MCA生存模式",
+      "slug": "mca-smp"
+    },
     "qI5XnnVV": {
       "en": "4i eSports",
       "zh": "4i 电子竞技",
@@ -864115,6 +865100,11 @@
       "zh": "我的世界匈牙利语",
       "slug": "minecraft-magyarul"
     },
+    "uUyU4YxX": {
+      "en": "Minezinho",
+      "zh": "小矿工",
+      "slug": "minezinho-eduz_s2"
+    },
     "uWh7v2gG": {
       "en": "AtomSMP",
       "zh": "原子生存服",
@@ -864159,6 +865149,11 @@
       "en": "Skye Games",
       "zh": "斯凯游戏",
       "slug": "skye-games"
+    },
+    "ujnKpBFa": {
+      "en": "JoinSuite",
+      "zh": "JoinSuite",
+      "slug": "joinsuite"
     },
     "unFCTEDf": {
       "en": "LARP SMP",
@@ -921462,6 +922457,7 @@
     "Shacknews Modpack": "Shacknews模组包",
     "Kairi": "凯丽",
     "【MTR3】東急1000系|Tokyu-1000": "【MTR3】东急1000系",
+    "Domain Of Fade": "消逝领域",
     "Tilted Sun & Moon": "倾斜的太阳和月亮",
     "Modifier Keybinds": "修改键绑定",
     "Simple Arrows": "简单箭矢",
@@ -977555,6 +978551,7 @@
     "Revamped Vanilla+": "翻新的香草+",
     "CustomSpyglassMagnificationOverlay": "自定义望远镜倍率UI",
     "Dangerous Sulfur Spikes": "危险硫磺刺",
+    "Azi's Fem model": "Azi女性模型",
     "ChungusCraft": "巨怪工坊",
     "Truffle Pigs": "松露猪",
     "DeepslateCutter": "深岩切割机",
@@ -1009374,6 +1010371,7 @@
     "MoNcKiE's Animals": "MoNcKiE 的动物",
     "Souls of might": "力量之魂",
     "VillagerAlt": "村民替代",
+    "Fast hotbar": "快速快捷栏",
     "Unreal Announcer for Hypixel Skyblock": "虚幻解说员(Hypixel空岛)",
     "Corrupted Totem": "腐化图腾",
     "rVisualBoards": "r视觉板",
@@ -1010224,6 +1011222,7 @@
     "living water": "活水",
     "Cool Crits!": "酷炫暴击",
     "Createful": "充满机械动力",
+    "Cactus Clicker Plus": "仙人掌点击器+",
     "[NCB]新世纪道路方块": "[NCB]新世纪道路方块",
     "Rudih's Vanilla+ Weapon Expansion": "鲁迪的万用+武器扩展",
     "BajPack": "Baj包",
@@ -1013214,6 +1014213,7 @@
     "Breeze Rod Recipe": "微风棍配方",
     "Casualists' Custom Recipes": "休闲玩家自定义配方",
     "The Blood Expansion": "血之扩展",
+    "Spear Armor Trims": "矛装甲装饰",
     "Cloudy's Storage": "Cloudy 的存储",
     "Ancient Controller": "古代控制器",
     "Pointy": "尖锐的",
@@ -1022689,6 +1023689,7 @@
     "Dye Ore Transmuter": "染料矿石变形器",
     "EquipMisc": "装备杂项",
     "Gerald The Sniffer": "杰拉尔德嗅探者",
+    "Antarchy Delight": "无政府乐事",
     "GugaPlus": "古加增强",
     "UnHideFlags": "取消隐藏标志",
     "LTranslate": "LTranslate",
@@ -1024358,6 +1025359,7 @@
     "Glass Birch Doors And Trapdoors": "玻璃桦木门和活板门",
     "PaySign": "交易告示牌",
     "Potion Talisman": "药水护符",
+    "Artisan Machines": "工匠机械",
     "Followed By TNT": "TNT 追踪",
     "WorldToggle": "世界切换",
     "Completly Useless Mod": "完全无用的模组",
@@ -1025148,6 +1026150,7 @@
     "ApxTeam": "Apx团队",
     "Vmvr's Utiliities": "Vmvr的工具",
     "blackTotems": "黑色图腾",
+    "FakeChestplate": "假胸甲",
     "Vote Tracker": "投票追踪器",
     "MBelt": "MBelt",
     "Brotkrumen": "面包屑",
@@ -1026836,6 +1027839,7 @@
     "DeepHeart": "深海之心",
     "WorldGameMode": "世界游戏模式",
     "One Small Rule": "一小条规则",
+    "Death Cinematics": "死亡电影",
     "Hostile GEN: Shattered Sky": "敌对生成：破碎天空",
     "RICK PRIME RUS": "里克普赖姆俄语版",
     "Literally Vanilla+": "真正原版+",
@@ -1026910,6 +1027914,7 @@
     "Eevee4xbOverlay": "Eevee4xb 叠加层",
     "WhiteLabelEconomy": "白标经济",
     "Mwxv's Blue": "Mwxv 的蓝色",
+    "Immersive Loading": "沉浸式加载",
     "Modded Weaponry Slop": "模组武器杂乱",
     "Yillw's Hardcore Hearts": "Yillw 的极限之心",
     "Hostile GEN: Hollow Deep": "敌对生成：空洞深处",
@@ -1027117,6 +1028122,7 @@
     "ForeverWorld Vanilla++": "永恒世界香草++",
     "Drank": "醉酒",
     "SimpleAFK+": "简易挂机+",
+    "3C: Cogs, Code & Contraptions": "3C: 齿轮、代码与机械装置",
     "Misc Mining": "杂项采矿",
     "Endropack": "末地资源包",
     "LitMC": "LitMC",
@@ -1027834,6 +1028840,7 @@
     "LevBan's New Hearts": "LevBan的新心形",
     "Warden Guard": "守卫守卫",
     "Clean inv+": "简洁背包+",
+    "Create: Industrial Revolution": "Create：工业革命",
     "Shield Down | Low Shield": "盾牌放下 | 低位盾牌",
     "Staff Bhop": "管理员弹跳",
     "Sentries & Sentinel": "哨兵与守卫",
@@ -1028094,6 +1029101,7 @@
     "Crushed Audio": "压碎音频",
     "Prime Pvp": "Prime Pvp",
     "ClaimCycle": "领地循环",
+    "RagePlaysGames Pollution Series Mods": "RagePlaysGames 污染系列模组",
     "VIncentWT Pyromancer Pack": "VIncentWT 火焰法师包",
     "Gathering Torches Became Sunlight": "收集火炬变日光",
     "MyServer": "我的服务器",
@@ -1028166,6 +1029174,7 @@
     "Simple Homing XP Smooth": "简单归航XP平滑",
     "Finn golem": "芬恩石像鬼",
     "Anti-ArmorPack": "反装甲包",
+    "Subterranean delights": "地下乐事",
     "Better Early Loading": "更好的早期加载",
     "Shiekah Slate Technologies": "希卡石板技术",
     "Unstable SMP Underworld Tower Panorama": "不稳定SMP地下城塔全景",
@@ -1028324,6 +1029333,7 @@
     "bugknights textures": "bugknights纹理",
     "Vanilla l.ll": "原版 l.ll",
     "TwitchInteract": "Twitch交互",
+    "Glitchcraft": "故障工艺",
     "NexyLite": "奈克轻量光影",
     "Febreze FPS": "纺必适FPS",
     "mobs ianzao": "生物ianzao",
@@ -1028703,6 +1029713,7 @@
     "Stay In The Light": "留在光明中",
     "SesameWorldEffect": "芝麻世界效果",
     "MiningFatigue3Fix": "挖掘疲劳 III 修复",
+    "Recruits - Null": "招募-空",
     "ArkSpawn": "方舟生成",
     "No Potion Throwing Sound": "无药水投掷音效",
     "Dragon Egg Random Drop Chance": "龙蛋随机掉落几率",
@@ -1028944,6 +1029955,7 @@
     "P31 Copper Rail Pack": "P31 铜轨包",
     "ARCHIE MENU": "ARCHIE菜单",
     "CoreSMP": "核心生存模式",
+    "Luminous Flashlights": "发光手电筒",
     "Chest sort": "箱子排序",
     "Ascendant - Client Pack": "上升 - 客户端包",
     "TKillFX": "TKillFX",
@@ -1029070,6 +1030082,7 @@
     "LubruCore": "Lubru 核心",
     "Flying Creativity": "飞翔的创造力",
     "NightCode - Spawn": "夜码 - 出生点",
+    "Player Blocks": "玩家方块",
     "Harmless Creepers": "无害爬行者",
     "Sensible Smelting": "明智的熔炼",
     "PyroMinions": "火焰小鬼",
@@ -1029257,6 +1030270,7 @@
     "Graveln Totem Of Undying": "砾岩不朽图腾",
     "NexoraRTP": "NexoraRTP",
     "Dwok's Capture the Flag Utilites": "夺旗工具",
+    "Oreganized Gothic": "奥古斯丁哥特",
     "Mainstay Base Modopack": "支柱基础模组包",
     "Better Create Patina Pipes": "更好的机械动力铜锈管道",
     "Punish": "惩罚",
@@ -1029294,6 +1030308,7 @@
     "Pride Pearls: Gay (Right, Dark)": "骄傲珍珠：同性恋（右，暗）",
     "ErNews": "新闻",
     "Utubysdog101 Create Aeronautics": "乌图比斯多格101机械动力航空",
+    "Oreganized Core": "奥古斯丁核心",
     "Living Lights": "活体光源",
     "Blue GUI screen": "蓝色GUI屏幕",
     "Ithkuil translation": "Ithkuil翻译",
@@ -1029565,10 +1030580,12 @@
     "Builder's Burden": "建造者负担",
     "Auto Broadcast": "自动广播",
     "steve58936's Spells": "steve58936的咒语",
+    "TGZJDV'S Chat": "TGZJDV聊天",
     "CozyHub": "舒适中心",
     "Silent Copper Golems and Chests": "静音铜像与箱子",
     "More PvP items": "更多PvP物品",
     "Hexcassetes (Ported)": "六边形磁带",
+    "Oreganized Plumbum": "奥古斯丁铅",
     "AfkShop": "AFK商店",
     "EPV": "增强玩家视图",
     "ToolsPlugin": "工具插件",
@@ -1029615,6 +1030632,7 @@
     "Happy Striders!": "快乐行者！",
     "Broken Equipment": "损坏装备",
     "minesweeper": "扫雷",
+    "One Night To Die": "一夜死亡",
     "Miqimc-Time Announcement": "Miqimc-时间公告",
     "Shadow of Optimization": "优化之影",
     "Pride Pearls: 6 color rainbow (Left, Dark, Inverted)": "骄傲珍珠：6色彩虹（左，暗，反转）",
@@ -1029751,6 +1030769,7 @@
     "Bigender Pride Flag Hearts (5-Color Vertical)": "双性恋骄傲旗帜心形（5色垂直）",
     "Power Points": "能量点数",
     "EMI-AE2UI": "EMI-AE2UI",
+    "Assembly Line S3": "装配线S3",
     "RewardSign": "奖励标志",
     "No Dropped Items": "无掉落物品",
     "The Ultimate Rainbow Pack": "终极彩虹包",
@@ -1029784,6 +1030803,7 @@
     "Ecorce": "树皮",
     "GraveGuard": "墓碑守护",
     "TrueFalseQuiz": "真伪问答",
+    "Simply Cinematics": "简单电影",
     "IME": "输入法编辑器",
     "Disenchanted": "解除附魔",
     "Bedrock : Redesigned": "基岩：重制版",
@@ -1029861,6 +1030881,7 @@
     "AegisGuard": "神盾守卫",
     "DragonHologram": "龙全息图",
     "Mcast - CommandDump": "Mcast - 命令转储",
+    "Oreganized Glance": "奥古斯丁瞥见",
     "SGA Font": "SGA字体",
     "CustomDeath": "自定义死亡",
     "Orange Pumpkin Overlay": "橙色南瓜叠加",
@@ -1029877,6 +1030898,7 @@
     "SALVO ME SALVA TOTEM (Java Port)": "SALVO ME SALVA TOTEM（Java端口）",
     "Dutch Totem of Undying": "Dutch 不死图腾",
     "Aeropunk": "飞艇朋克",
+    "clary hud": "清晰HUD",
     "SIDE B Discs": "B面唱片",
     "Safe": "安全",
     "Splatcraft Modpack resource": "喷射工艺整合包资源",
@@ -1029930,6 +1030952,7 @@
     "LootBuyer": "战利品购买者",
     "AdvancementButtonCustomCommand": "进度按钮自定义命令",
     "HardSkeletonNerf": "困难骷髅削弱",
+    "Easy Item Positions": "物品位置简易",
     "Pride Wood": "骄傲木材",
     "BedrockStuff Italian Translation": "BedrockStuff 意大利语翻译",
     "soniceggman419resourcepack": "soniceggman419资源包",
@@ -1029982,6 +1031005,7 @@
     "easy commands acces": "简易命令访问器",
     "JadeBridge": "玉桥",
     "Clayworks x Visual Workbench Compat (Pottery Table Fix)": "陶艺工作室 x 可视化工作台兼容 (陶艺台修复)",
+    "Oreganized Argentum": "奥古斯丁银",
     "BetaAchievement": "Beta成就",
     "Guild panorama": "公会全景",
     "SWAT Pack": "特警包",
@@ -1030016,6 +1031040,7 @@
     "Merkatin": "Merkatin",
     "Joins+": "加入+",
     "RANDUMBOX Item Texturepack": "RANDUMBOX物品纹理包",
+    "Jukebox Playlists": "点唱机播放列表",
     "Nether Wart to Beetroot": "下界疣变甜菜根",
     "SkyPack": "天空包",
     "ISAT GUI x Applskin Compatability": "ISAT GUI x Applskin兼容",
@@ -1030118,6 +1031143,7 @@
     "NoConfirmationDialogs": "无确认对话框",
     "Quad Totem": "四联图腾",
     "Many Translations": "众多翻译",
+    "Oreganized Antiques": "奥古斯丁古董",
     "HUGE BREAD": "巨型面包",
     "SafeTPFirewall": "安全传送防火墙",
     "MountMemory": "内存挂载",
@@ -1030217,6 +1031243,7 @@
     "randmon block is op": "随机方块是OP",
     "Nails on Planks": "木板上的钉子",
     "VaultSync": "保险库同步",
+    "Relicforged": "遗物锻造",
     "Pedestal_Engine_Texture_pack": "基座引擎材质包",
     "CustomCrates": "自定义箱子",
     "MCSR-safe Catppuccin UI": "MCSR兼容的Catppuccin界面",
@@ -1030239,6 +1031266,7 @@
     "WingPvP": "翅膀PvP",
     "ValsPvPAddon": "ValsPvP插件",
     "HexaChatGame": "Hexa聊天游戏",
+    "Oreganized Electrum": "奥古斯丁琥珀",
     "EndBoss": "最终Boss",
     "V's Player Contract Plugin": "V的玩家契约插件",
     "THomes": "T家园",
@@ -1030274,12 +1031302,15 @@
     "Better Glint in my opinion": "我认为更好的闪光",
     "Zombie Pigman  buff": "僵尸猪人加强",
     "susmenu": "sus菜单",
+    "tie's horror": "tie的恐怖",
     "CompanionPets": "伙伴宠物",
+    "100 Days In A Wasteland Minecraft Hardcore": "废土100天生存模式",
     "New Moon And Sun": "新月与太阳",
     "Arboreal": "树木相关",
     "DnC - Dungeons & Cobblemons (BETA)": "DnC - 地下城与圆石兽（测试版）",
     "Grass & Moss Flowers (pink)": "草与苔藓花（粉）",
     "HealthSteal": "偷取生命值",
+    "SimpleDifficulty Reforged": "简易难度重铸",
     "Lava Recipes": "岩浆食谱",
     "Alycatstar Hearts": "阿利猫星之心",
     "Caillou & Rosie Wither Storm": "卡伊卢与罗西枯萎风暴",
@@ -1030291,6 +1031322,7 @@
     "Create: Encapsulated Gravelmon": "机械动力：封装的砾石兽",
     "Horse Nerf Spear": "马匹削弱矛",
     "SakuraZ RTP": "樱花Z RTP",
+    "True Seed Randomizer": "真实种子随机器",
     "Melonization": "蜜瓜化",
     "Blaze PvP Pack": "烈焰PVP包",
     "Eyes for Warden": "守卫之眼",
@@ -1030336,6 +1031368,7 @@
     "Transfer Plus": "传输增强",
     "FindBlock": "寻块",
     "Bigender Pride Flag Tooltip (Frame-only Alt-BG 5-Color)": "双性恋骄傲旗帜提示（仅框架 5色替代背景）",
+    "Cloudish's Vanilla Plus": "Cloudish的纯净版+",
     "Anvil to Whetstone": "铁砧到磨刀石",
     "HubPilot Interact": "大厅交互",
     "whait mobs can talk now": "怪物现在能说话了",
@@ -1030361,6 +1031394,7 @@
     "Cobblemaxxing": "圆石最大化",
     "Rotten GUI *Unfinished!*": "腐烂GUI *未完成!*",
     "Blue pvp Texture pack": "蓝色PVP纹理包",
+    "Vista Dialogs": "视窗对话框",
     "Smecubiki": "斯梅库比奇",
     "Loot Crates": "战利品箱",
     "NoSlotHoverHighlight": "无槽位悬停高亮",
@@ -1030373,6 +1031407,7 @@
     "adminwarps": "管理员传送",
     "Ele-Melons": "电瓜",
     "Ancient Debris to Netherite Ore + Borders": "远古残骸变下界合金矿石+边框",
+    "Midnight Economy": "午夜经济",
     "ChrousTpa": "ChrousTPA",
     "Dimensional Lock": "维度锁",
     "CaptureEgg": "捕获蛋",
@@ -1030427,6 +1031462,7 @@
     "ArchiveStore": "存档存储",
     "Enchant Roulette": "附魔轮盘",
     "Do you like Sharks? UWU": "你喜欢鲨鱼吗？UWU",
+    "Ice Slabs": "冰板",
     "Cutscene Studio": "剪辑场景工作室",
     "NS Signs": "NS 标签",
     "OdysseyBr Oficial": "奥德赛官方",
@@ -1030477,9 +1031513,12 @@
     "OT PvP Toggle": "OT PvP 切换",
     "Genesis Cosmetics": "起源饰品",
     "Elevate": "提升",
+    "Experimental Weapons": "实验武器",
     "Sable Wizard": "乌木巫师",
     "Mumbo Suspicious Sand And Gravel": "姆博可疑沙石",
     "Lang": "语言",
+    "Timeless Echoes": "永恒回音",
+    "2 fps": "2fps",
     "Nemo's Campfires Ashen Compat": "尼莫的营火灰烬兼容",
     "PvPClubFriendsHUD": "PvP 俱乐部好友 HUD",
     "Modded Overlap Compat": "修改重叠兼容",
@@ -1030488,6 +1031527,7 @@
     "TradeUltimate": "交易终极版",
     "Simplistic Creepers": "简约的爬行者",
     "Reclaim Your Axes! (for Hypixel Skyblock)": "夺回你的斧头！ (Hypixel空岛)",
+    "Applied Flow": "应用流",
     "Globetrotter - Enchanted Book (Map Stitch)": "环球旅行者 - 附魔书（地图缝合）",
     "HUtilities": "H实用工具",
     "Snow Brick Igloos": "雪砖圆顶屋",
@@ -1030500,7 +1031540,9 @@
     "Chorus Trade": "紫颂交易",
     "More Sticks": "更多木棍",
     "EternaSMP": "永恒生存服",
+    "Red Velvet": "红丝绒",
     "GoSMP": "GoSMP",
+    "Max's Client Side Pack": "Max客户端包",
     "Better Ping Display Legacy": "更好的ping显示遗产",
     "Speaki's Staff": "斯佩基法杖",
     "Ratster Utils": "Ratster 工具包",
@@ -1030513,10 +1031555,12 @@
     "Fish in chaps": "穿着裤子的鱼",
     "Create Radars: Industrial Iron": "创造雷达：工业铁",
     "CR-Survivor's Arsenal На русском": "CR-幸存者军火库 俄语版",
+    "Optimotion": "Optimotion",
     "LightClearLag": "轻量级去抖动",
     "Chickjoin": "Chickjoin",
     "o9f": "o9f",
     "Kromize": "Kromize",
+    "Nothing to Worry About": "无需担忧",
     "ZagaMonitor": "Zaga监控",
     "Mimes combat textures": "模仿战斗纹理",
     "Cool as ice Weapons!": "冰酷武器！",
@@ -1030528,6 +1031572,7 @@
     "MONEY ITEMS": "金钱物品",
     "Better Teraccotas": "更好的陶瓦",
     "RaycastedAntiESP-Bridge": "射线投射反ESP-桥接器",
+    "uncraftable food recipe UFR": "不可合成食物配方 UFR",
     "CostlyTP": "昂贵的TP",
     "The High Council Mod": "高级议会模组",
     "PlaytimeAdvanced": "高级游玩时间",
@@ -1030552,6 +1031597,7 @@
     "ShinobiOdyssey Clans": "忍者奥德赛部落",
     "GloreApi": "GloreAPI",
     "TVV Tweaks": "TVV 修改",
+    "Oreganized Armament": "有组织的装备",
     "WCS NTM SMP": "WCS NTM生存模式",
     "dykta-tools": "dykta工具",
     "EnderPages": "末影书页",
@@ -1030599,11 +1031645,14 @@
     "Neon Clans": "霓虹部落",
     "hiking gear": "徒步装备",
     "Purple Wizard Hotbar": "紫色巫师快捷栏",
+    "Trailbound": "荒野之旅",
     "Brick Craft Completion": "砖块工艺完成",
+    "NexRules": "Nex 规则",
     "PrismUndo": "棱镜撤销",
     "Groovy World": "酷炫世界",
     "Sunrise Gardening": "日出园艺",
     "Admin logs": "管理员日志",
+    "RevoltMC Cobblemon": "石兽",
     "CustomArcheology": "自定义考古",
     "AnvilCraft: Twenty Minute Ionocraft": "AnvilCraft: 二十分钟离子飞船",
     "The Esther totem resource pack": "以斯帖图腾材质包",
@@ -1030625,9 +1031674,11 @@
     "Dogoni: Tag Minigame": "Dogoni: 标签小游戏",
     "RoxMenu": "Rox菜单",
     "Orbital Shape Cannon": "轨道塑形炮",
+    "AccurateManhunt": "精确追捕",
     "EKontrol": "EKontrol",
     "Ramadan Delight Recipe Fix": "斋月快乐食谱修复",
     "PrismSpawn": "棱镜生成器",
+    "Tepox Trade Cycler": "Tepox 贸易循环器",
     "Food Recycled": "食物回收",
     "Happy Happy Ghast": "快乐快乐幽灵",
     "Story Mode Beta Super TNT Textures": "故事模式测试版超级TNT材质",
@@ -1030679,6 +1031730,7 @@
     "Slowdown": "减速",
     "NoAdmin": "无管理员",
     "HeartBounty": "心赏金",
+    "Aware": "警觉",
     "Fruit Fly Plays Mc": "果蝇玩Minecraft",
     "Interns SMP": "实习生生存模式",
     "MetaJobs": "元工作",
@@ -1030694,6 +1031746,7 @@
     "Companions": "伙伴",
     "Undead Unleashed - Spawn Weight Config": "亡灵释放生成配置",
     "Theos SMP Recreation": "提奥斯生存服重现",
+    "MineTAS (Modpack)": "矿工时间加速器（模组包）",
     "Simply Better (Series)": "简单优化系列",
     "Real End Bricks": "真实末地砖",
     "LonelyKOTH": "孤独的KOTH",
@@ -1030768,6 +1031821,7 @@
     "Wolf Anatomy": "狼解剖学",
     "ContractBoard": "合同板",
     "ContextRun": "上下文运行",
+    "Tepox Cosmetic Armor": "Tepox 造型装甲",
     "Catfish's Tweaks": "猫鱼调整",
     "Drake Smp": "龙族SMP",
     "OneBlock community": "单块社区",
@@ -1030824,6 +1031878,7 @@
     "Fluid Drawers": "流体抽屉",
     "VeloPRO": "VeloPRO",
     "Cobblemon Ascent": "石兽上升",
+    "Dirt++": "泥土++",
     "NexShop": "Nex商店",
     "Void Inventory": "虚空库存",
     "Simple Shared Villager Discounts": "简单共享村民折扣",
@@ -1030839,6 +1031894,7 @@
     "Matcha's Oceanic Delight": "抹茶的海洋乐趣",
     "worldedit-aliases": "世界编辑别名",
     "BedrockRiser": "基岩升降机",
+    "OrbitalStrikeCannons Plugin": "轨道打击炮插件",
     "SimpleCombat": "简单战斗",
     "Orevolution Compat": "Orevolution兼容",
     "Cobbilities": "圆石能力",
@@ -1030852,8 +1031908,10 @@
     "Astral Ancient Debris": "星界古代残骸",
     "Thirst System": "口渴系统",
     "GreenWood mods": "绿木模组",
+    "Insufferable Remarks": "无法忍受的评论",
     "Horror Colonies": "恐怖殖民地",
     "Easy Stone Brick Recipes": "简易石砖配方",
+    "Tepox Dehydrator Gun": "Tepox 脱水枪",
     "Skylease": "天空租赁",
     "Easy Subtitle": "简易字幕",
     "Rubys Additions: Musical Tweaks": "Ruby 增加项：音乐调整",
@@ -1030870,6 +1031928,7 @@
     "Ride": "骑行",
     "trackless-cart": "无轨手推车",
     "TurboTrust Reborn": "涡轮信任重生",
+    "Auto block crafter mod": "自动方块工匠模组",
     "Dystopic Client": "反乌托邦客户端",
     "PSword": "PSword",
     "Santa Hats for Mobs (FA)": "怪物圣诞帽（FA）",
@@ -1030878,6 +1031937,7 @@
     "Legendary Delight Overhaul": "传说之乐重制",
     "Lubo Cursor": "Lubo光标",
     "ArchiveGuard": "存档守护者",
+    "MineSociety": "矿社",
     "DragonMine Z - Venus Universe": "龙矿Z-金星宇宙",
     "Site-B103K Official Modpack": "站点-B103K 官方模组包",
     "CrownArena": "皇冠竞技场",
@@ -1030888,6 +1031948,7 @@
     "Playerless Stray Arrows of Slowness": "无玩家漂泊减速箭",
     "Potisarn Totem": "Potisarn图腾",
     "Deep in Autumn": "深秋",
+    "Redstone loot": "红石战利品",
     "Simple craft potion arrows": "简易药水箭合成",
     "SharedCooldowns": "共享冷却",
     "Simple rtpq": "简单rtpq",
@@ -1030905,6 +1031966,7 @@
     "Sharp Selection Buttons": "锐利选择按钮",
     "CustomTicket": "自定义票据",
     "like a whte cherry": "像一朵白樱花",
+    "Purgatory Redux": "炼狱重制版",
     "AutoLoader": "自动加载器",
     "Custom Moonglade Marsh": "自定义月影沼泽",
     "PyreHaven": "火堆避风港",
@@ -1030914,6 +1031976,7 @@
     "Sad Totem": "悲伤图腾",
     "Anti Blindness Remover": "抗盲除器",
     "Stashify": "储藏",
+    "StRestart": "重启",
     "SocketedStandardExpansion": "插槽标准扩展",
     "exCombat": "ex战斗",
     "Flains": "Flains",
@@ -1030921,6 +1031984,8 @@
     "FirstHour Lite": "第一小时轻量版",
     "Greeny": "翠绿",
     "ZonifiedBeta": "区域化测试版",
+    "Totem Pack": "图腾包",
+    "Zillemattically Optimized": "Zillemattically 优化",
     "Dynamic Seasons Survival": "动态季节生存",
     "Tick Boost": "刻度提升",
     "Traveler's Home": "旅者之家",
@@ -1030940,6 +1032005,7 @@
     "Chestsell": "箱子出售",
     "TreeChopper/Survival Extantion": "树砍器/生存扩展",
     "Vanya pack": "瓦尼亚包",
+    "Naturalist Patched": "自然主义者补丁",
     "No Copper Sounds": "无铜块音效",
     "MatthauCraft": "MatthauCraft",
     "FastGrind": "快速研磨",
@@ -1030950,10 +1032016,13 @@
     "Chorus Sit": "紫影果坐下",
     "UtilMount": "实用坐骑",
     "Cobblemoon": "圆石月",
+    "Crystal PvP Perfect Modpack (CPVP)": "水晶PvP完美模组包（CPVP）",
     "Rotating Turquiose Crosshair": "旋转绿松石准星",
+    "The Ducks Mods": "鸭子模组",
     "Rails to Ropes": "轨道变绳索",
     "Crucifix sword": "十字架剑",
     "Chat Radius": "聊天半径",
+    "Coin's Minecraft Complete [Alpha]": "Coin的Minecraft完整版[Alpha]",
     "QuickRTP": "快速随机传送",
     "Create Officers cap": "机械动力军官帽",
     "SpearNotTired": "矛不疲倦",
@@ -1030961,8 +1032030,10 @@
     "Bibi BANK": "Bibi银行",
     "RaptorAC": "猎鹰AC",
     "RtpX": "RtpX",
+    "Flowstate Origins": "流态起源",
     "DiscordMenu": "Discord菜单",
     "AutoOrganize": "自动整理",
+    "Legacy Mouse Tweaks Ornithe": "遗产鼠标调整 Ornithe",
     "SoftTouch": "柔和触碰",
     "Iron PvP": "钢铁PvP",
     "Mace Roulette": "狼牙棒轮盘",
@@ -1030974,6 +1032045,7 @@
     "Jason Primal Server": "Jason原始服务器",
     "BekkemaCraft": "贝克玛工坊",
     "Re-Railed Create": "机械动力：重轨",
+    "UMC Enhanced": "UMC增强版",
     "SlowSurvival": "慢速生存",
     "oxidized copper lantern": "氧化铜灯笼",
     "Everything Missing!": "缺失一切！",
@@ -1030997,6 +1032069,7 @@
     "Please Crash My Game": "请崩溃我的游戏",
     "SentinelLag": "哨兵延迟",
     "ZenCraftV2": "禅宗工艺V2",
+    "Dopey Craft [FABRIC]": "Dopey Craft [FABRIC]",
     "iSRewards": "iS奖励",
     "Aether : Glow Ores": "以太：发光矿石",
     "AdvancedQuests": "高级任务",
@@ -1031014,16 +1032087,21 @@
     "GeoMC": "地缘MC",
     "Svilent Textures": "Svilent材质",
     "JoinFlow": "加入流程",
+    "Practical Performance": "实用性能",
+    "AutoMute": "自动静音",
     "MortikLibrary": "莫蒂克库",
     "BoCraft": "BoCraft",
+    "FoxxBoyy's Road Mod": "FoxxBoyy 的道路模组",
     "Revert New Jukebox": "恢复新点唱机",
     "Cancel Trial Cooldown": "取消试用冷却",
     "Wild West RP": "狂野西部角色扮演",
+    "Beta modpack": "测试版模组包",
     "levelplugin": "等级插件",
     "Useful & Usable": "有用且可用",
     "PrefixPlus+": "PrefixPlus+",
     "Orb & Fire": "球体与火焰",
     "Elemental Paintings in Survival": "生存中的元素画作",
+    "FloodPass": "洪水通行证",
     "Easier Glass": "更容易的玻璃",
     "Feruchemy Plugin Resource Pack": "法术资源包",
     "SugarMeal": "糖餐",
@@ -1031031,6 +1032109,7 @@
     "Perceptible Potions - No Unique Feathers": "感知药水 - 无独特羽毛",
     "Amplified Nether Air Pressure Fix": "放大下界气压修复",
     "Netheritestone": "下界测试石",
+    "Bloom Auto Pickup": "花朵自动拾取",
     "HiveNest": "蜂巢",
     "Shared Discounts": "共享折扣",
     "RealmiPlus": "RealmiPlus",
@@ -1031038,11 +1032117,15 @@
     "zTPA": "zTPA",
     "cawcing's survival modpack": "cawcing 的生存模组包",
     "KubeJS Chest Item": "KubeJS 胸甲物品",
+    "Fall": "坠落",
+    "DH Quality of Life Server Modpack": "DH生活品质服务器模组包",
     "Dark Rubyglass": "暗红宝石玻璃",
     "SmorkiItemBlacklist": "物品黑名单",
     "VCResourcePacks": "VC资源包",
     "CH Network": "CH 网络",
     "Absolute Silence disc for Murder Drones: Origins": "绝对寂静唱片：起源的谋杀无人机",
+    "Hotbar Lock Mod (HLM)": "热栏锁定模组 (HLM)",
+    "Grow A Block": "生长一个方块",
     "ChorusEnderchest": "紫颂末影箱",
     "SCP: Site-86 [ALPHA]": "SCP：86号站点",
     "SafeChat By Lift": "Lift的安全聊天",
@@ -1031061,6 +1032144,7 @@
     "ArcadeSky": "街机天空",
     "Origin Realms Original Spears": "起源国度原版长矛",
     "Latinized kyrgyz": "拉丁化吉尔吉斯语",
+    "Begone!": "滚开！",
     "OpenRail": "开放铁路",
     "Swap Trade": "交换交易",
     "LENTREPOTE": "仓库",
@@ -1031073,6 +1032157,7 @@
     "Phantom Journeys": "幻影之旅",
     "Guard Villagers Ashen Compat": "守卫村民灰烬兼容",
     "VR Craft Resource Pack": "VR Craft 资源包",
+    "kill button": "杀戮按钮",
     "Brassworks: Lumin's Reimagined": "铜器工坊：卢明的重塑",
     "Real Craftings": "真实合成",
     "ChorusHome": "紫影家园",
@@ -1031095,6 +1032180,9 @@
     "Create: Precision Progression": "精准进阶",
     "BuyShards": "购买碎片",
     "nitnys smaller shield": "nitnys小盾牌",
+    "Monocraft Font": "Monocraft 字体",
+    "SF's BetterMining": "SF 的更好采矿",
+    "Elytra 2 Swimming": "鞘翅 2 游泳",
     "ChorusRTP": "紫影随机传送",
     "Grass & Moss Flowers (Orange)": "草与苔藓花（橙）",
     "Wild Life Mario Hat": "野生动物马里奥帽",
@@ -1031105,12 +1032193,16 @@
     "VanillaXServer": "原版X服务器",
     "BatHomes": "蝙蝠家园",
     "RedstoneEvents": "红石事件",
+    "Create: Better Automation": "Create：更好的自动化",
     "Ivy Bay": "常春藤湾",
     "DontSleep": "禁止睡觉",
     "Stone to Diamond Ore Recipe": "石头到钻石矿石配方",
+    "Gribley's Cinematic Experience": "Gribley的影院体验",
     "PreCreate": "预创建",
     "Iconoclasts Supplementaries Wrench": "破坏者辅助扳手",
     "Via Romana Ashen Compat": "罗马之路灰烬兼容",
+    "Jabe's Structure Forge": "Jabe 的结构锻造",
+    "Satchels 1.12.2 port": "背包 1.12.2 版本",
     "[Creative]Staxhes (Xinghe)": "创造服Staxhes(星河)",
     "dots everywhere": "点点皆是",
     "Cobblemon Reload": "方块宝可梦重载",
@@ -1031119,14 +1032211,18 @@
     "gunpvp": "枪战PVP",
     "Chat Card": "聊天卡",
     "Better Bulgarian Translations": "更好的保加利亚语翻译",
+    "Wonderland.jar Enhanced": "Wonderland.jar增强版",
     "JP_HD FLAME": "JP高清火焰",
     "KNChat": "KN聊天",
     "Direct Messages": "直接消息",
     "Bhupaw's Simple Hearts": "Bhupaw的简约生命值",
     "PackChooser": "包选择器",
     "Civ Alliance": "文明联盟",
+    "The Forge": "锻造台",
+    "AfkZonePlugin": "自动挂机插件",
     "CleverFox": "聪明狐狸",
     "loes01's vanilla plus": "loes01的vanilla plus",
+    "SF's SoulBound": "灵魂绑定",
     "Retextured Unflavoured Pipes": "无味管道重制材质",
     "UtilityBlocksUltimate": "实用方块终极版",
     "NHC SMP": "NHC SMP",
@@ -1031137,8 +1032233,10 @@
     "Slag n' Embers Compat": "熔渣与火星兼容",
     "Walking spawns structures": "行走生成结构",
     "CustomNametag": "自定义标签",
+    "Xion Restaurant": "辛餐厅",
     "DesafiosPlugin": "挑战插件",
     "Uncluttered Essential": "无杂乱必需品",
+    "Offroad: CopycaatWheels": "越野车：仿制轮子",
     "Grass & Moss Flowers (Yellow)": "草与苔藓花（黄）",
     "The Mandalorian Music Disc": "曼达洛人音乐唱片",
     "ShadowStaff": "阴影法杖",
@@ -1031153,6 +1032251,7 @@
     "Playerless Rabbit Feet": "无玩家兔脚",
     "Animal Hearts": "动物生命值",
     "Simply Swords - Awakening fix": "简易剑 - 觉醒修正",
+    "MachineSMP - Official Modpack": "MachineSMP - 官方模组包",
     "Modern Coral Textures for 18w09a": "18w09a现代珊瑚材质",
     "Ingotcraft": "锭工艺",
     "Flowstate Lite": "轻量流状态",
@@ -1031160,6 +1032259,7 @@
     "BowBash": "弓击",
     "Re shards": "重碎片",
     "LarpSMP": "即兴生存模式",
+    "create for noobs and pros": "新手与老手适用的create",
     "Playerless Nautilus Shell": "无玩家鹦鹉螺壳",
     "Ivy's Autowalk": "艾薇的自动行走",
     "Sherds Copy": "碎片复制",
@@ -1031167,20 +1032267,28 @@
     "Az_Protection": "Az保护",
     "PX8916's Creeper Retexture": "PX8916的爬行者重纹理",
     "Sensible Structure Tweaks": "结构微调",
+    "Not Enough Glyphs: Missile Rebalance": "符文不足：导弹平衡调整",
+    "Visible Ancient Debris And Transparent Lava": "可见的古代遗迹和透明的岩浆",
     "Wool Reshaped": "羊毛重塑",
+    "PatchNicknames": "昵称修复",
     "OR, Better Guide Ranks": "或，更好的指南等级",
     "Fairmon": "Fairmon",
+    "PvPPulse UltimatePvP  ModPack": "PvPPulse终极PvP模组包",
+    "Rendition": "呈现",
     "Tech Server": "科技服务器",
+    "Everything To Do With Maces (ETDWM)": "所有关于战锤的事",
     "LUNARIS COBBLEMON": "月之圆石兽",
     "ToxinSMP Server": "毒素生存服务器",
     "CobblemonsOCE": "石头兽 OCE",
     "Jabs Fixed Mod + Biomes O Plenty compatibility patch": "刺痛修复模组+丰饶生物群系兼容补丁",
     "Bobmcbob's Kingdom": "Bobmcbob王国",
     "Glarized": "Glarized",
+    "Replenish": "补充",
     "everything is books": "万物皆书",
     "Murch SMP": "Murch生存模式",
     "V's +n+ weapons": "V的武器",
     "RoyxZea MC": "RoyxZea MC",
+    "CCWeapons": "CC武器",
     "PGO Gym [resources]": "PGO 健身房资源",
     "Cinematic Exploration": "电影探索",
     "Pvp": "PVP",
@@ -1031190,13 +1032298,16 @@
     "Raw Ores Tweak - Vanilla+Mekanism+IE": "原始矿石调整 - Vanilla+Mekanism+IE",
     "Fix MC-311836": "修复 MC-311836",
     "sorcercy": "巫术",
+    "Dreamwalker's Travels v2": "梦行者之旅v2",
     "juhaowan create server|据好玩机械动力服务器": "据好玩机械动力服务器",
+    "VersionMesh": "版本网格",
     "Bob's Vanilla+": "Bob 的原版+",
     "zack x tpagui": "Zack与TPA界面",
     "War Contry": "战争国家",
     "ModernMC": "现代MC",
     "Drink Matcha Refill": "抹茶饮品补充",
     "Neapolitan Create": "那不勒斯创世",
+    "Starcatcher Lite": "星捕手轻量版",
     "DexLeaderboard": "Dex排行榜",
     "Easier Sand and Gravel": "更容易的沙和砾石",
     "Rubikraft": "鲁比克力场",
@@ -1031207,10 +1032318,14 @@
     "Deathful Eye": "死亡之眼",
     "Cobble to Moss": "圆石变苔藓",
     "Coppice": "疏林",
+    "HugoAutoAFK": "Hugo自动挂机",
     "OTPplease": "OTP请",
     "Mimouni - SMP": "Mimouni - 生存服",
+    "SKYERA Applications": "SKYERA应用",
     "PinkieBattleRoyale": "粉色大逃杀",
+    "GuardAC": "GuardAC",
     "val's XP Cap": "val的经验上限",
+    "Minecraft But With Create Aeronautics": "带有Create航空学的Minecraft",
     "DeathCooldownTimer": "死亡冷却计时器",
     "Wade's Cobblemon": "瓦德的石头兽",
     "Kinetic Horizon": "动能地平线",
@@ -1031218,27 +1032333,50 @@
     "stormcraft-nl": "风暴工艺",
     "Sink Your Friends' Boats (Datapack)": "让你的朋友船只沉没（数据包)",
     "Kirby Pinky Pack": "Kirby粉红包",
+    "Kits Plugin": "套件插件",
+    "FakePresence": "虚假存在",
     "Victory Road Cobblemon SMP": "胜利之路方块兽SMP",
+    "Velo's: Smog & Steel": "Velo的：烟雾与钢铁",
     "ABCSMP": "ABC生存模式",
+    "Arcane Mechanics": "神秘机械",
+    "RU teams": "RU团队",
+    "The Blocking Dead": "阻挡亡灵",
     "Tiny Swords!": "迷你剑！",
     "Cobblemon Kanto": "方块龙 关东",
     "Green Items": "绿色物品",
+    "QuickTag": "快速标签",
     "CobbleSky": "圆石天空",
     "Icy's Better Horses Ukrainian Localization": "冰之良驹乌克兰本地化",
     "Infinitrix Evolution": "无限进化",
     "Adi's Cobblemon Server": "Adi的方块龙服务器",
     "MaKo SMP": "MaKo极限生存",
+    "EasyCushions": "简易垫子",
     "Imperium SMP": "帝国 SMP",
+    "LivingBlueprints": "动态蓝图",
     "Mortium Zombie Apocalypse": "莫提乌姆僵尸末日",
+    "Bloom Crates": "开花箱子",
+    "[ANSUM Lite] A Not-so Simple Upgrade to Minecraft": "[ANSUM Lite] Minecraft的一个不简单的升级",
+    "LxFreeze": "Lx冻结",
     "Forever worlds": "永恒世界",
     "Deep Aether : Glow Ores": "深层以太：发光矿石",
+    "SecureGens": "安全生成器",
+    "ExRtp": "ExRtp",
+    "Cash Flow": "现金流",
     "Class 345 Realistic Legacy Sounds": "345型真实旧版音效",
+    "NightVision | By Omega Plugins": "夜视 | 由Omega插件提供",
+    "Basic Performance": "基本性能",
+    "Donut Payment Alerts": "甜甜圈支付提醒",
+    "zhou's restart": "周的重启",
     "Shardlight - Purple Flame": "碎片之光-紫色火焰",
     "Atlas SMP": "亚特拉斯生存模式",
     "Peschanic 10": "佩沙尼奇10",
     "CobbleChaos_SMP": "方块混乱SMP",
+    "Weather Craze": "天气狂热",
+    "VillagerPlants": "村民植物",
     "BridgeAPI Core": "BridgeAPI 核心",
     "Ultimate Chat": "终极聊天",
+    "Mob Despawn Fix": "怪物消失修复",
+    "EasyCopper": "简易铜",
     "Feywild Higher Spawn Rates": "费野更高出生率",
     "xDiscord": "xDiscord",
     "[RU] Ender Zoology Pack": "末地动物包",
@@ -1031246,20 +1032384,42 @@
     "Shardlight - Soul Fire": "碎片之光-灵魂之火",
     "Just Enough Enoughs": "足够足够",
     "ItzHomes": "Itz家园",
+    "ThunderJoin": "雷霆加入",
     "ViaBackwards Visuals - Resource Pack": "ViaBackwards 视觉-资源包",
+    "MobInteract": "怪物交互",
     "McGround HiTech #1": "McGround 高科技 #1",
     "StonedSMP": "石质生存",
     "Void Dimensions": "虚空维度",
     "D.Mine": "D矿",
+    "BanSystem": "封禁系统",
+    "IllagersVsMonsters": "村民对怪物",
     "Diplocraft": "双生Craft",
     "Colourful fog": "彩色雾",
+    "Bank System": "银行系统",
     "Avatar: The Last Buildbenders": "最后的建造者",
+    "Bloom Spawners": "开花刷怪器",
+    "Cull Everything": "清除一切",
+    "More Bread!": "更多面包！",
+    "GoodGrief": "天哪！",
+    "RBZ Duell": "RBZ 对决",
+    "AdvancedCrates": "高级宝箱",
     "La Patate Joueuse": "玩家土豆",
+    "MoreDifficulty": "更多难度",
+    "DAAjn PlayTimeRewards": "DAAjn 游戏时间奖励",
     "Blackspace Fantasy": "黑空幻想",
     "JARP": "JARP",
+    "Sell-GUI": "出售GUI",
+    "Truhenpost": "宝箱信使",
+    "Tovek Bounty": "Tovek赏金",
     "筑梦之旅": "筑梦之旅",
+    "FlowSmpS2": "FlowSmpS2",
+    "Momentum Break": "动量中断",
+    "RBZ Restart": "RBZ 重启",
+    "Exploding MOBS": "爆炸生物",
+    "DAAjn CommunityGoals": "DAAjn 社区目标",
     "FireSMP": "火焰生存模式",
     "Cobblemon Eternals": "圆石兽永恒",
+    "Morph Plugin": "形态插件",
     "AsungX Network": "AsungX网络",
     "Creating": "创造中",
     "Better Diminishing Tool": "更好的递减工具",
@@ -1031267,6 +1032427,9 @@
     "TFTH FORSAKEN": "TFTH 遗弃之地",
     "Gatestation": "测试站",
     "Birb SMP": "鸟SMP",
+    "The Bare Essentials": "基本要素",
+    "ChatStyle": "聊天风格",
+    "Automate Create": "自动化机械动力",
     "WarCats": "战争猫猫",
     "Cobblemon2026.": "圆石龙2026.",
     "WGLocale": "WG 区域",
@@ -1031274,11 +1032437,18 @@
     "Quality Of Life Enchants": "生活便利附魔",
     "create: your dreams.": "创造你的梦想",
     "Royaume Empire": "罗亚尔帝国",
+    "ZorviShop": "Zorvi商店",
+    "Orbital SMP": "轨道生存模式",
+    "Crown smp": "皇冠生存模式",
     "Shinobi Realms Reborn": "忍界重生",
     "Cobble Hydra": "圆石海德拉",
     "MVDP": "MVDP",
+    "Kadly - KillStreak": "Kadly - 连杀模式",
     "Inxects Create": "感染创造模式",
+    "DAAjn Quests": "DAAjn 任务",
     "McGround TechnoMagicRPG #1": "麦格罗恩科技魔法RPG #1",
+    "SyalsDelight-CE": "SyalsDelight-CE",
+    "Craft Attegg": "Craft Attegg",
     "JHHE": "JHHE",
     "HeXHub.net": "HeXHub.net",
     "The vital trade": "关键贸易",
@@ -1031348,6 +1032518,7 @@
     "Create Aero+": "机械动力Aero+",
     "MCEarth": "MC地球",
     "Frontier SMP": "边境生存模式",
+    "Landfall SMP": "登陆生存模式",
     "SoupSMP": "汤汤生存模式",
     "JKT CITY": "JKT城市",
     "Lucky SMP": "幸运生存模式",
@@ -1031545,6 +1032716,7 @@
     "BloodlineSMP": "血统生存",
     "FOLENEY SMP": "FOLENEY SMP",
     "M5LBSMP": "M5LB SMP",
+    "WonderRijk": "奇妙王国",
     "NillOne": "NillOne",
     "Void Survival": "虚空生存",
     "LitslSMP": "Litsl SMP",
@@ -1031753,6 +1032925,7 @@
     "Rise & Conquer": "崛起与征服",
     "PokeClash Cobblemon": "PokeClash宝可梦方块",
     "MINEGRAM ANARCHY SERVER S3": "MINEGRAM 无政府主义服务器 S3",
+    "Snowstorm - Legendary Weapon": "暴风雪 - 传奇武器",
     "WLBR SMP": "WLBR SMP",
     "Nullspawn": "虚空出生点",
     "Forge SMP": "Forge SMP",
@@ -1031968,6 +1033141,7 @@
     "Elkhorn Hollow": "麋鹿角谷",
     "ReefSMP": "珊瑚礁SMP",
     "Creation SMP": "创造SMP",
+    "FyreSMP": "火焰生存模式",
     "CosmoSMP": "宇宙生存模式",
     "NobleSMP": "贵族生存模式",
     "DIGIMANIA": "数码狂热",
@@ -1031989,6 +1033163,7 @@
     "Super SMP": "超级SMP",
     "RippleMC": "涟漪MC",
     "PixelSMP.dk": "像素SMP",
+    "NexusEconomy": "Nexus经济",
     "MoonSmp": "月亮SMP",
     "TownifyMC": "城镇化MC",
     "Aetheris": "以太瑞斯",
@@ -1032110,6 +1033285,7 @@
     "SoraMC": "索拉MC",
     "Moss & Moon": "苔藓与月亮",
     "Wintertale": "冬日传说",
+    "LUMINARIA SMP": "光辉生存模式",
     "Эденор приватный сервер": "伊德诺私人服",
     "SunWorld": "阳光世界",
     "Kier SMP": "基尔生存服",
@@ -1032811,6 +1033987,7 @@
     "Minecb.net": "Minecb.net",
     "SM.SMP": "SM生存模式",
     "Antiquus Mundus": "古老世界",
+    "BuildRPG": "建造RPG",
     "Hysteria Gaming": "狂喜游戏",
     "StarsMC SMP": "StarsMC生存模式",
     "MC不氪金联盟": "MC不氪金联盟",
@@ -1032952,6 +1034129,7 @@
     "Netherite SMP": "下界合金 SMP",
     "Moonvale": "月谷",
     "Relic MC": "遗物MC",
+    "Wafflemc": "煎饼MC",
     "Crystopia": "水晶之地",
     "deicide": "毁灭者",
     "Blossom Events": "绽放事件",
@@ -1033132,6 +1034310,7 @@
     "duckysmpjava": "Ducky SMP Java",
     "Pickscraft Network": "拾取工艺网络",
     "GeekMon Server": "GeekMon 服务器",
+    "MCA SMP": "MCA生存模式",
     "4i eSports": "4i 电子竞技",
     "wuai play": "Wuai Play",
     "Paradoxmc": "Paradoxmc",
@@ -1033316,6 +1034495,7 @@
     "Potato's Café": "土豆咖啡厅",
     "Minebloom": "矿物绽放",
     "Minecraft magyarul": "我的世界匈牙利语",
+    "Minezinho": "小矿工",
     "AtomSMP": "原子生存服",
     "NeX World": "NeX世界",
     "PixelPax SMP": "像素帕克斯生存模式",
@@ -1033324,6 +1034504,7 @@
     "Legacy Edition Minigames": "经典版小游戏",
     "Finnvian Network": "芬恩维安网络",
     "Skye Games": "斯凯游戏",
+    "JoinSuite": "JoinSuite",
     "LARP SMP": "LARP极限生存",
     "ZintuigenCraft": "ZintuigenCraft",
     "Vanilla Intense": "原味强化",
@@ -1089555,6 +1090736,7 @@
     "shacknews modpack": "Shacknews模组包",
     "kairi": "凯丽",
     "【mtr3】東急1000系|tokyu-1000": "【MTR3】东急1000系",
+    "domain of fade": "消逝领域",
     "tilted sun & moon": "倾斜的太阳和月亮",
     "modifier keybinds": "修改键绑定",
     "simple arrows": "简单箭矢",
@@ -1145314,6 +1146496,7 @@
     "revamped vanilla+": "翻新的香草+",
     "customspyglassmagnificationoverlay": "自定义望远镜倍率UI",
     "dangerous sulfur spikes": "危险硫磺刺",
+    "azi's fem model": "Azi女性模型",
     "chunguscraft": "巨怪工坊",
     "truffle pigs": "松露猪",
     "deepslatecutter": "深岩切割机",
@@ -1176859,6 +1178042,7 @@
     "monckie's animals": "MoNcKiE 的动物",
     "souls of might": "力量之魂",
     "villageralt": "村民替代",
+    "fast hotbar": "快速快捷栏",
     "unreal announcer for hypixel skyblock": "虚幻解说员(Hypixel空岛)",
     "corrupted totem": "腐化图腾",
     "rvisualboards": "r视觉板",
@@ -1177702,6 +1178886,7 @@
     "living water": "活水",
     "cool crits!": "酷炫暴击",
     "createful": "充满机械动力",
+    "cactus clicker plus": "仙人掌点击器+",
     "[ncb]新世纪道路方块": "[NCB]新世纪道路方块",
     "rudih's vanilla+ weapon expansion": "鲁迪的万用+武器扩展",
     "bajpack": "Baj包",
@@ -1180667,6 +1181852,7 @@
     "breeze rod recipe": "微风棍配方",
     "casualists' custom recipes": "休闲玩家自定义配方",
     "the blood expansion": "血之扩展",
+    "spear armor trims": "矛装甲装饰",
     "cloudy's storage": "Cloudy 的存储",
     "ancient controller": "古代控制器",
     "pointy": "尖锐的",
@@ -1190052,6 +1191238,7 @@
     "dye ore transmuter": "染料矿石变形器",
     "equipmisc": "装备杂项",
     "gerald the sniffer": "杰拉尔德嗅探者",
+    "antarchy delight": "无政府乐事",
     "gugaplus": "古加增强",
     "unhideflags": "取消隐藏标志",
     "ltranslate": "LTranslate",
@@ -1191696,6 +1192883,7 @@
     "glass birch doors and trapdoors": "玻璃桦木门和活板门",
     "paysign": "交易告示牌",
     "potion talisman": "药水护符",
+    "artisan machines": "工匠机械",
     "followed by tnt": "TNT 追踪",
     "worldtoggle": "世界切换",
     "completly useless mod": "完全无用的模组",
@@ -1192479,6 +1193667,7 @@
     "apxteam": "Apx团队",
     "vmvr's utiliities": "Vmvr的工具",
     "blacktotems": "黑色图腾",
+    "fakechestplate": "假胸甲",
     "vote tracker": "投票追踪器",
     "mbelt": "MBelt",
     "brotkrumen": "面包屑",
@@ -1194146,6 +1195335,7 @@
     "deepheart": "深海之心",
     "worldgamemode": "世界游戏模式",
     "one small rule": "一小条规则",
+    "death cinematics": "死亡电影",
     "hostile gen: shattered sky": "敌对生成：破碎天空",
     "rick prime rus": "里克普赖姆俄语版",
     "literally vanilla+": "真正原版+",
@@ -1194220,6 +1195410,7 @@
     "eevee4xboverlay": "Eevee4xb 叠加层",
     "whitelabeleconomy": "白标经济",
     "mwxv's blue": "Mwxv 的蓝色",
+    "immersive loading": "沉浸式加载",
     "modded weaponry slop": "模组武器杂乱",
     "yillw's hardcore hearts": "Yillw 的极限之心",
     "hostile gen: hollow deep": "敌对生成：空洞深处",
@@ -1194426,6 +1195617,7 @@
     "foreverworld vanilla++": "永恒世界香草++",
     "drank": "醉酒",
     "simpleafk+": "简易挂机+",
+    "3c: cogs, code & contraptions": "3C: 齿轮、代码与机械装置",
     "misc mining": "杂项采矿",
     "endropack": "末地资源包",
     "litmc": "LitMC",
@@ -1195136,6 +1196328,7 @@
     "levban's new hearts": "LevBan的新心形",
     "warden guard": "守卫守卫",
     "clean inv+": "简洁背包+",
+    "create: industrial revolution": "Create：工业革命",
     "shield down | low shield": "盾牌放下 | 低位盾牌",
     "staff bhop": "管理员弹跳",
     "sentries & sentinel": "哨兵与守卫",
@@ -1195392,6 +1196585,7 @@
     "crushed audio": "压碎音频",
     "prime pvp": "Prime Pvp",
     "claimcycle": "领地循环",
+    "rageplaysgames pollution series mods": "RagePlaysGames 污染系列模组",
     "vincentwt pyromancer pack": "VIncentWT 火焰法师包",
     "gathering torches became sunlight": "收集火炬变日光",
     "myserver": "我的服务器",
@@ -1195461,6 +1196655,7 @@
     "simple homing xp smooth": "简单归航XP平滑",
     "finn golem": "芬恩石像鬼",
     "anti-armorpack": "反装甲包",
+    "subterranean delights": "地下乐事",
     "better early loading": "更好的早期加载",
     "shiekah slate technologies": "希卡石板技术",
     "unstable smp underworld tower panorama": "不稳定SMP地下城塔全景",
@@ -1195617,6 +1196812,7 @@
     "bugknights textures": "bugknights纹理",
     "vanilla l.ll": "原版 l.ll",
     "twitchinteract": "Twitch交互",
+    "glitchcraft": "故障工艺",
     "nexylite": "奈克轻量光影",
     "febreze fps": "纺必适FPS",
     "mobs ianzao": "生物ianzao",
@@ -1195989,6 +1197185,7 @@
     "stay in the light": "留在光明中",
     "sesameworldeffect": "芝麻世界效果",
     "miningfatigue3fix": "挖掘疲劳 III 修复",
+    "recruits - null": "招募-空",
     "arkspawn": "方舟生成",
     "no potion throwing sound": "无药水投掷音效",
     "dragon egg random drop chance": "龙蛋随机掉落几率",
@@ -1196227,6 +1197424,7 @@
     "p31 copper rail pack": "P31 铜轨包",
     "archie menu": "ARCHIE菜单",
     "coresmp": "核心生存模式",
+    "luminous flashlights": "发光手电筒",
     "ascendant - client pack": "上升 - 客户端包",
     "tkillfx": "TKillFX",
     "crafting table": "工作台",
@@ -1196352,6 +1197550,7 @@
     "lubrucore": "Lubru 核心",
     "flying creativity": "飞翔的创造力",
     "nightcode - spawn": "夜码 - 出生点",
+    "player blocks": "玩家方块",
     "harmless creepers": "无害爬行者",
     "sensible smelting": "明智的熔炼",
     "pyrominions": "火焰小鬼",
@@ -1196538,6 +1197737,7 @@
     "graveln totem of undying": "砾岩不朽图腾",
     "nexorartp": "NexoraRTP",
     "dwok's capture the flag utilites": "夺旗工具",
+    "oreganized gothic": "奥古斯丁哥特",
     "mainstay base modopack": "支柱基础模组包",
     "better create patina pipes": "更好的机械动力铜锈管道",
     "punish": "惩罚",
@@ -1196575,6 +1197775,7 @@
     "pride pearls: gay (right, dark)": "骄傲珍珠：同性恋（右，暗）",
     "ernews": "新闻",
     "utubysdog101 create aeronautics": "乌图比斯多格101机械动力航空",
+    "oreganized core": "奥古斯丁核心",
     "living lights": "活体光源",
     "blue gui screen": "蓝色GUI屏幕",
     "ithkuil translation": "Ithkuil翻译",
@@ -1196846,10 +1198047,12 @@
     "builder's burden": "建造者负担",
     "auto broadcast": "自动广播",
     "steve58936's spells": "steve58936的咒语",
+    "tgzjdv's chat": "TGZJDV聊天",
     "cozyhub": "舒适中心",
     "silent copper golems and chests": "静音铜像与箱子",
     "more pvp items": "更多PvP物品",
     "hexcassetes (ported)": "六边形磁带",
+    "oreganized plumbum": "奥古斯丁铅",
     "afkshop": "AFK商店",
     "epv": "增强玩家视图",
     "toolsplugin": "工具插件",
@@ -1196895,6 +1198098,7 @@
     "jarfetcher": "Jar获取器",
     "happy striders!": "快乐行者！",
     "broken equipment": "损坏装备",
+    "one night to die": "一夜死亡",
     "miqimc-time announcement": "Miqimc-时间公告",
     "shadow of optimization": "优化之影",
     "pride pearls: 6 color rainbow (left, dark, inverted)": "骄傲珍珠：6色彩虹（左，暗，反转）",
@@ -1197028,6 +1198232,7 @@
     "bigender pride flag hearts (5-color vertical)": "双性恋骄傲旗帜心形（5色垂直）",
     "power points": "能量点数",
     "emi-ae2ui": "EMI-AE2UI",
+    "assembly line s3": "装配线S3",
     "rewardsign": "奖励标志",
     "no dropped items": "无掉落物品",
     "the ultimate rainbow pack": "终极彩虹包",
@@ -1197061,6 +1198266,7 @@
     "ecorce": "树皮",
     "graveguard": "墓碑守护",
     "truefalsequiz": "真伪问答",
+    "simply cinematics": "简单电影",
     "ime": "输入法编辑器",
     "disenchanted": "解除附魔",
     "bedrock : redesigned": "基岩：重制版",
@@ -1197137,6 +1198343,7 @@
     "aegisguard": "神盾守卫",
     "dragonhologram": "龙全息图",
     "mcast - commanddump": "Mcast - 命令转储",
+    "oreganized glance": "奥古斯丁瞥见",
     "customdeath": "自定义死亡",
     "orange pumpkin overlay": "橙色南瓜叠加",
     "purplest pack pvp": "最紫PVP包",
@@ -1197152,6 +1198359,7 @@
     "salvo me salva totem (java port)": "SALVO ME SALVA TOTEM（Java端口）",
     "dutch totem of undying": "Dutch 不死图腾",
     "aeropunk": "飞艇朋克",
+    "clary hud": "清晰HUD",
     "side b discs": "B面唱片",
     "safe": "安全",
     "splatcraft modpack resource": "喷射工艺整合包资源",
@@ -1197205,6 +1198413,7 @@
     "lootbuyer": "战利品购买者",
     "advancementbuttoncustomcommand": "进度按钮自定义命令",
     "hardskeletonnerf": "困难骷髅削弱",
+    "easy item positions": "物品位置简易",
     "pride wood": "骄傲木材",
     "bedrockstuff italian translation": "BedrockStuff 意大利语翻译",
     "soniceggman419resourcepack": "soniceggman419资源包",
@@ -1197253,6 +1198462,7 @@
     "easy commands acces": "简易命令访问器",
     "jadebridge": "玉桥",
     "clayworks x visual workbench compat (pottery table fix)": "陶艺工作室 x 可视化工作台兼容 (陶艺台修复)",
+    "oreganized argentum": "奥古斯丁银",
     "betaachievement": "Beta成就",
     "guild panorama": "公会全景",
     "swat pack": "特警包",
@@ -1197285,6 +1198495,7 @@
     "merkatin": "Merkatin",
     "joins+": "加入+",
     "randumbox item texturepack": "RANDUMBOX物品纹理包",
+    "jukebox playlists": "点唱机播放列表",
     "nether wart to beetroot": "下界疣变甜菜根",
     "isat gui x applskin compatability": "ISAT GUI x Applskin兼容",
     "quality bonery": "品质熔炉",
@@ -1197385,6 +1198596,7 @@
     "noconfirmationdialogs": "无确认对话框",
     "quad totem": "四联图腾",
     "many translations": "众多翻译",
+    "oreganized antiques": "奥古斯丁古董",
     "huge bread": "巨型面包",
     "safetpfirewall": "安全传送防火墙",
     "mountmemory": "内存挂载",
@@ -1197484,6 +1198696,7 @@
     "randmon block is op": "随机方块是OP",
     "nails on planks": "木板上的钉子",
     "vaultsync": "保险库同步",
+    "relicforged": "遗物锻造",
     "pedestal_engine_texture_pack": "基座引擎材质包",
     "customcrates": "自定义箱子",
     "mcsr-safe catppuccin ui": "MCSR兼容的Catppuccin界面",
@@ -1197506,6 +1198719,7 @@
     "wingpvp": "翅膀PvP",
     "valspvpaddon": "ValsPvP插件",
     "hexachatgame": "Hexa聊天游戏",
+    "oreganized electrum": "奥古斯丁琥珀",
     "endboss": "最终Boss",
     "v's player contract plugin": "V的玩家契约插件",
     "thomes": "T家园",
@@ -1197541,12 +1198755,15 @@
     "better glint in my opinion": "我认为更好的闪光",
     "zombie pigman  buff": "僵尸猪人加强",
     "susmenu": "sus菜单",
+    "tie's horror": "tie的恐怖",
     "companionpets": "伙伴宠物",
+    "100 days in a wasteland minecraft hardcore": "废土100天生存模式",
     "new moon and sun": "新月与太阳",
     "arboreal": "树木相关",
     "dnc - dungeons & cobblemons (beta)": "DnC - 地下城与圆石兽（测试版）",
     "grass & moss flowers (pink)": "草与苔藓花（粉）",
     "healthsteal": "偷取生命值",
+    "simpledifficulty reforged": "简易难度重铸",
     "lava recipes": "岩浆食谱",
     "alycatstar hearts": "阿利猫星之心",
     "caillou & rosie wither storm": "卡伊卢与罗西枯萎风暴",
@@ -1197558,6 +1198775,7 @@
     "create: encapsulated gravelmon": "机械动力：封装的砾石兽",
     "horse nerf spear": "马匹削弱矛",
     "sakuraz rtp": "樱花Z RTP",
+    "true seed randomizer": "真实种子随机器",
     "melonization": "蜜瓜化",
     "blaze pvp pack": "烈焰PVP包",
     "eyes for warden": "守卫之眼",
@@ -1197602,6 +1198820,7 @@
     "transfer plus": "传输增强",
     "findblock": "寻块",
     "bigender pride flag tooltip (frame-only alt-bg 5-color)": "双性恋骄傲旗帜提示（仅框架 5色替代背景）",
+    "cloudish's vanilla plus": "Cloudish的纯净版+",
     "anvil to whetstone": "铁砧到磨刀石",
     "hubpilot interact": "大厅交互",
     "whait mobs can talk now": "怪物现在能说话了",
@@ -1197627,6 +1198846,7 @@
     "cobblemaxxing": "圆石最大化",
     "rotten gui *unfinished!*": "腐烂GUI *未完成!*",
     "blue pvp texture pack": "蓝色PVP纹理包",
+    "vista dialogs": "视窗对话框",
     "smecubiki": "斯梅库比奇",
     "loot crates": "战利品箱",
     "noslothoverhighlight": "无槽位悬停高亮",
@@ -1197639,6 +1198859,7 @@
     "adminwarps": "管理员传送",
     "ele-melons": "电瓜",
     "ancient debris to netherite ore + borders": "远古残骸变下界合金矿石+边框",
+    "midnight economy": "午夜经济",
     "chroustpa": "ChrousTPA",
     "dimensional lock": "维度锁",
     "captureegg": "捕获蛋",
@@ -1197693,6 +1198914,7 @@
     "archivestore": "存档存储",
     "enchant roulette": "附魔轮盘",
     "do you like sharks? uwu": "你喜欢鲨鱼吗？UWU",
+    "ice slabs": "冰板",
     "cutscene studio": "剪辑场景工作室",
     "ns signs": "NS 标签",
     "odysseybr oficial": "奥德赛官方",
@@ -1197743,9 +1198965,12 @@
     "ot pvp toggle": "OT PvP 切换",
     "genesis cosmetics": "起源饰品",
     "elevate": "提升",
+    "experimental weapons": "实验武器",
     "sable wizard": "乌木巫师",
     "mumbo suspicious sand and gravel": "姆博可疑沙石",
     "lang": "语言",
+    "timeless echoes": "永恒回音",
+    "2 fps": "2fps",
     "nemo's campfires ashen compat": "尼莫的营火灰烬兼容",
     "pvpclubfriendshud": "PvP 俱乐部好友 HUD",
     "modded overlap compat": "修改重叠兼容",
@@ -1197754,6 +1198979,7 @@
     "tradeultimate": "交易终极版",
     "simplistic creepers": "简约的爬行者",
     "reclaim your axes! (for hypixel skyblock)": "夺回你的斧头！ (Hypixel空岛)",
+    "applied flow": "应用流",
     "globetrotter - enchanted book (map stitch)": "环球旅行者 - 附魔书（地图缝合）",
     "hutilities": "H实用工具",
     "snow brick igloos": "雪砖圆顶屋",
@@ -1197766,7 +1198992,9 @@
     "chorus trade": "紫颂交易",
     "more sticks": "更多木棍",
     "eternasmp": "永恒生存服",
+    "red velvet": "红丝绒",
     "gosmp": "GoSMP",
+    "max's client side pack": "Max客户端包",
     "better ping display legacy": "更好的ping显示遗产",
     "speaki's staff": "斯佩基法杖",
     "ratster utils": "Ratster 工具包",
@@ -1197779,10 +1199007,12 @@
     "fish in chaps": "穿着裤子的鱼",
     "create radars: industrial iron": "创造雷达：工业铁",
     "cr-survivor's arsenal на русском": "CR-幸存者军火库 俄语版",
+    "optimotion": "Optimotion",
     "lightclearlag": "轻量级去抖动",
     "chickjoin": "Chickjoin",
     "o9f": "o9f",
     "kromize": "Kromize",
+    "nothing to worry about": "无需担忧",
     "zagamonitor": "Zaga监控",
     "mimes combat textures": "模仿战斗纹理",
     "cool as ice weapons!": "冰酷武器！",
@@ -1197793,6 +1199023,7 @@
     "some jars": "一些罐子",
     "better teraccotas": "更好的陶瓦",
     "raycastedantiesp-bridge": "射线投射反ESP-桥接器",
+    "uncraftable food recipe ufr": "不可合成食物配方 UFR",
     "costlytp": "昂贵的TP",
     "the high council mod": "高级议会模组",
     "playtimeadvanced": "高级游玩时间",
@@ -1197817,6 +1199048,7 @@
     "shinobiodyssey clans": "忍者奥德赛部落",
     "gloreapi": "GloreAPI",
     "tvv tweaks": "TVV 修改",
+    "oreganized armament": "有组织的装备",
     "wcs ntm smp": "WCS NTM生存模式",
     "dykta-tools": "dykta工具",
     "enderpages": "末影书页",
@@ -1197864,11 +1199096,14 @@
     "neon clans": "霓虹部落",
     "hiking gear": "徒步装备",
     "purple wizard hotbar": "紫色巫师快捷栏",
+    "trailbound": "荒野之旅",
     "brick craft completion": "砖块工艺完成",
+    "nexrules": "Nex 规则",
     "prismundo": "棱镜撤销",
     "groovy world": "酷炫世界",
     "sunrise gardening": "日出园艺",
     "admin logs": "管理员日志",
+    "revoltmc cobblemon": "石兽",
     "customarcheology": "自定义考古",
     "anvilcraft: twenty minute ionocraft": "AnvilCraft: 二十分钟离子飞船",
     "the esther totem resource pack": "以斯帖图腾材质包",
@@ -1197889,9 +1199124,11 @@
     "dogoni: tag minigame": "Dogoni: 标签小游戏",
     "roxmenu": "Rox菜单",
     "orbital shape cannon": "轨道塑形炮",
+    "accuratemanhunt": "精确追捕",
     "ekontrol": "EKontrol",
     "ramadan delight recipe fix": "斋月快乐食谱修复",
     "prismspawn": "棱镜生成器",
+    "tepox trade cycler": "Tepox 贸易循环器",
     "food recycled": "食物回收",
     "happy happy ghast": "快乐快乐幽灵",
     "story mode beta super tnt textures": "故事模式测试版超级TNT材质",
@@ -1197942,6 +1199179,7 @@
     "slowdown": "减速",
     "noadmin": "无管理员",
     "heartbounty": "心赏金",
+    "aware": "警觉",
     "fruit fly plays mc": "果蝇玩Minecraft",
     "interns smp": "实习生生存模式",
     "metajobs": "元工作",
@@ -1197957,6 +1199195,7 @@
     "companions": "伙伴",
     "undead unleashed - spawn weight config": "亡灵释放生成配置",
     "theos smp recreation": "提奥斯生存服重现",
+    "minetas (modpack)": "矿工时间加速器（模组包）",
     "simply better (series)": "简单优化系列",
     "real end bricks": "真实末地砖",
     "lonelykoth": "孤独的KOTH",
@@ -1198027,6 +1199266,7 @@
     "wolf anatomy": "狼解剖学",
     "contractboard": "合同板",
     "contextrun": "上下文运行",
+    "tepox cosmetic armor": "Tepox 造型装甲",
     "catfish's tweaks": "猫鱼调整",
     "drake smp": "龙族SMP",
     "oneblock community": "单块社区",
@@ -1198082,6 +1199322,7 @@
     "fluid drawers": "流体抽屉",
     "velopro": "VeloPRO",
     "cobblemon ascent": "石兽上升",
+    "dirt++": "泥土++",
     "nexshop": "Nex商店",
     "void inventory": "虚空库存",
     "simple shared villager discounts": "简单共享村民折扣",
@@ -1198096,6 +1199337,7 @@
     "matcha's oceanic delight": "抹茶的海洋乐趣",
     "worldedit-aliases": "世界编辑别名",
     "bedrockriser": "基岩升降机",
+    "orbitalstrikecannons plugin": "轨道打击炮插件",
     "simplecombat": "简单战斗",
     "orevolution compat": "Orevolution兼容",
     "cobbilities": "圆石能力",
@@ -1198109,8 +1199351,10 @@
     "astral ancient debris": "星界古代残骸",
     "thirst system": "口渴系统",
     "greenwood mods": "绿木模组",
+    "insufferable remarks": "无法忍受的评论",
     "horror colonies": "恐怖殖民地",
     "easy stone brick recipes": "简易石砖配方",
+    "tepox dehydrator gun": "Tepox 脱水枪",
     "skylease": "天空租赁",
     "easy subtitle": "简易字幕",
     "rubys additions: musical tweaks": "Ruby 增加项：音乐调整",
@@ -1198127,6 +1199371,7 @@
     "ride": "骑行",
     "trackless-cart": "无轨手推车",
     "turbotrust reborn": "涡轮信任重生",
+    "auto block crafter mod": "自动方块工匠模组",
     "dystopic client": "反乌托邦客户端",
     "psword": "PSword",
     "santa hats for mobs (fa)": "怪物圣诞帽（FA）",
@@ -1198135,6 +1199380,7 @@
     "legendary delight overhaul": "传说之乐重制",
     "lubo cursor": "Lubo光标",
     "archiveguard": "存档守护者",
+    "minesociety": "矿社",
     "dragonmine z - venus universe": "龙矿Z-金星宇宙",
     "site-b103k official modpack": "站点-B103K 官方模组包",
     "crownarena": "皇冠竞技场",
@@ -1198145,6 +1199391,7 @@
     "playerless stray arrows of slowness": "无玩家漂泊减速箭",
     "potisarn totem": "Potisarn图腾",
     "deep in autumn": "深秋",
+    "redstone loot": "红石战利品",
     "simple craft potion arrows": "简易药水箭合成",
     "sharedcooldowns": "共享冷却",
     "simple rtpq": "简单rtpq",
@@ -1198162,6 +1199409,7 @@
     "sharp selection buttons": "锐利选择按钮",
     "customticket": "自定义票据",
     "like a whte cherry": "像一朵白樱花",
+    "purgatory redux": "炼狱重制版",
     "autoloader": "自动加载器",
     "custom moonglade marsh": "自定义月影沼泽",
     "pyrehaven": "火堆避风港",
@@ -1198171,6 +1199419,7 @@
     "sad totem": "悲伤图腾",
     "anti blindness remover": "抗盲除器",
     "stashify": "储藏",
+    "strestart": "重启",
     "socketedstandardexpansion": "插槽标准扩展",
     "excombat": "ex战斗",
     "flains": "Flains",
@@ -1198178,6 +1199427,8 @@
     "firsthour lite": "第一小时轻量版",
     "greeny": "翠绿",
     "zonifiedbeta": "区域化测试版",
+    "totem pack": "图腾包",
+    "zillemattically optimized": "Zillemattically 优化",
     "dynamic seasons survival": "动态季节生存",
     "tick boost": "刻度提升",
     "traveler's home": "旅者之家",
@@ -1198197,6 +1199448,7 @@
     "chestsell": "箱子出售",
     "treechopper/survival extantion": "树砍器/生存扩展",
     "vanya pack": "瓦尼亚包",
+    "naturalist patched": "自然主义者补丁",
     "no copper sounds": "无铜块音效",
     "matthaucraft": "MatthauCraft",
     "fastgrind": "快速研磨",
@@ -1198207,10 +1199459,13 @@
     "chorus sit": "紫影果坐下",
     "utilmount": "实用坐骑",
     "cobblemoon": "圆石月",
+    "crystal pvp perfect modpack (cpvp)": "水晶PvP完美模组包（CPVP）",
     "rotating turquiose crosshair": "旋转绿松石准星",
+    "the ducks mods": "鸭子模组",
     "rails to ropes": "轨道变绳索",
     "crucifix sword": "十字架剑",
     "chat radius": "聊天半径",
+    "coin's minecraft complete [alpha]": "Coin的Minecraft完整版[Alpha]",
     "quickrtp": "快速随机传送",
     "create officers cap": "机械动力军官帽",
     "spearnottired": "矛不疲倦",
@@ -1198218,8 +1199473,10 @@
     "bibi bank": "Bibi银行",
     "raptorac": "猎鹰AC",
     "rtpx": "RtpX",
+    "flowstate origins": "流态起源",
     "discordmenu": "Discord菜单",
     "autoorganize": "自动整理",
+    "legacy mouse tweaks ornithe": "遗产鼠标调整 Ornithe",
     "softtouch": "柔和触碰",
     "iron pvp": "钢铁PvP",
     "mace roulette": "狼牙棒轮盘",
@@ -1198231,6 +1199488,7 @@
     "jason primal server": "Jason原始服务器",
     "bekkemacraft": "贝克玛工坊",
     "re-railed create": "机械动力：重轨",
+    "umc enhanced": "UMC增强版",
     "slowsurvival": "慢速生存",
     "oxidized copper lantern": "氧化铜灯笼",
     "everything missing!": "缺失一切！",
@@ -1198254,6 +1199512,7 @@
     "please crash my game": "请崩溃我的游戏",
     "sentinellag": "哨兵延迟",
     "zencraftv2": "禅宗工艺V2",
+    "dopey craft [fabric]": "Dopey Craft [FABRIC]",
     "isrewards": "iS奖励",
     "aether : glow ores": "以太：发光矿石",
     "advancedquests": "高级任务",
@@ -1198270,16 +1199529,21 @@
     "geomc": "地缘MC",
     "svilent textures": "Svilent材质",
     "joinflow": "加入流程",
+    "practical performance": "实用性能",
+    "automute": "自动静音",
     "mortiklibrary": "莫蒂克库",
     "bocraft": "BoCraft",
+    "foxxboyy's road mod": "FoxxBoyy 的道路模组",
     "revert new jukebox": "恢复新点唱机",
     "cancel trial cooldown": "取消试用冷却",
     "wild west rp": "狂野西部角色扮演",
+    "beta modpack": "测试版模组包",
     "levelplugin": "等级插件",
     "useful & usable": "有用且可用",
     "prefixplus+": "PrefixPlus+",
     "orb & fire": "球体与火焰",
     "elemental paintings in survival": "生存中的元素画作",
+    "floodpass": "洪水通行证",
     "easier glass": "更容易的玻璃",
     "feruchemy plugin resource pack": "法术资源包",
     "sugarmeal": "糖餐",
@@ -1198287,6 +1199551,7 @@
     "perceptible potions - no unique feathers": "感知药水 - 无独特羽毛",
     "amplified nether air pressure fix": "放大下界气压修复",
     "netheritestone": "下界测试石",
+    "bloom auto pickup": "花朵自动拾取",
     "hivenest": "蜂巢",
     "shared discounts": "共享折扣",
     "realmiplus": "RealmiPlus",
@@ -1198294,11 +1199559,15 @@
     "ztpa": "zTPA",
     "cawcing's survival modpack": "cawcing 的生存模组包",
     "kubejs chest item": "KubeJS 胸甲物品",
+    "fall": "坠落",
+    "dh quality of life server modpack": "DH生活品质服务器模组包",
     "dark rubyglass": "暗红宝石玻璃",
     "smorkiitemblacklist": "物品黑名单",
     "vcresourcepacks": "VC资源包",
     "ch network": "CH 网络",
     "absolute silence disc for murder drones: origins": "绝对寂静唱片：起源的谋杀无人机",
+    "hotbar lock mod (hlm)": "热栏锁定模组 (HLM)",
+    "grow a block": "生长一个方块",
     "chorusenderchest": "紫颂末影箱",
     "scp: site-86 [alpha]": "SCP：86号站点",
     "safechat by lift": "Lift的安全聊天",
@@ -1198317,6 +1199586,7 @@
     "arcadesky": "街机天空",
     "origin realms original spears": "起源国度原版长矛",
     "latinized kyrgyz": "拉丁化吉尔吉斯语",
+    "begone!": "滚开！",
     "openrail": "开放铁路",
     "swap trade": "交换交易",
     "lentrepote": "仓库",
@@ -1198329,6 +1199599,7 @@
     "phantom journeys": "幻影之旅",
     "guard villagers ashen compat": "守卫村民灰烬兼容",
     "vr craft resource pack": "VR Craft 资源包",
+    "kill button": "杀戮按钮",
     "brassworks: lumin's reimagined": "铜器工坊：卢明的重塑",
     "real craftings": "真实合成",
     "chorushome": "紫影家园",
@@ -1198351,6 +1199622,9 @@
     "create: precision progression": "精准进阶",
     "buyshards": "购买碎片",
     "nitnys smaller shield": "nitnys小盾牌",
+    "monocraft font": "Monocraft 字体",
+    "sf's bettermining": "SF 的更好采矿",
+    "elytra 2 swimming": "鞘翅 2 游泳",
     "chorusrtp": "紫影随机传送",
     "grass & moss flowers (orange)": "草与苔藓花（橙）",
     "wild life mario hat": "野生动物马里奥帽",
@@ -1198361,12 +1199635,16 @@
     "vanillaxserver": "原版X服务器",
     "bathomes": "蝙蝠家园",
     "redstoneevents": "红石事件",
+    "create: better automation": "Create：更好的自动化",
     "ivy bay": "常春藤湾",
     "dontsleep": "禁止睡觉",
     "stone to diamond ore recipe": "石头到钻石矿石配方",
+    "gribley's cinematic experience": "Gribley的影院体验",
     "precreate": "预创建",
     "iconoclasts supplementaries wrench": "破坏者辅助扳手",
     "via romana ashen compat": "罗马之路灰烬兼容",
+    "jabe's structure forge": "Jabe 的结构锻造",
+    "satchels 1.12.2 port": "背包 1.12.2 版本",
     "[creative]staxhes (xinghe)": "创造服Staxhes(星河)",
     "dots everywhere": "点点皆是",
     "cobblemon reload": "方块宝可梦重载",
@@ -1198375,14 +1199653,18 @@
     "gunpvp": "枪战PVP",
     "chat card": "聊天卡",
     "better bulgarian translations": "更好的保加利亚语翻译",
+    "wonderland.jar enhanced": "Wonderland.jar增强版",
     "jp_hd flame": "JP高清火焰",
     "knchat": "KN聊天",
     "direct messages": "直接消息",
     "bhupaw's simple hearts": "Bhupaw的简约生命值",
     "packchooser": "包选择器",
     "civ alliance": "文明联盟",
+    "the forge": "锻造台",
+    "afkzoneplugin": "自动挂机插件",
     "cleverfox": "聪明狐狸",
     "loes01's vanilla plus": "loes01的vanilla plus",
+    "sf's soulbound": "灵魂绑定",
     "retextured unflavoured pipes": "无味管道重制材质",
     "utilityblocksultimate": "实用方块终极版",
     "nhc smp": "NHC SMP",
@@ -1198392,8 +1199674,10 @@
     "zack_bounty": "zack赏金",
     "slag n' embers compat": "熔渣与火星兼容",
     "customnametag": "自定义标签",
+    "xion restaurant": "辛餐厅",
     "desafiosplugin": "挑战插件",
     "uncluttered essential": "无杂乱必需品",
+    "offroad: copycaatwheels": "越野车：仿制轮子",
     "grass & moss flowers (yellow)": "草与苔藓花（黄）",
     "the mandalorian music disc": "曼达洛人音乐唱片",
     "shadowstaff": "阴影法杖",
@@ -1198408,12 +1199692,14 @@
     "playerless rabbit feet": "无玩家兔脚",
     "animal hearts": "动物生命值",
     "simply swords - awakening fix": "简易剑 - 觉醒修正",
+    "machinesmp - official modpack": "MachineSMP - 官方模组包",
     "modern coral textures for 18w09a": "18w09a现代珊瑚材质",
     "flowstate lite": "轻量流状态",
     "хрєкотрон mobile": "赫科特隆移动版",
     "bowbash": "弓击",
     "re shards": "重碎片",
     "larpsmp": "即兴生存模式",
+    "create for noobs and pros": "新手与老手适用的create",
     "playerless nautilus shell": "无玩家鹦鹉螺壳",
     "ivy's autowalk": "艾薇的自动行走",
     "sherds copy": "碎片复制",
@@ -1198421,20 +1199707,28 @@
     "az_protection": "Az保护",
     "px8916's creeper retexture": "PX8916的爬行者重纹理",
     "sensible structure tweaks": "结构微调",
+    "not enough glyphs: missile rebalance": "符文不足：导弹平衡调整",
+    "visible ancient debris and transparent lava": "可见的古代遗迹和透明的岩浆",
     "wool reshaped": "羊毛重塑",
+    "patchnicknames": "昵称修复",
     "or, better guide ranks": "或，更好的指南等级",
     "fairmon": "Fairmon",
+    "pvppulse ultimatepvp  modpack": "PvPPulse终极PvP模组包",
+    "rendition": "呈现",
     "tech server": "科技服务器",
+    "everything to do with maces (etdwm)": "所有关于战锤的事",
     "lunaris cobblemon": "月之圆石兽",
     "toxinsmp server": "毒素生存服务器",
     "cobblemonsoce": "石头兽 OCE",
     "jabs fixed mod + biomes o plenty compatibility patch": "刺痛修复模组+丰饶生物群系兼容补丁",
     "bobmcbob's kingdom": "Bobmcbob王国",
     "glarized": "Glarized",
+    "replenish": "补充",
     "everything is books": "万物皆书",
     "murch smp": "Murch生存模式",
     "v's +n+ weapons": "V的武器",
     "royxzea mc": "RoyxZea MC",
+    "ccweapons": "CC武器",
     "pgo gym [resources]": "PGO 健身房资源",
     "cinematic exploration": "电影探索",
     "wirelesssystem": "无线系统",
@@ -1198443,13 +1199737,16 @@
     "raw ores tweak - vanilla+mekanism+ie": "原始矿石调整 - Vanilla+Mekanism+IE",
     "fix mc-311836": "修复 MC-311836",
     "sorcercy": "巫术",
+    "dreamwalker's travels v2": "梦行者之旅v2",
     "juhaowan create server|据好玩机械动力服务器": "据好玩机械动力服务器",
+    "versionmesh": "版本网格",
     "bob's vanilla+": "Bob 的原版+",
     "zack x tpagui": "Zack与TPA界面",
     "war contry": "战争国家",
     "modernmc": "现代MC",
     "drink matcha refill": "抹茶饮品补充",
     "neapolitan create": "那不勒斯创世",
+    "starcatcher lite": "星捕手轻量版",
     "dexleaderboard": "Dex排行榜",
     "easier sand and gravel": "更容易的沙和砾石",
     "rubikraft": "鲁比克力场",
@@ -1198460,10 +1199757,14 @@
     "deathful eye": "死亡之眼",
     "cobble to moss": "圆石变苔藓",
     "coppice": "疏林",
+    "hugoautoafk": "Hugo自动挂机",
     "otpplease": "OTP请",
     "mimouni - smp": "Mimouni - 生存服",
+    "skyera applications": "SKYERA应用",
     "pinkiebattleroyale": "粉色大逃杀",
+    "guardac": "GuardAC",
     "val's xp cap": "val的经验上限",
+    "minecraft but with create aeronautics": "带有Create航空学的Minecraft",
     "deathcooldowntimer": "死亡冷却计时器",
     "wade's cobblemon": "瓦德的石头兽",
     "kinetic horizon": "动能地平线",
@@ -1198471,27 +1199772,50 @@
     "stormcraft-nl": "风暴工艺",
     "sink your friends' boats (datapack)": "让你的朋友船只沉没（数据包)",
     "kirby pinky pack": "Kirby粉红包",
+    "kits plugin": "套件插件",
+    "fakepresence": "虚假存在",
     "victory road cobblemon smp": "胜利之路方块兽SMP",
+    "velo's: smog & steel": "Velo的：烟雾与钢铁",
     "abcsmp": "ABC生存模式",
+    "arcane mechanics": "神秘机械",
+    "ru teams": "RU团队",
+    "the blocking dead": "阻挡亡灵",
     "tiny swords!": "迷你剑！",
     "cobblemon kanto": "方块龙 关东",
     "green items": "绿色物品",
+    "quicktag": "快速标签",
     "cobblesky": "圆石天空",
     "icy's better horses ukrainian localization": "冰之良驹乌克兰本地化",
     "infinitrix evolution": "无限进化",
     "adi's cobblemon server": "Adi的方块龙服务器",
     "mako smp": "MaKo极限生存",
+    "easycushions": "简易垫子",
     "imperium smp": "帝国 SMP",
+    "livingblueprints": "动态蓝图",
     "mortium zombie apocalypse": "莫提乌姆僵尸末日",
+    "bloom crates": "开花箱子",
+    "[ansum lite] a not-so simple upgrade to minecraft": "[ANSUM Lite] Minecraft的一个不简单的升级",
+    "lxfreeze": "Lx冻结",
     "forever worlds": "永恒世界",
     "deep aether : glow ores": "深层以太：发光矿石",
+    "securegens": "安全生成器",
+    "exrtp": "ExRtp",
+    "cash flow": "现金流",
     "class 345 realistic legacy sounds": "345型真实旧版音效",
+    "nightvision | by omega plugins": "夜视 | 由Omega插件提供",
+    "basic performance": "基本性能",
+    "donut payment alerts": "甜甜圈支付提醒",
+    "zhou's restart": "周的重启",
     "shardlight - purple flame": "碎片之光-紫色火焰",
     "atlas smp": "亚特拉斯生存模式",
     "peschanic 10": "佩沙尼奇10",
     "cobblechaos_smp": "方块混乱SMP",
+    "weather craze": "天气狂热",
+    "villagerplants": "村民植物",
     "bridgeapi core": "BridgeAPI 核心",
     "ultimate chat": "终极聊天",
+    "mob despawn fix": "怪物消失修复",
+    "easycopper": "简易铜",
     "feywild higher spawn rates": "费野更高出生率",
     "xdiscord": "xDiscord",
     "[ru] ender zoology pack": "末地动物包",
@@ -1198499,20 +1199823,40 @@
     "shardlight - soul fire": "碎片之光-灵魂之火",
     "just enough enoughs": "足够足够",
     "itzhomes": "Itz家园",
+    "thunderjoin": "雷霆加入",
     "viabackwards visuals - resource pack": "ViaBackwards 视觉-资源包",
+    "mobinteract": "怪物交互",
     "mcground hitech #1": "McGround 高科技 #1",
     "stonedsmp": "石质生存",
     "void dimensions": "虚空维度",
     "d.mine": "D矿",
+    "bansystem": "封禁系统",
+    "illagersvsmonsters": "村民对怪物",
     "diplocraft": "双生Craft",
     "colourful fog": "彩色雾",
     "avatar: the last buildbenders": "最后的建造者",
+    "bloom spawners": "开花刷怪器",
+    "cull everything": "清除一切",
+    "more bread!": "更多面包！",
+    "goodgrief": "天哪！",
+    "rbz duell": "RBZ 对决",
+    "advancedcrates": "高级宝箱",
     "la patate joueuse": "玩家土豆",
+    "moredifficulty": "更多难度",
+    "daajn playtimerewards": "DAAjn 游戏时间奖励",
     "blackspace fantasy": "黑空幻想",
     "jarp": "JARP",
+    "sell-gui": "出售GUI",
+    "truhenpost": "宝箱信使",
+    "tovek bounty": "Tovek赏金",
     "筑梦之旅": "筑梦之旅",
+    "flowsmps2": "FlowSmpS2",
+    "momentum break": "动量中断",
+    "rbz restart": "RBZ 重启",
+    "daajn communitygoals": "DAAjn 社区目标",
     "firesmp": "火焰生存模式",
     "cobblemon eternals": "圆石兽永恒",
+    "morph plugin": "形态插件",
     "asungx network": "AsungX网络",
     "creating": "创造中",
     "better diminishing tool": "更好的递减工具",
@@ -1198520,6 +1199864,9 @@
     "tfth forsaken": "TFTH 遗弃之地",
     "gatestation": "测试站",
     "birb smp": "鸟SMP",
+    "the bare essentials": "基本要素",
+    "chatstyle": "聊天风格",
+    "automate create": "自动化机械动力",
     "warcats": "战争猫猫",
     "cobblemon2026.": "圆石龙2026.",
     "wglocale": "WG 区域",
@@ -1198527,11 +1199874,18 @@
     "quality of life enchants": "生活便利附魔",
     "create: your dreams.": "创造你的梦想",
     "royaume empire": "罗亚尔帝国",
+    "zorvishop": "Zorvi商店",
+    "orbital smp": "轨道生存模式",
+    "crown smp": "皇冠生存模式",
     "shinobi realms reborn": "忍界重生",
     "cobble hydra": "圆石海德拉",
     "mvdp": "MVDP",
+    "kadly - killstreak": "Kadly - 连杀模式",
     "inxects create": "感染创造模式",
+    "daajn quests": "DAAjn 任务",
     "mcground technomagicrpg #1": "麦格罗恩科技魔法RPG #1",
+    "syalsdelight-ce": "SyalsDelight-CE",
+    "craft attegg": "Craft Attegg",
     "jhhe": "JHHE",
     "hexhub.net": "HeXHub.net",
     "the vital trade": "关键贸易",
@@ -1198600,6 +1199954,7 @@
     "create aero+": "机械动力Aero+",
     "mcearth": "MC地球",
     "frontier smp": "边境生存模式",
+    "landfall smp": "登陆生存模式",
     "soupsmp": "汤汤生存模式",
     "jkt city": "JKT城市",
     "lucky smp": "幸运生存模式",
@@ -1198794,6 +1200149,7 @@
     "bloodlinesmp": "血统生存",
     "foleney smp": "FOLENEY SMP",
     "m5lbsmp": "M5LB SMP",
+    "wonderrijk": "奇妙王国",
     "nillone": "NillOne",
     "void survival": "虚空生存",
     "litslsmp": "Litsl SMP",
@@ -1198999,6 +1200355,7 @@
     "rise & conquer": "崛起与征服",
     "pokeclash cobblemon": "PokeClash宝可梦方块",
     "minegram anarchy server s3": "MINEGRAM 无政府主义服务器 S3",
+    "snowstorm - legendary weapon": "暴风雪 - 传奇武器",
     "wlbr smp": "WLBR SMP",
     "nullspawn": "虚空出生点",
     "forge smp": "Forge SMP",
@@ -1199213,6 +1200570,7 @@
     "elkhorn hollow": "麋鹿角谷",
     "reefsmp": "珊瑚礁SMP",
     "creation smp": "创造SMP",
+    "fyresmp": "火焰生存模式",
     "cosmosmp": "宇宙生存模式",
     "noblesmp": "贵族生存模式",
     "digimania": "数码狂热",
@@ -1199234,6 +1200592,7 @@
     "super smp": "超级SMP",
     "ripplemc": "涟漪MC",
     "pixelsmp.dk": "像素SMP",
+    "nexuseconomy": "Nexus经济",
     "moonsmp": "月亮SMP",
     "townifymc": "城镇化MC",
     "aetheris": "以太瑞斯",
@@ -1199355,6 +1200714,7 @@
     "soramc": "索拉MC",
     "moss & moon": "苔藓与月亮",
     "wintertale": "冬日传说",
+    "luminaria smp": "光辉生存模式",
     "эденор приватный сервер": "伊德诺私人服",
     "sunworld": "阳光世界",
     "kier smp": "基尔生存服",
@@ -1200048,6 +1201408,7 @@
     "minecb.net": "Minecb.net",
     "sm.smp": "SM生存模式",
     "antiquus mundus": "古老世界",
+    "buildrpg": "建造RPG",
     "hysteria gaming": "狂喜游戏",
     "starsmc smp": "StarsMC生存模式",
     "mc不氪金联盟": "MC不氪金联盟",
@@ -1200187,6 +1201548,7 @@
     "netherite smp": "下界合金 SMP",
     "moonvale": "月谷",
     "relic mc": "遗物MC",
+    "wafflemc": "煎饼MC",
     "crystopia": "水晶之地",
     "deicide": "毁灭者",
     "blossom events": "绽放事件",
@@ -1200366,6 +1201728,7 @@
     "duckysmpjava": "Ducky SMP Java",
     "pickscraft network": "拾取工艺网络",
     "geekmon server": "GeekMon 服务器",
+    "mca smp": "MCA生存模式",
     "4i esports": "4i 电子竞技",
     "wuai play": "Wuai Play",
     "paradoxmc": "Paradoxmc",
@@ -1200549,6 +1201912,7 @@
     "potato's café": "土豆咖啡厅",
     "minebloom": "矿物绽放",
     "minecraft magyarul": "我的世界匈牙利语",
+    "minezinho": "小矿工",
     "atomsmp": "原子生存服",
     "nex world": "NeX世界",
     "pixelpax smp": "像素帕克斯生存模式",
@@ -1200557,6 +1201921,7 @@
     "legacy edition minigames": "经典版小游戏",
     "finnvian network": "芬恩维安网络",
     "skye games": "斯凯游戏",
+    "joinsuite": "JoinSuite",
     "larp smp": "LARP极限生存",
     "zintuigencraft": "ZintuigenCraft",
     "vanilla intense": "原味强化",
@@ -1200767,6 +1202132,6 @@
     "mastrisa smpr": "Mastrisa 生存模式R",
     "kelcorp's survival anarchy server": "Kelcorp生存无政府服务器"
   },
-  "count": 173053,
-  "en_collisions": 2330
+  "count": 173252,
+  "en_collisions": 2334
 }
