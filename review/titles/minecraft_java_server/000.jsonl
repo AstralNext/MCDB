@@ -2764,13 +2764,13 @@
 {"id":"myg3dbpb","en":"Querencia Network","zh_draft":"","zh_ai":"归属网络","zh_human":"","zh":"归属网络","status":"ai"}
 {"id":"rhJNnrjR","en":"PvPHQ","zh_draft":"","zh_ai":"PvPHQ","zh_human":"","zh":"PvPHQ","status":"ai"}
 {"id":"toJqsmub","en":"EX_arlowe_smp","zh_draft":"","zh_ai":"EX_arlowe生存模式","zh_human":"","zh":"EX_arlowe生存模式","status":"ai"}
-{"id":"lfgf8bgg","en":"RevoltMC Cobblemon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PcI2HtVd","en":"Automate Create","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"34RcxOua","en":"Landfall SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8TGZSRxg","en":"WonderRijk","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KNPZfQWE","en":"FyreSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"OI02Q0Di","en":"LUMINARIA SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"glfRiRnv","en":"BuildRPG","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"krkkIt8q","en":"Wafflemc","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qHOQOQgg","en":"MCA SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uUyU4YxX","en":"Minezinho","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"lfgf8bgg","en":"RevoltMC Cobblemon","zh_draft":"","zh_ai":"石兽","zh_human":"","zh":"石兽","status":"ai"}
+{"id":"PcI2HtVd","en":"Automate Create","zh_draft":"","zh_ai":"自动化机械动力","zh_human":"","zh":"自动化机械动力","status":"ai"}
+{"id":"34RcxOua","en":"Landfall SMP","zh_draft":"","zh_ai":"登陆生存模式","zh_human":"","zh":"登陆生存模式","status":"ai"}
+{"id":"8TGZSRxg","en":"WonderRijk","zh_draft":"","zh_ai":"奇妙王国","zh_human":"","zh":"奇妙王国","status":"ai"}
+{"id":"KNPZfQWE","en":"FyreSMP","zh_draft":"","zh_ai":"火焰生存模式","zh_human":"","zh":"火焰生存模式","status":"ai"}
+{"id":"OI02Q0Di","en":"LUMINARIA SMP","zh_draft":"","zh_ai":"光辉生存模式","zh_human":"","zh":"光辉生存模式","status":"ai"}
+{"id":"glfRiRnv","en":"BuildRPG","zh_draft":"","zh_ai":"建造RPG","zh_human":"","zh":"建造RPG","status":"ai"}
+{"id":"krkkIt8q","en":"Wafflemc","zh_draft":"","zh_ai":"煎饼MC","zh_human":"","zh":"煎饼MC","status":"ai"}
+{"id":"qHOQOQgg","en":"MCA SMP","zh_draft":"","zh_ai":"MCA生存模式","zh_human":"","zh":"MCA生存模式","status":"ai"}
+{"id":"uUyU4YxX","en":"Minezinho","zh_draft":"","zh_ai":"小矿工","zh_human":"","zh":"小矿工","status":"ai"}
