@@ -1839,24 +1839,24 @@
 {"id":"ZI1aZFmG","en":"Weather Craze","zh_draft":"","zh_ai":"天气狂热","zh_human":"","zh":"天气狂热","status":"ai"}
 {"id":"JHgTUF5t","en":"Kinetic","zh_draft":"","zh_ai":"动能","zh_human":"","zh":"动能","status":"ai"}
 {"id":"OaCfQ9mr","en":"The Bare Essentials","zh_draft":"","zh_ai":"基本要素","zh_human":"","zh":"基本要素","status":"ai"}
-{"id":"NQ7lw9ku","en":"Arts N Craft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"F1vD8vkc","en":"Wither`s improved vanilla","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"G9qFzPGH","en":"MinikitSophie's #LEGOGames30 World","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CT1QLGpf","en":"Epik's Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SKkBMKw9","en":"Only vanilla + animations","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UwR1fGeS","en":"Visuals For Mac","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XJcqwbJY","en":"Caramel","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kk938Qeh","en":"Citybuild+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2WGsQmtM","en":"LVanilla","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IuA1ec1h","en":"The Harpy Express: Fighter's Wathe","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"K1OZIsky","en":"Taco's Optimization Pack | Sodium","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"aoDamLMu","en":"Crealogy (Create Aeronautics)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xTneGuGA","en":"RSD","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zNrbwadn","en":"mine for you","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"A4f4UYE6","en":"Potatofied PC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rvpnbodB","en":"1947","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1EGG00ZW","en":"Kaypack I","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TRgAveYb","en":"Forever World","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ffHHPqfC","en":"Crealogy LITE","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Xc6RpRb9","en":"Crealogy SERVER","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Cm66PR1m","en":"Thauma","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"NQ7lw9ku","en":"Arts N Craft","zh_draft":"","zh_ai":"艺术与工艺","zh_human":"","zh":"艺术与工艺","status":"ai"}
+{"id":"F1vD8vkc","en":"Wither`s improved vanilla","zh_draft":"","zh_ai":"凋零改进的原版","zh_human":"","zh":"凋零改进的原版","status":"ai"}
+{"id":"G9qFzPGH","en":"MinikitSophie's #LEGOGames30 World","zh_draft":"","zh_ai":"MinikitSophie的#LEGOGames30世界","zh_human":"","zh":"MinikitSophie的#LEGOGames30世界","status":"ai"}
+{"id":"CT1QLGpf","en":"Epik's Modpack","zh_draft":"","zh_ai":"Epik模组包","zh_human":"","zh":"Epik模组包","status":"ai"}
+{"id":"SKkBMKw9","en":"Only vanilla + animations","zh_draft":"","zh_ai":"仅原版+动画","zh_human":"","zh":"仅原版+动画","status":"ai"}
+{"id":"UwR1fGeS","en":"Visuals For Mac","zh_draft":"","zh_ai":"视觉增强 Mac 版","zh_human":"","zh":"视觉增强 Mac 版","status":"ai"}
+{"id":"XJcqwbJY","en":"Caramel","zh_draft":"","zh_ai":"焦糖","zh_human":"","zh":"焦糖","status":"ai"}
+{"id":"kk938Qeh","en":"Citybuild+","zh_draft":"","zh_ai":"城市建造+","zh_human":"","zh":"城市建造+","status":"ai"}
+{"id":"2WGsQmtM","en":"LVanilla","zh_draft":"","zh_ai":"纯净版","zh_human":"","zh":"纯净版","status":"ai"}
+{"id":"IuA1ec1h","en":"The Harpy Express: Fighter's Wathe","zh_draft":"","zh_ai":"鹰击长空：战士之翼","zh_human":"","zh":"鹰击长空：战士之翼","status":"ai"}
+{"id":"K1OZIsky","en":"Taco's Optimization Pack | Sodium","zh_draft":"","zh_ai":"Taco 优化包 | 钠","zh_human":"","zh":"Taco 优化包 | 钠","status":"ai"}
+{"id":"aoDamLMu","en":"Crealogy (Create Aeronautics)","zh_draft":"","zh_ai":"Crealogy（创造航空学）","zh_human":"","zh":"Crealogy（创造航空学）","status":"ai"}
+{"id":"xTneGuGA","en":"RSD","zh_draft":"","zh_ai":"RSD","zh_human":"","zh":"RSD","status":"ai"}
+{"id":"zNrbwadn","en":"mine for you","zh_draft":"","zh_ai":"为你挖矿","zh_human":"","zh":"为你挖矿","status":"ai"}
+{"id":"A4f4UYE6","en":"Potatofied PC","zh_draft":"","zh_ai":"土豆化 PC","zh_human":"","zh":"土豆化 PC","status":"ai"}
+{"id":"rvpnbodB","en":"1947","zh_draft":"","zh_ai":"1947","zh_human":"","zh":"1947","status":"ai"}
+{"id":"1EGG00ZW","en":"Kaypack I","zh_draft":"","zh_ai":"Kaypack I","zh_human":"","zh":"Kaypack I","status":"ai"}
+{"id":"TRgAveYb","en":"Forever World","zh_draft":"","zh_ai":"永恒世界","zh_human":"","zh":"永恒世界","status":"ai"}
+{"id":"ffHHPqfC","en":"Crealogy LITE","zh_draft":"","zh_ai":"Crealogy 轻量版","zh_human":"","zh":"Crealogy 轻量版","status":"ai"}
+{"id":"Xc6RpRb9","en":"Crealogy SERVER","zh_draft":"","zh_ai":"Crealogy 服务器版","zh_human":"","zh":"Crealogy 服务器版","status":"ai"}
+{"id":"Cm66PR1m","en":"Thauma","zh_draft":"","zh_ai":"泰奥玛","zh_human":"","zh":"泰奥玛","status":"ai"}
