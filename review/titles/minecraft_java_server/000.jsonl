@@ -2776,18 +2776,18 @@
 {"id":"uUyU4YxX","en":"Minezinho","zh_draft":"","zh_ai":"小矿工","zh_human":"","zh":"小矿工","status":"ai"}
 {"id":"4ZIhHh6z","en":"MouckiTV","zh_draft":"","zh_ai":"MouckiTV","zh_human":"","zh":"MouckiTV","status":"ai"}
 {"id":"N7JUcyoS","en":"Slime Throne Tensura Server","zh_draft":"","zh_ai":"粘液王座服务器","zh_human":"","zh":"粘液王座服务器","status":"ai"}
-{"id":"qRZJlZXE","en":"Star Wars Server","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CRDhaKVX","en":"Globia","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ABnCP1il","en":"FICH MC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CzMmoSQ8","en":"Wisp Valley","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"E6M4gGt5","en":"MCA - Minecraft Addicts","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"G2mEBc1u","en":"Podium SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"JlncDjEt","en":"UnrealSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MiostCPa","en":"ROYAL-SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RguJUT4G","en":"Valor SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Wj2wnKVS","en":"Civilization Earth","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XXSKlDEx","en":"MCSH Minigames","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"oA2FlYM5","en":"OnlyGood","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"oWxNP384","en":"LivaMC - Türk SkyBlock, Towny, SMP, BoxPvP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"trxQOw0g","en":"TaserCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zWT0ODef","en":"Sailor's Legacy","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"qRZJlZXE","en":"Star Wars Server","zh_draft":"","zh_ai":"星球大战服务器","zh_human":"","zh":"星球大战服务器","status":"ai"}
+{"id":"CRDhaKVX","en":"Globia","zh_draft":"","zh_ai":"Globia","zh_human":"","zh":"Globia","status":"ai"}
+{"id":"ABnCP1il","en":"FICH MC","zh_draft":"","zh_ai":"FICH MC","zh_human":"","zh":"FICH MC","status":"ai"}
+{"id":"CzMmoSQ8","en":"Wisp Valley","zh_draft":"","zh_ai":"幽魂谷","zh_human":"","zh":"幽魂谷","status":"ai"}
+{"id":"E6M4gGt5","en":"MCA - Minecraft Addicts","zh_draft":"","zh_ai":"Minecraft 瘾迷社区","zh_human":"","zh":"Minecraft 瘾迷社区","status":"ai"}
+{"id":"G2mEBc1u","en":"Podium SMP","zh_draft":"","zh_ai":"领奖台生存模式","zh_human":"","zh":"领奖台生存模式","status":"ai"}
+{"id":"JlncDjEt","en":"UnrealSMP","zh_draft":"","zh_ai":"虚幻生存模式","zh_human":"","zh":"虚幻生存模式","status":"ai"}
+{"id":"MiostCPa","en":"ROYAL-SMP","zh_draft":"","zh_ai":"皇家生存模式","zh_human":"","zh":"皇家生存模式","status":"ai"}
+{"id":"RguJUT4G","en":"Valor SMP","zh_draft":"","zh_ai":"荣耀生存模式","zh_human":"","zh":"荣耀生存模式","status":"ai"}
+{"id":"Wj2wnKVS","en":"Civilization Earth","zh_draft":"","zh_ai":"地球文明","zh_human":"","zh":"地球文明","status":"ai"}
+{"id":"XXSKlDEx","en":"MCSH Minigames","zh_draft":"","zh_ai":"MCSH 小游戏","zh_human":"","zh":"MCSH 小游戏","status":"ai"}
+{"id":"oA2FlYM5","en":"OnlyGood","zh_draft":"","zh_ai":"只有好事","zh_human":"","zh":"只有好事","status":"ai"}
+{"id":"oWxNP384","en":"LivaMC - Türk SkyBlock, Towny, SMP, BoxPvP","zh_draft":"","zh_ai":"LivaMC - 土耳其 SkyBlock, Towny, SMP, 盒式PvP","zh_human":"","zh":"LivaMC - 土耳其 SkyBlock, Towny, SMP, 盒式PvP","status":"ai"}
+{"id":"trxQOw0g","en":"TaserCraft","zh_draft":"","zh_ai":"电击工坊","zh_human":"","zh":"电击工坊","status":"ai"}
+{"id":"zWT0ODef","en":"Sailor's Legacy","zh_draft":"","zh_ai":"水手的遗产","zh_human":"","zh":"水手的遗产","status":"ai"}
