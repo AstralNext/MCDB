@@ -1110,26 +1110,26 @@
 {"id":"sCiq6Zj1","en":"Mobileshader","zh_draft":"","zh_ai":"移动着色器","zh_human":"","zh":"移动着色器","status":"ai"}
 {"id":"dxoTuov8","en":"NoMod Shaders","zh_draft":"","zh_ai":"无模组着色器","zh_human":"","zh":"无模组着色器","status":"ai"}
 {"id":"IxwfjfCf","en":"Solenya Lite","zh_draft":"","zh_ai":"索莱尼亚轻量版","zh_human":"","zh":"索莱尼亚轻量版","status":"ai"}
-{"id":"UL7IRfHl","en":"Derivative Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Rf2Zd5IW","en":"UltraLightShader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kf9xj80Y","en":"LuminaPT","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xt4sT0Xr","en":"Nebula Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GQzMXmzH","en":"RMC Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iUfMj1OS","en":"Eliot Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IRNlXd55","en":"CYV Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8qpb0TzT","en":"Haste Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jFGVTzz5","en":"better lighting","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kGan5aTw","en":"Alpenglow Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KW8pMora","en":"All4","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LuMJ38N8","en":"BoundNight Visuals","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pC34KLGt","en":"Tree Shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rbegsPUw","en":"Natural shader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sWwGGmjh","en":"Element Visuals","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mKLLfec6","en":"Pickle Shade","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"roTdzSEW","en":"BadShader","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"g6FMljBY","en":"AetherFall: Cinematic Realisim","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ucaN18k9","en":"Lumen Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"492RpZxW","en":"Celestia","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HkIu7lnR","en":"Eventide","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SbtjUZEK","en":"Little cube","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Glln9lMc","en":"Frontierlight — Wild West Shaders","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"UL7IRfHl","en":"Derivative Shaders","zh_draft":"","zh_ai":"衍生着色器","zh_human":"","zh":"衍生着色器","status":"ai"}
+{"id":"Rf2Zd5IW","en":"UltraLightShader","zh_draft":"","zh_ai":"超轻着色器","zh_human":"","zh":"超轻着色器","status":"ai"}
+{"id":"kf9xj80Y","en":"LuminaPT","zh_draft":"","zh_ai":"卢米纳PT","zh_human":"","zh":"卢米纳PT","status":"ai"}
+{"id":"xt4sT0Xr","en":"Nebula Shader","zh_draft":"","zh_ai":"星云着色器","zh_human":"","zh":"星云着色器","status":"ai"}
+{"id":"GQzMXmzH","en":"RMC Shaders","zh_draft":"","zh_ai":"RMC着色器","zh_human":"","zh":"RMC着色器","status":"ai"}
+{"id":"iUfMj1OS","en":"Eliot Shader","zh_draft":"","zh_ai":"艾略特着色器","zh_human":"","zh":"艾略特着色器","status":"ai"}
+{"id":"IRNlXd55","en":"CYV Shaders","zh_draft":"","zh_ai":"CYV着色器","zh_human":"","zh":"CYV着色器","status":"ai"}
+{"id":"8qpb0TzT","en":"Haste Shaders","zh_draft":"","zh_ai":"加速着色器","zh_human":"","zh":"加速着色器","status":"ai"}
+{"id":"jFGVTzz5","en":"better lighting","zh_draft":"","zh_ai":"更好的光照","zh_human":"","zh":"更好的光照","status":"ai"}
+{"id":"kGan5aTw","en":"Alpenglow Shaders","zh_draft":"","zh_ai":"山景着色器","zh_human":"","zh":"山景着色器","status":"ai"}
+{"id":"KW8pMora","en":"All4","zh_draft":"","zh_ai":"All4","zh_human":"","zh":"All4","status":"ai"}
+{"id":"LuMJ38N8","en":"BoundNight Visuals","zh_draft":"","zh_ai":"BoundNight 视觉","zh_human":"","zh":"BoundNight 视觉","status":"ai"}
+{"id":"pC34KLGt","en":"Tree Shader","zh_draft":"","zh_ai":"树着色器","zh_human":"","zh":"树着色器","status":"ai"}
+{"id":"rbegsPUw","en":"Natural shader","zh_draft":"","zh_ai":"自然着色器","zh_human":"","zh":"自然着色器","status":"ai"}
+{"id":"sWwGGmjh","en":"Element Visuals","zh_draft":"","zh_ai":"元素视觉","zh_human":"","zh":"元素视觉","status":"ai"}
+{"id":"mKLLfec6","en":"Pickle Shade","zh_draft":"","zh_ai":"泡菜色调","zh_human":"","zh":"泡菜色调","status":"ai"}
+{"id":"roTdzSEW","en":"BadShader","zh_draft":"","zh_ai":"坏着色器","zh_human":"","zh":"坏着色器","status":"ai"}
+{"id":"g6FMljBY","en":"AetherFall: Cinematic Realisim","zh_draft":"","zh_ai":"以太坠落：电影级真实感","zh_human":"","zh":"以太坠落：电影级真实感","status":"ai"}
+{"id":"ucaN18k9","en":"Lumen Shaders","zh_draft":"","zh_ai":"流明着色器","zh_human":"","zh":"流明着色器","status":"ai"}
+{"id":"492RpZxW","en":"Celestia","zh_draft":"","zh_ai":"天体","zh_human":"","zh":"天体","status":"ai"}
+{"id":"HkIu7lnR","en":"Eventide","zh_draft":"","zh_ai":"黄昏","zh_human":"","zh":"黄昏","status":"ai"}
+{"id":"SbtjUZEK","en":"Little cube","zh_draft":"","zh_ai":"小方块","zh_human":"","zh":"小方块","status":"ai"}
+{"id":"Glln9lMc","en":"Frontierlight — Wild West Shaders","zh_draft":"","zh_ai":"边境之光 — 狂野西部着色器","zh_human":"","zh":"边境之光 — 狂野西部着色器","status":"ai"}

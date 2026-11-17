@@ -1873,12 +1873,12 @@
 {"id":"4oQNT1G9","en":"All In Mac","zh_draft":"","zh_ai":"全在Mac","zh_human":"","zh":"全在Mac","status":"ai"}
 {"id":"nzZTeQlx","en":"JstCrafting V3 Lite","zh_draft":"","zh_ai":"JstCrafting V3 轻量版","zh_human":"","zh":"JstCrafting V3 轻量版","status":"ai"}
 {"id":"Ydy0TmFf","en":"JstCrafting V3 Standard","zh_draft":"","zh_ai":"JstCrafting V3 标准版","zh_human":"","zh":"JstCrafting V3 标准版","status":"ai"}
-{"id":"w6xhjXnx","en":"OnePlebbin","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ScNVr5aF","en":"Shattered Fantasia","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"v9YssaK1","en":"Transportal Imperium","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Go64H1b9","en":"Create: All You Need","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qIlEzBRt","en":"Realinium","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XndfbLSi","en":"Vanilla Maxed","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eOJOjANd","en":"PWK's Winterprojekt 2026 - Create Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qsoWpdto","en":"Zedcraft Art Gallery","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"EKfd46tg","en":"Cool Zombie Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"w6xhjXnx","en":"OnePlebbin","zh_draft":"","zh_ai":"OnePlebbin","zh_human":"","zh":"OnePlebbin","status":"ai"}
+{"id":"ScNVr5aF","en":"Shattered Fantasia","zh_draft":"","zh_ai":"破碎幻想","zh_human":"","zh":"破碎幻想","status":"ai"}
+{"id":"v9YssaK1","en":"Transportal Imperium","zh_draft":"","zh_ai":"传送帝国","zh_human":"","zh":"传送帝国","status":"ai"}
+{"id":"Go64H1b9","en":"Create: All You Need","zh_draft":"","zh_ai":"Create：一切所需","zh_human":"","zh":"Create：一切所需","status":"ai"}
+{"id":"qIlEzBRt","en":"Realinium","zh_draft":"","zh_ai":"Realinium","zh_human":"","zh":"Realinium","status":"ai"}
+{"id":"XndfbLSi","en":"Vanilla Maxed","zh_draft":"","zh_ai":"纯净版极限","zh_human":"","zh":"纯净版极限","status":"ai"}
+{"id":"eOJOjANd","en":"PWK's Winterprojekt 2026 - Create Modpack","zh_draft":"","zh_ai":"PWK的2026年冬季项目 - Create模组包","zh_human":"","zh":"PWK的2026年冬季项目 - Create模组包","status":"ai"}
+{"id":"qsoWpdto","en":"Zedcraft Art Gallery","zh_draft":"","zh_ai":"Zedcraft艺术画廊","zh_human":"","zh":"Zedcraft艺术画廊","status":"ai"}
+{"id":"EKfd46tg","en":"Cool Zombie Modpack","zh_draft":"","zh_ai":"酷僵尸模组包","zh_human":"","zh":"酷僵尸模组包","status":"ai"}

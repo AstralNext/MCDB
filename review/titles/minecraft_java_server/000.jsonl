@@ -2791,16 +2791,16 @@
 {"id":"oWxNP384","en":"LivaMC - Türk SkyBlock, Towny, SMP, BoxPvP","zh_draft":"","zh_ai":"LivaMC - 土耳其 SkyBlock, Towny, SMP, 盒式PvP","zh_human":"","zh":"LivaMC - 土耳其 SkyBlock, Towny, SMP, 盒式PvP","status":"ai"}
 {"id":"trxQOw0g","en":"TaserCraft","zh_draft":"","zh_ai":"电击工坊","zh_human":"","zh":"电击工坊","status":"ai"}
 {"id":"zWT0ODef","en":"Sailor's Legacy","zh_draft":"","zh_ai":"水手的遗产","zh_human":"","zh":"水手的遗产","status":"ai"}
-{"id":"S4rhAgGt","en":"Holdout","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Gs5MbFCK","en":"Leading SMP Classic","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1wc3acA6","en":"BendingMC.org","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9JS9sI7B","en":"DarkBeast SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9wJXpZ1u","en":"The Lads network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Has21pk2","en":"Bubbo Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TyFTK2ro","en":"VeldstarSmp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Xi6M3KTw","en":"BlackNinja","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YfBZ2v77","en":"5T8B","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ijoUFMFV","en":"Neylox Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lwZC0n3v","en":"Aerborne","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"t7C6scCZ","en":"PdebwarsV Bedwars","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"u4DFbW5F","en":"MC Middle Earth","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"S4rhAgGt","en":"Holdout","zh_draft":"","zh_ai":"生存挑战","zh_human":"","zh":"生存挑战","status":"ai"}
+{"id":"Gs5MbFCK","en":"Leading SMP Classic","zh_draft":"","zh_ai":"领先生存模式","zh_human":"","zh":"领先生存模式","status":"ai"}
+{"id":"1wc3acA6","en":"BendingMC.org","zh_draft":"","zh_ai":"BendingMC.org","zh_human":"","zh":"BendingMC.org","status":"ai"}
+{"id":"9JS9sI7B","en":"DarkBeast SMP","zh_draft":"","zh_ai":"暗黑野兽生存模式","zh_human":"","zh":"暗黑野兽生存模式","status":"ai"}
+{"id":"9wJXpZ1u","en":"The Lads network","zh_draft":"","zh_ai":"The Lads 网络","zh_human":"","zh":"The Lads 网络","status":"ai"}
+{"id":"Has21pk2","en":"Bubbo Network","zh_draft":"","zh_ai":"Bubbo 网络","zh_human":"","zh":"Bubbo 网络","status":"ai"}
+{"id":"TyFTK2ro","en":"VeldstarSmp","zh_draft":"","zh_ai":"VeldstarSmp","zh_human":"","zh":"VeldstarSmp","status":"ai"}
+{"id":"Xi6M3KTw","en":"BlackNinja","zh_draft":"","zh_ai":"黑忍者","zh_human":"","zh":"黑忍者","status":"ai"}
+{"id":"YfBZ2v77","en":"5T8B","zh_draft":"","zh_ai":"5T8B","zh_human":"","zh":"5T8B","status":"ai"}
+{"id":"ijoUFMFV","en":"Neylox Network","zh_draft":"","zh_ai":"Neylox 网络","zh_human":"","zh":"Neylox 网络","status":"ai"}
+{"id":"lwZC0n3v","en":"Aerborne","zh_draft":"","zh_ai":"空中","zh_human":"","zh":"空中","status":"ai"}
+{"id":"t7C6scCZ","en":"PdebwarsV Bedwars","zh_draft":"","zh_ai":"PdebwarsV 战床","zh_human":"","zh":"PdebwarsV 战床","status":"ai"}
+{"id":"u4DFbW5F","en":"MC Middle Earth","zh_draft":"","zh_ai":"Minecraft 中土世界","zh_human":"","zh":"Minecraft 中土世界","status":"ai"}
