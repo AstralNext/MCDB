@@ -1882,16 +1882,16 @@
 {"id":"eOJOjANd","en":"PWK's Winterprojekt 2026 - Create Modpack","zh_draft":"","zh_ai":"PWK的2026年冬季项目 - Create模组包","zh_human":"","zh":"PWK的2026年冬季项目 - Create模组包","status":"ai"}
 {"id":"qsoWpdto","en":"Zedcraft Art Gallery","zh_draft":"","zh_ai":"Zedcraft艺术画廊","zh_human":"","zh":"Zedcraft艺术画廊","status":"ai"}
 {"id":"EKfd46tg","en":"Cool Zombie Modpack","zh_draft":"","zh_ai":"酷僵尸模组包","zh_human":"","zh":"酷僵尸模组包","status":"ai"}
-{"id":"lweKcRwH","en":"Server Enhancements","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PzFPX6vZ","en":"Simply Horizons","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DKDGEHsn","en":"DewVille","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YCZTVlbV","en":"Homo Creo","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3cQTKUX9","en":"Hama's PvP Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5BnuqjZm","en":"Phenomenally Bricked","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kHphi6pY","en":"Misplaced Backrooms","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"AxKkCu15","en":"Blåhaj","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"A5QsRdmG","en":"Vanilla Chill","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RQ6rpLBs","en":"Bonança","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jompjB2t","en":"MC Golden Edition","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"jwGjkGxS","en":"Cinematic and Fun","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"wcmXk8Q2","en":"Life in the Woods - NeoForged","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"lweKcRwH","en":"Server Enhancements","zh_draft":"","zh_ai":"服务器增强","zh_human":"","zh":"服务器增强","status":"ai"}
+{"id":"PzFPX6vZ","en":"Simply Horizons","zh_draft":"","zh_ai":"简单地平线","zh_human":"","zh":"简单地平线","status":"ai"}
+{"id":"DKDGEHsn","en":"DewVille","zh_draft":"","zh_ai":"露城","zh_human":"","zh":"露城","status":"ai"}
+{"id":"YCZTVlbV","en":"Homo Creo","zh_draft":"","zh_ai":"创世人","zh_human":"","zh":"创世人","status":"ai"}
+{"id":"3cQTKUX9","en":"Hama's PvP Pack","zh_draft":"","zh_ai":"哈马PvP包","zh_human":"","zh":"哈马PvP包","status":"ai"}
+{"id":"5BnuqjZm","en":"Phenomenally Bricked","zh_draft":"","zh_ai":"奇迹般砖砌","zh_human":"","zh":"奇迹般砖砌","status":"ai"}
+{"id":"kHphi6pY","en":"Misplaced Backrooms","zh_draft":"","zh_ai":"错位的回音室","zh_human":"","zh":"错位的回音室","status":"ai"}
+{"id":"AxKkCu15","en":"Blåhaj","zh_draft":"","zh_ai":"蓝鲨","zh_human":"","zh":"蓝鲨","status":"ai"}
+{"id":"A5QsRdmG","en":"Vanilla Chill","zh_draft":"","zh_ai":"原味冷静","zh_human":"","zh":"原味冷静","status":"ai"}
+{"id":"RQ6rpLBs","en":"Bonança","zh_draft":"","zh_ai":"繁荣","zh_human":"","zh":"繁荣","status":"ai"}
+{"id":"jompjB2t","en":"MC Golden Edition","zh_draft":"","zh_ai":"MC黄金版","zh_human":"","zh":"MC黄金版","status":"ai"}
+{"id":"jwGjkGxS","en":"Cinematic and Fun","zh_draft":"","zh_ai":"电影般与有趣","zh_human":"","zh":"电影般与有趣","status":"ai"}
+{"id":"wcmXk8Q2","en":"Life in the Woods - NeoForged","zh_draft":"","zh_ai":"森林生活 - 新锻造","zh_human":"","zh":"森林生活 - 新锻造","status":"ai"}

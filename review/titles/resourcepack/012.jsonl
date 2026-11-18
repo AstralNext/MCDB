@@ -2684,24 +2684,24 @@
 {"id":"6VcxwzDL","en":"Romuald Pack","zh_draft":"","zh_ai":"罗穆阿尔德包","zh_human":"","zh":"罗穆阿尔德包","status":"ai"}
 {"id":"FiedIJkf","en":"[Assembly Animations] Vanilla","zh_draft":"","zh_ai":"[装配动画] 香草","zh_human":"","zh":"[装配动画] 香草","status":"ai"}
 {"id":"NuwHchPp","en":"Wardrobe Plus","zh_draft":"","zh_ai":"衣柜增强","zh_human":"","zh":"衣柜增强","status":"ai"}
-{"id":"sBgt8VlP","en":"Fullbright Essentials","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"u7Vy3mbF","en":"Lol-ify","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1qJ5jscI","en":"Small Caps","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7SUHOfJv","en":"Ultimate Potato Pack V2","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GHRJPicJ","en":"[CSMA]MTR Changsha Metro Append","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Gjqp2BcR","en":"Lighting hunger bar","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IomNdSV5","en":"The Forge Resource Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MUOV2hPr","en":"Serniczek Totem","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RPuDdlmh","en":"LiteralPack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"RPzKpSgf","en":"Engineered Retextures","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UMJnydS0","en":"Chilly Mantid","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YjnR2KWx","en":"TotemPiragüistaKoki","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"litoiF6K","en":"ic3's blue cpvp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"saj4SRhv","en":"Brawl SMP Resource Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xJiiCxM4","en":"RailPlus 3D Resource","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zhIbbPmw","en":"Ae2 Blackout Mod Compat","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6FS82N0B","en":"3D Ice Ball","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"baN60aM0","en":"Archie's Dinosaurs Legacy Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zHCGDhZH","en":"3D Frog Caviar","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"YUKAmky7","en":"Bog's Winter HUD","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"EVIliYLN","en":"Ocean Trident","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"sBgt8VlP","en":"Fullbright Essentials","zh_draft":"","zh_ai":"全亮精华","zh_human":"","zh":"全亮精华","status":"ai"}
+{"id":"u7Vy3mbF","en":"Lol-ify","zh_draft":"","zh_ai":"Lol化","zh_human":"","zh":"Lol化","status":"ai"}
+{"id":"1qJ5jscI","en":"Small Caps","zh_draft":"","zh_ai":"小写字母大写","zh_human":"","zh":"小写字母大写","status":"ai"}
+{"id":"7SUHOfJv","en":"Ultimate Potato Pack V2","zh_draft":"","zh_ai":"终极土豆包V2","zh_human":"","zh":"终极土豆包V2","status":"ai"}
+{"id":"GHRJPicJ","en":"[CSMA]MTR Changsha Metro Append","zh_draft":"","zh_ai":"[CSMA]长沙地铁补充","zh_human":"","zh":"[CSMA]长沙地铁补充","status":"ai"}
+{"id":"Gjqp2BcR","en":"Lighting hunger bar","zh_draft":"","zh_ai":"亮度饥饿条","zh_human":"","zh":"亮度饥饿条","status":"ai"}
+{"id":"IomNdSV5","en":"The Forge Resource Pack","zh_draft":"","zh_ai":"锻造资源包","zh_human":"","zh":"锻造资源包","status":"ai"}
+{"id":"MUOV2hPr","en":"Serniczek Totem","zh_draft":"","zh_ai":"Serniczek图腾","zh_human":"","zh":"Serniczek图腾","status":"ai"}
+{"id":"RPuDdlmh","en":"LiteralPack","zh_draft":"","zh_ai":"文字包","zh_human":"","zh":"文字包","status":"ai"}
+{"id":"RPzKpSgf","en":"Engineered Retextures","zh_draft":"","zh_ai":"工程重纹理","zh_human":"","zh":"工程重纹理","status":"ai"}
+{"id":"UMJnydS0","en":"Chilly Mantid","zh_draft":"","zh_ai":"冷螳螂","zh_human":"","zh":"冷螳螂","status":"ai"}
+{"id":"YjnR2KWx","en":"TotemPiragüistaKoki","zh_draft":"","zh_ai":"图腾皮拉瓜伊斯塔科基","zh_human":"","zh":"图腾皮拉瓜伊斯塔科基","status":"ai"}
+{"id":"litoiF6K","en":"ic3's blue cpvp","zh_draft":"","zh_ai":"ic3的蓝色cpvp","zh_human":"","zh":"ic3的蓝色cpvp","status":"ai"}
+{"id":"saj4SRhv","en":"Brawl SMP Resource Pack","zh_draft":"","zh_ai":"混战SMP资源包","zh_human":"","zh":"混战SMP资源包","status":"ai"}
+{"id":"xJiiCxM4","en":"RailPlus 3D Resource","zh_draft":"","zh_ai":"铁路增强3D资源","zh_human":"","zh":"铁路增强3D资源","status":"ai"}
+{"id":"zhIbbPmw","en":"Ae2 Blackout Mod Compat","zh_draft":"","zh_ai":"Ae2断电模组兼容","zh_human":"","zh":"Ae2断电模组兼容","status":"ai"}
+{"id":"6FS82N0B","en":"3D Ice Ball","zh_draft":"","zh_ai":"3D冰球","zh_human":"","zh":"3D冰球","status":"ai"}
+{"id":"baN60aM0","en":"Archie's Dinosaurs Legacy Pack","zh_draft":"","zh_ai":"阿奇恐龙遗产包","zh_human":"","zh":"阿奇恐龙遗产包","status":"ai"}
+{"id":"zHCGDhZH","en":"3D Frog Caviar","zh_draft":"","zh_ai":"3D青蛙鱼子酱","zh_human":"","zh":"3D青蛙鱼子酱","status":"ai"}
+{"id":"YUKAmky7","en":"Bog's Winter HUD","zh_draft":"","zh_ai":"博格的冬季HUD","zh_human":"","zh":"博格的冬季HUD","status":"ai"}
+{"id":"EVIliYLN","en":"Ocean Trident","zh_draft":"","zh_ai":"海洋三叉戟","zh_human":"","zh":"海洋三叉戟","status":"ai"}
