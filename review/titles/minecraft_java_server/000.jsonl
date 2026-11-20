@@ -2806,21 +2806,21 @@
 {"id":"u4DFbW5F","en":"MC Middle Earth","zh_draft":"","zh_ai":"Minecraft 中土世界","zh_human":"","zh":"Minecraft 中土世界","status":"ai"}
 {"id":"3kAXijQy","en":"Nana Craft SMP","zh_draft":"","zh_ai":"娜娜工坊生存模式","zh_human":"","zh":"娜娜工坊生存模式","status":"ai"}
 {"id":"g6ZVRDgU","en":"NexyMC Crafty Realms","zh_draft":"","zh_ai":"NexyMC 巧克力世界","zh_human":"","zh":"NexyMC 巧克力世界","status":"ai"}
-{"id":"K9WNTTbF","en":"XENON","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"d8dVASNn","en":"Duke Snukem's Minecraft Server","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5rqYtBya","en":"Wolfrespublic Create","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8hilCAU4","en":"Bitcrow","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ADg7XCxu","en":"Herb Crew Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FuEYQa2H","en":"Siren MC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HALM0dxj","en":"LinePoint Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HbrTRtNq","en":"The Purple Crew Valley","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NT35M7uc","en":"Fairylands","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Q6aGk0kL","en":"Nexora Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Wlzx6Yk9","en":"Nekozouneko Server","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Y5PNTbcn","en":"arabSMPex","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cpqx4gJl","en":"Cherry Creek","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iGRQC2An","en":"Хрєкотрон","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uxxuwv66","en":"NextFootball","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"vcqLldHS","en":"FeralMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"w7XRESYI","en":"QuantumSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"x60FdRcA","en":"RivoxSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"K9WNTTbF","en":"XENON","zh_draft":"","zh_ai":"氙气","zh_human":"","zh":"氙气","status":"ai"}
+{"id":"d8dVASNn","en":"Duke Snukem's Minecraft Server","zh_draft":"","zh_ai":"Duke Snukem 服务器","zh_human":"","zh":"Duke Snukem 服务器","status":"ai"}
+{"id":"5rqYtBya","en":"Wolfrespublic Create","zh_draft":"","zh_ai":"狼人共和国机械动力","zh_human":"","zh":"狼人共和国机械动力","status":"ai"}
+{"id":"8hilCAU4","en":"Bitcrow","zh_draft":"","zh_ai":"比特群","zh_human":"","zh":"比特群","status":"ai"}
+{"id":"ADg7XCxu","en":"Herb Crew Network","zh_draft":"","zh_ai":"草药小队网络","zh_human":"","zh":"草药小队网络","status":"ai"}
+{"id":"FuEYQa2H","en":"Siren MC","zh_draft":"","zh_ai":"塞壬 MC","zh_human":"","zh":"塞壬 MC","status":"ai"}
+{"id":"HALM0dxj","en":"LinePoint Network","zh_draft":"","zh_ai":"线点网络","zh_human":"","zh":"线点网络","status":"ai"}
+{"id":"HbrTRtNq","en":"The Purple Crew Valley","zh_draft":"","zh_ai":"紫色小队山谷","zh_human":"","zh":"紫色小队山谷","status":"ai"}
+{"id":"NT35M7uc","en":"Fairylands","zh_draft":"","zh_ai":"仙境","zh_human":"","zh":"仙境","status":"ai"}
+{"id":"Q6aGk0kL","en":"Nexora Network","zh_draft":"","zh_ai":"Nexora 网络","zh_human":"","zh":"Nexora 网络","status":"ai"}
+{"id":"Wlzx6Yk9","en":"Nekozouneko Server","zh_draft":"","zh_ai":"猫头鹰服务器","zh_human":"","zh":"猫头鹰服务器","status":"ai"}
+{"id":"Y5PNTbcn","en":"arabSMPex","zh_draft":"","zh_ai":"阿拉伯极限生存","zh_human":"","zh":"阿拉伯极限生存","status":"ai"}
+{"id":"cpqx4gJl","en":"Cherry Creek","zh_draft":"","zh_ai":"樱桃溪","zh_human":"","zh":"樱桃溪","status":"ai"}
+{"id":"iGRQC2An","en":"Хрєкотрон","zh_draft":"","zh_ai":"赫科特隆","zh_human":"","zh":"赫科特隆","status":"ai"}
+{"id":"uxxuwv66","en":"NextFootball","zh_draft":"","zh_ai":"下一足球","zh_human":"","zh":"下一足球","status":"ai"}
+{"id":"vcqLldHS","en":"FeralMC","zh_draft":"","zh_ai":"野性 MC","zh_human":"","zh":"野性 MC","status":"ai"}
+{"id":"w7XRESYI","en":"QuantumSMP","zh_draft":"","zh_ai":"量子极限生存","zh_human":"","zh":"量子极限生存","status":"ai"}
+{"id":"x60FdRcA","en":"RivoxSMP","zh_draft":"","zh_ai":"里沃克斯极限生存","zh_human":"","zh":"里沃克斯极限生存","status":"ai"}
