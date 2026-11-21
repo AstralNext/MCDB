@@ -891,46 +891,46 @@
 {"id":"Kx4BqjgY","en":"LavaElytraFix","zh_draft":"","zh_ai":"熔岩翼修复","zh_human":"","zh":"熔岩翼修复","status":"ai"}
 {"id":"avJpVPh6","en":"The Music of the World","zh_draft":"","zh_ai":"世界的音乐","zh_human":"","zh":"世界的音乐","status":"ai"}
 {"id":"7RbG0onk","en":"Craftable Totem","zh_draft":"","zh_ai":"可制作的图腾","zh_human":"","zh":"可制作的图腾","status":"ai"}
-{"id":"KKmaNWqd","en":"Sufhorren","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"b0PltbZz","en":"Expanded Fossils | Fossils and Archeology: Revival Add-On","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dFmNA8Cu","en":"sanyos's ideas","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yHWinFCu","en":"City Buses: Automobility Unofficial Port","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4DOJpm9W","en":"Re-Inverted Hotbar Scroll","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KTEGjpeU","en":"SpinMyCrystals","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Lvw7psDU","en":"Raindrop UI","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MrUplcTm","en":"Infinite Containers","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Q5wBAGkw","en":"SecureMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WgAWln9y","en":"Spyglass","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ckvcD8dC","en":"ATOM MOD","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"edr1AGTi","en":"FastFood","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fJ7NP7mN","en":"Casinocraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gcwjRYi0","en":"ESO Balance Chuddy","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"tQFRVr00","en":"Cobblemon for Blockheads","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"8vEoQwVJ","en":"Nerd's Potions","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DlLZh8vm","en":"Villager Awareness","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"EMzfw2RV","en":"Resonant Weaponry","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Io93Agmv","en":"Teryo Throwable Tools","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LfrB9llu","en":"Consistent Quartz and Amethyst","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XYdiwYAM","en":"Modern Beacon UI","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XfKQdNnx","en":"Entity Glow","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dPyoOdaD","en":"Attribute PVP Helper Reforged","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dbu9zG6K","en":"Compat for Better Combat","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"fRRYTVN3","en":"Rechanted","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uQxMgOM0","en":"Offhand Cat","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zvM3r4is","en":"Super Enchantments","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"5ls9j3PE","en":"Anything is an armor","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7Kuji6cb","en":"Spotify Overlay","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Ak9OkakD","en":"Blocet","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GQS961RR","en":"SoundControl SoundStopper Addon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QJHeJVd5","en":"Bed Anchor","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UnfhCGRb","en":"Reach Control","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cw1q7RG2","en":"The gamble","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"j7elDIy1","en":"bleach_mod","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nlFrrMYC","en":"Knotbound","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"t5LTChGb","en":"Chef Steve / Usta Steve","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xSgBWYL8","en":"Create: Mechanical Drive","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xqRCrMGj","en":"Mine Little Pony: Crafting Friends","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yNZlqNwk","en":"Mystery Meat","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"KKmaNWqd","en":"Sufhorren","zh_draft":"","zh_ai":"苏弗伦","zh_human":"","zh":"苏弗伦","status":"ai"}
+{"id":"b0PltbZz","en":"Expanded Fossils | Fossils and Archeology: Revival Add-On","zh_draft":"","zh_ai":"扩展化石 | 化石与考古：复兴插件","zh_human":"","zh":"扩展化石 | 化石与考古：复兴插件","status":"ai"}
+{"id":"dFmNA8Cu","en":"sanyos's ideas","zh_draft":"","zh_ai":"三野的创意","zh_human":"","zh":"三野的创意","status":"ai"}
+{"id":"yHWinFCu","en":"City Buses: Automobility Unofficial Port","zh_draft":"","zh_ai":"城市公交：非官方移植","zh_human":"","zh":"城市公交：非官方移植","status":"ai"}
+{"id":"4DOJpm9W","en":"Re-Inverted Hotbar Scroll","zh_draft":"","zh_ai":"反转热键卷轴重置","zh_human":"","zh":"反转热键卷轴重置","status":"ai"}
+{"id":"KTEGjpeU","en":"SpinMyCrystals","zh_draft":"","zh_ai":"旋转水晶","zh_human":"","zh":"旋转水晶","status":"ai"}
+{"id":"Lvw7psDU","en":"Raindrop UI","zh_draft":"","zh_ai":"雨滴界面","zh_human":"","zh":"雨滴界面","status":"ai"}
+{"id":"MrUplcTm","en":"Infinite Containers","zh_draft":"","zh_ai":"无限容器","zh_human":"","zh":"无限容器","status":"ai"}
+{"id":"Q5wBAGkw","en":"SecureMC","zh_draft":"","zh_ai":"安全MC","zh_human":"","zh":"安全MC","status":"ai"}
+{"id":"WgAWln9y","en":"Spyglass","zh_draft":"","zh_ai":"望远镜","zh_human":"","zh":"望远镜","status":"ai"}
+{"id":"ckvcD8dC","en":"ATOM MOD","zh_draft":"","zh_ai":"原子模组","zh_human":"","zh":"原子模组","status":"ai"}
+{"id":"edr1AGTi","en":"FastFood","zh_draft":"","zh_ai":"快餐","zh_human":"","zh":"快餐","status":"ai"}
+{"id":"fJ7NP7mN","en":"Casinocraft","zh_draft":"","zh_ai":"赌场工艺","zh_human":"","zh":"赌场工艺","status":"ai"}
+{"id":"gcwjRYi0","en":"ESO Balance Chuddy","zh_draft":"","zh_ai":"ESO平衡奇迪","zh_human":"","zh":"ESO平衡奇迪","status":"ai"}
+{"id":"tQFRVr00","en":"Cobblemon for Blockheads","zh_draft":"","zh_ai":"方块头 Cobblemon","zh_human":"","zh":"方块头 Cobblemon","status":"ai"}
+{"id":"8vEoQwVJ","en":"Nerd's Potions","zh_draft":"","zh_ai":"书呆子药水","zh_human":"","zh":"书呆子药水","status":"ai"}
+{"id":"DlLZh8vm","en":"Villager Awareness","zh_draft":"","zh_ai":"村民意识","zh_human":"","zh":"村民意识","status":"ai"}
+{"id":"EMzfw2RV","en":"Resonant Weaponry","zh_draft":"","zh_ai":"共鸣武器","zh_human":"","zh":"共鸣武器","status":"ai"}
+{"id":"Io93Agmv","en":"Teryo Throwable Tools","zh_draft":"","zh_ai":"泰罗可投掷工具","zh_human":"","zh":"泰罗可投掷工具","status":"ai"}
+{"id":"LfrB9llu","en":"Consistent Quartz and Amethyst","zh_draft":"","zh_ai":"一致石英和紫水晶","zh_human":"","zh":"一致石英和紫水晶","status":"ai"}
+{"id":"XYdiwYAM","en":"Modern Beacon UI","zh_draft":"","zh_ai":"现代信标界面","zh_human":"","zh":"现代信标界面","status":"ai"}
+{"id":"XfKQdNnx","en":"Entity Glow","zh_draft":"","zh_ai":"实体发光","zh_human":"","zh":"实体发光","status":"ai"}
+{"id":"dPyoOdaD","en":"Attribute PVP Helper Reforged","zh_draft":"","zh_ai":"属性PVP助手重铸","zh_human":"","zh":"属性PVP助手重铸","status":"ai"}
+{"id":"dbu9zG6K","en":"Compat for Better Combat","zh_draft":"","zh_ai":"更好的战斗兼容性","zh_human":"","zh":"更好的战斗兼容性","status":"ai"}
+{"id":"fRRYTVN3","en":"Rechanted","zh_draft":"","zh_ai":"重新施法","zh_human":"","zh":"重新施法","status":"ai"}
+{"id":"uQxMgOM0","en":"Offhand Cat","zh_draft":"","zh_ai":"副手猫","zh_human":"","zh":"副手猫","status":"ai"}
+{"id":"zvM3r4is","en":"Super Enchantments","zh_draft":"","zh_ai":"超级附魔","zh_human":"","zh":"超级附魔","status":"ai"}
+{"id":"5ls9j3PE","en":"Anything is an armor","zh_draft":"","zh_ai":"任何东西都是盔甲","zh_human":"","zh":"任何东西都是盔甲","status":"ai"}
+{"id":"7Kuji6cb","en":"Spotify Overlay","zh_draft":"","zh_ai":"Spotify覆盖层","zh_human":"","zh":"Spotify覆盖层","status":"ai"}
+{"id":"Ak9OkakD","en":"Blocet","zh_draft":"","zh_ai":"布洛凯特","zh_human":"","zh":"布洛凯特","status":"ai"}
+{"id":"GQS961RR","en":"SoundControl SoundStopper Addon","zh_draft":"","zh_ai":"SoundControl声音阻止器插件","zh_human":"","zh":"SoundControl声音阻止器插件","status":"ai"}
+{"id":"QJHeJVd5","en":"Bed Anchor","zh_draft":"","zh_ai":"床锚","zh_human":"","zh":"床锚","status":"ai"}
+{"id":"UnfhCGRb","en":"Reach Control","zh_draft":"","zh_ai":"范围控制","zh_human":"","zh":"范围控制","status":"ai"}
+{"id":"cw1q7RG2","en":"The gamble","zh_draft":"","zh_ai":"赌注","zh_human":"","zh":"赌注","status":"ai"}
+{"id":"j7elDIy1","en":"bleach_mod","zh_draft":"","zh_ai":"漂白模组","zh_human":"","zh":"漂白模组","status":"ai"}
+{"id":"nlFrrMYC","en":"Knotbound","zh_draft":"","zh_ai":"结界","zh_human":"","zh":"结界","status":"ai"}
+{"id":"t5LTChGb","en":"Chef Steve / Usta Steve","zh_draft":"","zh_ai":"史蒂夫厨师 / 乌斯塔史蒂夫","zh_human":"","zh":"史蒂夫厨师 / 乌斯塔史蒂夫","status":"ai"}
+{"id":"xSgBWYL8","en":"Create: Mechanical Drive","zh_draft":"","zh_ai":"创造：机械驱动","zh_human":"","zh":"创造：机械驱动","status":"ai"}
+{"id":"xqRCrMGj","en":"Mine Little Pony: Crafting Friends","zh_draft":"","zh_ai":"我的小马：工艺朋友","zh_human":"","zh":"我的小马：工艺朋友","status":"ai"}
+{"id":"yNZlqNwk","en":"Mystery Meat","zh_draft":"","zh_ai":"神秘肉类","zh_human":"","zh":"神秘肉类","status":"ai"}
 {"id":"2EHMmpyC","en":"Elysom","zh_draft":"","zh_ai":"艾利索姆","zh_human":"","zh":"艾利索姆","status":"ai"}
 {"id":"653M1zXZ","en":"LootCycle","zh_draft":"","zh_ai":"寻宝循环","zh_human":"","zh":"寻宝循环","status":"ai"}
 {"id":"Df7isNCf","en":"PUMP IT!","zh_draft":"","zh_ai":"泵它！","zh_human":"","zh":"泵它！","status":"ai"}
