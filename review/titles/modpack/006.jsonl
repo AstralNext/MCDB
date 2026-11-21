@@ -1926,7 +1926,7 @@
 {"id":"57dUVoU9","en":"Living Immersive Vanilla","zh_draft":"","zh_ai":"沉浸式生存香草","zh_human":"","zh":"沉浸式生存香草","status":"ai"}
 {"id":"DYy6YtAF","en":"Fabulously Opti utility (voxy)","zh_draft":"","zh_ai":"奇妙优化的实用工具（voxy）","zh_human":"","zh":"奇妙优化的实用工具（voxy）","status":"ai"}
 {"id":"szQFk0We","en":"Amicusz's Beautycraft","zh_draft":"","zh_ai":"Amicusz的美工","zh_human":"","zh":"Amicusz的美工","status":"ai"}
-{"id":"KF04G8oh","en":"CloudSMP MODPACK","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HQiQvjos","en":"DDR7 (Essential Mods)","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"piPpJpR5","en":"omorpg","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zgOw27Vd","en":"CobbleCore","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"KF04G8oh","en":"CloudSMP MODPACK","zh_draft":"","zh_ai":"云生存模式 MOD 包","zh_human":"","zh":"云生存模式 MOD 包","status":"ai"}
+{"id":"HQiQvjos","en":"DDR7 (Essential Mods)","zh_draft":"","zh_ai":"DDR7（基础模组）","zh_human":"","zh":"DDR7（基础模组）","status":"ai"}
+{"id":"piPpJpR5","en":"omorpg","zh_draft":"","zh_ai":"omorpg","zh_human":"","zh":"omorpg","status":"ai"}
+{"id":"zgOw27Vd","en":"CobbleCore","zh_draft":"","zh_ai":"圆石核心","zh_human":"","zh":"圆石核心","status":"ai"}
