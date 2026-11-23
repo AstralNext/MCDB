@@ -2837,13 +2837,13 @@
 {"id":"swMlHH26","en":"424Friends","zh_draft":"","zh_ai":"424好友","zh_human":"","zh":"424好友","status":"ai"}
 {"id":"wYMbVz3A","en":"BaysServers","zh_draft":"","zh_ai":"海湾服务器","zh_human":"","zh":"海湾服务器","status":"ai"}
 {"id":"wpokkrvz","en":"mcyggdrasill-世界树","zh_draft":"","zh_ai":"世界树","zh_human":"","zh":"世界树","status":"ai"}
-{"id":"mEs3kQR5","en":"Syntecx Smp Evolution","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XeYaSOvQ","en":"Symbiosis1","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6xAsnsdG","en":"CirrusSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CC4KhMtF","en":"Moss Block","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Ia0piGvd","en":"Sakura Void","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"OLUFjdfX","en":"LastFront","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"VfeAJT9t","en":"Odyssey Sky","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"a2Zjm9Gv","en":"Stable SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hMMhLqaz","en":"Rocket SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"rdSf08q3","en":"dogo smp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"mEs3kQR5","en":"Syntecx Smp Evolution","zh_draft":"","zh_ai":"Syntecx SMP进化版","zh_human":"","zh":"Syntecx SMP进化版","status":"ai"}
+{"id":"XeYaSOvQ","en":"Symbiosis1","zh_draft":"","zh_ai":"共生1","zh_human":"","zh":"共生1","status":"ai"}
+{"id":"6xAsnsdG","en":"CirrusSMP","zh_draft":"","zh_ai":"云彩SMP","zh_human":"","zh":"云彩SMP","status":"ai"}
+{"id":"CC4KhMtF","en":"Moss Block","zh_draft":"","zh_ai":"苔石","zh_human":"","zh":"苔石","status":"ai"}
+{"id":"Ia0piGvd","en":"Sakura Void","zh_draft":"","zh_ai":"樱花虚空","zh_human":"","zh":"樱花虚空","status":"ai"}
+{"id":"OLUFjdfX","en":"LastFront","zh_draft":"","zh_ai":"最后一战","zh_human":"","zh":"最后一战","status":"ai"}
+{"id":"VfeAJT9t","en":"Odyssey Sky","zh_draft":"","zh_ai":"奥德赛天空","zh_human":"","zh":"奥德赛天空","status":"ai"}
+{"id":"a2Zjm9Gv","en":"Stable SMP","zh_draft":"","zh_ai":"稳定SMP","zh_human":"","zh":"稳定SMP","status":"ai"}
+{"id":"hMMhLqaz","en":"Rocket SMP","zh_draft":"","zh_ai":"火箭SMP","zh_human":"","zh":"火箭SMP","status":"ai"}
+{"id":"rdSf08q3","en":"dogo smp","zh_draft":"","zh_ai":"dogo SMP","zh_human":"","zh":"dogo SMP","status":"ai"}
