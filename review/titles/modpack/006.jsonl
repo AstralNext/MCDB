@@ -1941,22 +1941,22 @@
 {"id":"WFC9Bg34","en":"CRAFTBOUND - a sburb story","zh_draft":"","zh_ai":"工艺界限 - 一个 sburb 故事","zh_human":"","zh":"工艺界限 - 一个 sburb 故事","status":"ai"}
 {"id":"53z5EFnX","en":"Exquisitely Optimised","zh_draft":"","zh_ai":"极致优化","zh_human":"","zh":"极致优化","status":"ai"}
 {"id":"RHzpbDwH","en":"One gun and run","zh_draft":"","zh_ai":"一枪跑路","zh_human":"","zh":"一枪跑路","status":"ai"}
-{"id":"O4UhXHGf","en":"Adventurers Time","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hAKFjA3S","en":"Girl Time","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZT0PBJWP","en":"Perfomance+++","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"eNduEaZ2","en":"Simple FPS Booster","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"j5Ha1PGa","en":"Steamon + : Create Aeronautics x Cobblemon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"V96FUKA3","en":"Roe Jogan Vanilla Experience","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2tyOUVXL","en":"Perfectly Optimized Potato","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GtkRCUfH","en":"REXZON_MPACK","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FIvKeose","en":"Cobblemon Journies","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"e2zeG9Ip","en":"LyreSMP Creable Nouveau","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uoYex8bd","en":"PokeWorld","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2minxQXf","en":"Create: Elevated to the Clouds [SERVER]","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4KyPH4BC","en":"Caelum Aeronautics","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mbu8TBtl","en":"CME World Create","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"sos0Ky5k","en":"Smoother moves","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"bZyykGgl","en":"Oxpecker","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"comSVIz9","en":"Create: Elevated and Above","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pUsZ1T2J","en":"EclipseMC Official Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZMRJdD6P","en":"Vorkuta SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"O4UhXHGf","en":"Adventurers Time","zh_draft":"","zh_ai":"冒险家时间","zh_human":"","zh":"冒险家时间","status":"ai"}
+{"id":"hAKFjA3S","en":"Girl Time","zh_draft":"","zh_ai":"女孩时间","zh_human":"","zh":"女孩时间","status":"ai"}
+{"id":"ZT0PBJWP","en":"Perfomance+++","zh_draft":"","zh_ai":"性能++","zh_human":"","zh":"性能++","status":"ai"}
+{"id":"eNduEaZ2","en":"Simple FPS Booster","zh_draft":"","zh_ai":"简单的FPS提升器","zh_human":"","zh":"简单的FPS提升器","status":"ai"}
+{"id":"j5Ha1PGa","en":"Steamon + : Create Aeronautics x Cobblemon","zh_draft":"","zh_ai":"Steamon+：创建航空学x圆石兽","zh_human":"","zh":"Steamon+：创建航空学x圆石兽","status":"ai"}
+{"id":"V96FUKA3","en":"Roe Jogan Vanilla Experience","zh_draft":"","zh_ai":"Roe Jogan原版体验","zh_human":"","zh":"Roe Jogan原版体验","status":"ai"}
+{"id":"2tyOUVXL","en":"Perfectly Optimized Potato","zh_draft":"","zh_ai":"完美优化的土豆","zh_human":"","zh":"完美优化的土豆","status":"ai"}
+{"id":"GtkRCUfH","en":"REXZON_MPACK","zh_draft":"","zh_ai":"REXZON_MPACK","zh_human":"","zh":"REXZON_MPACK","status":"ai"}
+{"id":"FIvKeose","en":"Cobblemon Journies","zh_draft":"","zh_ai":"圆石兽之旅","zh_human":"","zh":"圆石兽之旅","status":"ai"}
+{"id":"e2zeG9Ip","en":"LyreSMP Creable Nouveau","zh_draft":"","zh_ai":"LyreSMP 新创","zh_human":"","zh":"LyreSMP 新创","status":"ai"}
+{"id":"uoYex8bd","en":"PokeWorld","zh_draft":"","zh_ai":"宝可世界","zh_human":"","zh":"宝可世界","status":"ai"}
+{"id":"2minxQXf","en":"Create: Elevated to the Clouds [SERVER]","zh_draft":"","zh_ai":"创世：升空服务器","zh_human":"","zh":"创世：升空服务器","status":"ai"}
+{"id":"4KyPH4BC","en":"Caelum Aeronautics","zh_draft":"","zh_ai":"天穹航空","zh_human":"","zh":"天穹航空","status":"ai"}
+{"id":"mbu8TBtl","en":"CME World Create","zh_draft":"","zh_ai":"CME世界创世","zh_human":"","zh":"CME世界创世","status":"ai"}
+{"id":"sos0Ky5k","en":"Smoother moves","zh_draft":"","zh_ai":"平滑移动","zh_human":"","zh":"平滑移动","status":"ai"}
+{"id":"bZyykGgl","en":"Oxpecker","zh_draft":"","zh_ai":"牛角鸟","zh_human":"","zh":"牛角鸟","status":"ai"}
+{"id":"comSVIz9","en":"Create: Elevated and Above","zh_draft":"","zh_ai":"创世：升腾之上","zh_human":"","zh":"创世：升腾之上","status":"ai"}
+{"id":"pUsZ1T2J","en":"EclipseMC Official Modpack","zh_draft":"","zh_ai":"EclipseMC 官方模组包","zh_human":"","zh":"EclipseMC 官方模组包","status":"ai"}
+{"id":"ZMRJdD6P","en":"Vorkuta SMP","zh_draft":"","zh_ai":"沃库塔生存模式","zh_human":"","zh":"沃库塔生存模式","status":"ai"}
