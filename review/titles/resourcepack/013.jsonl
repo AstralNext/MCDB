@@ -140,28 +140,28 @@
 {"id":"w8g3xOPT","en":"Enhanced Boss Bars X Legendary Monsters","zh_draft":"","zh_ai":"增强Boss栏 X 传说怪物","zh_human":"","zh":"增强Boss栏 X 传说怪物","status":"ai"}
 {"id":"LWRVhldD","en":"Butterfly Allay and Fly Vex","zh_draft":"","zh_ai":"蝴蝶安抚和飞Vex","zh_human":"","zh":"蝴蝶安抚和飞Vex","status":"ai"}
 {"id":"nIgJHzv8","en":"Changed Chaos Edition OST Packs","zh_draft":"","zh_ai":"改变混沌版原声带包","zh_human":"","zh":"改变混沌版原声带包","status":"ai"}
-{"id":"AEtaFNqR","en":"Mystic Pumpkin Tools","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"goH18SW1","en":"Cut Diamonds","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iym2kawl","en":"Tools + dark inventory","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZOhKlIGw","en":"Green+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MRJZCoZu","en":"Punched T&S","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XPpRGFI1","en":"Punched J3DF","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"EPSz302a","en":"Transparent Inventory","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KhMHt1bB","en":"CAP V1","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gZDYL7hz","en":"Punched J3DSE","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yMh8zD4W","en":"Punched J3DTrims","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"9vih6zqP","en":"IPERFUEGO'S Official Texturepack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"f95WKi7I","en":"Skyblock 3D Pets","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nORjhEsQ","en":"Bequito's Green Hearts","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"A7l9E86b","en":"Bare Bones x Hands-On","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"gdeTIrEN","en":"Error 422 Resource Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4MtWoZ65","en":"Minceraft Title Screen","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"aHyu0ye0","en":"Better Small Items","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"kakn2Ipq","en":"[EFT] eTG&Propital Injector Resource Pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"a5vVKCTg","en":"Wheatley Totem","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"acSsjloS","en":"Mjoelnir Symbol","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1gFShtJB","en":"Jackenstein deltarune pumpkin","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hGDavsuQ","en":"Dungeoned Note Blocks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"SvnxCSq5","en":"Consistently 2D - Modded 3D Items Made 2D","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"se6OvXeV","en":"Rainbow breaking animation pack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"uoDDBu8a","en":"Reforged+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"AEtaFNqR","en":"Mystic Pumpkin Tools","zh_draft":"","zh_ai":"神秘南瓜工具","zh_human":"","zh":"神秘南瓜工具","status":"ai"}
+{"id":"goH18SW1","en":"Cut Diamonds","zh_draft":"","zh_ai":"切割钻石","zh_human":"","zh":"切割钻石","status":"ai"}
+{"id":"iym2kawl","en":"Tools + dark inventory","zh_draft":"","zh_ai":"工具 + 暗色库存","zh_human":"","zh":"工具 + 暗色库存","status":"ai"}
+{"id":"ZOhKlIGw","en":"Green+","zh_draft":"","zh_ai":"绿色+","zh_human":"","zh":"绿色+","status":"ai"}
+{"id":"MRJZCoZu","en":"Punched T&S","zh_draft":"","zh_ai":"冲孔T&S","zh_human":"","zh":"冲孔T&S","status":"ai"}
+{"id":"XPpRGFI1","en":"Punched J3DF","zh_draft":"","zh_ai":"冲孔J3DF","zh_human":"","zh":"冲孔J3DF","status":"ai"}
+{"id":"EPSz302a","en":"Transparent Inventory","zh_draft":"","zh_ai":"透明库存","zh_human":"","zh":"透明库存","status":"ai"}
+{"id":"KhMHt1bB","en":"CAP V1","zh_draft":"","zh_ai":"CAP V1","zh_human":"","zh":"CAP V1","status":"ai"}
+{"id":"gZDYL7hz","en":"Punched J3DSE","zh_draft":"","zh_ai":"冲孔J3DSE","zh_human":"","zh":"冲孔J3DSE","status":"ai"}
+{"id":"yMh8zD4W","en":"Punched J3DTrims","zh_draft":"","zh_ai":"冲孔J3D边缘","zh_human":"","zh":"冲孔J3D边缘","status":"ai"}
+{"id":"9vih6zqP","en":"IPERFUEGO'S Official Texturepack","zh_draft":"","zh_ai":"IPERFUEGO的官方纹理包","zh_human":"","zh":"IPERFUEGO的官方纹理包","status":"ai"}
+{"id":"f95WKi7I","en":"Skyblock 3D Pets","zh_draft":"","zh_ai":"3D宠物","zh_human":"","zh":"3D宠物","status":"ai"}
+{"id":"nORjhEsQ","en":"Bequito's Green Hearts","zh_draft":"","zh_ai":"比克托的绿色心","zh_human":"","zh":"比克托的绿色心","status":"ai"}
+{"id":"A7l9E86b","en":"Bare Bones x Hands-On","zh_draft":"","zh_ai":"基础骨架 x 亲身体验","zh_human":"","zh":"基础骨架 x 亲身体验","status":"ai"}
+{"id":"gdeTIrEN","en":"Error 422 Resource Pack","zh_draft":"","zh_ai":"错误422资源包","zh_human":"","zh":"错误422资源包","status":"ai"}
+{"id":"4MtWoZ65","en":"Minceraft Title Screen","zh_draft":"","zh_ai":"矿工船标题屏幕","zh_human":"","zh":"矿工船标题屏幕","status":"ai"}
+{"id":"aHyu0ye0","en":"Better Small Items","zh_draft":"","zh_ai":"更好的小物品","zh_human":"","zh":"更好的小物品","status":"ai"}
+{"id":"kakn2Ipq","en":"[EFT] eTG&Propital Injector Resource Pack","zh_draft":"","zh_ai":"[EFT] eTG&Propital注射器资源包","zh_human":"","zh":"[EFT] eTG&Propital注射器资源包","status":"ai"}
+{"id":"a5vVKCTg","en":"Wheatley Totem","zh_draft":"","zh_ai":"惠特利图腾","zh_human":"","zh":"惠特利图腾","status":"ai"}
+{"id":"acSsjloS","en":"Mjoelnir Symbol","zh_draft":"","zh_ai":"莫耶尼尔符号","zh_human":"","zh":"莫耶尼尔符号","status":"ai"}
+{"id":"1gFShtJB","en":"Jackenstein deltarune pumpkin","zh_draft":"","zh_ai":"杰克斯坦德尔塔之月南瓜","zh_human":"","zh":"杰克斯坦德尔塔之月南瓜","status":"ai"}
+{"id":"hGDavsuQ","en":"Dungeoned Note Blocks","zh_draft":"","zh_ai":"地牢音符方块","zh_human":"","zh":"地牢音符方块","status":"ai"}
+{"id":"SvnxCSq5","en":"Consistently 2D - Modded 3D Items Made 2D","zh_draft":"","zh_ai":"始终二维 - 修改后的3D物品变为2D","zh_human":"","zh":"始终二维 - 修改后的3D物品变为2D","status":"ai"}
+{"id":"se6OvXeV","en":"Rainbow breaking animation pack","zh_draft":"","zh_ai":"彩虹破坏动画包","zh_human":"","zh":"彩虹破坏动画包","status":"ai"}
+{"id":"uoDDBu8a","en":"Reforged+","zh_draft":"","zh_ai":"重铸+","zh_human":"","zh":"重铸+","status":"ai"}

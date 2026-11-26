@@ -2847,21 +2847,21 @@
 {"id":"a2Zjm9Gv","en":"Stable SMP","zh_draft":"","zh_ai":"稳定SMP","zh_human":"","zh":"稳定SMP","status":"ai"}
 {"id":"hMMhLqaz","en":"Rocket SMP","zh_draft":"","zh_ai":"火箭SMP","zh_human":"","zh":"火箭SMP","status":"ai"}
 {"id":"rdSf08q3","en":"dogo smp","zh_draft":"","zh_ai":"dogo SMP","zh_human":"","zh":"dogo SMP","status":"ai"}
-{"id":"jJLbgsUT","en":"Cobblewaves","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"zLsKXchX","en":"CobbleGI","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PdhKgU87","en":"XPS Nations","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"GtYBMtjb","en":"Cobble Isles","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1ST9IpbB","en":"SyncSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7RoLulDx","en":"Magic Valor","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"7Vt73yme","en":"梦界星辰 | DreamStarExpanse","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"95OrdFXN","en":"OCG Network","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DvOT2Rr0","en":"delightsmp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"LJ4k8ZqQ","en":"EclipseSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"M63n4pYb","en":"Battleroyale.vip","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MVmeihz6","en":"Statecraft - Season 1","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NeM3fWUH","en":"CobbleCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PGVxsaR1","en":"JpxSmp","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Qem4vPd9","en":"RuinedSMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"aR5YrJVJ","en":"Caffeine-MC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"htO28cJy","en":"EclipseMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"svr9g3Z5","en":"Keeprise","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"jJLbgsUT","en":"Cobblewaves","zh_draft":"","zh_ai":"圆石波涛","zh_human":"","zh":"圆石波涛","status":"ai"}
+{"id":"zLsKXchX","en":"CobbleGI","zh_draft":"","zh_ai":"圆石GI","zh_human":"","zh":"圆石GI","status":"ai"}
+{"id":"PdhKgU87","en":"XPS Nations","zh_draft":"","zh_ai":"XPS 国家","zh_human":"","zh":"XPS 国家","status":"ai"}
+{"id":"GtYBMtjb","en":"Cobble Isles","zh_draft":"","zh_ai":"圆石群岛","zh_human":"","zh":"圆石群岛","status":"ai"}
+{"id":"1ST9IpbB","en":"SyncSMP","zh_draft":"","zh_ai":"同步生存模式","zh_human":"","zh":"同步生存模式","status":"ai"}
+{"id":"7RoLulDx","en":"Magic Valor","zh_draft":"","zh_ai":"魔法荣耀","zh_human":"","zh":"魔法荣耀","status":"ai"}
+{"id":"7Vt73yme","en":"梦界星辰 | DreamStarExpanse","zh_draft":"","zh_ai":"梦界星辰","zh_human":"","zh":"梦界星辰","status":"ai"}
+{"id":"95OrdFXN","en":"OCG Network","zh_draft":"","zh_ai":"OCG 网络","zh_human":"","zh":"OCG 网络","status":"ai"}
+{"id":"DvOT2Rr0","en":"delightsmp","zh_draft":"","zh_ai":"delight生存模式","zh_human":"","zh":"delight生存模式","status":"ai"}
+{"id":"LJ4k8ZqQ","en":"EclipseSMP","zh_draft":"","zh_ai":"日蚀生存模式","zh_human":"","zh":"日蚀生存模式","status":"ai"}
+{"id":"M63n4pYb","en":"Battleroyale.vip","zh_draft":"","zh_ai":"斗兽场VIP","zh_human":"","zh":"斗兽场VIP","status":"ai"}
+{"id":"MVmeihz6","en":"Statecraft - Season 1","zh_draft":"","zh_ai":"国家政治 - 第一季","zh_human":"","zh":"国家政治 - 第一季","status":"ai"}
+{"id":"NeM3fWUH","en":"CobbleCraft","zh_draft":"","zh_ai":"圆石工艺","zh_human":"","zh":"圆石工艺","status":"ai"}
+{"id":"PGVxsaR1","en":"JpxSmp","zh_draft":"","zh_ai":"Jpx生存模式","zh_human":"","zh":"Jpx生存模式","status":"ai"}
+{"id":"Qem4vPd9","en":"RuinedSMP","zh_draft":"","zh_ai":"废墟生存模式","zh_human":"","zh":"废墟生存模式","status":"ai"}
+{"id":"aR5YrJVJ","en":"Caffeine-MC","zh_draft":"","zh_ai":"咖啡因MC","zh_human":"","zh":"咖啡因MC","status":"ai"}
+{"id":"htO28cJy","en":"EclipseMC","zh_draft":"","zh_ai":"日蚀MC","zh_human":"","zh":"日蚀MC","status":"ai"}
+{"id":"svr9g3Z5","en":"Keeprise","zh_draft":"","zh_ai":"Keeprise","zh_human":"","zh":"Keeprise","status":"ai"}
