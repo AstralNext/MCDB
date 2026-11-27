@@ -1967,13 +1967,13 @@
 {"id":"NyqO3HuG","en":"Indigo","zh_draft":"","zh_ai":"靛蓝","zh_human":"","zh":"靛蓝","status":"ai"}
 {"id":"fhhFwrG8","en":"[OFFICIAL] ClongCraft Modpack","zh_draft":"","zh_ai":"[官方] 克隆工坊模组包","zh_human":"","zh":"[官方] 克隆工坊模组包","status":"ai"}
 {"id":"wWebZiJl","en":"The Lodge Modpack","zh_draft":"","zh_ai":"小屋模组包","zh_human":"","zh":"小屋模组包","status":"ai"}
-{"id":"BJgHPn0a","en":"Cobbleria","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZdH3YeJG","en":"Terra Horizon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nR7QgYJn","en":"Cobblemon Eternals Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"V1gEfq1t","en":"perform modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"MMaZV7Fx","en":"tyyme's Fabulously Optimized Modpack","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ozp1x51j","en":"Story Mode Vanilla","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"BY1iGbk0","en":"fps-juicer","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"CkHGN55w","en":"Onlyfriends","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pZNSVepe","en":"REM OPTIMIZE","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"f4v13PJF","en":"DreamShift Enhanced+","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"BJgHPn0a","en":"Cobbleria","zh_draft":"","zh_ai":"鞋匠店","zh_human":"","zh":"鞋匠店","status":"ai"}
+{"id":"ZdH3YeJG","en":"Terra Horizon","zh_draft":"","zh_ai":"地球地平线","zh_human":"","zh":"地球地平线","status":"ai"}
+{"id":"nR7QgYJn","en":"Cobblemon Eternals Modpack","zh_draft":"","zh_ai":"石块龙永恒模组包","zh_human":"","zh":"石块龙永恒模组包","status":"ai"}
+{"id":"V1gEfq1t","en":"perform modpack","zh_draft":"","zh_ai":"执行模组包","zh_human":"","zh":"执行模组包","status":"ai"}
+{"id":"MMaZV7Fx","en":"tyyme's Fabulously Optimized Modpack","zh_draft":"","zh_ai":"tyyme的惊人优化模组包","zh_human":"","zh":"tyyme的惊人优化模组包","status":"ai"}
+{"id":"ozp1x51j","en":"Story Mode Vanilla","zh_draft":"","zh_ai":"故事模式原味","zh_human":"","zh":"故事模式原味","status":"ai"}
+{"id":"BY1iGbk0","en":"fps-juicer","zh_draft":"","zh_ai":"fps-juicer","zh_human":"","zh":"fps-juicer","status":"ai"}
+{"id":"CkHGN55w","en":"Onlyfriends","zh_draft":"","zh_ai":"Onlyfriends","zh_human":"","zh":"Onlyfriends","status":"ai"}
+{"id":"pZNSVepe","en":"REM OPTIMIZE","zh_draft":"","zh_ai":"REM优化","zh_human":"","zh":"REM优化","status":"ai"}
+{"id":"f4v13PJF","en":"DreamShift Enhanced+","zh_draft":"","zh_ai":"梦移增强+","zh_human":"","zh":"梦移增强+","status":"ai"}
