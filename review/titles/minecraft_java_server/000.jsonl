@@ -2865,16 +2865,16 @@
 {"id":"aR5YrJVJ","en":"Caffeine-MC","zh_draft":"","zh_ai":"咖啡因MC","zh_human":"","zh":"咖啡因MC","status":"ai"}
 {"id":"htO28cJy","en":"EclipseMC","zh_draft":"","zh_ai":"日蚀MC","zh_human":"","zh":"日蚀MC","status":"ai"}
 {"id":"svr9g3Z5","en":"Keeprise","zh_draft":"","zh_ai":"Keeprise","zh_human":"","zh":"Keeprise","status":"ai"}
-{"id":"kXYdHXtD","en":"Pokeprosperity","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TYr4X00q","en":"Blaze Pixelmon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4qjBnwwq","en":"BeeBlocks","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"AhWlIpwz","en":"Cobblemon Eternals","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ErdxJ3Vg","en":"Slippy Studios SMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Fs6FL3BS","en":"HoneyMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"FzwxKyqv","en":"FurySMP","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"IMEJzOQ0","en":"TaleTime","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"NGFvLvBm","en":"FillCraftMC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PbLCpJ4l","en":"The leomon server","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hi8J9fpH","en":"MoreCraft","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"nIKHhS0e","en":"HYLE MC","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"xQioOemr","en":"Hanakiri's Void","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"kXYdHXtD","en":"Pokeprosperity","zh_draft":"","zh_ai":"口袋繁荣","zh_human":"","zh":"口袋繁荣","status":"ai"}
+{"id":"TYr4X00q","en":"Blaze Pixelmon","zh_draft":"","zh_ai":"烈焰像素兽","zh_human":"","zh":"烈焰像素兽","status":"ai"}
+{"id":"4qjBnwwq","en":"BeeBlocks","zh_draft":"","zh_ai":"蜜蜂方块","zh_human":"","zh":"蜜蜂方块","status":"ai"}
+{"id":"AhWlIpwz","en":"Cobblemon Eternals","zh_draft":"","zh_ai":"圆石兽永恒","zh_human":"","zh":"圆石兽永恒","status":"ai"}
+{"id":"ErdxJ3Vg","en":"Slippy Studios SMP","zh_draft":"","zh_ai":"滑溜工作室生存模式","zh_human":"","zh":"滑溜工作室生存模式","status":"ai"}
+{"id":"Fs6FL3BS","en":"HoneyMC","zh_draft":"","zh_ai":"蜂蜜MC","zh_human":"","zh":"蜂蜜MC","status":"ai"}
+{"id":"FzwxKyqv","en":"FurySMP","zh_draft":"","zh_ai":"愤怒生存模式","zh_human":"","zh":"愤怒生存模式","status":"ai"}
+{"id":"IMEJzOQ0","en":"TaleTime","zh_draft":"","zh_ai":"故事时间","zh_human":"","zh":"故事时间","status":"ai"}
+{"id":"NGFvLvBm","en":"FillCraftMC","zh_draft":"","zh_ai":"填充工艺MC","zh_human":"","zh":"填充工艺MC","status":"ai"}
+{"id":"PbLCpJ4l","en":"The leomon server","zh_draft":"","zh_ai":"利欧蒙服务器","zh_human":"","zh":"利欧蒙服务器","status":"ai"}
+{"id":"hi8J9fpH","en":"MoreCraft","zh_draft":"","zh_ai":"更多工艺","zh_human":"","zh":"更多工艺","status":"ai"}
+{"id":"nIKHhS0e","en":"HYLE MC","zh_draft":"","zh_ai":"HYLE MC","zh_human":"","zh":"HYLE MC","status":"ai"}
+{"id":"xQioOemr","en":"Hanakiri's Void","zh_draft":"","zh_ai":"花切之虚空","zh_human":"","zh":"花切之虚空","status":"ai"}

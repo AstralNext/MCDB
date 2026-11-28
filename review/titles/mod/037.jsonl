@@ -1746,41 +1746,41 @@
 {"id":"pDP35Sop","en":"Lincoln's Enchantment Overhaul","zh_draft":"","zh_ai":"林肯的附魔重铸","zh_human":"","zh":"林肯的附魔重铸","status":"ai"}
 {"id":"44waHach","en":"Placer","zh_draft":"","zh_ai":"放置者","zh_human":"","zh":"放置者","status":"ai"}
 {"id":"UI8uEjBI","en":"World Reset","zh_draft":"","zh_ai":"世界重置","zh_human":"","zh":"世界重置","status":"ai"}
-{"id":"NQ7Q28qp","en":"Hands-On Let's Do","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ozsI0JYV","en":"Dimension Corrosion Crystal","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"iyeVvXPA","en":"Modern Portal Gun","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hfawgVIF","en":"FIght Club","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cyYCYwJd","en":"GearDiff","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"hm8oNmfD","en":"Pinbar Piano","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"UBeePYqv","en":"Tradewise","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HydIBAnU","en":"Cairnwing","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"f0thW4rr","en":"Retrorama","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"mVcdFGIX","en":"Twistwick Glass","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"cYI2cyGU","en":"BuildReprise","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"XpGaQD1W","en":"PackForesight","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"2g80w2Ss","en":"Recipick","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"6efxAGLL","en":"GripScribe","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"qKxgR3R7","en":"Phobia Filter | Arachnophobia","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"45AAqq1D","en":"Beyond The Skies","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"HqBJG1oI","en":"Latchring Buckler","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"KGRQZyfd","en":"Integrated Aether","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"C1rdFifA","en":"Magivertex Spells","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"WmqQzb03","en":"Spoolhound","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TGzEyCwl","en":"Enchanted UI","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"pvwoh5vu","en":"Nearby Furnaces","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"4ripGPJy","en":"Create: Brass Golem","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"TPeiQHX1","en":"Nerd's Better Deserts","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"3IVggbmk","en":"Necessities","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"PkFacSgF","en":"Hotbar Cooldowns","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lLdSTBYh","en":"Infected and Redemption","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"96G3gqoI","en":"Yappie","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ipAwhKiS","en":"add recipes","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"1hBwatPo","en":"Neostamina","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"dnmfet3P","en":"Create Danger Close","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"lo3RWd3c","en":"HUD Mover","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"h8A71Gls","en":"HBM Spore Integration","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"ZgDHVfHY","en":"SylladexMod","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"Fiomc1q2","en":"Zar's Horse Revival","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"QKHdbkbC","en":"The Lemon","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"yGmz70TI","en":"WSpawn - Customizable Spawn","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
-{"id":"DhLYu1XB","en":"Origura","zh_draft":"","zh_ai":"","zh_human":"","zh":"","status":"pending"}
+{"id":"NQ7Q28qp","en":"Hands-On Let's Do","zh_draft":"","zh_ai":"上手让我们做","zh_human":"","zh":"上手让我们做","status":"ai"}
+{"id":"ozsI0JYV","en":"Dimension Corrosion Crystal","zh_draft":"","zh_ai":"维度腐蚀水晶","zh_human":"","zh":"维度腐蚀水晶","status":"ai"}
+{"id":"iyeVvXPA","en":"Modern Portal Gun","zh_draft":"","zh_ai":"现代传送门枪","zh_human":"","zh":"现代传送门枪","status":"ai"}
+{"id":"hfawgVIF","en":"FIght Club","zh_draft":"","zh_ai":"格斗俱乐部","zh_human":"","zh":"格斗俱乐部","status":"ai"}
+{"id":"cyYCYwJd","en":"GearDiff","zh_draft":"","zh_ai":"齿轮差异","zh_human":"","zh":"齿轮差异","status":"ai"}
+{"id":"hm8oNmfD","en":"Pinbar Piano","zh_draft":"","zh_ai":"琴弦钢琴","zh_human":"","zh":"琴弦钢琴","status":"ai"}
+{"id":"UBeePYqv","en":"Tradewise","zh_draft":"","zh_ai":"传统方式","zh_human":"","zh":"传统方式","status":"ai"}
+{"id":"HydIBAnU","en":"Cairnwing","zh_draft":"","zh_ai":"石屋翼","zh_human":"","zh":"石屋翼","status":"ai"}
+{"id":"f0thW4rr","en":"Retrorama","zh_draft":"","zh_ai":"复古之旅","zh_human":"","zh":"复古之旅","status":"ai"}
+{"id":"mVcdFGIX","en":"Twistwick Glass","zh_draft":"","zh_ai":"扭曲玻璃","zh_human":"","zh":"扭曲玻璃","status":"ai"}
+{"id":"cYI2cyGU","en":"BuildReprise","zh_draft":"","zh_ai":"建筑重奏","zh_human":"","zh":"建筑重奏","status":"ai"}
+{"id":"XpGaQD1W","en":"PackForesight","zh_draft":"","zh_ai":"打包预见","zh_human":"","zh":"打包预见","status":"ai"}
+{"id":"2g80w2Ss","en":"Recipick","zh_draft":"","zh_ai":"食谱选择","zh_human":"","zh":"食谱选择","status":"ai"}
+{"id":"6efxAGLL","en":"GripScribe","zh_draft":"","zh_ai":"握笔","zh_human":"","zh":"握笔","status":"ai"}
+{"id":"qKxgR3R7","en":"Phobia Filter | Arachnophobia","zh_draft":"","zh_ai":"恐惧过滤器 | 蜘蛛恐惧症","zh_human":"","zh":"恐惧过滤器 | 蜘蛛恐惧症","status":"ai"}
+{"id":"45AAqq1D","en":"Beyond The Skies","zh_draft":"","zh_ai":"天空之上","zh_human":"","zh":"天空之上","status":"ai"}
+{"id":"HqBJG1oI","en":"Latchring Buckler","zh_draft":"","zh_ai":"钩环盾牌","zh_human":"","zh":"钩环盾牌","status":"ai"}
+{"id":"KGRQZyfd","en":"Integrated Aether","zh_draft":"","zh_ai":"集成以太","zh_human":"","zh":"集成以太","status":"ai"}
+{"id":"C1rdFifA","en":"Magivertex Spells","zh_draft":"","zh_ai":"魔法顶点法术","zh_human":"","zh":"魔法顶点法术","status":"ai"}
+{"id":"WmqQzb03","en":"Spoolhound","zh_draft":"","zh_ai":"卷线犬","zh_human":"","zh":"卷线犬","status":"ai"}
+{"id":"TGzEyCwl","en":"Enchanted UI","zh_draft":"","zh_ai":"魔法界面","zh_human":"","zh":"魔法界面","status":"ai"}
+{"id":"pvwoh5vu","en":"Nearby Furnaces","zh_draft":"","zh_ai":"附近的熔炉","zh_human":"","zh":"附近的熔炉","status":"ai"}
+{"id":"4ripGPJy","en":"Create: Brass Golem","zh_draft":"","zh_ai":"创造：黄铜石像鬼","zh_human":"","zh":"创造：黄铜石像鬼","status":"ai"}
+{"id":"TPeiQHX1","en":"Nerd's Better Deserts","zh_draft":"","zh_ai":"极客的更好沙漠","zh_human":"","zh":"极客的更好沙漠","status":"ai"}
+{"id":"3IVggbmk","en":"Necessities","zh_draft":"","zh_ai":"必需品","zh_human":"","zh":"必需品","status":"ai"}
+{"id":"PkFacSgF","en":"Hotbar Cooldowns","zh_draft":"","zh_ai":"热键冷却","zh_human":"","zh":"热键冷却","status":"ai"}
+{"id":"lLdSTBYh","en":"Infected and Redemption","zh_draft":"","zh_ai":"感染与救赎","zh_human":"","zh":"感染与救赎","status":"ai"}
+{"id":"96G3gqoI","en":"Yappie","zh_draft":"","zh_ai":"Yappie","zh_human":"","zh":"Yappie","status":"ai"}
+{"id":"ipAwhKiS","en":"add recipes","zh_draft":"","zh_ai":"添加食谱","zh_human":"","zh":"添加食谱","status":"ai"}
+{"id":"1hBwatPo","en":"Neostamina","zh_draft":"","zh_ai":"新 stamina","zh_human":"","zh":"新 stamina","status":"ai"}
+{"id":"dnmfet3P","en":"Create Danger Close","zh_draft":"","zh_ai":"创造危险关闭","zh_human":"","zh":"创造危险关闭","status":"ai"}
+{"id":"lo3RWd3c","en":"HUD Mover","zh_draft":"","zh_ai":"HUD 移动器","zh_human":"","zh":"HUD 移动器","status":"ai"}
+{"id":"h8A71Gls","en":"HBM Spore Integration","zh_draft":"","zh_ai":"HBM 菌核整合","zh_human":"","zh":"HBM 菌核整合","status":"ai"}
+{"id":"ZgDHVfHY","en":"SylladexMod","zh_draft":"","zh_ai":"SylladexMod","zh_human":"","zh":"SylladexMod","status":"ai"}
+{"id":"Fiomc1q2","en":"Zar's Horse Revival","zh_draft":"","zh_ai":"Zar 的马复兴","zh_human":"","zh":"Zar 的马复兴","status":"ai"}
+{"id":"QKHdbkbC","en":"The Lemon","zh_draft":"","zh_ai":"柠檬","zh_human":"","zh":"柠檬","status":"ai"}
+{"id":"yGmz70TI","en":"WSpawn - Customizable Spawn","zh_draft":"","zh_ai":"WSpawn - 可定制出生点","zh_human":"","zh":"WSpawn - 可定制出生点","status":"ai"}
+{"id":"DhLYu1XB","en":"Origura","zh_draft":"","zh_ai":"Origura","zh_human":"","zh":"Origura","status":"ai"}
